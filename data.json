@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T23:15+00:00",
+ "updated": "2026-08-08T23:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -1921,6 +1921,18 @@
     "i24"
    ],
    "pv": true
+  },
+  {
+   "title": "המבחן של חוק התקשורת: מי יגן על הילדים מהסכנות במרחב הדיגיטלי?",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVWtZcWRNR3o5dWVWc3RpMGVIMkVMYXBoN241UkVyR0oyeGFvUE9Ccm5Xc1IyNnQ4c0hQUnlnUzZ4bE9PWWdtdEZaUjBqcnNUVXAyZEs1Q3RSZVktS2k2Qg?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-06-30",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "\"תאגיד השידור בגד בייעודו\", \"ערוץ 14 הוא לא עיתונות\" | צפו בעימות",
