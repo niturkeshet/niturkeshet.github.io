@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T07:00+00:00",
+ "updated": "2026-08-09T07:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,13 +180,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -269,6 +269,16 @@
  ],
  "items": [
   {
+   "title": "לאחר שדווח על מצבו הקשה - המשטר פרסם סרטון ראשון של מוג'תבא",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aTHp1NkJGWk1KSWx1dm5jV3RKV1hpckhZUGpZVGhPSjducjNTc09oX0hRcEliMkxUdVR3UUJQUzRUc09vNXV3NzQ3OFNlZw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "חיים אתגר באזהרה דרמטית: \"חבל על הכסף שלכם\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwRHJnSlVMX2sxblNLMVRackVCV29lcnVtUHhndEdVZVA4eDdzLUdKd3dkNXprcUtNQW1yQUVfRC1jZVhLOXp6dFNFaFNfVVdlQWlQODZNaEVnakdU?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
@@ -319,6 +329,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
+  },
+  {
+   "title": "\"הראש שלו הוטח, לאף אחד לא היה אכפת - מי אחראי על המחדל הזה?\"",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lQnVaQndLZUtlb0wxZndSZy1ub3l2YkV5dnB1d3hna2hoMHpOUE91eGRISTNVTTRHYllxVEc5XzBJSDVCVDFEQzA5V3ZITlhCS1dLWDQ3ck1weFVpWGVnVHdna1JscmNX0gFwQVVfeXFMTmpGUjQ2UW9jTV9UaENFNHpKREUybUhxNDJwZ0lFY1FzTF9TS1J0TjAxcGN0cS15OHEtbXZXSmozREFPVEJPcENEV25qNlE4a3JzQUczUEVWbDhDVl9lTldibkN3NXhEYVVCZlY5N1Jzdw?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-08-08",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "אחר השקת המפלגה: יועז הנדל בריאיון מיוחד לעודד הרוש | צפו",
