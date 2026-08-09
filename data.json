@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T08:45+00:00",
+ "updated": "2026-08-09T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,30 @@
   }
  ],
  "items": [
+  {
+   "title": "הערב בערוץ 14: הסדרה החדשה שחושפת את \"מרד המשפטנים\" - ערוץ 14 | C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01eVcxUjlEWE5qRXRXWVFtYUpwSFVhS192Tk5BdG9fSmU5QkJEZUtlUjhZQWktUFFNcHVpT3hvRUQ1WWUyOXBJeWZpMTZlUQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-09",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "שלושה ימים של חגיגות: שר הכלכלה ניר ברקת חיתן את בתו עמית",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCQ2p3d2JvZnBUQ1dSblU4dGprenh5eXdkTjRTUWl5RmFSOFliTFdqc2xZeFNTOVdSRm5rMTZEdUZPbjlXN2ZjUU1tRDAtVG1J?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-09",
+   "keywords": [
+    "ניר ברקת"
+   ],
+   "pv": true,
+   "publisher": "וואלה סלבס"
+  },
   {
    "title": "המרדף אחרי הג'ובים והנפילה: זו הסיבה שגלעד ארדן הפך את עורו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXeVFyRDZyMHRRMkY0eVIwSGotZjZfeGduWTdTeS1HWjFfVlhRbEpRV1R1eXVVSnU1eUJ1NWNXNjlKR1dTZllwMFpiUjZ2Zw?oc=5",
