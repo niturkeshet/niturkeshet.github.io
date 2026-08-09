@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T18:30+00:00",
+ "updated": "2026-08-09T18:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -240,7 +240,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אשת התקשורת הבכירה: \"לא זכור לי אירוע כזה\"",
+   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQbDU5UElYaU81OXpYT09rOEVHcGYtdEZLZndfOFFoMVZKM1p0TWUtTERqNXcyU2xaRld2ZDlHWUZjU1F2Ti16MExfeVBEc0xBWnVrcXdfVjFsaXVldzVUY09USWZXNFVqNHg5RW5JcEZ6UXp2b09Lc1pXWUJTcGtoOV9CU244Ty1UREtXX19Lc1BNR1hyMFc3WGM0THdMOTM1S2pxR3BrT2RpUEh3eXJMOVFJYlcxUHNPdDF3WFZrUElJWnBoWXpYNFZJZW1MV0dDUXoyTGxXSm1aZGlBUnJaU0U5MG9YVTRQZ3ZoTnBTNnF2SHRqWnc3eUptUWxRcHpPdWNobzZybDlmR0FhOVNha3lNaGJLdE0wdHByR0ROb0NrNWIzbmhnaHpDd2NBb3FHanRXXzNyN2dDYTVtdU9JRk90N3FYTEJqNmxaVUJTWGRTRWsw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-08-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "צפו: בלי חרטה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9za04xVnJCUWRIZjdRcjhUSlZzdG1GTGlqQlpMSWt3VkJyNWUzSmpnRHpzUFVjRzNXVlN6U1NGUE9XV3AyLXdSTC14dWczUQ?oc=5",
