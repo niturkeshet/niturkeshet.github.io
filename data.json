@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T04:15+00:00",
+ "updated": "2026-08-09T04:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "האם הביטקוין הוא העתיד של הכסף - או הימור מסוכן?",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zMEkxaTFMd2xvVEhkd21YZzdiOFhzdjJsUFhhR3NVRWptcTFvT09HUEVTMFlid3VLV0x3d293OUtOZ2FRUFpsWEZyMnhIQQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "התרחיש הישראלי נגד איראן: \"לתקוף גם בלי ארצות הברית\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92M3dqcTZZS2FJV0MtYlhPS0hsV1NOOEFIVFlZRHNONG4yQmlSRnFFX1ltOXF0WjAyUmY1ckJBcXRtV3JKbUZFdnNYY2hQZw?oc=5",
