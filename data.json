@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T09:30+00:00",
+ "updated": "2026-08-09T09:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הנגב עלול לאבד כוח בכנסת: אלה המתמודדים שנאבקים על מקום ריאלי",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MbWIwaV9CbDdocDdfdWdjZUhHM3NyN2pWSTFsZHFWTEZQbmRIZFdfRHFXWk5NNXI0YWJDemZOaDN3QVBvS0NubkhyWXV0TkRaTmtacHhFSHQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות באר שבע והנגב"
+  },
   {
    "title": "באל-ג'זירה כבר מודים: התוכנית החשאית של העולם הערבי לישראל",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2aWJYT1BSTXFpT3pPNFVVdkZJTnhfdUFWTmtubGJPY2RvcDdTZTVhME82cjY5QmZfbXA0a0dlOXpXYnlVb0M1QTk0TEFkZw?oc=5",
