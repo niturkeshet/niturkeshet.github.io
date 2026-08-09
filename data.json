@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T21:00+00:00",
+ "updated": "2026-08-09T21:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -269,7 +269,7 @@
  ],
  "items": [
   {
-   "title": "זעזוע ברמב\"ם: \"האחים היו בטיקטוק - בזמן שהלוחם שיווע למים\"",
+   "title": "זעזוע ברמב\"ם: \"האחים היו בטיקטוק",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VbDNIUFR6MzhZdnIyajZVcUFxcTN0LU1PN0RNMkpoV3BjMXRBdm9KMjNyUGdTZHUtdXRTMERkTEdnbUhGUWpRVGJXZVk3QQ?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
