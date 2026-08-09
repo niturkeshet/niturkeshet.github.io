@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T14:15+00:00",
+ "updated": "2026-08-09T14:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -162,7 +162,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "הרשות השנייה דוחה את אכיפת המעבר של ערוץ 14 לירושלים",
+   "url": "https://www.themarker.com/news/themedia/2026-08-09/ty-article/.premium/0000019f-e69f-d86b-a59f-e6bfe9010000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-08-09",
+   "keywords": [
+    "הרשות השנייה",
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
   {
    "title": "ראשוני: חיפושים נרחבים אחר נער שנעלם בנהר הירדן",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZ3V1TDVVZjJPNWFudmQxd3pRN3JOSlQtUzIwcE5xMkE1eTNpWHI2WHAyMjBSY0pMU1d0TV94QzQwNFlhd3NTUmFvRlBrdkU?oc=5",
