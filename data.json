@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T10:15+00:00",
+ "updated": "2026-08-09T10:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -445,6 +445,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
+  },
+  {
+   "title": "\"עופי לי מהחיים!\": תיעוד מהעימות בין הזמר לבת זוגו | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWlVUWDN0eU9nOGJMYVlLeWpSTU4tdWdmUkhJSmJUb1U4Rl9YVjJUV2wtX0M4V0lVOGY3dWJfd0JKa0FEZGR5ZGRXOHdHQQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
   },
   {
    "title": "\"הראש שלו הוטח, לאף אחד לא היה אכפת - מי אחראי על המחדל הזה?\"",
