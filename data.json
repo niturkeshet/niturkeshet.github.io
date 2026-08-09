@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T14:30+00:00",
+ "updated": "2026-08-09T14:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -234,7 +234,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -268,6 +268,19 @@
   }
  ],
  "items": [
+  {
+   "title": "\"פטריוטי — אבל במודיעין\": הרשות השנייה דוחה את אכיפת מעבר ערוץ 14 לי־ם",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1ctaE1KaHNSc2IwTjFRUHpVV1hENHNGM1ZVU0l3bjdZc1Mta3FjWUVMTXZvczlCRnlhTjhkTTBNeGZ6Q2hBU2xUejRybUVzYU9vbUNkWHRVTlk0c2E2bXprRTRDSElZM0FmaXlzTnNlSGdoWjA3QkdYTjR2am5SbXEyeFV4bGc2WVBMcnJ0b1ZGWHBacHdlcmZ3cEhnRUtBc01OUmRMVGtoZTA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-09",
+   "keywords": [
+    "הרשות השנייה",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "הרשות השנייה דוחה את אכיפת המעבר של ערוץ 14 לירושלים",
    "url": "https://www.themarker.com/news/themedia/2026-08-09/ty-article/.premium/0000019f-e69f-d86b-a59f-e6bfe9010000",
