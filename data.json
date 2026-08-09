@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T17:45+00:00",
+ "updated": "2026-08-09T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "צפו: בלי חרטה - הרופא שהושעה ממשיך להשתלח במצביעי הליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9za04xVnJCUWRIZjdRcjhUSlZzdG1GTGlqQlpMSWt3VkJyNWUzSmpnRHpzUFVjRzNXVlN6U1NGUE9XV3AyLXdSTC14dWczUQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "צפו: ארז תדמור מגיב באולפן ערוץ 14 על כניסתו הצפויה לכנסת",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRR1JaRUNCRUtKYWFQdmp2Rzh6MGZSTmtTWmRFcTVEa2RQR3pOUGlXWmZING1oN3NOMFFLYVNnN3cyMEtMV0JZejU3OVE2QQ?oc=5",
