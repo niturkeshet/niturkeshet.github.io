@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T12:45+00:00",
+ "updated": "2026-08-09T13:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -584,6 +584,18 @@
     "הוט"
    ],
    "pv": true
+  },
+  {
+   "title": "הוארך מעצרו של החשוד ביידוי האבנים על מערכת חדשות 12",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95VUJLR3VXSUJacjVlLXoxMHdfRi1JN3VadVNQZlBfMlMxSzA4QjZRU20wSXVqVzk2NmRqQ0VpcWMxdlltTnZvVTBWX2JtT3g1MFZrenNuZ2lXYVVmTmg1RGpSRkFLck3SAW9BVV95cUxONzBZNHg0QUlNVFZBRDFzSVM3R1NtMzhYVUJpZllSZWdVbXNMTjI3X3Q1SjIwd01pNjhLNzhsMTBKcngxRHFFd29MRVlnTDB1anJFeTBrVVU4endYbXRkOV94RXZzS3F3V3FtdzdrTmM?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-08-05",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "בעלי ערוץ 14 מסתבך בענק: בדרך לאבד את השליטה בכלי התקשורת?",
