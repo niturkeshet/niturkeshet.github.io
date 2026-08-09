@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T23:00+00:00",
+ "updated": "2026-08-09T23:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -664,6 +664,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "וואלה כסף"
+  },
+  {
+   "title": "בית משפט בארה\"ב חייב את מטא לשלם 567 מיליון דולר",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ycGVCT21UNU5wSVFxLWtzNmhOZlNyYzlmcHNiUTNZYjJaTWMyTlduM0cxWnFsR3R5QkcteHhCRFhoQnhMWkJYNk1VWldRTU9rZHhWbmhIaHdYSnF6alpBLXpqTzlMV3PSAW9BVV95cUxPT1lFT1Q5ZEFReU9tWGxUZHVPQlNUQ18yTGZ1bUQzSjZNSWkxZDFzdFBCMjh4eGFHRWUzLWYtME4zUlFaSjZpUFo1dVdtOFMtb0t3OHc2aDV2c0FkaVlIU2xBbGJLOWkwZ1NxM2xxRm8?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-08-07",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "מכה קשה למטא: תשלם 567 מיליון דולר בגלל פגיעה בצעירים",
