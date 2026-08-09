@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T20:45+00:00",
+ "updated": "2026-08-09T21:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "זעזוע ברמב\"ם: \"האחים היו בטיקטוק - בזמן שהלוחם שיווע למים\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VbDNIUFR6MzhZdnIyajZVcUFxcTN0LU1PN0RNMkpoV3BjMXRBdm9KMjNyUGdTZHUtdXRTMERkTEdnbUhGUWpRVGJXZVk3QQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "זמרי מזהיר: הבחירות יקבעו איך ייראה הפתרון מול חמאס | צפו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90Z0pPcUtKVDZDWHJuNnZ3aUxZcDUxejhPcTRwMXVtbWI3UGRYZjhuNWxvREw2YzN5R2JCRTdZaERGbFV5VFVMZTBaOS1Ddw?oc=5",
