@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T19:30+00:00",
+ "updated": "2026-08-10T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הפתיע גם אותם: ישראל כ\"ץ הבריז למירן ומאור בוזגלו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBERklxQU1SWEdsN3dWUW05OFBIZjNDLUpDVEhhZkN5cy1ReWFMSFdVQXI4dHVFaTNCX29jTi1zdW84X18zUVJ0TVZucDQ5QQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "ואיל ג'יג'יני",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2liVFVRLThTRU9IaTFfVEcxdlM5WkJEYkVBXzJUVV85eEQ2cmowV0JtY2U3SWVUMUtnTXNBNWhQcmJydWdrTmJyNlp1bmhmOFVpRjZuTGFXRG1tc09vWFNKN0pSb1pvM2VlcFJFdVBKN21ZNGZnWFR2SndiU2xySS1ab3JaX0dKRE40cHNQT1l6RVJxQWh1eDh3?oc=5",
