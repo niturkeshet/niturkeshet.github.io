@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T02:15+00:00",
+ "updated": "2026-08-10T02:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -1628,6 +1628,18 @@
     "מטא"
    ],
    "pv": true
+  },
+  {
+   "title": "חוק התקשורת אושר: כך עשוי לשנות את מפת השידורים בישראל",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yM2ZXdDYtYlptSVRZUkprc3o5LVVMaWcxa0JRdzhBVGdmS1R0eXRucklNcGwzSzZOZmx6RlYxNjJLYmpKVkQ4U2FlT09wc0ZNc3JzaWdpbkt0dXJm?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-16",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "למרות הביקורת: הכנסת אישרה סופית את חוק השידורים; הוגשו עתירות לבג\"ץ",
