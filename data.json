@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T23:45+00:00",
+ "updated": "2026-08-10T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -594,16 +594,6 @@
    "publisher": "הארץ"
   },
   {
-   "title": "\"עופי לי מהחיים!\": תיעוד מהעימות בין הזמר לבת זוגו | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWlVUWDN0eU9nOGJMYVlLeWpSTU4tdWdmUkhJSmJUb1U4Rl9YVjJUV2wtX0M4V0lVOGY3dWJfd0JKa0FEZGR5ZGRXOHdHQQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
    "title": "\"הראש שלו הוטח, לאף אחד לא היה אכפת - מי אחראי על המחדל הזה?\"",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lQnVaQndLZUtlb0wxZndSZy1ub3l2YkV5dnB1d3hna2hoMHpOUE91eGRISTNVTTRHYllxVEc5XzBJSDVCVDFEQzA5V3ZITlhCS1dLWDQ3ck1weFVpWGVnVHdna1JscmNX0gFwQVVfeXFMTmpGUjQ2UW9jTV9UaENFNHpKREUybUhxNDJwZ0lFY1FzTF9TS1J0TjAxcGN0cS15OHEtbXZXSmozREFPVEJPcENEV25qNlE4a3JzQUczUEVWbDhDVl9lTldibkN3NXhEYVVCZlY5N1Jzdw?oc=5",
    "source": "ישראל היום · אילי זילברברג",
@@ -614,56 +604,6 @@
    ],
    "pv": true,
    "publisher": "היום"
-  },
-  {
-   "title": "אחר השקת המפלגה: יועז הנדל בריאיון מיוחד לעודד הרוש | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvdTREMHVHNERNbzRaWHBGX1hnVjdLYzdPSWJJb0R0Szk3ekZuX3V1REtkWDdoUkV6TjNfM0VOR1N6akpvbkxhWXNyU3poUQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "פרסום ראשון: בג\"ץ הקפיא את החוק שמונע אזרחות מקרובי מחבלים",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkR2pNZ21Wa3ZIQkxWcFVZdWYwTHcybzZUSVZWUXpkdlAzY1JhUENBNWs1Q2VHSkN4WXBSdDZ0LV9hbnc0RVpObGpaUVBSQQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "עשרות מחו נגד בית הקפה שפתוח בשבת, יאיר גולן הגיע \"לתמוך\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ba1NuTkd1NEEzOWdrY1lzemlnOUZkcWVuWUI1QnJCSnRIQWZTYWE3LVplUFZESE91MUpBS0tGUVRoR2JRM3E2R0h1T2kxQQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "c14.co.il"
-  },
-  {
-   "title": "שריפה בחניון מתחם BIG בפתח תקווה: טרם הושגה שליטה",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OSWlKMEdSeUd6b05ENWRQQlZYQlFxSTlEazBiWk0tLU4zQ1ZLVzhsSHN0X1hiSTRaMkRFTFdjRmw1dGRpZXlraGgtTjVQUQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "מופע התאבדות למען נתניהו: מצעד ההתבזות של הליכוד לפני הפריימריז",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ld3JoWEhVSzNoNjJBR19SWHJSVGIxb2JUTUV0eW96ZXZTRnh1VnVDNEs1U0dBcVpRYlVpZmdLdEIya2MzdFJEU2tBZjM5YjVEc0E?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-08-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "וואלה כסף"
   },
   {
    "title": "בית משפט בארה\"ב חייב את מטא לשלם 567 מיליון דולר",
