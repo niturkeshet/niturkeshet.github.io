@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T13:01+00:00",
+ "updated": "2026-08-10T13:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -149,16 +149,14 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -212,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -270,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פרופ עוזי רבי, חוקר בכיר ממרכז דיין לחקר המזהת באוני תא: איראן דורשת יותר ומקבלת תיאבון",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVm5aeDcwU2pEbjlnanVMdDBLR1FYQzBFNVBYWWRHSUJwbWFGbkhMeE84VnUwRDZfUVNiYXZaS2t0U2N5U3JEMnhRTmUwUS15YzE1cjVuY0loNC1rYkV1WkdaNEZEZzlLVmpKZGUzQ2VuUUpoNzlobWlYN3BDN2o1Sg?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103fm.maariv.co.il"
+  },
   {
    "title": "יוני שמעוני, האיש של שר התקשורת שלמה קרעי במועצת הרשות השנייה, הסתיר פגישות שקיים עם השר",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oNGt6SHpKeU1KZnNjRU1QVzdpRVd3b3lBTHJaVUxfd2Ezd0NhWjJ1Q1FnNGprOWNZQ0Y4alFPT2prM1Y4bXF4SQ?oc=5",
