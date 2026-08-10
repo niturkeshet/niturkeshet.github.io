@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T03:30+00:00",
+ "updated": "2026-08-10T03:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,28 @@
   }
  ],
  "items": [
+  {
+   "title": "לקח מחוקי ההסדרים להפיכה המשטרית: בג\"ץ שמזהיר ולא פוסל — פוגע בכנסת",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0JYejQ5WjNzanhiZ2F2aFl4VExTeUJONllrZlJQd18xWk5iRHdMMURldEtVYWlVU19sQTJTYUJTQlBYVEZyeERyZ1hLY2J1RTVpU0N4OV9hT1lObVk3bk9jeUFiTTFLal9jcTc5TFF0UEpmYmd0NXFONkJCeXFNd3pmXzNyX2xLRUFXRnJqWlY4UXlWbVhUUURMdUJxQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "themarker.com"
+  },
+  {
+   "title": "ינון מגל תוקף את בנט: \"כל היום רק חרדים חרדים\"",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeEQ0akRBdXByX0UwaVFCOWVxdks0bXRZdDhUUkhoWWtHMldHa2hpWXk5bXNZYi1oNUdMTDFFdFprSFFhYVdrQWRWeEhQUTlKOG1oM3pKZmpaVWxvMF9GVlIxZl9HcngycWFpZTM2VUc3SUxZR0NyS1k4b3pLTVR6QnEwemI2SnNfa0R1aGRiXzFLSlBudXFiS1l0d0FXSTlnTldGQnZWY21WR3pHTVhSYmVqTWZIU29CTEd6M21yXzFRdk1xaW9LTFZGcjZBWlNNRUUtSmhLZWg4ek1reFd2YXZFTy1GWnJIdTNsSTM4Mm8taUIwalZTWXdJVV9jYldEUWNkYXA0RTR6VWhKZ1E5RzVWa0daMHR6cW9QUHlBbW15akRtbENSd045bFFPWXhTMWZEUjNEUnd3VUJOZ0E?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "ערוץ 14 חוגג ניצחון: הרשות השנייה דוחה את אכיפת החוק",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1udm9BQTNTYl92NkJpSmVCZzBUWEJ6SXhIeERrY1EyTjNFOWRPUG5mOVVqU2JTM0czSEFTUGxfNjZZMEtaR0FuUVlwVUdsdDBQV3V4RlRXYk0?oc=5",
