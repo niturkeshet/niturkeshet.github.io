@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T09:15+00:00",
+ "updated": "2026-08-10T09:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "התגובה של הח\"כית מיש עתיד לכתבת חדשות 12 חשפה פרט מפתיע",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GUXVlQ2l1MEh1aW9hZlFmT0hCYk91UzNXaEtWc0NiOE5Da0JxM2lpVUNtLTJxcVotd3ItYlYwd2RXSGVSTVFLeXYzSTJDZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "סגן ראש העיר החשוד בעבירות מין שוחרר אחרי שעומת עם המתלוננת: זו גרסתו",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tcWx6ZW1BajQzQUxudGlIRG4zZEUtZ2FQXzBSV1l0T2V5ZnctRzFxTXM5Y0pDUTVWb0xldFpaNUJqTTFSVlFNeV93bW1adDJHdDU1ck1nb293dw?oc=5",
