@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T09:45+00:00",
+ "updated": "2026-08-10T10:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,26 @@
   }
  ],
  "items": [
+  {
+   "title": "מאני טיים של לכלוך: כך הופכת מערכת הבחירות לזירת שקרים והסתה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oZGpGczdVNEZVSk1ta2VpcG1pbTF6enFfVVR2YXpNZFBYRHFNVFRRU0R4TVQ1ejZxLTdRUzhQMTN2aU5XTVR3TVNDYkFqZw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
+  {
+   "title": "אבידע בכר על ההצעה מהליכוד: \"לא הולך לשום מקום שאין בו אחריות\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ob0hpdkhzdFR2ME94aUVKY3lSc25hNGZqWndTbmdERGpjYTkzRmFmendBdVh6YVJuTUJuSTlJUXE3NXFXZEhsQVJpNWJzYmYxd1AzSkNfOXFKRFpWTU9wdkZzeXo?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "התגובה של הח\"כית מיש עתיד לכתבת חדשות 12 חשפה פרט מפתיע",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GUXVlQ2l1MEh1aW9hZlFmT0hCYk91UzNXaEtWc0NiOE5Da0JxM2lpVUNtLTJxcVotd3ItYlYwd2RXSGVSTVFLeXYzSTJDZw?oc=5",
