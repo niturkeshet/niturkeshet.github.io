@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T13:45+00:00",
+ "updated": "2026-08-10T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הקליטה בירושלים עומדת להשתנות? המהלך החדש של הממשלה",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11NDJVTGRiWWtKU0UzVnpSZzdMYmdMSWRlSlJmNjJwQ3k2aUw5ZHpic09ubEx3VUt3OU45aER1dXlFTkh4VXF3RjJaWkdaX0hOdmR3RG13amZST0E4?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כל העיר ירושלים"
+  },
   {
    "title": "פרופ עוזי רבי, חוקר בכיר ממרכז דיין לחקר המזהת באוני תא: איראן דורשת יותר ומקבלת תיאבון",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVm5aeDcwU2pEbjlnanVMdDBLR1FYQzBFNVBYWWRHSUJwbWFGbkhMeE84VnUwRDZfUVNiYXZaS2t0U2N5U3JEMnhRTmUwUS15YzE1cjVuY0loNC1rYkV1WkdaNEZEZzlLVmpKZGUzQ2VuUUpoNzlobWlYN3BDN2o1Sg?oc=5",
