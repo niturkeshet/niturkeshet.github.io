@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T06:00+00:00",
+ "updated": "2026-08-10T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,26 @@
   }
  ],
  "items": [
+  {
+   "title": "הממשלה אישרה את הצעת שר התקשורת להסרת חסמים בפריסת תשתיות הסלולר בישראל",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JZkdrV2xpUkhhMWxfamVkMHp5eldkQmkxWUlPR08yS1hhVFB2UV96X1I1VXYteXZfNk1tMnZBU0Z4aFBrTWYwWE5qTXJhVzli?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "פאנדר"
+  },
+  {
+   "title": "הממשלה אישרה: מאות אתרי סלולר יוקמו לשיפור הקליטה בצירים",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tMFJQY09hZnhBZjAxUWRfWUp3NmROZFBaR1BtaVkwTWs3LUE5X0pYbWpRQjZvYXR1RndVWTg3VkFJNWV0OHctSXFQNA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JDN"
+  },
   {
    "title": "בן של ח\"כ לשעבר נעצר עם אקדח טעון ליד רמלה | תיעוד המעצר",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41NThBTFFEaFNLTU9TRmVCR0x5S2FMeWIwS0xQYWl5cWRVMVBZMHZUdWt4ZmRoTDBXTGd1Qi1EWnQzcHRmZlduNXRXNlN2QQ?oc=5",
