@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T20:45+00:00",
+ "updated": "2026-08-10T21:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "יותם זמרי: \"המצור האמריקאי על איראן עובד\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvRG9GV2t0dGt4TUFJTUo1VVc2WWVoUFJrR2NreGdxOHc5VDZqS0lmT2NxV1lUT2ZpVTYwUk11Z2c5WkY1VEdLV0lDTC1IZw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "עירית לינור: \"אתם שונאים את נתניהו ורוצים להעיף אותו\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuODNmb0R5NmdNSk12OW1WREJld2hmd19DYkUxX1FFTXIwNW85Q1dOSFhmVXFEQ2p0RjF6eE9yTmlqTzFIeFVQV0trQ3Y5Zw?oc=5",
