@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T09:00+00:00",
+ "updated": "2026-08-10T09:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -268,6 +268,29 @@
   }
  ],
  "items": [
+  {
+   "title": "סגן ראש העיר החשוד בעבירות מין שוחרר אחרי שעומת עם המתלוננת: זו גרסתו",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tcWx6ZW1BajQzQUxudGlIRG4zZEUtZ2FQXzBSV1l0T2V5ZnctRzFxTXM5Y0pDUTVWb0xldFpaNUJqTTFSVlFNeV93bW1adDJHdDU1ck1nb293dw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet"
+  },
+  {
+   "title": "חדשות 12 שולטת במהדורות עם 406 אלף צופים; ערוץ 14 במקום השני",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5SWR4VzJCa3NFRVo0dUpCZ241LWp3TzMyUnBwdEhjb3lpNmo5T2NVa3B2eEp4akIzUHNMNUhSNVlNOEJVSkF5XzVsNlZoeEJrNWRvVFZjcVQ4VW5kY0J4dlZVcDdiNkJDN2QyZXhOSGZNMURvMnkyM3Q1NF9sYzg?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-08-10",
+   "keywords": [
+    "חדשות 12",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "מירב בן ארי התפוצצה על כתבת ערוץ 12: 'בלעדינו ספק אם הייתה לך עבודה בכלל'",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9weVlWRUZJWmQtYzZOdzNvOGJ6ZHRyelI3V29TUzgtRzM4TnY0QjJOaWN0VGp5VWhJNHNYWWFBekxFUHlVRmRr?oc=5",
