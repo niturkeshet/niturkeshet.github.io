@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T07:45+00:00",
+ "updated": "2026-08-10T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,26 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אני בן חורין, זו המדינה שלי, אני בעל הבית\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGN3al9DLW1KOEtSSDQzcTczXzBvTi12U0NGbGFPXzFkek1CaEkxUGRrVWFsSUw0UG43ZWZoOFFNanlORllYWGszSGQ1V3lXNDM2LURTSDhQTW9haGN5Qlh6TG4tbkxpYU9WMnE1ekZyZjRERTVqUnNxUHRRTHdEMg?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
+  {
+   "title": "\"נתניהו באמת אם כל חטאת - זה לא מצחיק\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRnBraG95NlZkazEyMVNoTDJEYzBLeVFlMVF1UHB3VU54WDRfSUtBWmNOcF9CQkRpRkpNeW8yX1F1aE0zNURPZ0RIVUtKbjFpSHNhdk1MdG1md3NWeUhfamZLODhlaEVSbWZnVk1NRHVTRUR6MDlLS2Z3RjNmNko2UA?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "הממשלה אישרה: מאות אתרי סלולר חדשים יוקמו לאורך צירי התחבורה",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xLWZBRzRnM3lSaVZGYU9fbzVZVTVMYlYxSDl0dVdDQlNTX3FtWmZjeUItbGFQY081WUVnVWpwWnk0dkI5WFU2WExiZE5NZEpJdGFaUFZxd3U1bUdmY0FvMUlEYUlMSjlWSHdSdGplSTdBQVVsNHo5WVFSSDU1S28?oc=5",
