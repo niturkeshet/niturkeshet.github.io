@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T14:30+00:00",
+ "updated": "2026-08-10T14:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -228,7 +228,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אלו הליכודניקים שמובילים בשאלות שמעניינות את המגזר החרדי",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5HQ0dmTmpsOGFZVjJwWHRxc2UtdDZUOU43SXV5YzQ4a0o4cldobUxHejVEZlZXWG1oMFlYaWU5VE96a3c?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "המחדש"
+  },
   {
    "title": "הקליטה בירושלים עומדת להשתנות? המהלך החדש של הממשלה",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11NDJVTGRiWWtKU0UzVnpSZzdMYmdMSWRlSlJmNjJwQ3k2aUw5ZHpic09ubEx3VUt3OU45aER1dXlFTkh4VXF3RjJaWkdaX0hOdmR3RG13amZST0E4?oc=5",
