@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T07:15+00:00",
+ "updated": "2026-08-10T07:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הממשלה אישרה: מאות אתרי סלולר חדשים יוקמו לאורך צירי התחבורה",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xLWZBRzRnM3lSaVZGYU9fbzVZVTVMYlYxSDl0dVdDQlNTX3FtWmZjeUItbGFQY081WUVnVWpwWnk0dkI5WFU2WExiZE5NZEpJdGFaUFZxd3U1bUdmY0FvMUlEYUlMSjlWSHdSdGplSTdBQVVsNHo5WVFSSDU1S28?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "ינון מגל בערב שהוא ירצה לשכוח",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMmhmM3paNHQ4RURBNFFsNUJHUnV3S0Y2Qy1aVkJrZ1N0SUdKNTdPS0htNFItSjA1bXRmby1fenFtQlB2cml5YWs3M0N3dEVmVUV5M05SVWVSdVlFSGt6dTM0VE5jbUVOMXFDOG5UQ3B6VTgxSG1PRHZfZGNRTE02aWpELWpDcnFsdEpzT0Q1WFBtb1NDcm1vamU4R0gyYUJOVUdJeW5qaktTUm1ra0R0LWtMa0hlTGY1ZnMwZmZpRlZPNDJNWG9NczJ3TTYydS1pSFMyWkRCRi1HTmZXMEd5Q2ZkRTB3SllXc3V5djBFNkF3VmEzWEg3akd3eUdGRFl6cTBzUkdJSlBrUm82dlE3Sw?oc=5",
@@ -377,6 +387,16 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "Netanyahu ally predicts half of Likud lawmakers will lose seats, 'watch Knesset on TV'",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0UxNkxwWlhHVTNCUjFtNXg3am90S3JHVjk3YmRKU3U4clQ4eS0zdk14WndnRUR0X0tzdTdlOGJmbUhaY3NMV1JqMmIwcXRFenBsemtQZkhDbzhLVUxOVm1PZ1BYN01waDJNZkl6Zk55LUkyWEgwRlF4ckxJbGtuQ0pMdldUYUExbHBheElMeVlkbzZXd1V5eE1B?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Yahoo"
   },
   {
    "title": "זעזוע ברמב\"ם: \"האחים היו בטיקטוק",
