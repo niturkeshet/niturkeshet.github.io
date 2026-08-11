@@ -34,5 +34,12 @@ jobs:
             echo "no changes"
           else
             git commit -m "hub: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            # a manual push can land mid-run and reject ours as non-fast-forward;
+            # data.json is fully regenerated each run, so rebasing onto it is safe
+            for attempt in 1 2 3; do
+              git pull --rebase --autostash && git push && exit 0
+              echo "push attempt $attempt lost the race, retrying"
+              sleep 5
+            done
+            exit 1
           fi
