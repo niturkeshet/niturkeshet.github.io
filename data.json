@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T06:45+00:00",
+ "updated": "2026-08-11T07:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -269,7 +269,7 @@
  ],
  "items": [
   {
-   "title": "\"זו אזעקת אמת - הם עלולים לנצח\"",
+   "title": "\"זו אזעקת אמת",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzZDTlVfMFVVbDRvcUNlVHlYMGxaRkdoTlNRYmdnMGpPb2VyVVlXR0swUkVqMGhRdVEwa2ZrcUV5bkdDMmFXcU5DZ1J6d0tscVgyUDZpSzgzREpxMGt5c25XcnFZSk9fbF91MmN0Sll2YWVFcmVGR2dKV3hSYUJEbg?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
