@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T04:30+00:00",
+ "updated": "2026-08-11T04:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "דרמה בשידור חי: כוכב \"הפטריוטים\" יצא נגד נתניהו - וחטף מהפאנל",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qcEN4Mnl0WDJNQi1TdXJYdXc3RG41dVZwT3dQUEFoQndCcXRzUFNaNXZIVk5Eck9lYU1DWnY0dmlaemZzVzJyUmNkckJjN3VvanFPdjhwMHBqejJP?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "המיזם למען לוחמים אחרי שיצא מעולם הפשע: \"מתקן את מה שעשיתי\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tRkpmT2kzU1BreWVCaUY0SVVoVVNtUW13ZW5iRS1rT01LSUZqbERCMUI2bzByQUJoTS1YVnVMYnB3dnVXUkVtUk5OMWM4QQ?oc=5",
