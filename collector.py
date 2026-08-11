@@ -81,7 +81,6 @@ SEARCHES = [
     {"source":"ישראל היום · אלינור שירקני קופמן","q":"site:israelhayom.co.il אלינור שירקני קופמן","unconditional":False},
     {"source":"חיפוש גוגל · שלמה קרעי","q":"שלמה קרעי","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · shlomo karhi (בינלאומי)","q":"shlomo karhi","unconditional":True,"recent":True,"locale":"en"},
-    {"source":"חיפוש גוגל · ינון מגל","q":"ינון מגל","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · אבי ניר","q":"אבי ניר","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · דודי ורטהיים","q":"דודי ורטהיים","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · גלית דיסטל","q":"גלית דיסטל","unconditional":True,"recent":True},
