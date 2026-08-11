@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T07:00+00:00",
+ "updated": "2026-08-11T07:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -228,7 +228,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -269,6 +269,16 @@
  ],
  "items": [
   {
+   "title": "\"אל תדאגו יהיה לכם ששון גואטה ברשימה\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPemtpamNydURwM2hxQWtJRnh5OFZRSkd6TWZ4RmxoMm9vX05YV1RyZmxoTnJqUHNvNVhXWlQ5OThSM0R6bVl1Nl9lRFZyVUN1dm00Z3hpVGRzb0ZMNjRRWkltdDJmcUpLcTZnRXZNVVUyWEhoM2haMXZBTmh1alhrSg?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
+  {
    "title": "\"זו אזעקת אמת",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzZDTlVfMFVVbDRvcUNlVHlYMGxaRkdoTlNRYmdnMGpPb2VyVVlXR0swUkVqMGhRdVEwa2ZrcUV5bkdDMmFXcU5DZ1J6d0tscVgyUDZpSzgzREpxMGt5c25XcnFZSk9fbF91MmN0Sll2YWVFcmVGR2dKV3hSYUJEbg?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
@@ -290,6 +300,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "טלטלה בטלוויזיה: נוטש את שרון גל ועובר לערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEQxTVU3UjlNTDlnUGRqVDdtVTNPc1lNdldkMEJ5VFJVcjRSV1R2MTVfSFJhUWh1NzEzUnA5cm85WEhEdGs4RGVWUFdmUmhQLS1ENWpUMURsTUpHaEY2aUJXbHQ3UTZZSFJsX1AzYnFreXhuTFluOGJxX25KRHBRZXVPdmdvaF9HNi1hU0pNUnBpbmloZTJ0Sy1QNldzT1JDREVWMExmZklZOEVFMmwybkd1LWROZ2ZhVVBR0gG7AUFVX3lxTE04RDFNVTdSOU1MOWdQZGpUN21VM09zWU12V2QwQnlUUlVyNFJXVHYxNV9IUmFRaHU3MTNScDlybzlYSER0azhEZVZQV2ZSaFAtLUQ1alQxRGxNSkdoRjZpQldsdDdRNllIUmxfUDNicWt5eG5MWW44YnFfbkpEcFFldU92Z29oX0c2LWFTSk1ScGluaWhlMnRLLVA2V3NPUkNERVYwTGZmSVk4RUUybDJuR3UtZE5nZmFVUFE?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-10",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "כיפה"
   },
   {
    "title": "הממשלה תאפשר הקמה של מאות אתרי סלולר נוספים -",
