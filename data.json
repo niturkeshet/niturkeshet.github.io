@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T13:47+00:00",
+ "updated": "2026-08-11T14:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -174,103 +174,109 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "מפלגת הדמוקרטים עתרה נגד סרטון AI של השר קרעי והפסידה במשפט",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iZlJ1OFRHUEVnSEpLX0Nxc19NQWg1MTNjYVpIc3RBeTdSdWVoVlZNQlFwQWJndW83S2g4SG1KYXNCN3ltLVJmMWE3YnZaUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "31 מועמדים בליכוד על 12 מקומות - מי יישאר מחוץ לכנסת?",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sMDBGSDRUVGc4ODlEWjNHcTB6WU9wRVhZRTZTRVIzc0lMUGJHMVp3bHhwUzhvRVVMMjhwZGNGV3ZOX3ZBYV9za190UWNhdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "ברדוגו על לוין, קרעי וזוהר: \"אי אפשר לקחת מהם את העשייה\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ENnk0MDR0WTVpTUpWTXh4Q0VVYW9TSGROX1VPZGFzb3VCZDVuY09uTEd2QkFhX0xUVkI3SkxtUFZOZlM4VUxvcENCTFdJQQ?oc=5",
