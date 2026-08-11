@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T06:30+00:00",
+ "updated": "2026-08-11T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,29 @@
   }
  ],
  "items": [
+  {
+   "title": "\"זו אזעקת אמת - הם עלולים לנצח\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzZDTlVfMFVVbDRvcUNlVHlYMGxaRkdoTlNRYmdnMGpPb2VyVVlXR0swUkVqMGhRdVEwa2ZrcUV5bkdDMmFXcU5DZ1J6d0tscVgyUDZpSzgzREpxMGt5c25XcnFZSk9fbF91MmN0Sll2YWVFcmVGR2dKV3hSYUJEbg?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
+  {
+   "title": "רייטינג: עדן הראל הגיעה לקשת 12 - והתפוצצה",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FMjRlblFyNnNnTFNCcVlXX3dTWk0ydVUyd2pIekNQQmUySHRnQXZJLXdoejc4MndleUJIRktVUzkwZml0Z3dYUkNrRWRmdWl0dUNQb01iVUFfcm4xNUo3TXNn?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-11",
+   "keywords": [
+    "קשת 12",
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "הממשלה תאפשר הקמה של מאות אתרי סלולר נוספים -",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHb2kyWjdSMTdETjNKY0U2OUpPU3l6UFhLNlByRmw5czBxUUZPLUZSRXFCVG1SMTVvZHo1UTZVU0ZvRnBNaDEtSWNuUUdjdw?oc=5",
