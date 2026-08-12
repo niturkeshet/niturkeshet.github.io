@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T13:00+00:00",
+ "updated": "2026-08-12T13:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "חברי מועצת התאגיד: יש להאריך את כהונת המנכ\"ל גולן יוכפז כדי למנוע שיתוק של הארגון",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFBEUjNiOERMbHJ2S3dBWXpVQVRvb24xRlZDLW5GZGR1LVRwUHIwRlM1R1NyODUwdnhqaXNNTUxSOHh5RDBpMXN0UHlOazc1dmgySFh1cHJVaWZOQWtCcHpSOE5BT2ZnX0x4Wi1vQVFaYkVnVFJzaFY3cXd3a2pJa2dzUW5GdXpicGcwS29KR2IzUVdwUE83bDEyLXlOTU42VkRIUVl0VVRaN28?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "themarker.com"
+  },
+  {
+   "title": "האם המחשוב הקוונטי ימוטט את המודל הכלכלי של הדאטה סנטרים?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DMXZNWlF2aE11VDl0eXZtWVVibVQxX1dZQjFkRmJTQVhHRFkzcDZQNnNPSFdTcUNFV2pLQTJad2lhT2c0SG9MYmhjd0NPWm5ORjRYbEoyZUItbDRaazlpYWNaYWxCS08wR0UyX1Rhbm1Rdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "השר מהליכוד: \"מי שלא חי כאן שלא יבוא להחליף את השלטון בגלל הרק לא ביבי\"",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tR2YzSjZ3bzdTdzlidl9QUHpLeGY0OWtwZjdSRkVBNWZmcUpLREZPbG80bDgySUJ4LU9yZVZRMEY4T2FuWm9OWDFQcjE3R1RqY0tKT3ZBWVhuQQ?oc=5",
