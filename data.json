@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T10:30+00:00",
+ "updated": "2026-08-12T10:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי יוצא למתקפה: \"איזנקוט היה רמטכ\"ל גרוע\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GQ3FXLWVPakFPbV9HUWRkc09TaDljVHB5SG93OVZ1RzNJdm5YTjlkMlNYSXNWTW10WE80UzhlVVBsSC0xa3A5YlZnNkRVeGVROXE4Y1VEVllxX2F5cFdlXzBhVDU?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "\"ראש הממשלה הביא אותנו מבירא עמיקתא לאיגרא רמא\"",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWNmeXNCNExFMGZ0TWtmUnFpMXZ1TDNQa3NwcHZGdm5MaDhCTkpLSnFHLUlRcW1pTzRNS0lxRGJIMC1lM0trQW5ReEN5elk1TC1DWXlheFBid1hWWl94bUNJNExQUW0xOXA1bEtTOWIyWnp0UFJYZHcwREk4Rk5faw?oc=5",
