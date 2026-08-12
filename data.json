@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T15:15+00:00",
+ "updated": "2026-08-12T15:31+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -144,14 +144,16 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": true,
-   "kept": 2
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -199,7 +201,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,7 +260,17 @@
  ],
  "items": [
   {
-   "title": "\"אם השלטון היה שפוי, היינו גרים פה\": דברי השר נגד הצבעת ישראלים מחו\"ל - והסערה",
+   "title": "Israelis living abroad should not come back to vote just to remove Netanyahu, minister says",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TRkFjbFdKRUIxX2NpSFFJS3laRlZSdkNXYnB4U3ZuLTI5U2FubHNoOVlEVm1neVZQRFZoVnJzVGJtbE5wVDYwaGpnTXJKTmZFTGJzNC1n?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Ynetnews"
+  },
+  {
+   "title": "\"אם השלטון היה שפוי, היינו גרים פה\": דברי השר נגד הצבעת ישראלים מחו\"ל",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XaHdwLVN5WUJpTm0yRTcxUHBYa1lDMXBJSzVlTjdBQVlKV1Z5a0gweTFQRllKeUszd1hyaGlLTTR3YzM3WjBXRkltUVBodzd1YXlOZFFNa0c0dw?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
