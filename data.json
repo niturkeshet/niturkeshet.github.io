@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T15:31+00:00",
+ "updated": "2026-08-12T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -144,16 +144,14 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
