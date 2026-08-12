@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T15:02+00:00",
+ "updated": "2026-08-12T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -174,103 +174,109 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "\"אם השלטון היה שפוי, היינו גרים פה\": דברי השר נגד הצבעת ישראלים מחו\"ל - והסערה",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XaHdwLVN5WUJpTm0yRTcxUHBYa1lDMXBJSzVlTjdBQVlKV1Z5a0gweTFQRllKeUszd1hyaGlLTTR3YzM3WjBXRkltUVBodzd1YXlOZFFNa0c0dw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet.co.il"
+  },
+  {
+   "title": "מזהים אותו? מגיש חדשות 14 בתיעוד מימיו כשוער בית\"ר ירושלים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wRkc2R1czRVpOUVY3YWlLNnZzUTE2ZVJYSU84ODdSWkNBVWRYUVlvNTJIZzN4V0hVT1ZzUkdfWm1feEJ5cndkd0VnU1FOdw?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "מגוטליב ועד קרעי: זאת רשימת התמיכה של הבית החדש",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlc1prSHhVRzBIcjVtc0lQWGxWc0Y2dGEzVWNvS3dhR0RuS1Q4Vk91RzRROVFjMkY0MnhaMmpmMVkyMGJIbWdhcnRYU3VYanl5aVE?oc=5",
