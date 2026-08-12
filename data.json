@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T19:45+00:00",
+ "updated": "2026-08-12T20:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,13 +175,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -257,6 +257,18 @@
   }
  ],
  "items": [
+  {
+   "title": "תלונה פלילית בגרמניה נגד מטא וספקים של המשקפיים החכמים",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wV2g4anNVVmY0NF9nRHJwZWxTcEtvYkZJU0lGb0ppQzZTWllDcnEyUS1vQzRfcl94alV2NG10TzlHVnc3dWpQOTVrNE05UF84a0tDbGN2bkpEZWRycUkwb3VEbnZ6MzTSAW9BVV95cUxNVk9CeWJ1TXMxaEw4YmJWZ3N1aF9VYTM3Tmx6d2pRRURxcnNkOUdsdXFLT1ZQWkxHR3FkZlhud0U0ZUtJVGVLOXJPZzFLRVBjVlUyYW9TT0EzVEF0eTNlS2p5UnNRRkR1VHloRzloSDg?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-08-12",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "israelhayom.co.il"
+  },
   {
    "title": "Few Likud politicians are expected to last as primaries loom",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YRmVNb2dhcXA2VlZlMlZiSWVyaXB0aXpmS052LTBhTW05ZzR0ejRQRmxiTHJfTEEwbjhmYjF4VkJyTVhERURFX2JTOHl4enRKQXdJem9mX2pQLXJ6WklIX1BwczR6aGZqSDk1bEtRMGVsaW1HT1NQaXEyRQ?oc=5",
