@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T00:00+00:00",
+ "updated": "2026-08-12T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -370,6 +370,19 @@
    "keywords": [
     "קשת 12",
     "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "ערוץ 14 חוגג ניצחון: הרשות השנייה דוחה את אכיפת החוק",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1udm9BQTNTYl92NkJpSmVCZzBUWEJ6SXhIeERrY1EyTjNFOWRPUG5mOVVqU2JTM0czSEFTUGxfNjZZMEtaR0FuUVlwVUdsdDBQV3V4RlRXYk0?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-10",
+   "keywords": [
+    "הרשות השנייה",
+    "ערוץ 14"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
