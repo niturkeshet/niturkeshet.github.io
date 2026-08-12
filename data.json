@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T09:30+00:00",
+ "updated": "2026-08-12T09:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -205,7 +205,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"ראש הממשלה הביא אותנו מבירא עמיקתא לאיגרא רמא\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWNmeXNCNExFMGZ0TWtmUnFpMXZ1TDNQa3NwcHZGdm5MaDhCTkpLSnFHLUlRcW1pTzRNS0lxRGJIMC1lM0trQW5ReEN5elk1TC1DWXlheFBid1hWWl94bUNJNExQUW0xOXA1bEtTOWIyWnp0UFJYZHcwREk4Rk5faw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "אדלשטיין על השריונים בליכוד: \"זורקים אחד על השני בוץ וזבל, גועל נפש\"",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GeTNrWk5EVndEcHVrQUJ5QlpfQk1PWkE1WjAxai1CemJIdndUZzNmVk1PREpUV3NmbnJVajE0SDk0YXNEX1ptR05Na2xwZHpzRnBiVVkweFV3OS11LUhjREdtOEE?oc=5",
