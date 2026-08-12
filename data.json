@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T16:00+00:00",
+ "updated": "2026-08-12T16:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -229,7 +229,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "חברת הפקות שהליכוד מעסיק מפרסמת במקביל לקמפיין פודקאסטים של תומכי רה\"מ",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNTFVZ1ZMZlFwVDhuSGZZWTN6bVRFSklpNkV5TE1ZeGNfd3dWRFRoZWtEWTFzMVRwTDl6cVo4MDFMR0hvVlZNN3pHZFhqeWJVdjI5ZWpkdUVhRThtYmp6MlFyUHgtZGNxeGtvUERaQm1qZ2NBNVJCbS13aHk1M184U093Vnl3ZnhCYnMyZTFHNXBHWXZDczRIOVB5Ti1YZ1hrSEFvQ2RRT0RCdXVI?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "Israelis living abroad should not come back to vote just to remove Netanyahu, minister says",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TRkFjbFdKRUIxX2NpSFFJS3laRlZSdkNXYnB4U3ZuLTI5U2FubHNoOVlEVm1neVZQRFZoVnJzVGJtbE5wVDYwaGpnTXJKTmZFTGJzNC1n?oc=5",
