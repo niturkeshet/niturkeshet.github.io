@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T14:00+00:00",
+ "updated": "2026-08-12T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "מגוטליב ועד קרעי: זאת רשימת התמיכה של הבית החדש",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlc1prSHhVRzBIcjVtc0lQWGxWc0Y2dGEzVWNvS3dhR0RuS1Q4Vk91RzRROVFjMkY0MnhaMmpmMVkyMGJIbWdhcnRYU3VYanl5aVE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כאן דרום - אשדוד"
+  },
+  {
+   "title": "קרעי יוצא למתקפה: \"העם הזה חכם - והוא לא מפחד מגדי איזנקוט\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jTVFyU3RUcHVzMEFvSlFXZ1lUUlRnOEJhOWdVS1g4RHpTZkN3RjFTamp5eFFiSDlPaXViMWxjblIwMFdOQXdJS0gwMnkxR2pUOVgxWktfWVR5eVdrYXdVTi1rSkU?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "שר בליכוד לישראלים בחו\"ל: אל תבואו להצביע רק כדי להפיל את נתניהו",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fM0lWc3FXMjZYRV8wSUhDRmpkM3BXTTZHc3RoLW8yMjgwaHFiaWVnTlRKaHBaTVQ0UWN3eW9qMGJzOEdmWFRJa1Jibw?oc=5",
