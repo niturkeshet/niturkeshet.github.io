@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T21:00+00:00",
+ "updated": "2026-08-12T21:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,7 +181,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Opinion | What Netanyahu really reveals about Israel by promoting a Palo Alto shark",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcTdvRVpmNkozSGtfZE0ybkJqclNFSG93b0pOcFhLY295Y0ZLMjQ4ZmpPRm53eDF2X2xIMWQ1N180SEJlQm9uall2SmRrYlBQS21LQ0pjYzBTMTRNallVTlpNREFhNHdqZHp4WHU3QXlBMUdLZzRUZ09EUEdoSlcyamU3RWxtN3VZaVhyeUxoQ2o1Skd0c3NOMjJRbnc0NWxzd3kyQ2ttazhhbUdoOURxcTVkMkswekt4VENaQWhtRUNjdjRfcmRkWXRXaEJCQUd2RkJHQ3UzZ3RmY2FieTJ2MXgtUTZobVRRTTdkSjBpM0hseGM2eUpOWmhpWk9xZkVEdzJrX0JESU9FdnFxY3c?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haaretz"
+  },
   {
    "title": "תלונה פלילית בגרמניה נגד מטא וספקים של המשקפיים החכמים",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wV2g4anNVVmY0NF9nRHJwZWxTcEtvYkZJU0lGb0ppQzZTWllDcnEyUS1vQzRfcl94alV2NG10TzlHVnc3dWpQOTVrNE05UF84a0tDbGN2bkpEZWRycUkwb3VEbnZ6MzTSAW9BVV95cUxNVk9CeWJ1TXMxaEw4YmJWZ3N1aF9VYTM3Tmx6d2pRRURxcnNkOUdsdXFLT1ZQWkxHR3FkZlhud0U0ZUtJVGVLOXJPZzFLRVBjVlUyYW9TT0EzVEF0eTNlS2p5UnNRRkR1VHloRzloSDg?oc=5",
