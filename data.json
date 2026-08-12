@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T00:45+00:00",
+ "updated": "2026-08-12T01:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -144,9 +144,8 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "גלובס · גלית חתן",
