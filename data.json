@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T17:45+00:00",
+ "updated": "2026-08-13T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,13 +193,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Jewish settlers re-establish Ganim settlement as officials vow to 'stay forever' in occupied West Bank",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9saUxfX3FWZkRHRTdtNUstRWltNW9MUzJKMWJpZUZxeGFOY29FM3lDLVg3NW5HWDl4MWNhdE00WloxSE5RVTh5Qm0yUmQ2N28?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "thecradle.co"
+  },
   {
    "title": "40 candidates, 18 realistic slots: Likud primary sets up brutal battle for survival",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OWF9JclNFRW9wM0hPNmpxMFNMbTFKd2EzUGRHOHlndmo5RG1zNVBDWmw3VUJtOFAyWENYaFcwVVlLWDVick5iQTMyWHdGMWdTR2o2N2tB?oc=5",
