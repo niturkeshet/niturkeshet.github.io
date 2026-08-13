@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T18:00+00:00",
+ "updated": "2026-08-13T18:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לוחמי הימ\"מ סיכלו חוליית מחבלים בג'נין שתכננה להתנקש בשר ישראל כ\"ץ בטקס חנוכת היישוב גנים",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9famYyendJaEZPbWlDcFB2WHZtSkZnWEZKNkROWUViajRxUXVoS1l5ZlBhTWFkcFE1Z1V3bkV0azlFYzNGSW1N?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
+  },
   {
    "title": "Jewish settlers re-establish Ganim settlement as officials vow to 'stay forever' in occupied West Bank",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9saUxfX3FWZkRHRTdtNUstRWltNW9MUzJKMWJpZUZxeGFOY29FM3lDLVg3NW5HWDl4MWNhdE00WloxSE5RVTh5Qm0yUmQ2N28?oc=5",
