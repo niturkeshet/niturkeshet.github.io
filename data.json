@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T06:15+00:00",
+ "updated": "2026-08-13T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,7 +181,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -257,6 +257,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רשת 13 ו\"פאוור קאפל\" הובכו בפומבי, קשת 12 מהממת את הצופים",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50WGUxeF9NZ1RQWlFXX0N0ZU5Ba1A4ZEluZndBVzhVRUdKMmszbGlMNmVuSmhQQm9VRU1KVjIyZTdXa3ZNRlAyVzRGZmNtMjVodTFFNGhYTUxmdVB5VkJfM0N3?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-13",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "האישה הבכירה, הצמרת וקרב ההישרדות: הפריימריז בליכוד מתקרב והמאבקים מתלהטים",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50NVI0T3NTOWxaUU9wS2VBRF93cWlXTnlPemJ1WTJvRFZlRWdTS2UtOUJ4YWJvRFFKNFNpc3UzM3JSek1CdGRYU1ltcnNnbHJpdUFXMjFrVWtSTG8?oc=5",
