@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T22:00+00:00",
+ "updated": "2026-08-13T22:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -1968,6 +1968,18 @@
     "יוטיוב"
    ],
    "pv": true
+  },
+  {
+   "title": "\"שיא חדש של זלזול בכנסת\": הדרישה לבלום את חוק השידורים",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVl0ZTgxXzVJOTRacVBXQjFRR0ZpY2RUdGJHcUlXUGlQMkRrYWhpZVBFMVU2SzBxdVlvX1ZpOUFEUEVSOTBrdFp4U1V1bHk2RkdrVE5OMk1RNFlVbDExbnA3RW5NNE13aC1HU1V5SGFvbTRyc0Ixb0tsSWJGY0JvRkd3UXhNWm8?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-13",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "mako"
   },
   {
    "title": "ינון מגל נגד חדשות 12: \"כמה שטויות הם אומרים. מה יש לכם מטורפים?\"",
