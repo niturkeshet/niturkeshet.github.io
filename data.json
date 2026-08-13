@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T11:30+00:00",
+ "updated": "2026-08-13T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -157,7 +157,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -257,6 +257,17 @@
   }
  ],
  "items": [
+  {
+   "title": "קנס נוסף לערוץ 14: לא מסר את נתוני ההכנסות לשנת 2025",
+   "url": "https://www.themarker.com/news/themedia/2026-08-13/ty-article/.premium/0000019f-fa9f-de80-ab9f-fbbf25390000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-08-13",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
   {
    "title": "Samaria Settlement Return Sparks Political Party Dispute",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMG9kaDloLTJNdFVxeENUWUdEYmwwUWtNVmZPc1h5eGhzNnM0N3prYWxuZURiZ1FtRDVnR0E4ZG96YlFiOXQ4WFZQWlFqM2t3bXBZTEJQc0ZpMWJlWHNYOTh6SXFqVF9VNUp2RUtzbU92Nk9tTG80TmNKVTZvZ3pnbGpn?oc=5",
