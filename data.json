@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T12:45+00:00",
+ "updated": "2026-08-13T13:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "21 שנים לאחר שפונתה בהתנתקות, ההתנחלות גנים הוקמה מחדש בצפון הגדה",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdi1NcFlHWGw5OFFFTm8xbEZKeFZaajA0c3gyM3h6dW5VaGZ1SF9EZl9GcnRIZW8tVnFKUGljSDFiSWFEZ09aazFRMUJjMWN4R1Q0cXdNZ3VZNER2RGd5dm1VRmJfVDVON25fRFF6UEp5WEJXZWxad1M3cW05dERKY2hHNk9vMmJaT19HSmZDUlVNRUpjTmJDN2ZkbklONWk5NDJZU0Ztc3hraFE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "עוד שני ח\"כים בחוץ: רביבו ופסל לא יתמודדו בבחירות המקדימות בליכוד",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3RXE5UXlkd0s3UUZiZUprd09fSGplVU1xVVdvN2J5MFE1X1dHdVdLMk9lU2tMU0JsQXB6b0kzdXpscnc1aXJKNjdVZXdjY1ZxN0hUMGpUbzhORHFJbW5aZm1R?oc=5",
