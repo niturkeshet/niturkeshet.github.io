@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T05:30+00:00",
+ "updated": "2026-08-13T05:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,7 +181,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "האישה הבכירה, הצמרת וקרב ההישרדות: הפריימריז בליכוד מתקרב והמאבקים מתלהטים",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50NVI0T3NTOWxaUU9wS2VBRF93cWlXTnlPemJ1WTJvRFZlRWdTS2UtOUJ4YWJvRFFKNFNpc3UzM3JSek1CdGRYU1ltcnNnbHJpdUFXMjFrVWtSTG8?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet.co.il"
+  },
   {
    "title": "שערי העיתונים: 13.8.2026",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jbjdYa09VMXk4RGp0MUx1R3A1ckpFOTUzU29pU0hvY213cG1LNE5yQkk1N3JCLWJsQzM5MmxGcG1ramJmZjAyVg?oc=5",
