@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T11:00+00:00",
+ "updated": "2026-08-13T11:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,13 +193,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Samaria Settlement Return Sparks Political Party Dispute",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMG9kaDloLTJNdFVxeENUWUdEYmwwUWtNVmZPc1h5eGhzNnM0N3prYWxuZURiZ1FtRDVnR0E4ZG96YlFiOXQ4WFZQWlFqM2t3bXBZTEJQc0ZpMWJlWHNYOTh6SXFqVF9VNUp2RUtzbU92Nk9tTG80TmNKVTZvZ3pnbGpn?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
   {
    "title": "Ganim Settlement: 30 Families Return After 21 Years",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1RktsNWZHLW9MRFBIaTJPWDZJZ3Zremltd1RVVWFPdWU4MzItaUItenBYaWlmODZUY2lwUFZQNXdFbkk5NzVucWJWTWFlNXdBZFJKTTBRWnNWdkYweWN3aWZwV08tTHVWV1JadA?oc=5",
