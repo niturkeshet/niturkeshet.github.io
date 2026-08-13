@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T12:15+00:00",
+ "updated": "2026-08-13T12:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "עוד שני ח\"כים בחוץ: רביבו ופסל לא יתמודדו בבחירות המקדימות בליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3RXE5UXlkd0s3UUZiZUprd09fSGplVU1xVVdvN2J5MFE1X1dHdVdLMk9lU2tMU0JsQXB6b0kzdXpscnc1aXJKNjdVZXdjY1ZxN0hUMGpUbzhORHFJbW5aZm1R?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "קנס נוסף לערוץ 14: לא מסר את נתוני ההכנסות לשנת 2025",
    "url": "https://www.themarker.com/news/themedia/2026-08-13/ty-article/.premium/0000019f-fa9f-de80-ab9f-fbbf25390000",
