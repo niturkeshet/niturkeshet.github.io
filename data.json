@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T19:00+00:00",
+ "updated": "2026-08-13T19:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -223,7 +223,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פטריק דרהי במשבר כלכלי: חובות במיליארדים, זו ההחלטה שהתקבלה",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iSUdzZWJuNFJSZ2xsMHRRc3dDWFNZTk5ZbWRPRGJhYVR2TGp0bFFuZkF3ZXhPTWdOQUxKT2FLdTc5ckw4aW04VmM4ZG5lQ1d5VjJ5UExhTGdnNkRjT1JN?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "לוחמי הימ\"מ סיכלו חוליית מחבלים בג'נין שתכננה להתנקש בשר ישראל כ\"ץ בטקס חנוכת היישוב גנים",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9famYyendJaEZPbWlDcFB2WHZtSkZnWEZKNkROWUViajRxUXVoS1l5ZlBhTWFkcFE1Z1V3bkV0azlFYzNGSW1N?oc=5",
