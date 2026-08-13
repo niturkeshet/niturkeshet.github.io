@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T14:30+00:00",
+ "updated": "2026-08-13T14:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Israel Returns to Ganim: Illegal Settlement Reestablished near Jenin after 21 Years",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTluZGY2Vmo1VldjN3hvT2M1YmtHb1RoWnRoLXJIQkM1OHlEaEZxamFXVmtWVlNrUUFYampBWEFyNnl3Z2hUcVJIeldKMEhHSzFBQmtsSERLTkpTT0hmRlVlVDI1Z0pHWDJJRjhYTUVXSFNjdFJBY01OTGNIemlmTU80N2N2ZjhyTS02QU0wTmU0aGFTVTctVHl2UkZXZUtqNEhXZF9tRmZNcV9KY3ktMF84OXJUNXlnblE?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Palestine Chronicle"
+  },
   {
    "title": "Israeli occupiers reestablish illegal Ganim settlement near Jenin in West Bank after 21 years",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzl4bGZqS2x1bDRsdnAxWm9UNldVcldyT1RKNHB4Ukt5ZWg5Z1dkMTlZSTVLWFNNZnZ4QmpIWk9kVG9tR2FOTGZnUV9HN3dHMUYybjBWcUk0aHZwXzZsdzNkdl9MWE9adERDYmEta3FLRjdEY3oxSXpMRnhkMVhJaHVfdXRvVUZSaC1OZ3l3WTd2TXRXelhBWEtwaEhiWEZxbUV0TGNEV1BQQVgzQW8xbzlacVhURUFJekVGTDJNVWhmUFBuS2t3NWxWUzlVT1Z1a0lsSw?oc=5",
