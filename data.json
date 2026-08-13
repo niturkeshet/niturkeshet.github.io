@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T17:15+00:00",
+ "updated": "2026-08-13T17:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "40 candidates, 18 realistic slots: Likud primary sets up brutal battle for survival",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OWF9JclNFRW9wM0hPNmpxMFNMbTFKd2EzUGRHOHlndmo5RG1zNVBDWmw3VUJtOFAyWENYaFcwVVlLWDVick5iQTMyWHdGMWdTR2o2N2tB?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Ynetnews"
+  },
   {
    "title": "40 ברשימה הארצית: אלו 124 המועמדים בפריימריז של הליכוד",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xckJfV3poZnl4SUxCZXV2dzZycWdXd0NfY2NCOTA2WVZ6eEZvSTAzQ0FTT2RVMDQwS2I5UHRicnJZOUpZTm1JRk9QSlFMdEQyRUFtRmxWLVd4dw?oc=5",
