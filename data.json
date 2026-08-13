@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T19:30+00:00",
+ "updated": "2026-08-13T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פריימריז בליכוד: פורסמה רשימת המועמדים המלאה והסופית | הפרטים המלאים",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoX2RmaVJ3bFBFMVB1LWVIV3J3R2szbWstc1FQcU14YjFJUHBxSklyMzNnSnhqX080WklrbldaM1E2S0E4YTdpVjVkR01WQTlhS2RheHJwdFRXSmZIRnNMYkxUQVY4Y20yZzByT0JtbGVld2hF?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "i24NEWS"
+  },
   {
    "title": "חוק התקשורת: כל התגיות והחדשות החמות באתר על חוק התקשורת - אייס",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHhSendqNG4wbzR1VzliVnlqSzQzaGRoQUI4ZnVOQS04VW1yNUY5M1FQeHdrZ2tGVGNFY1VKLV9rckhQNkozNS1fb0pNVUNRVGw4cWRCbkRLUVA0VnRkWVB5SFU1Y3JGeENkbV91YVBVaDdpWlVSYTRjbE15dXFWNk1ISFhtOENPR3djYnZsckd3clh5Z1lfbk1YQV8?oc=5",
