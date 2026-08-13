@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T20:32+00:00",
+ "updated": "2026-08-13T20:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -174,103 +174,99 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "Israeli Occupiers Restore Ganim Settlement in Northern West Bank",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOU5YVGhZaHlNdGt2MXZNOW1GTW5SWGhVdzBDUVA0UVR5STlsTzZUVTZVX0tzdVBQYVdhenZ2azVXNWlfb2NnZExiT3ZZS290ZnhiYmw0eUtXQng0bGRMRUZiekxXbDlRaVJsUk5NeDJCV1hNaHBNOThZdGljTmV1eEhNOHk5VHdLQ0tpNjlza0puSzd2QWg5QXp3?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Menafn"
+  },
   {
    "title": "פריימריז בליכוד: פורסמה רשימת המועמדים המלאה והסופית | הפרטים המלאים",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoX2RmaVJ3bFBFMVB1LWVIV3J3R2szbWstc1FQcU14YjFJUHBxSklyMzNnSnhqX080WklrbldaM1E2S0E4YTdpVjVkR01WQTlhS2RheHJwdFRXSmZIRnNMYkxUQVY4Y20yZzByT0JtbGVld2hF?oc=5",
