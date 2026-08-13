@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T15:00+00:00",
+ "updated": "2026-08-13T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -379,6 +379,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "העין השביעית"
+  },
+  {
+   "title": "ישראל מתמודדת עם ויכוח על הצבעת אזרחים מחו\"ל לפני בחירות אוקטובר",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdm52REZCRUh5YnN3N2I1TC1IaHJLcWR6eVVKZGdlS3Z0UWlZV1c5M2lQTzhhVDFESHNjYzRiS3lMdkpzeTYwWGdraWVGWWZ5QnlvLTJUWlhlSnhMcmdCS011ZEEzRGhHb0I4am9iY1FjRjJvYm5SbktvSFdNSzY4N3lJSWxBajlETE1naUNITktDSlo5TnBINFA3ZkE1Zmhr?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Traders Union"
   },
   {
    "title": "משחקי הרעב",
