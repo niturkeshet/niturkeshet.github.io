@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T06:00+00:00",
+ "updated": "2026-08-14T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ההר הוליד עכבר: נסגרו התיקים נגד עובדי לשכת בן-גביר בפרשת רישיונות הנשק",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RSlBacXNyU093TWhwS1E0aS13WHJwN1JNVjJKVzRkT2hac3lxSDdtUkxTUWpfbW1LLWZjOE5BSUR0UExuRFBkMzVyTmpUQXJqajYxd0pFTWhSZk1wQTRxYm13?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-08-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "40 מועמדים, פחות מ־17 מקומות ריאליים: מפלגת הליכוד פרסמה את טפסי ההצבעה לפריימריז",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoRVNOUFhUZFBmeXVfS05pVmE4dmhJa1l4MzEyYWJOUm9IWTQ1OVRaTDROWkRnSGNpVklXRER5RU9JWkl2d2stNDdKQQ?oc=5",
