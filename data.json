@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T04:02+00:00",
+ "updated": "2026-08-14T04:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -174,103 +174,99 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "40 מועמדים, פחות מ־17 מקומות ריאליים: מפלגת הליכוד פרסמה את טפסי ההצבעה לפריימריז",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoRVNOUFhUZFBmeXVfS05pVmE4dmhJa1l4MzEyYWJOUm9IWTQ1OVRaTDROWkRnSGNpVklXRER5RU9JWkl2d2stNDdKQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "Israeli Forces Foil Alleged Attack Plot in Jenin During Settlement Ceremony",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU1AzU3JIcmdtbWdDa2xMWjdodFJ2TzUzYkg2ZXFZd1BiTlIzbnNVLTR5RWhCUUtVMGVhVVQyX2F0bFdNT0gyYU9kbWJlY0l2WFBwaXA5YlR6R2wtYTIwVzRmWG5fa3l3eEFIMm9zTzBzXzk3UWVJZ0wwS0duSXYzVXNXdjdpYlJSUlU0TnhEZFB1U2V5M0xLd0I1UW5PY2UwZWRRUTAycUdnV2RvYk1MUm1YX2Z3YUF3RVFB?oc=5",
