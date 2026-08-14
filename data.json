@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T16:00+00:00",
+ "updated": "2026-08-14T16:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "3,500 לכץ, 3,000 לזוהר: כך יוכרעו הפריימריז בליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1USlRnSC1kT1pFSVB6VGtsaDQ0M2c0eFFCTjJpS0FmSG14dmhiYmVSSXc5Q2hpeWV5YzVkOEFnZkdQa1VlbVVQMXpaQXpkUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "emess.co.il"
+  },
   {
    "title": "מטא תשלם כמיליארד ד' לטיפול בנזקים שנגרמו לילדים מהרשתות",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001552316",
