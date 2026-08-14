@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T15:00+00:00",
+ "updated": "2026-08-14T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -1959,6 +1959,18 @@
     "שלמה קרעי"
    ],
    "pv": true
+  },
+  {
+   "title": "בג\"ץ מזהיר את חברי מועצת הרשות השנייה מחיוב אישי - בשל סרבנות הממשלה",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3T0NOdDNxdFFCUkl1VFd0MEhySVNPVUtaemV1b0ZJd1hxWGNEZlFQeW0zZ2JPMW5ibDRJNFBtSUJFRDgtRnBZbmJpT2tmQWctX3p0RmtnWWo5V0dwM09OcndaNng5ZHc?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-07-07",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
   },
   {
    "title": "\"מנוגד לחוק ולצו בג\"ץ\": קרעי פועל להדחת שתי חברות במועצת הרשות השנייה",
