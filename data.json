@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T17:30+00:00",
+ "updated": "2026-08-14T17:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הפריימריז בליכוד: האחריות עליכם",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIUS0taU1yY3RWUnlJOF9Zd1YxdExtbTBwVjRaaXNKTHpxdDhPY1g4R3FRa281VXdUdEI2WnhzMzNwVWV4WDQ3Vw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "פרשנות איזנקוט נערך להקים ממשלת מיעוט ומקווה להרחיבה אחרי ההשבעה",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDREMVZ3SGh2LWl5d1lLeGtrMzU2bEJGVjdJN2V6bDR5NV9FaVFEWDdNQzJveFZlV0FFR0w0ejVTa3VWOGxTME9FM243X2x5dDFuejRJMnAyclZBZWJQakd2eW41WFFrelFlOGNMSl9CU2JvbjhkVkVTWkZFNTB6VGJFTjZrYVYzSFdaLWJTbUE3WXNLUHJhdHJ1VGpTQnpQZXl6eld2Mi1xRlhteGFN?oc=5",
