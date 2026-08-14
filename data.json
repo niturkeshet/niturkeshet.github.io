@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T16:30+00:00",
+ "updated": "2026-08-14T16:48+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -342,6 +342,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "News1 מחלקה ראשונה"
+  },
+  {
+   "title": "דיווח: חוליית המחבלים בג'נין תכננה להתנקש בישראל כ\"ץ",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jOUNMTnhqUFhpbVhvZy1naFFveEtwQVhOOHZfWTRzelU4cnNqcU1mUFVkeHdYdmJjS3kxNHNNQnB5elpSTk9obU9nVHRJZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
   },
   {
    "title": "חדשות 04 - חוליה מג'נין נעצרה בחשד לניסיון התנקשות בשר הביטחון",
