@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T13:30+00:00",
+ "updated": "2026-08-14T13:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,13 +193,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -332,6 +332,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "News1 מחלקה ראשונה"
+  },
+  {
+   "title": "חדשות 04 - חוליה מג'נין נעצרה בחשד לניסיון התנקשות בשר הביטחון",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HeFltbGsxWWZwMHdvYlR5YVZlbldJbnBvd1lrYUUwQ2Y3MVNVWTduaFlpaTFqdjZ6bWNubmh1YWNibmJHNmJ0dS1n?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "0404"
   },
   {
    "title": "מנסף חגיגי עם בשר מתפרק של שוק טלה בסמטאות ליד הים",
