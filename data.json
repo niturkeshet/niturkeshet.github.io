@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T23:00+00:00",
+ "updated": "2026-08-14T23:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -2049,6 +2049,18 @@
     "שלמה קרעי"
    ],
    "pv": true
+  },
+  {
+   "title": "בגלל דרישת החרדים: חוק השידורים של קרעי יחזור לוועדת התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxcGNJaUtjWFVMNlVIWmFBQmlPbDJBeVRUNzNTNmdVV2V1NXIxSDBEbGdXYW9yRGxjVzRKWnZValpWS3p3NURMeWRFOHF3S2JFbmlNRGkxbW9uR1RSa2ZJM3Zza1F4NW9hSmc?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-08",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
   },
   {
    "title": "בג\"ץ מזהיר את חברי מועצת הרשות השנייה מחיוב אישי - בשל סרבנות הממשלה",
