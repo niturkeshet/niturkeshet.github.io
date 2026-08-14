@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T16:48+00:00",
+ "updated": "2026-08-14T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,13 +193,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "פרשנות איזנקוט נערך להקים ממשלת מיעוט ומקווה להרחיבה אחרי ההשבעה",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDREMVZ3SGh2LWl5d1lLeGtrMzU2bEJGVjdJN2V6bDR5NV9FaVFEWDdNQzJveFZlV0FFR0w0ejVTa3VWOGxTME9FM243X2x5dDFuejRJMnAyclZBZWJQakd2eW41WFFrelFlOGNMSl9CU2JvbjhkVkVTWkZFNTB6VGJFTjZrYVYzSFdaLWJTbUE3WXNLUHJhdHJ1VGpTQnpQZXl6eld2Mi1xRlhteGFN?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "הנאום המרגש של האחות השכולה: \"קירות אפשר להרוס, את הרוח הציונית אי אפשר\"",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zVWJDaTVZMUVfRW1mZGVFNXUyeXdPQXdJdkRUSDlsVnFIak9OV28xMzVtSFFMdGJrZ05vRHphUUFDeU9SbC1JRVRn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "3,500 לכץ, 3,000 לזוהר: כך יוכרעו הפריימריז בליכוד",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1USlRnSC1kT1pFSVB6VGtsaDQ0M2c0eFFCTjJpS0FmSG14dmhiYmVSSXc5Q2hpeWV5YzVkOEFnZkdQa1VlbVVQMXpaQXpkUQ?oc=5",
@@ -342,6 +362,26 @@
    "keywords": [],
    "pv": true,
    "publisher": "News1 מחלקה ראשונה"
+  },
+  {
+   "title": "השרים, הח\"כים והמתמודדים החדשים: כל מועמדי הפריימריז לרשימת הליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kbHNZNEFGbUduVEJaLVppMl9BYzV2MlFSdmxrZTJpdmVmU255UXZKR0NhNDBIbGhOU2dtNjZCSjdra2Jod3F3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
+  },
+  {
+   "title": "רגע לפני שיצאו לפיגוע בטקס בהשתתפות שר הביטחון: מחבלים נעצרו בג'נין",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoN1JUcHFtanlxMndFc1BuQzI1eU5xSDVvYjVhd0hJdWhrbjBwdkwyYmhuMlZ2WDdTUkdJdXA3NGdJcC1SaE53ZzYtNA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
   },
   {
    "title": "דיווח: חוליית המחבלים בג'נין תכננה להתנקש בישראל כ\"ץ",
