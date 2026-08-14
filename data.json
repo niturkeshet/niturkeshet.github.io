@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T12:32+00:00",
+ "updated": "2026-08-14T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -174,103 +174,112 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "Israeli forces foil alleged assassination plot against defence chief Katz",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSDNJTTdFV0ZDbWxzOHNaOFlCSEJUbWJOQU5xbjdvWF9lYnkzYkM2MzlYT3ZoWkF4VjBrYjlQcG1wenRPbGIwSzQxZkg4SGxsM0U3RGFLaEY1djNCNVJSNW12Vm9ER0hxakZoczM4U2x1WUZCdm1jbDBDTGFMV3hWaHV2djB0b3N6SzlqQ04xQ3I1NE4wbmFZZm1Od20zaXQxMlE?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Caliber.Az"
+  },
+  {
+   "title": "רייטינג: עמרי אסנהיים מצליח להביך את ערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YZmxrSVo4bVJtY0dOaDNvTFJLbENuZndXRnpDaGw5Ql9wMmozcHUtWXRmdXNWRUhhbmJNUUFfUnhkX1EyOEYzTDFUX2RtdjZIZFFUTmp6U2xoaXlzdjJBYXdB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-14",
+   "keywords": [
+    "רייטינג",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "פרשו מהמפלגות אך נותרו בכנסת",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNF9hTnR2aDBOeGtpUG9hVE9KQ29SeXJEYlNzM3VlX2lOVk1Rb21qMGRmN3dpMk1TX2dlVGJRNjNOcFlyYk9BclUxRUt4WWJXX0Y4VGdEZUFOSjcxdjdhenMzZXI4Mkk5a1FIQURBZjlIWXpmdzFDNW1wdzlBTmNmWEI5Z2ZnVUc5akdRczRNT1o?oc=5",
