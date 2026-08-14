@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T07:30+00:00",
+ "updated": "2026-08-14T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -199,13 +199,13 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -257,6 +257,18 @@
   }
  ],
  "items": [
+  {
+   "title": "\"בזה עכשיו כל האמוציות? בניר ברקת?\"",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FYk10TG1HeDVNNURyR1UxY202VDBtV2JWWHlfTXJNQVhqUFJ1cXZDNlNNWllBSVc0ckxkdGItd05obGFRZmUwdGlLckJXM0lqSnJ3emRVTjNWenU4dFNCa0xQSDJ2YVZlVTQ5dU4yRng4ODluVkpKQ3cxNGE4dTg?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-14",
+   "keywords": [
+    "ניר ברקת"
+   ],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "Israeli security services thwarted an assassination attempt on the defense minister",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFhkNlhjNUpMSzdTdHNXakwzMTIwWXZDYjBxTEpnd2UtNGRKN2YwX0ZFQzg0MTlaN0dBN0lLajF2cTFUQWo0Vmc3YVFhbTBPYUJac0NjeTBOVFkzUDRFMzJyV2s1YWF2Uy12SVdkUHRmVkE5dm5idkxmaGFJb1VnQXFQODRTRXU1SC1DMW1KZ0JpTWdkbXNfSmUtUzh2RlhzMUY2ejdMeE9OaXViWWh1SHdoSEZSX2NGa0x1QTBqeXhaYzBB?oc=5",
