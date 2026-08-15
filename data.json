@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T18:00+00:00",
+ "updated": "2026-08-15T18:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -157,7 +157,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -412,6 +412,17 @@
    "keywords": [],
    "pv": true,
    "publisher": "News1 מחלקה ראשונה"
+  },
+  {
+   "title": "גוגל מקימה בישראל פעילות לפיתוח של שבבי AI חדשים",
+   "url": "https://www.themarker.com/technation/2026-08-13/ty-article/.highlight/0000019f-f54f-d929-afff-f7cfb0ad0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-08-13",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true
   },
   {
    "title": "מנסף חגיגי עם בשר מתפרק של שוק טלה בסמטאות ליד הים",
