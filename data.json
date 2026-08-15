@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T05:02+00:00",
+ "updated": "2026-08-15T05:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -174,103 +174,99 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "סקרים: טלי גוטליב – הפופולארית ביותר מבין השרים וחברי הכנסת של הליכוד בקרב תומכי המפלגה",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DZHBZemhiWjhESXhRTkhTR2x6M3VkRmJmX1l3TGhickZhS2VlUy1hUjd1VHRlREp6TDFCZkt2WG5sODZCZlVGRFB2NA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "פורסמה רשימת המתמודדים הסופית לפריימריז בליכוד",
    "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQUHBCeW5yQmRzbzVyMXd6ckdMeE9NLWx5QVB6Tl8yZThDLWhLYmI2dTJwbE5YMTJFQUY3MEN1NUo2eUMwTE9GNXQ4RzlPX0lUcFVnbVRDTXh2QmlnaHViR2RueFQyZWtVQ0hhckRjSllTMUJ2YmpJY3FPYmM0YkZnZHJFTHlRekJ3UW9rbFA2b2dvdTNnR3d0WE5CVDZmLXVDc01hNmY0aUhEZDFaOFo4cWNGbktueUpiUkxsMFlGbjBrTzBIN19vdDh4VkpXbmxPa3paaS1yOFdYUjdSU0dHTk52dG52ajMtTFhUUExvdTYxN3JlMVoxemVLRUNzWkkxT0ZPUjR2dzBJa202b085aEd6WUVSWjUyUlJCWmtaZmVFUzJyYldCR3NpMHh4LUpqTXlLeU15aW9yc1FCYWltdUMyMXRtX1dyRnZUOTlzZjd0Qm9kcTF6NG92LWJ4bENXWDhUU2E2RGI?oc=5",
