@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T00:00+00:00",
+ "updated": "2026-08-16T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "דלל ראשון, אופיר כץ שני: מדריך לבוחר במקדימות הליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43Y1hfdC16WXphRkJnUGlpWVBySk5lUUFCTUdzckpCZmpuZ2c0d2FNbi1MYVpaVVZUVERUX2c5amUwYU9vNERRZGhCMkN4QXNPZmR4cWlPSElKUERndUsxakdB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "news1.co.il"
+  },
+  {
+   "title": "האחות השכולה בנאום מרגש: \"הלב שלי מחסיר פעימה\"",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNQk5HY3cwZVpIWDBldmhmb0J2RE5uaExaNEJPWEVBVEVKZUlkRWo4UTJDOF84VHVrZTJtemdTWG83ZlUxRXdHc3pzeUVLaklJSWtNcUh4RnVTSkhMcGtHSnpoSGpOSHdCcWo5OUdxNGpzQmlGTUxVd09EOU9IRE9UUC1aY2ZuN0JFa3dwaW5hZkpNdkRyTUJkTTQ2Qm1XWm9kSWh0YzJMU2pkaDNTN21wWEM1cF9TeWJ1eUViMXBsdkkyRm9DcTJkNmxieVlmeFpfOVp4Xy1EZVlsb205dkNydzJpS2hmUWdXZnhvZnkwT2pEQVJ4cWJKVXJDYjZiYTFpb3E3X3luVTJaT01ISXA2V0ZTd3VGOTVIUmh0RDlCMmFXdFNucTUyWVhLUEZDazVXN0stLWNuUi1YTmpDaGVDVnhKdHNHLUJhUVFF?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "המועמד שזכה לתמיכת נתניהו; השר עם תמיכת רבנים ואתגר טלי גוטליב",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBicFFMaHFLelZKSWdIR21ZQlc4Mkp3VUlkMUlUVVlxMTVyQ2dvU2pHc3UwLUxyVFJGblNmU09rM3pOUzhiVXpiVUNhZw?oc=5",
