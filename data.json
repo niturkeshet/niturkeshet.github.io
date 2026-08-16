@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T17:45+00:00",
+ "updated": "2026-08-16T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "השר קרעי: \"רוב מצביעי הליכוד רוצים רשימה שתילחם בציפורניים על הערכים שלנו\"",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQc2JwcDI0YmppVkhPbmNuaVlCR3JiRWlZSnlhQXN6LVhhOF94NkdMQXoyNWIzS2xFUjRValBVbmgxbzNUZnhHUDFhZVJBTl9oV2p0bDlqbkxCOExaaU1BZ0xlUjdKVFJQRm11akM5MEI3WHd5WkRzcW9qc3ZHTDZjX1ZmQ1pjZVBxdmo3RkMyeHJVZl9sWS12SUV4TWx1VFBxN0dyME9DQmlXd2poakduWWdHd3FKdFg5U3BiRF9jT1lGbEhOVkVLY0VwY1FVcXNwM2ZJdjNjRXFfRk5HRG16ZzBIZExuVUtBOVhUZmdXTnhyT2NOVjBhbHBxanFLM3NneUNpQUVSZFlFOV9zR0pVTmJXbVNDSDRnNWpTNGhqb1JmX1F0dU95TEx1S0xyb05wbFpsc1ZKTExqMzhrZzA2V2kwNmhkUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "קול ברמה"
+  },
+  {
+   "title": "רגע לפני הפריימריז: הפורום הלאומי-יהודי בליכוד נגד אוחנה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15bk1YRlN3eFVQOEVyZjU1TXZadjZsdFoxazY5aG9ib1VnRnV2Ri1PWk1Kb2dOdXg0S0hSVjNxUS0wUXRFMzUxdzFDMjl6QQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "הליכוד נערך לרעידת אדמה: מי יכבוש את הצמרת ומי יישאר בחוץ?",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UWWVrME5WSGxfc2dnTHFXMWFYV2t5RlZDbkdzajhMMlp3UEN5UmRITXVzd192U1JFVFZ0Zlk0M3M5SWp2SEhrZFk1MVlhdw?oc=5",
