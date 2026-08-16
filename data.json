@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T03:45+00:00",
+ "updated": "2026-08-16T04:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -150,8 +150,9 @@
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -258,7 +259,7 @@
  ],
  "items": [
   {
-   "title": "התערבות זרה או המלצה חמה? בן גביר בוחר מועמדים משלו בליכוד - ומצלם עבורם סרטונים",
+   "title": "התערבות זרה או המלצה חמה? בן גביר בוחר מועמדים משלו בליכוד",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JNUVNZ01GcndhcHpyMlFhVmFtYVVheTZ3TnRTTXBFcVY0WFptSk03bEFlTXZERzNxQ1ZaWDA0VlFBVXA5TXpURFV5TzB3UQ?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
