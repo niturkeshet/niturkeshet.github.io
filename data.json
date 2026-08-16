@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T10:00+00:00",
+ "updated": "2026-08-16T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הפרשן המוכר יוסי בן עטר מצטרף לכאן מורשת: \"נציב סדר יום חד וברור\"",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80V0lHeFYxMW80eG11WF9mQnZ1dGVDZjdhWXdVNVVRcXByaTBUSEFNdWJRUjZWSVFnTTVBNW9OVGwzakRBUXVnNmRQZ09FYVR5QmdrTFlFWXRhU0l4c01ERDVua1dxSmF6LTB2RXFrVkRwY3g0bDY4?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "שר בליכוד: השריונים? מהלך דמוקרטי מקובל • ח\"כ: זה מצמצם את המקומות שלנו",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1DS2N1YXJSMVpWOEtHOHdLU1JQYU1RdF9UY0d3bk9yUHprZHJsSzJSV3g1N01TVFBaUHNSUnVseDd3SmY3d2Rv?oc=5",
