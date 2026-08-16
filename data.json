@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T11:30+00:00",
+ "updated": "2026-08-16T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -205,7 +205,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "מי נגד מי בפריימריז הכי צמודים בתולדות הליכוד",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOUUV6ZW9mS3BWZ05PdGZCcTBCYklUbjVVeEk3NXB1VU5iczFITjEyMGZWVmxSTEdpSDQ4MlRLSzFEWmt0LXlSRUNGS1dlcmIxbVhYbXFBNkJ6Z1BnemFMenB6TW9yRG44cEN0azQzNHp3MFVqWVlXWmtiemJjdW9mcWRVemtPb0R1cTFnMGJSd1NfZGVJQVdmWXU0djh5NXNHcUczaDhrRkNSaGxybWdULTlHekI5YnhuWW5SVExsWG9kNkdqMlRmMUl0aTNubExxR2tFdzJad0ZvZFRBMmZOZHc3SEd4ZHVCUnJ0djBRVnliNjNRU3FpbzBRM29YUlpNWV93Q1NQRmcyUjNEd2ltZkVmQmotZ0dCMF9mYXp3N25sc2FHb2lIeFJ0TUswaElFeG9VR2hsZnNEbXhxajZ5SkJyaUpzVnZoR2JYX3dZY0JEdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
+  {
+   "title": "פרויקט מיוחד בערוץ 7: עולם התורה הציוני - שיא של כל הזמנים",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FM1NvRENFTWFXYTdWai15WUg4NDh6aVRZTXBfLVFEblNkNGctRm5pZkk1Z1B0UlRjcUFvc1dwMXBZVjBlRkhvQw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "רשימות חיסול, דילים - והדחות דרמטיות: הקרבות על מקום ריאלי ברשימת הליכוד",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwNTQ3dk80VGJmamlDdlh6ZFMtRTFjZ3p1NEZPTFd6dFdUajQxcXllX1d5dDVWRUxsdXQ2aVRzRW9CSW1ySHRmNU1xVk1wRFdVQ2ZKQ09zV3Ztdw?oc=5",
