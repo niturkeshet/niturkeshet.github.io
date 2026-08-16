@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T15:00+00:00",
+ "updated": "2026-08-16T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,19 +175,19 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "כבר לא ימין ממלכתי: בן גביר מושך את הליכוד לזירה הכהניסטית",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80aDlTTTRIak51dFZYalNKWGxuRE9UVDFxUWtYSm5fR19taUNVY0hLNlF6SEd4S1hhaVpZZU5OdVpDWUR5UjB6ZHY1RllfQ09ZbVhuSWFGNFhlRlpJQ2Q2Vnhva3h0QnRJdUpXX2VMSXbSAXhBVV95cUxQcFlTVTFMT2Z1ZG1neC1LVUJxMGdERVl2c3pLem5pZWZYcnVmelNTREkwcXZQM1AyNEtOU19qcU1Pa0tCVnZ1TnpITVJxdGZ6el9ONEVZamRIaE5ocjlPd3FFd2hHUXZsd2JKdHVIRHpIX3YyYlNzZkY?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "נתניהו סירב להיפגש עם ברקת: \"אין צורך\"",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13NHJsaTJIeXB5blhNcDJpN2pOVllpYTBjUjY4ZmdzRDB1aTA2OTcwM2xGMjk5RkhGWnBZTjd4S01Rb1JRZHBTbnJuQUhZUm5lWDZBZnN6QWdMdw?oc=5",
