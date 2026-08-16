@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T08:00+00:00",
+ "updated": "2026-08-16T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "National Security Minister Itamar Ben-Gvir claims Likud ministers asked to join party",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0NjR6eTZweEQzVWY5VWxHZ3k2aVNCWkVvd2NNYTR5ejEzSFdncFg5ZGxpbWFmQnFvVnI0NEVRMUg1RzlERWhhc3NGUEREZUItbW8xSGxfZW1qOVFEV3NXaklxZDlFUnRt?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "בן גביר: \"ארבעה שרים וארבעה חכ\"ים מהליכוד פנו אלי כדי שאשריין אותם\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LenI1cUN1bHZJRTF4aDY1Y1llQXAybEY4VnlUUGZJY2VUY1FUQmJlZXNzM2NHTFdLcGU5UVc4RTRvcU1LVkx3a3gtSG5mdw?oc=5",
