@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T12:00+00:00",
+ "updated": "2026-08-16T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השקרים של יריב לוין האם בג\"ץ באמת שינה את הוראות הפתיחה באש?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeG5EMnpRTFRwcF9DenU2bGR1SFZlWlNoejVFalVYUXFUTDd6ZC1TRkRGdWIySFZteWY3T080ZktHS2ZFM293aEZ3NkE2OXhILU51dFBwNEtsd2dvZHBlczQ5TzM5Zm4wREZ4NzFsZVJiWUpFYXE3V09GQWlSUUtnS0xrckt6Mk5vNGdrejJ5aHlvOGItLVZiS2llRnRpY3pp?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-08-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "פריימריז בליכוד: החכי\"ם שפרשו - ואלו שצפויים ליפול בדרך | גוטליב מובילה בסקרים | תמונת מצב",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdW8yWlZ0TkxSQW1vNjJ3d0ZaaVpnWlp4LXFGYXVSNVBPVGxxRmxLNDh5Vk5McmJ2a3JFQzBhQTdCM29RdzR4SUZrRThibklYcHFLR1JsMXpHNlhoeGZybXoxRS04SUlfZE9Rb2ZMNnFQVGUtTFhfOVdNYmlhVUwyelkzUGQ2YVBTOEFBRk8tOWR5dWs?oc=5",
