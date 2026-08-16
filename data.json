@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T10:30+00:00",
+ "updated": "2026-08-16T10:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,18 @@
   }
  ],
  "items": [
+  {
+   "title": "צוות i24NEWS הותקף באלימות קשה: הצלם נפצע בראשו מבקבוק זכוכית",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oVHpFWjh5Q014Rk52d0NpbUJDSjlQblZJVC04MlpVaDU3VDdFazI1NzJVRU80MzJ6OUQteVJzZWoyLXlHNDVudmp0RG1yQ2pBRWVKaFZBTFpFTGlJ?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-16",
+   "keywords": [
+    "i24"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "הפרשן המוכר יוסי בן עטר מצטרף לכאן מורשת: \"נציב סדר יום חד וברור\"",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80V0lHeFYxMW80eG11WF9mQnZ1dGVDZjdhWXdVNVVRcXByaTBUSEFNdWJRUjZWSVFnTTVBNW9OVGwzakRBUXVnNmRQZ09FYVR5QmdrTFlFWXRhU0l4c01ERDVua1dxSmF6LTB2RXFrVkRwY3g0bDY4?oc=5",
