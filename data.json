@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T10:45+00:00",
+ "updated": "2026-08-16T11:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הכנסת לבג\"ץ: ליו\"ר הכנסת סמכות לאשר העברות תקציביות גם בפגרת בחירות",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJRzdiN01IclptZVBadTNDNUEtOERYSnlpX21iNGlLcDdjVU5nMEI1V2N3TUgzcE9EU3dFYnpUQVRlNGhVVDFsUlMtLXJJcjRyX1RseEpkTENDVUV0TDVQOEln?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "צוות i24NEWS הותקף באלימות קשה: הצלם נפצע בראשו מבקבוק זכוכית",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oVHpFWjh5Q014Rk52d0NpbUJDSjlQblZJVC04MlpVaDU3VDdFazI1NzJVRU80MzJ6OUQteVJzZWoyLXlHNDVudmp0RG1yQ2pBRWVKaFZBTFpFTGlJ?oc=5",
