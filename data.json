@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T06:00+00:00",
+ "updated": "2026-08-17T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לא ביום אחד: \"ייקח שנים לבנות מדינה אחרי נזקי השמאל\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UeW0xbnNiMTBQenQtMWRweXNBUXBFTkdwYkJhMEtscW1nZTJNUzFIaUxWY1VTNWpSQWs0aGJZWHIzN1RtbU93YkpCZ2lTZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
   {
    "title": "ערוץ 14 טעה בזיהוי הפצ\"רית לשעבר והציג במקומה את שכנתה",
    "url": "https://www.haaretz.co.il/gallery/media/2026-08-17/ty-article/000001a0-0ce1-d51c-a7af-7df1466f0000",
