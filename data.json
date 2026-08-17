@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T13:45+00:00",
+ "updated": "2026-08-17T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,28 @@
   }
  ],
  "items": [
+  {
+   "title": "שלמה קרעי לסרוגים: \"הקדוש ברוך הוא יקבע איפה כל אחד יישב\"",
+   "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNTU1wQjRiamlDMkwwS1NXTU15ZTJ5RXBRUG5RUTFfbWtBQXZrRmpPSThxb0g2Y2piR3JnRHJsaFozckVPZnVMcGlxWVlSZTg1RElQNjFlZTJVamV6YVBHVmtHaGJhc2JzUWVyU3F4am01alhEaWJwV0dENHZLd1U2NHNfQnNaV0xTOUxVSW1YX2ttRktHTzdldW1pVy1XRjdIN3ZHTWV4VnV6VWkwcFpnTDVuZ2hudzNQbVliUDM4eXlNSl9yOV81VzBqTUJxRnVtbzVDUW5nT203VmwwUnhITXF1TlRpa2VzVDJaZmhQS2tGOTd3VUNJNnBSWnczTTVQZXFNXzRuMFRsVFdjVk02T1FOZXc2NzJwRkotaWN5VWJCd3UzMnJPd3NjY3JWTmRQemlFcFlQWUlRelB4UFgzSlh0amFLNDhXU2xzaTFkYmk0dDFBczZvcEpQRm5sVXZqZmI5cHdfdkxKbUhmZFNxY1hYTkF6a1JQUGdubXVieHowVjZ3Q1JJMDcwYWFUSzdfYzBkd0JFbFpBcVhUMUVyNmRtZEd4dw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-17",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
+  {
+   "title": "הפריימריז בליכוד: פיצוץ בין חיים כץ למילביצקי, אחוזי הצבעה נמוכים",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IbnZsUHQwTFVMMmlYRUJTY0psVXZfcUIxal9obUdITzBJM2tyT1ZWX1BZQmRzWWtZOHp0ZXZZeW5rTlRfTlVPU1d1RFRyY0NsekZUYVVrblVRX1ppekt1RVdtQ3Nuazd1Y1lPVNIBdEFVX3lxTFBtQTAyM0ZQNzhRNlVuQnVXdG1mLVR4OE1Za1VDTXhfdEl2YmRycUpBNUpSTkhjWC1UZDB6MWtHT05MVnlFS2E0ZHNDMTRxbHZiWmN0aFZ1MmlaNnBWT3ZwVWZYd25xd1FHczJKNkJMUlp2b1VS?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "הקרב הנשי בליכוד: המהלך של נתניהו על חשבונה של טלי גוטליב",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfTlVDTGVIS2R5TVZuMWtmT0RSeXhLM2NhMEpyVk1HOUtsT1VUSnprVHljYjVXcndoTVJveXZXSC1BMU1PSm1CLWEtb2NkWk0?oc=5",
@@ -2116,6 +2138,18 @@
     "ערוץ 14"
    ],
    "pv": true
+  },
+  {
+   "title": "הממשלה הודיעה שלא תציית להחלטת בג\"ץ בנוגע למועצת הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RdURrQlVkTDVuOTd1R3dEN29Gal9SME55LXJQMDNqZUprMFNTX0dHOGZScUhpQUdnUlpkSnBzcnRJMWFaQUhyaDJ3ZW9FbFVVeGgwS0NjVy00TTJkVy1tTW1CdnVpZVk?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-07-05",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
   },
   {
    "title": "משבר חוקתי: הממשלה הודיעה כי לא תקיים פסיקת בג\"ץ על הרשות השנייה",
