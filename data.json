@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T05:15+00:00",
+ "updated": "2026-08-17T05:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -169,13 +169,13 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -257,6 +257,17 @@
   }
  ],
  "items": [
+  {
+   "title": "ערוץ 14 טעה בזיהוי הפצ\"רית לשעבר והציג במקומה את שכנתה",
+   "url": "https://www.haaretz.co.il/gallery/media/2026-08-17/ty-article/000001a0-0ce1-d51c-a7af-7df1466f0000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-08-17",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
   {
    "title": "Israel: Likud members vote in key primary race as Netanyahu secures expanded control over party slate",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPay1yR0JqeTh5ZHdiYnl4aldTNEd2aHVHbTR3NHkzNzQwUFBfTG1nWHN0VEpOX1BwNWJyVWloRGVya1dKU2JwdVdYSDhkZVI5UWlBNkJycHMxajlUY3ZvT0ZhdHdPbTB4OXpKSVo3V1U4OC1jY3FLMFpKRHNMVGR2VFU3cGhFdTViTUZWZWZvMnFXSW94MHExeWRxRE1fSWRiRmhxNHpkQWZmOV95VC04OF96MVh2akYxcFctcGsyRlBKRU9lV2dKbGgzUUdBb1o1ZE1DN284enXSAdwBQVVfeXFMTzhoVVE2X2V0M093bllrUnNKTUlzLWVCZmtpVmtpeGs4QVFqcExSMEU4d05Zd3NSQ3FnX2I1UThsazVCenk3VWR3ZnRfMkdkWVpJY093SGR2ZVJ5emEyNXBrcXVUVXVOb2E0RHFEcUgyVS1WTjRqdFd6Mm1KNW1wX1RjN0g0N1ZwaE5tWGZTd0Fsb2ZPRm50TjBvb2JPOFZIOVJuS284LW5zMlV2Smk5aDlvZmdlSm9YTm5Pb1VERXd6alNMdVFmX3Z5Q2l5M1o2eXlpdzJoWktiVlZYcA?oc=5",
