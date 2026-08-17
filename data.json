@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T23:00+00:00",
+ "updated": "2026-08-17T23:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -1950,6 +1950,18 @@
     "מטא"
    ],
    "pv": true
+  },
+  {
+   "title": "היועמ\"שית לכנסת: שינויים בחוק התקשורת עלולים לפגום בהליך",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EVWR3TWpvNWZ2a3VkeXdtTW9uOW9Zd08tWGx6RzI3VWVHV1JiaGJ2aTR2R0JGNzVzZmRMUTVKZU41a2RfTWtNNnBMWUZKTktoS3VGNmVPQ3JwTjhhalRjTC1XZ0M1ZFnSAW9BVV95cUxPUkhJZzFZN3haX05wTFNHWXBRLWZESnRHMjNJcHpOcU5aY0RkRE5wSzdER0pacHBaTGgtejMyUEgzYWpROVR3bWNiX3JpQUlleXVwbkI4aWtjQ2hRQWxCQzlaZzItbjNpSzJGSm5iSEk?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-07-16",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "חוק התקשורת אושר: כך עשוי לשנות את מפת השידורים בישראל",
