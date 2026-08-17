@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T06:15+00:00",
+ "updated": "2026-08-17T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -211,7 +211,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -257,6 +257,28 @@
   }
  ],
  "items": [
+  {
+   "title": "בעקבות הדו\"חות: בנק מזרחי יחלק דיווידנד של 714 מיליון שקל",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWNDVmlfY1VpMktrWU9oXzQxNnhOU0I5cmxqeXNibW12Mjd6VHFsY0JXeG1DUFgyOGd6MU9Ma1YtMkItek4tR0VZcnpNVjJ6X0FJdmt4YVNpVEp6SmhYSDVSV3lGbkV5dnRta0pId3Bsd2ZJbTJsU0ZyOV9DM1dKa1ZYZUJzMlRuNnlXWG1QVEZLajB6Mk1LZVBUclpEMUdaNURN?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-08-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "לאחר הפאדיחה הענקית בשידור חי: להתרסקות כזאת ערוץ 14 לא ציפו",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFMUNjb2FsYk5DRGNVVFVvTW1LNmNUXzk0YkdyUjBJWlRSSGZLRXdyMDA4aWQ0RDZaWFVsd1o1UUlCd0RDTVdQLW9pd05wOVNNLUc2dWJTOEY5c3QweXc4RER3?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-17",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "לא ביום אחד: \"ייקח שנים לבנות מדינה אחרי נזקי השמאל\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UeW0xbnNiMTBQenQtMWRweXNBUXBFTkdwYkJhMEtscW1nZTJNUzFIaUxWY1VTNWpSQWs0aGJZWHIzN1RtbU93YkpCZ2lTZw?oc=5",
