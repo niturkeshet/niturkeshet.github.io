@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T11:45+00:00",
+ "updated": "2026-08-17T12:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "קבוצת הליברלים בליכוד: אלו המועמדים המומלצים שלנו לפריימריז",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaV2ZLd0hyXzdNOVRnU19RUVJKM1JvbDZGX1VmWlNvTnl4dy0zUUF6Q0VJZWpjQ01YNVVRUC1zeHlMM1U1dWRRTlBCM3J3MHRNbGdGVkw4TVFZQXV6T09QLXJIVC1RNGfSAW9BVV95cUxOcEV3ek84YnFBeE1JNHU5YmVUOS05bk1tNm45a09iZ0p2Y3UwVm5ob0RXUU1uMktwUDBkaUttcTJjTEJIalBlTUNMTVJtTlo0anM2enRGOWV6YWdvaVlYd0tIck1qOGpjT2I0ZU16c2c?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "אחרי הסערות והעתירות: 140 אלף מתפקדים יקבעו את רשימת הליכוד לכנסת",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFeFV4eDlvUVdaejdid0NsYk1SemlhajBPeTYzSlZMMFJ3c1NfcnBtb0U4YmUzNU5tR1dpOURoM3BfalpkbmFaZVZlWGpMTlpVNTE3YlBYcGNsbEtSZkpIc2FSLTNKMUdmYU1UNW1aOVRjVlhu0gF0QVVfeXFMUEV4VXh4OW9RV1p6N2J3Q2xiTVJ6aWFqME95NjNKVkwwUndzU19ycG1vRThiZTM1Tm1HV2k5RGgzcF9qWmRuYVplVmVYakxOWlU1MTdiUFhwY2xsS1JmSkhzYVItM0oxR2ZhTVQ1bVo5VGNWWG4?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "הרווח הנקי של מזרחי ללא שינוי; בעלי השליטה יקבלו 300 מיליון שקל",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5elhBTGZRbS1vOXdCTmpVbW9mS1JTT0tKaF9hcDJIN2RZemo5TTlZTmVTSUMtSXBOV3dtRVZqNzE2ZEpxemRIQUx5Ry1SR3lHWDBvSkVoVndRRi1mUTNrd1UwSW1yWUJV?oc=5",
