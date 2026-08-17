@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T19:30+00:00",
+ "updated": "2026-08-17T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -211,7 +211,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הנתון בדו\"חות מזרחי טפחות שצריך להדליק נורה אדומה בשוק הנדל\"ן",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FUHlpQjB0V0tPRkRKT0pmRUVfLUM1aExWNjdsTnRmV2wtX3NOYWU3UVZtdFJKd3pLMnJ3V2V5YVJqTXN6T2NjMlQ0QnEyTEZXcjJnNHpjeWpEalBLWVFjdmZVQQ?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-08-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "גולשי C14 הצביעו וקבעו: זו העשירייה המובילה בליכוד",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByOHZVbXlvSjhIcEt3WmMxdjhyNnVGR3kydnZoN3NqUEk3YjRFa2VTZmRhcU1oOEZFZ0l6STZnSnA5NlRqczZLR21XVUxyQQ?oc=5",
