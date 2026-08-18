@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T05:30+00:00",
+ "updated": "2026-08-18T05:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -211,7 +211,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Cohen, Ohana, and Levin leading Likud primary with over 90% of votes counted",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0pMSnRyRHNUODUxX0lZaE5Hd2RPRTdfd0pfc3A0MFNxVTBacHhQRjVENTgtRW9CSHQwSlR5ZlF3bXp1ZjZfQ3kyN2JyWVAyeGJSRlBjTlhFYVhIcGtOQklaNG8zRmpOMWRpNDBBM2Y4WXhCWEttVXVCYUh6V0dzcDBZVjJid2VodGlDam00RHBKYjZIdTI0a1pRTWlMNFU3VkFkNmhPOXg2LS1UUFpGdFhab0U0QjlobGhZ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "ההצבעה לפריימריז בליכוד הסתיימה באופן רשמי: זו הרשימה המסתמנת| עדכונים שוטפים",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKZmJoVFdGdzl5RmxpNVozNGJOUmYtWE1HTnlQUlJONFc5aXM5YUI4cmZSOVNCN2hTTGJGa1VrQzBKdUl2M2owTXJuUVBUcEs3NW1maGZVVnJ3NE9FVmtQVnNQbjI?oc=5",
@@ -306,6 +316,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "israelnationalnews.com"
+  },
+  {
+   "title": "Israel Elections 2026 • Likud primary results: The Netanyahu lawmakers who got a spot amid low turnout",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaDZwNUJYR3pJY21IWWVQN2YtNGk4aVdaaHFNc1pxNk91MnZNTGRkcVFDakxtM2d3ZC1TMWJfOHVZb0Zab2NKSDZZUWJPWGUyWUY1QU9OMkZnVzdzNmNKbUtVb0o2YVdDQWxneGpjcVVDSlhLdnExbG9DNEZhX2NDMWpiUy1DRkh0NVFtTXRnV3UxVFh3TzZ4WGhKZEY4d0NzeDlia2VUTkdmTnV3WFBHN0ZDaHM3NTRzODdvZjQ4NWRZN3dqR0h6VG5ORXBnWDJvY2huRHNla1Z6RkxQSXY3NUpMcktIdldySWZXR01IQTQyNjdTdEVWVDBrYTJFRnVzUWdTdFNWcmEyTXJ6akFUS1paaS1UUk1GX3BDMWVR?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haaretz"
   },
   {
    "title": "הכל בשביל הקול",
