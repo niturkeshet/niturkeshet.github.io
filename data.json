@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T18:45+00:00",
+ "updated": "2026-08-18T19:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -205,7 +205,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Har Hevron surprises with a record 80% voter turnout in Likud primaries",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LZjNqZ3dJQTNhQUJzdm9QQWE3MWc0Z3UzcFM0aUh1RGVwdDd4Z3VPcnRJUkdnckxQZTgzOTlkUEFKTC1YRmc4OFF0NFgyOHFOQVBhWG1ubm53UQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Israel National News"
+  },
   {
    "title": "חברי הכנסת מהליכוד שהובילו את המתקפה על התקשורת נכשלו בפריימריז ויעופו מהכנסת",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KaktTWG9iUFFNQ2tEbHlENUJBb3YydVN3Mkg2RlpuMVp2NGZNZ3hvOXFZQ3pOQ3dXMUJyV2dLU0NjRWxOTy00bA?oc=5",
