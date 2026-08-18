@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T02:45+00:00",
+ "updated": "2026-08-18T03:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,13 +181,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "התוצאות מתחילות להתבהר: כהן, לוין ואוחנה בצמרת - דיכטר וסילמן בחוץ",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03b01wdThTbXRHelVpbVV0U3R1SFBlRG1mRlFYUWx6LUVFUXdJV3lIaEMzSjZTY0dzNkNxZDh3cFlvYW1SeU1iXzJ4RkhCbW1TdmM2UkJ1R0JlTUpXYVhQN0Nn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "Eli Cohen holding top spot in Likud primary, with over 50% of vote counted",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbmxNLXNibng0aUI2OHJiWG5BaGpPMG14RlAyTUl3WHBtNGdhem1wN2xielJLT2xNRkUwd3k4SVpvczhYY3IxV2hnODlZQV9WTFQ2dHRxRE1kT2lWeEd2WmlmOUU5Y3pkQ05ZUEwtc0xaeEFBLUNZRU5JRjQ2anBhQ092bUsyMnBnRXAyRm95SjkwMFl0WUowN09rRXNUTXdpdkhBSk9DY0lkZzQ4YU9rQmsxMi0xRFdUeFE?oc=5",
