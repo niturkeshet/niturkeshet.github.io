@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T08:30+00:00",
+ "updated": "2026-08-18T08:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "הפריימריז בליכוד: מי נבחר ומי יישאר בחוץ?",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCcldkSFdqbFFJM3FLeF9yN3lfVGgwMzRiOE5aVVh3cmxNdVB3S0tGMDI1YlFhSi1rVnFfWk02Q2sxVDhhZlF2c2JGQ2E0SmxwY215T1ZUdXA1a2RzTE5lb2NMOVI4Q3oy?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "globes.co.il"
+  },
+  {
+   "title": "קרעי על תוצאות הפריימריז: \"אינטרסנטים נתנו מכה קלה בכנף\"",
+   "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOQXl3bTU5cjhDakNFU3FTQXp6alpCaXF2S05oRHJuTXEtSjhzX1BRVUE5Nnk0Z1EwSXFoS2dTU0RSTUxVcUx2VTFxRWEzSzlMQVBnUTBuZlhPRVZ2VzBKMHFrejVxZFRVaGZWTjdQYzB5ckxKMzROX2Z3TDB3SEVPWVZ6X1BKQUV4cDB0aUM3T1QxMzZYX3ZjLU95b0tPZC1ULTBzWlFhM3pZLW5ub2Zybnc2R3NwX2JuNnNpM2xoZ3dmZGlWdmloNG9FUUh2M2JmRVpPSmEwMHlBT0dBenBhRk53Q1NCb1YwWnI2RmV3NDRHR3BucVdXTTR3ZTBRTFU3SHlXYktsQ2lCYy1PT1VQNzl3a2hpeVpaZVdidTVDRDJGUEdrZEVtWDVuelJpd0lzdWwzeHYxNGIycVB3OE16bVNHbUdxUUJIZklkY1BYS2ZuTmtMc2JUMDlENm5lVm1vZGIzWGtkZDlqQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "סילמן וגולן הולכות הביתה, אפי נוה במקום ה–36 — והאחראים לטבח ימשיכו",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEJtcUFsaHZES3oycTdhcjh1SGQ2TVJDVlhZYW04YUhqTkNPZ0t0WE5iSmJudnZPamo3aVpiNmIxRmdWQWlSblZXRHE2eG8yNG50YjhxeXRCcXl4LU8zbUdCZF90YWdNYkNpR1VtNTl4NWYyRUswN3dBaWF6UGpNaDJ0VjUtd3RzVnBHNmhLSjNPZGVybXM5MnlLS3BzVS1Ka1piSkV1OHg1UWs?oc=5",
