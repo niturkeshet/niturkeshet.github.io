@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T07:45+00:00",
+ "updated": "2026-08-18T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Likud primary vote count completed, with Eli Cohen taking top spot",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWGxjdUlja29qcG5nWThjUlBkcWg4R2dMY242aVM1RTJ5MnMyQ2k2VDVRaERWREZtWE5HSXR3c2l0OWZJRTV0TGhjSXZkS29wRjQwbTdNY0NVeUVpZkFtN1o1QTNOZlV4OWYzQU1sX2plbGgwcFNpNnFibUluVWVOYW9SUlBvbUkzckgwMllUSGFBMlBCNG9KVzJVd2tDaEpFcVRIS3VDZXFoSlctdl82UQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "\"הפשוטע\" שוב הביסה את המתחרות, ערוץ 14 ממשיכים להתרסק",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IWHVxRzRQYWlWTVNqSDZLeGVpQ3NDcVRSY0FnZ05hMEFwbXltVjNRRjhnS25LNEw4U19QUDk3NkJib09ROXhkYk9pdG12MFp3NnRvYVBIQkVKMEpNdUozS19R?oc=5",
