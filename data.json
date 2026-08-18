@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T09:00+00:00",
+ "updated": "2026-08-18T09:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -145,7 +145,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "גלובס · גלית חתן",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,27 @@
   }
  ],
  "items": [
+  {
+   "title": "\"הונאה\": תביעה לא שגרתית של בנק לאומי נגד מטא",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001552609",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-08-18",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true
+  },
+  {
+   "title": "ההישגים של נתניהו בפריימריז - והכישלונות",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IVnVvTE5iMnFVSE9DR3poUEZFLUV5OHJmbXFKRFVVeGpnRW5xVmQ2ejBFLWtYRFFuanJCUmVoM2RMcFNvM0oxeUk1cV96UWx5aVR6eXBDNG9sdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet.co.il"
+  },
   {
    "title": "Likud primaries: Benjamin Netanyahu hails new list as Eli Cohen wins top slot",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03VlI5TUhTZnZnX05UZUhYT2VXeFVJeDlLV1dKTTFPMl83bFVZM29sLWFqQWhJM0wyYjVVUjNGTW1Gc2FMWUphWGZUbUR5UUJ6dHlnRUhvNEF2MkQ3cnBEUVB4UDR1Zmd5?oc=5",
