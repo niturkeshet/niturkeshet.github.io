@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T04:45+00:00",
+ "updated": "2026-08-18T05:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,7 +163,7 @@
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -306,6 +306,26 @@
    "keywords": [],
    "pv": true,
    "publisher": "israelnationalnews.com"
+  },
+  {
+   "title": "הכל בשביל הקול",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9USFFZWXFoSW42Rl82dDRNamNRN3ZWV1ZCRC0xQWxHVjdQeU5BNGtnZlkwY1RaaHBmdDMyRG9MRWtDVGdyWEFMQTRtRGVBWXBVNHQyTDlxODA5S0taeE9GeUh3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet.co.il"
+  },
+  {
+   "title": "מדגם הפריימריז בליכוד: אלו הח\"כים בעשירייה הפותחת",
+   "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQeDktaXFZWll6RFpKSjB6aWJEVG81dXI0cTZSd0dQYjkzNVIyRFpRXzh1WWlnZF82QVhCZWVkSWNET1dLRWc1MDVqVkdGUzlTV3FQRkljVVUzU1pyR0RMcVpTZlNpN1FFNTFtWmZxM2pfMEtRaFRPMjZCUDBpN3JqWVpKM1doMGNCc1pFb2h5NDBndElIMDlmbk90cENfb1RVMndaelZRdGVIZ3BGRzhCeUxrb0pPamp5bkhLRGYxLW1NZHJSdlY1dXlUVEJNVzJnM3c5eHRLOVdUZG9kekV2ZzhfNzd6MTFIU2E2eXdndHBQeHpBbXNfSTREWWNCX3QzdVNjVzBMZkFVbUhEa1FsTEhNYWRXN1c0YWVLZnFtMVV0ejZJLWpvZlAxQS1jRnFTX2xaZHlEWThZMXIxM3ZNZnFGb0YtT1h6UXpmUVBsU1hmWFd3UnUwTldUSFdsbzY4ZGQxMFpCa2E4Zw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
   },
   {
    "title": "בדרך לתוצאות: ספירת הקולות בליכוד בעיצומה",
