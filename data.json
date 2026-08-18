@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T03:17+00:00",
+ "updated": "2026-08-18T03:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -174,103 +174,99 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "Cohen, Levin, Ohana and Regev top Likud primary, with over 60% of vote counted",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYklwMmkwOHdBOHBWVUN4TFVxaWVSclNZcl9mS0Y2UDJoUVNrcGJuNFQ0amtQVTZhMjFTRkpNRmhrOTE3bzdFbzl0ZnBZRmtMQTE1YnZFaUJjcUtaQjRNWldyemlEeVh6d2lsVTNhelFQYjlEc0hLbnU0aTEtTnQxQ1B5V3R6QVJFR0hpUG11S2ZPWHBDTTNUX1Z6LVJsblFUcFRub25MSGXSAa4BQVVfeXFMTm9zXzFJbUpGLVNIMUVpRWhZdTIyUldldGdlQnYtR2UxWFhGSXc3ZjRHMm5LdmJXMnFuWTBUT1R3Nk5TLUlJUXJ5YzRQcllHUVFsaGRoOUJWRzhoajE2SDB4R21qdUhicFgxS0l1cVpVTUphWWhpUVNMTWloNWRDMVJobjA0djY3U3lIQjI2amlCMFExd3V6d3ExZlZiVXdsZktlcWRPOUtRQ1hKNVJR?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "התוצאות מתחילות להתבהר: כהן, לוין ואוחנה בצמרת",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03b01wdThTbXRHelVpbVV0U3R1SFBlRG1mRlFYUWx6LUVFUXdJV3lIaEMzSjZTY0dzNkNxZDh3cFlvYW1SeU1iXzJ4RkhCbW1TdmM2UkJ1R0JlTUpXYVhQN0Nn?oc=5",
