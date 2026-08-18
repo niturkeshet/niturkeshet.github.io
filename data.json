@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T08:45+00:00",
+ "updated": "2026-08-18T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,13 +193,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -211,7 +211,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Likud primaries: Benjamin Netanyahu hails new list as Eli Cohen wins top slot",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03VlI5TUhTZnZnX05UZUhYT2VXeFVJeDlLV1dKTTFPMl83bFVZM29sLWFqQWhJM0wyYjVVUjNGTW1Gc2FMWUphWGZUbUR5UUJ6dHlnRUhvNEF2MkQ3cnBEUVB4UDR1Zmd5?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "הפריימריז בליכוד: מי נבחר ומי יישאר בחוץ?",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCcldkSFdqbFFJM3FLeF9yN3lfVGgwMzRiOE5aVVh3cmxNdVB3S0tGMDI1YlFhSi1rVnFfWk02Q2sxVDhhZlF2c2JGQ2E0SmxwY215T1ZUdXA1a2RzTE5lb2NMOVI4Q3oy?oc=5",
