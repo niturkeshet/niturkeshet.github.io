@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T02:30+00:00",
+ "updated": "2026-08-18T02:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,19 +175,19 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Eli Cohen holding top spot in Likud primary, with over 50% of vote counted",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbmxNLXNibng0aUI2OHJiWG5BaGpPMG14RlAyTUl3WHBtNGdhem1wN2xielJLT2xNRkUwd3k4SVpvczhYY3IxV2hnODlZQV9WTFQ2dHRxRE1kT2lWeEd2WmlmOUU5Y3pkQ05ZUEwtc0xaeEFBLUNZRU5JRjQ2anBhQ092bUsyMnBnRXAyRm95SjkwMFl0WUowN09rRXNUTXdpdkhBSk9DY0lkZzQ4YU9rQmsxMi0xRFdUeFE?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "Likud primaries | With 35% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana lead",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wVW9XT3RseHhvOXNJN2g3enFOWE9DNXVVblRYV3hEdHhjcTdjSzNzX3BKUDFYU3g5Z0hCdWlYZlV6YWJURnRndDdCSzJzY1lwajVDc2xtWFF6QQ?oc=5",
