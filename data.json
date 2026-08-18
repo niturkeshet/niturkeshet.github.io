@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T16:45+00:00",
+ "updated": "2026-08-18T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,7 +181,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -257,6 +257,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ערוץ 14 מעורר סערה חדשה: \"מונולוג דוחה וגזעני, הם מפחדים\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uMFBIZk5lLWRWV3dEZE5KTjhCZWhydHNza0dMRkJHQ0F2RThzWG50SjgtRXZGNVFBTlJVWmkteFFoSE5RcC1RcmFEZm5zMW41NW5lZXdSYnJOM0FB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-18",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "\"מצנח זהב\": השרים והח\"כים הפורשים יקבלו מענק הסתגלות של עד 312 אלף שקל",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9icFNUOWswUjh6cXN3eDBWcDIyd2RJVVhPdC1jaEFkVzRQWFFwUE9pT2l2SnhNcEVra19KTXgwXzEwS0tPWHZ3d3I3N0d0LUVmUmZieEJ5UzBtUDRLamZTZk01OUtURHNZ?oc=5",
