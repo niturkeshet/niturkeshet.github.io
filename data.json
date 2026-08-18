@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T06:30+00:00",
+ "updated": "2026-08-18T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -151,7 +151,7 @@
    "source": "גלובס · גלית חתן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -193,13 +193,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "דרמות בפריימריז: גוטליב מחוץ לעשירייה, ברקת נאבק על מקום ריאלי | אלו השרים שבחוץ כרגע",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRM1RDWmt3dUk4d05GdmVGQjFLWlRoN1RwR2xWUFZXbWdoTlBfVE50OWc5OU5Wd3htYmtMNHlLa1k0dFYxRk5hVVB3RHRFSDNOOE5nSU55NnNwdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet"
+  },
   {
    "title": "הפתעת הרייטינג: \"בואו לאכול איתי\" עוקפת את \"פאוור קאפל\"",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80VTAycEE0SUxtNkJET0x2VDNvT3dEUlZQQXp1cVJpSTRTejBlTEQ5dnkyLUZ0ME5Wb3VYaTNPVnNockpzcWhDVFZlenZCb2tzX2UzVWRqRkRjMmFyZDV5a2d1bkFONjNSVC16MDdGVHVSTXhOZktKY2ZXV0FZbGM?oc=5",
