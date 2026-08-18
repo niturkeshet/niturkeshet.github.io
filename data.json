@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T15:30+00:00",
+ "updated": "2026-08-18T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"מצנח זהב\": השרים והח\"כים הפורשים יקבלו מענק הסתגלות של עד 312 אלף שקל",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9icFNUOWswUjh6cXN3eDBWcDIyd2RJVVhPdC1jaEFkVzRQWFFwUE9pT2l2SnhNcEVra19KTXgwXzEwS0tPWHZ3d3I3N0d0LUVmUmZieEJ5UzBtUDRLamZTZk01OUtURHNZ?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "Likud Primary Reshapes Netanyahu’s Election Slate as Eli Cohen Takes Top Spot",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnU4aXp3Q1lVbXVBOGI1QXpweWFVa2ZoU25pdUlDRW90VlIydmlFVEkwVHpTcHozeGpIREdtM3J1MGxBY1k3MlVCc01qbHVMUE13S0tUdllMTm9iZ2V1UnJQbl9mWHZQTFlWaDVLOVZTOTIzMDhwOU03NF9MUGRrQWtJUEsxTDd4YlluYmlGa0o1WkctVGw1UEY0NWM2NnBkbVRQcVlFN0w3dFBjVmlBeUJjX20?oc=5",
