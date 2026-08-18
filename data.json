@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T17:00+00:00",
+ "updated": "2026-08-18T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,7 +181,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פריימריז בליכוד: נטל הטירוף | 19.8.2026",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM0hhSlNnVlFBUjNvbVI2SVctSWVLSjlQZW93YzhQRjhiRUd5RkV1RDNTZXFaS0Q1bXBEVU9GZ0ZGNldQMWJDRVZrbnI3cFR3Sk5ycklISHR6ZWJXQzVlQkNsdTFhLXMtZzRqMkJSQXBhMHpfMk5yT3FZU3pBTzJrSl9QSXp3X3kyMTVxRU92SzRtUUZRTVI5c2poZnJiSVcwYjRYZ29SZ21GMFJTZWR6NmRZX2wwalpTVHc?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "ערוץ 14 מעורר סערה חדשה: \"מונולוג דוחה וגזעני, הם מפחדים\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uMFBIZk5lLWRWV3dEZE5KTjhCZWhydHNza0dMRkJHQ0F2RThzWG50SjgtRXZGNVFBTlJVWmkteFFoSE5RcC1RcmFEZm5zMW41NW5lZXdSYnJOM0FB?oc=5",
