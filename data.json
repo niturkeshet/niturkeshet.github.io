@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T15:15+00:00",
+ "updated": "2026-08-19T15:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "The Blogs: Likud’s 2026 Primaries",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wTy1IS194TU9aQ0NWTjM0dUhYcm5VVGd0ZjJHZmlmR2hDNXYxVmR1aG1xSm9TemlSMXpPTmM5UlhTZTRCaHpKS3JMSEh5QzFuelplZVhuazJWYkU1cFc0aFBDcUo?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "מה מסתיר השר אלי כהן?",
    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9aNW5PdV84RlpMMk1Qa085Q1ZnVk5va0VLdUxPajVqc19Mbnd4aUpaS0QxWFpjc21zRlFlejFqaw?oc=5",
