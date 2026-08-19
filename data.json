@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T22:00+00:00",
+ "updated": "2026-08-19T22:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הפריימריז בליכוד (17.8): הקלפיות הוצבו בחדרה, אור עקיבא, פרדס חנה, חריש ונתניה; אכזבה למועמדים המקומיים",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tcWNiX2VsZ0pvYU9NWWQ5ZWJydWNkN0FXX1Vkd0ZEYktxZTBLQzFFOTl3TGx4dEJlV0E5RlN5SG1nZkh0NnhscFI2Qms3ZFJxZld3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מגדלור ניוז"
+  },
   {
    "title": "הליכוד: המפלגה החרדית הגדולה בישראל",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JRVVlenpPN3lkU3A0aF9OS2plbzVTX2hnSTJ4MHUxOUlNeWx5R2I2a1hjV2dZUGw2SFEzQ0ZOOWROWDluT1M0bWp6bENmbTR6UVVINHBpcjdwMGhncnlYVTc2dXl0c0V0eHQyVmpn0gFuQVVfeXFMTklFVWV6ek83eWRTcDRoX05LamVvNVNfaGdJMngwdTE5SU15bHlHYjZrWGNXZ1lQbDZIUTNDRk45ZE5YOW5PUzRtanpsQ2ZtNHpRVUg0cGlyN3AwaGdyeVhVNzZ1eXRzRXR4dDJWamc?oc=5",
