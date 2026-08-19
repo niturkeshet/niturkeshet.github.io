@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T07:15+00:00",
+ "updated": "2026-08-19T07:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -288,6 +288,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "הליכוד אמר את דברו: פחות צעקות ופרובוקציות - ופחות דתיים",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrMWpZT2VPTFo1TDJBN2p0eGhObkhFSkpsaXhoVUI2b0k4dkNzRWVjeXV4aW5FLUM4alZZN19ZVHc0V3BoTXRKbHJlN0NQMDdFNS14Q1pnRUcxQkpHcWhTVGNUYVVtcWlaSVE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
   },
   {
    "title": "חשיפה: רשימות התמיכה של החרדים בפריימריז הליכוד",
