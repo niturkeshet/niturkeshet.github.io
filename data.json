@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T09:05+00:00",
+ "updated": "2026-08-19T09:17+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הספירה הסתיימה: אלו התוצאות הסופיות של הפריימריז בליכוד",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPZnZLQzJCUllvNmMyY29VTVZoSmloYjh2SjJPZGlHbmFPVXpIME8yZXpYMlp4SmNZY3hpUkFOd2lVWjB0MUswMjAxLV9lWnZzd0U2OXhROE9hbXptMmJIRmFESURHd0ExMC1OdE96VlBCVjFLdjhMR0RleGxoa0FPb1Z4ZHNKS0xNU2hLcUlaSTA3blBpbkdVWXpPS1Joanh6SDVOMktOYzA5ZVlNazh1Z18tVEUtSF9TYjVqMGpjaFR0QU1ndkVyai05M1lneXNiMFdnZERUWUdPRXVwcTBXd1hvdkZFQTJMVWtLRlRTb2FPNHFCUzE3emR6OVBtaVpiU0ZZb3NPcmktX0E5MnlNTUZQQkF2VV9MYmtYU21oVks5SWFRQzJGNVZUVjBsbFVkbzlsbFFPZUdOckRPZ3lnUmFLUG53cFh2TzZQZkZYMTNsUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "עלון השבת \"עולם קטן\" מבית ערוץ 14 הופך לשבועון בן 80 עמודים",
    "url": "https://www.haaretz.co.il/gallery/media/2026-08-19/ty-article/000001a0-18ca-dd7a-a7e6-3dcae6ad0000",
