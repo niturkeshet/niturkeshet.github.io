@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T08:32+00:00",
+ "updated": "2026-08-19T08:48+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -299,6 +299,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "\"נחגוג את הבעיטה המפוארת שקיבלו",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOc3Jtcy0yN0pmS3dKTzdrQUVkbzNHdnV5bWw2eGlDdGdUNVFzZHZIRmM0ekxXVEtGYlFPMjgzTE1YWW1mTFR5VXlhaWRvSWZLLTVld2lDelpTWENNR3ljUnlQb0h4V1F0MXNQNHhYOGdpTWhnR2t4cE9vUU9JQkVtcm9tVng0aU9ialN5UEJUWFN0bC1KeU42cGJkX1dLdHBiQ1BURVh3a3JmTGVpWUVrVFA1TnVHdzM2a1h2ZkxHLVVUQkUzTFVqUXVUNlR1ZVdldU1kTHZMTUEta01mcTN5LVlkMmVoeXc5RGNSaXZwYnVNd3dwc2hXQ3Q4eXQyTGNldFFKMDFxMnJ0ajNTOUM3V3RWNFpzQXhzSHJhaGtOOEtpa2ZHRXhPdlFPakpUY19TOGxSQmQxNVk0ZUJtOXRVckpOQVZNVzVmWkJWQl9odmhnZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
   },
   {
    "title": "תמה ספירת הקולות בפריימריז בליכוד: זו מפת הנבחרת המובילה של המפלגה הגדולה",
