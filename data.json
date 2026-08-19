@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T12:00+00:00",
+ "updated": "2026-08-19T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -205,7 +205,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -229,7 +229,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אני נמצא במקום הכי מרכזי בהרצליה. לידי חנות להשכרה ריקה כבר חצי שנה\"",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3dtSmI5WE05b3lwdVQzc25ucXp1WUc0YlVRRUgyZFFrOFJES2VHZm5tTTdVN1prTms4RDg2RE52MXJ5YVprRVZMcHRxY0dtb25JMEVCVTNTV3VKY3Q1U0FvNGF6eUgyeHFpWHBuamwwZkZxOXdVZEhsYXdxSVc5UmdrTy00d0FueVJzemczdzFNUHU2RTRSVnc2bjdVUEhwUzFyYnJqTURRVHBpSVE?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "הבאת מצביעים מחו\"ל: ואם אלו היו חרדים?",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LaWxlVUROSDlsODd1OTJrZWk0ZktkcU9mU0lnN1l4MGJCQTdsRVduX0tZc01lOEh2LTlQZjZ4VG9DZEFacmFXYQ?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-08-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "inn.co.il"
+  },
   {
    "title": "שנים של הבטחות ובעיית הקליטה בחריש עדיין לא נפתרה",
    "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOeUgxWUFaNlZRQ3FsNXo1VUFmNzJIeWNweUlpd0tQNVpZRTlQWTFNdkNsSnpLSEx2MDJrc184UWpVakFTcUI0R29fcHVsTF9RWDIxUVJDa3RhcmJEN2JFcW9obmpFV09WT204cjVkcjZSYjV4dzdBQ3ZVakl3T3lPUUFaTldYZjhNaFZ1WnE4aGdNYWN0ZGZISkRrRXNQZFltdUlCSzhQU19GTC1ndzRNNXVBcFAwM2Fnem9YY2htd21Nc1AycTBXTUY0MGR5WjMydUtPSzBVRm1mQ3dndzIxVWdyWld0RllheE52UEdMWEY0czVMVmNNUm9qSURUbmFoRnhadDNmZThIdnJfLXZ6c0hEQXNQSEtJSUtPdjN0Q3c1eW5zdjdtWVd1T0ViTURENEZxSkhhTGVhMm9oa1lQSlNQaGlVakFOWTg2LS1kX2lSM09ObEtZUWR4ejdzakpnRGZaQTNBaTZodDVjQndIYTI4VFd6b0otZ3M0aGtDZnppMlJPai1YN0l5SnZ1ajctWTRMVkJWUDN5WkFLRkw0ZDlZTzV4XzBsQ0phRWFaZm4?oc=5",
