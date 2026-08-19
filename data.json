@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T07:30+00:00",
+ "updated": "2026-08-19T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -169,7 +169,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -187,25 +187,25 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,17 @@
  ],
  "items": [
   {
+   "title": "עלון השבת \"עולם קטן\" מבית ערוץ 14 הופך לשבועון בן 80 עמודים",
+   "url": "https://www.haaretz.co.il/gallery/media/2026-08-19/ty-article/000001a0-18ca-dd7a-a7e6-3dcae6ad0000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-08-19",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
    "title": "לקראת קנס עתק? המשפט נגד מטא על נזקים לילדים יוצא לדרך",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001552742",
    "source": "גלובס · נבו טרבלסי",
@@ -290,7 +301,7 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "הליכוד אמר את דברו: פחות צעקות ופרובוקציות - ופחות דתיים",
+   "title": "הליכוד אמר את דברו: פחות צעקות ופרובוקציות",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrMWpZT2VPTFo1TDJBN2p0eGhObkhFSkpsaXhoVUI2b0k4dkNzRWVjeXV4aW5FLUM4alZZN19ZVHc0V3BoTXRKbHJlN0NQMDdFNS14Q1pnRUcxQkpHcWhTVGNUYVVtcWlaSVE?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
