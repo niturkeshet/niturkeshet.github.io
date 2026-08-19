@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T18:15+00:00",
+ "updated": "2026-08-19T18:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,19 +187,19 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
