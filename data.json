@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T19:15+00:00",
+ "updated": "2026-08-19T19:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,7 +258,7 @@
  ],
  "items": [
   {
-   "title": "לפיד המתין לנתניהו - ועזב בלי התדרוך הביטחוני",
+   "title": "לפיד המתין לנתניהו",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KaTBYMGhOMXNUZDQ2T2FSMUgzMlEwTENPTHY3TVNkZjZ1X2xXdTVmTHpjNFVSVVJPckRncFhKeDB1QTlVMVdpSVM3bWtDcHQ2MW8xRG5GWDBENzg1UHFmM3NR?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
