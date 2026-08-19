@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T06:15+00:00",
+ "updated": "2026-08-19T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -145,7 +145,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "גלובס · גלית חתן",
@@ -175,25 +175,25 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,17 @@
   }
  ],
  "items": [
+  {
+   "title": "לקראת קנס עתק? המשפט נגד מטא על נזקים לילדים יוצא לדרך",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001552742",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-08-19",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true
+  },
   {
    "title": "גוגל נלחמה בו בכל הכוח, אבל עורך הדין יצא מהעליון עם ניצחון עקרוני",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001552670",
