@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T22:30+00:00",
+ "updated": "2026-08-19T22:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,28 @@
   }
  ],
  "items": [
+  {
+   "title": "Israel: A poll suggests Netanyahu's party will be overtaken by rival Eisenkot in elections today.",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYnZERTYxbTNCVWVqTDVOUk1OcXMxc3lwU05ZeXRKT3hkQWNYNWtqQl8wd0Jna0RfOEdNeGlOMUY0Q1pmOU9rSGZSVFFIX2QwT1dCaWhkVUJCamM0VTRkYWxaTl85ZWpSTzJRWElmV0J4T3kxcldWaUh2Tml6dnVtYTA5OHk5WkF0aGgtSGx3VDFraDN1cjJtcnlBVXliNlZqbW9GWmtvUGxsRHk4dkJLNUtlUkRWdTYxX2tyNk1BTEJvQ3FZdnNRaUU3UjJzVVFpS1c1YmdLX2dtS3NvbnBOcGFCM2U?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "agenzianova.com"
+  },
+  {
+   "title": "המלחמה על היוצרים: יוטיוב מציעה מיליונים כדי להרחיק אותם מנטפליקס",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iLXA2QzdWUHZvSW92UldOOFVrWXZPWWhNYkJFNjBLc1pkSVhuU3JYdGlRSnlDUUVVS1hLbFdGdHFRcXdUSnFqVnU5dHFORWIweEtyUFlETmNQOEw0Mmszclh1SHhRX19UVzJjbE0tenY?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-08-19",
+   "keywords": [
+    "יוטיוב"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "הפריימריז בליכוד (17.8): הקלפיות הוצבו בחדרה, אור עקיבא, פרדס חנה, חריש ונתניה; אכזבה למועמדים המקומיים",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tcWNiX2VsZ0pvYU9NWWQ5ZWJydWNkN0FXX1Vkd0ZEYktxZTBLQzFFOTl3TGx4dEJlV0E5RlN5SG1nZkh0NnhscFI2Qms3ZFJxZld3?oc=5",
