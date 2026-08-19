@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T07:45+00:00",
+ "updated": "2026-08-19T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -299,6 +299,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "בתום ספירת הקולות: אלי כהן, אמיר אוחנה ויריב לוין בראש, נתניהו ניצח את דוד ביטן במחוזות",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1qQVZhZTk0ZFRQOE95UHFfX0NsUVJvNDFOMHR3UTJibkNWUkNkTE5WRm5LZFcxcExsa0VFNnV3eFQtVHEyVkdB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
   },
   {
    "title": "הליכוד אמר את דברו: פחות צעקות ופרובוקציות",
