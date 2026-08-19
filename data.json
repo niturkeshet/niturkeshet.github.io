@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T05:15+00:00",
+ "updated": "2026-08-19T05:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -151,7 +151,7 @@
    "source": "גלובס · גלית חתן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -257,6 +257,17 @@
   }
  ],
  "items": [
+  {
+   "title": "גוגל נלחמה בו בכל הכוח, אבל עורך הדין יצא מהעליון עם ניצחון עקרוני",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001552670",
+   "source": "גלובס · גלית חתן",
+   "type": "site",
+   "date": "2026-08-19",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true
+  },
   {
    "title": "השקעות של מיליוני שקלים: הערוץ שזמין בינתיים רק לכ–275 אלף מנויים בשלט",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObUt4NUh3WUZwVm8yakhvd3RpWUIyTnd6N1o5SkVnOUcyczRZMWFHekUyT0ItTlBOOE15TVdDVWpqaVpXdzM3UzREMHYxR2xMVG5Ea1dia3VWcDVKZDJCcGFERFBjcy1tNTI3cnJZekNWTkM2V2d5V1RYX0pPUmVUWnNXNnJjWVlhT3RLT25tWXNyVGN0X3pCSTlkUTZHM3JNM3VSUnlpQVlCM18zRUE?oc=5",
