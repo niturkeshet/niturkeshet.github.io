@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T16:45+00:00",
+ "updated": "2026-08-20T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,13 +193,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,36 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ החליט פה אחד נגד החלטת הממשלה וקבע: אין לסגור את גלי צה\"ל",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQbnE3X1p6a3Z4SjkyeUJDNUxjdTZQVXItNXhWX0NrWjA2OUxQRzdxY09qT0lUdXMwdWZnbENwRHBFWnAtZ19TVHRhWFgyNlNCajFrTE9NWENVZE1aZ2ZWUXJsSDZTdkpIVGc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
+  {
+   "title": "בג\"ץ פסל פה אחד את החלטת הממשלה לסגור את גל\"צ",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDlUQ3dUaGFYWHh2LUtDVlo1ekI3Y3llaXMwelBpYnVVUDFMNWtjQ0FkLTIwQldhaTEzUndYVTUtTE5Pb0pja1ZYdnJreEhpNFV5X3VxQ0tiZjNBSnh0bHRjZzhXZlBzNWdhOTlnVW0teHRneTVqODVsLVIwN2NJZXltZ3l6NHRVVVZMd05XQkZlTWt2Y1lWVWJMM0JWUDg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "High Court strikes down Israeli gov't decision to close Army Radio",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TOWM5WHdqVHhJQkF4N2VUMkdsMHpORUYtSU9ZakNsRmlhUjU4c1JRNC04YWpQdDFxblNkUFQwYUVKbjAwdlNDb2FjdHpKcEhhcVdRc1dsY0VvZWoz?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "שר התקשורת לממשלה: אל תיכנעו לבג\"ץ, סגרו את גל\"צ",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwcXN3N2FyRVp6MFRWcjVObFhoWmxIQ3h5Q1hjWU5aQ0Y0cy1xdkc0ZFVpQW9QYWpFcW55MWlnNjdkcDJOalYwMlhaV0pnQQ?oc=5",
