@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T15:15+00:00",
+ "updated": "2026-08-20T15:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,19 +187,19 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"צ מבטל את ההחלטה על סגירת גלי צה\"ל",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPZTZxbmV2NnpCR28tU3l6anZ6SlVZRTNfX1BpeGNwR21DcnBZazE2ZncwdEVzN2NTTmY2aEhaamIxVnJ0VHIwUHZKdDVfTHN2NWI0bHBEbXJnSURvM0ZuNTVmQzYzcVV0T3N0OHBqMEVtMEdkNkhIUEJpaG1wVlVuQlNlYlZMNGhsM2MyWHpuTUQ5elZhV2pvQW5nOUZPdjhmaGZodlJ0VUlmaURLdzNXWW1wQlV4Z0VSVkNaVFBuWm5rTkZQd3UwYkhyYTNIRTljckRMeEZsemhaWlA5YXNzTnA5M1o4X2NYelFUSENhYjBRaG8zVUxVMGU1Ym9FMm0tMFl0NTVFb3FQM3FmSDVGU1FoczBlenhwcjNzV1Q3NUR4eTFEUWtRaW41UW16Z3lZVVlLcw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "הפריימריז בליכוד: אמיר אוחנה ראשון ביבנה",
    "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdFNqaGRSS3VadnVoTnRnaWxIUFJ2Y2tHTnloMG5RUFNoUDhPN1pjTU5IcTZUQWg5Y3Z6ejR4cmxMSFN2RDB6djgtQU9neTJhNUlhSWlGd05QZlVfRThaeFdBY3N4cUxPSHZJUHMzU0IzRGVZczJPWkF1ZzdOU3BqYktpZjJINkl1WHdLQWVLZjVTYXh0NG53Mk92QUhiUjhqaHdMdnlqSDJzZmJfWnJsUGtlcExmcjRXb1Z0bzd0dDdHR0R3Sk95RV9xdWJJbWxFZHJnVzN2THZkMDNYYzdGZ0UwUWRicWF2UXFHaDJ0ZDlEQUQ4U245ckkwaldlVGZmaHVtSm1TQWJZRk1lejFkN21pbk81Y0I1Z01BRXVZWWh6RVhDOUpDMTlaQzBwVy0yS2pIOW9KQlV3X0dELWJwaXhPSQ?oc=5",
