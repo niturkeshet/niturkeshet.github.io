@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T18:45+00:00",
+ "updated": "2026-08-20T19:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -268,7 +268,7 @@
    "publisher": "Haaretz"
   },
   {
-   "title": "בג\"ץ ביטל החלטת הממשלה לסגור את גלי צה\"ל - \"מניעים פוליטיים\"; \"סתימת פיות\"",
+   "title": "בג\"ץ ביטל החלטת הממשלה לסגור את גלי צה\"ל",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VUmpYVkhoSXljOUZSa1YtcG42dThEVWJnLVFNRXpHVGF6Smg4N0k4N3FTOGFqakpveWp6UTJjbHdlUFlPempaZl9iX1BoTEMwSTNwcEhXYXFySHdPQWNYd21fSVVyT0I5N3ZObG5ZcmptUQ?oc=5",
    "source": "חיפוש גוגל · גלית דיסטל",
    "type": "google",
