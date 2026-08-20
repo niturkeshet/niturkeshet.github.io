@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T17:15+00:00",
+ "updated": "2026-08-20T17:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,19 +187,19 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
  ],
  "items": [
   {
+   "title": "Ministers fume at High Court ruling, vow to keep trying to shut Army Radio",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOURTbkFsZDBvWkxmdnNya2R2M09pWnY2WVVRUDJkb0dpU2pKbng3QnBBTU5BNXh0QXI0TXdJbExmRnVWNjRpWFN6YVdiaXZDUk1DMHU5N015dGxPQ0NqZ2tTXzlNQXR2enUwZVpOdFY5NnNlRGJsSVY1T1A5aDRJZFNnUkhWSVZnSnZwa1FNbDN5NXltaG55ZmxPdzUySmcxY2tYTFdPRjA5QjdkY2FYSVpxVS16eFFONnNN?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
+  {
    "title": "בג\"ץ פסל ההחלטה לסגור את גל\"צ • קרעי: מי שמכם עליונים על העם ונבחריו?",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHcFctMVFSZjR3WkdaOF9oN3hRd2k3dHFiSndnSjRCVU1GRmVQTHRHYzRiUnlMc0hNNHJQaDIzdVFVZWdUcFYw?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -268,7 +278,7 @@
    "publisher": "חרדים10"
   },
   {
-   "title": "\"הפיכה נגד הדמוקרטיה\": השרים תוקפים את בג\"ץ - קרעי קורא להפר את הפסיקה",
+   "title": "\"הפיכה נגד הדמוקרטיה\": השרים תוקפים את בג\"ץ",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rV08zZGtCNC1IaC1fZURKTWZXWFRmUXpYcW9yNUJraEZpWHphVFloSXJJMlA4bXFQWlFabTk5cUV1dDB1THJ5eHpvdw?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
