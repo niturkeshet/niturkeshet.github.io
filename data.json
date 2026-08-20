@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T04:45+00:00",
+ "updated": "2026-08-20T05:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -266,6 +266,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
+  },
+  {
+   "title": "אתמול טרוריסט, היום רוצה גרעין - והאם ישראל בדרך לעימות עם טורקיה? • צפו",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WdEpNSncyV2E3UGtVb05PcGZDYXhOTzNMQzFFNi1PYkFLMHJhRURNcXlJd0tKTExBYzdzVUg4bjNSY2dZb2lmQS05M21lZ1JJQVV5akN6YjJxUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
   },
   {
    "title": "העיתונאי אריה ארליך חושף את סוד השילוב בין עולם המעשה ללימ..",
