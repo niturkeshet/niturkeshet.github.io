@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T19:32+00:00",
+ "updated": "2026-08-20T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -174,103 +174,99 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "קרב ראש בראש בין בכירים בליכוד: \"אחרי תדרוכים שקריים - עכשיו זה בשמך\"",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUdzZ1N2xWZFlMdm9ydnJveFFoMGVtSHEwR0lmcW1hYnB3OS03TnBxYzBrTktLbE1aeHlxdmZ4Z1VvTGZJdVJDOEE5emJzd0ZKWjB1Tkp6cGdMUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet.co.il"
+  },
   {
    "title": "High Court unanimously strikes down Netanyahu gov't Army Radio closure",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQmo5UXJFSjN0em9Ucm4xN2dnaURkaGdFREUxanlray1wVXdzM3dpcG5ydkZyajNMcTVtbVRrZTF3cW1PVXRUQjI4OUN6YnNaWk1zc3U2MjNmVEwzVExJazZMRjJmTUJyVG40MENvTjY2bDFmSkpBVHNhSDNIblFCb1dReHZBSUhCMDBNRUZfbkpfcG80YklmTVFSamVqTUhuNTFNNG40ZEtWNTA3eC1OWFhsVlF5QnhBcWdKVGg5VTFnTHNKSHZ3NWtGU1VmYVNVZXBINUIwM1FhOVh1ckNLSHZmdS1zSWc5cmNUU0V3b1FaaGtYSWpOTzRQNDB4NkNNNENF?oc=5",
