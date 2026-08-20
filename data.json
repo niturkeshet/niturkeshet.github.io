@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T20:15+00:00",
+ "updated": "2026-08-20T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"שרעך הטוב ממך יעשה זאת\": קרעי ואוחנה פתחו חזית - וזה נהיה אישי",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HR3VrYzU3cEh3ay1VTklLZ05WRlVMWVphdFhGUXYyZ1BWa1BWODg3UGo3RkdLMUVsRDVzekdUVHVYbzdVb2NWblJXLW5nOVZQRlYxajF0ZTFYTFhZUDhDVnFFT3k?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "פיצוץ חריג בתוך הליכוד: \"המתפקדים אמרו את דברם\"",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OWERQU2ZwSjBjQnd4LWhBOHJBa2FSMFhocU1kRFB1Umt3U1hMLVR4NUVpTFdrZ240VkJhSVR5MUN3S0kwMGQ3Y0czSWpnY0N2eHRuSWZ2WGVrMWJXUzNiekw5ZlhvU0lMMnVQZFZ6azZvZ9IBekFVX3lxTFBQRXgxdkhienlXS1JLU3ZvQ0VRWE1ZeXBFSlRqN1prb0tQWU5SaGkxeWFFSExwU0hURE5lOTZUTTdXWjZnZDhsUVJVUjBpUXhnWE5BNDA3ZVlUWHdyeEtFcmR4bW1wdkM0ZGdyOTVRMjJ4SkFONElqWndB?oc=5",
