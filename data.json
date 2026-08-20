@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T07:30+00:00",
+ "updated": "2026-08-20T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -205,7 +205,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
  ],
  "items": [
   {
+   "title": "ייצוג החברה הערבית בתקשורת הישראלית מתחיל להשתקם, עלה בכ-50% במחצית הראשונה של 2026",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iNzVTZm9iR3pfQi1HMjJRR2FmSW1ZTXRuXzVpTmtiV3VWdEdQS2pFd3FaRjlZSkRYM0VkRWc5d05USFZRTFZfbA?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
+  {
    "title": "שלוש המסקנות מהפריימריז בליכוד",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NbEtVckRVQ3hwNTJhU1RIVWtVRl82dVFBTFdpV21vY09HTVhpMS1qSlk5VWR3bmZLSW9oMEJRMEE3R2NfNkdKeQ?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -273,6 +283,16 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
    "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "קריקטורה יומית | 20 באוגוסט 2026",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEVVOEFEYUZaekFXeVZLNk83VmpXZWY5X1FnbmphV291YWl1dlhQVTdWWkxfVG0zaG12Z1dpMV9CQUtEX1RMa0VvRHJlZzhoZ1lNVWRrQWtUQ1QyWl9Dczg5X3pMVG5BNzMtWXlUZ25QTmRjTkVRbzVLU1JKYlJvUE1icFlqbnJXTll3Wl9WRXRoMFRhR3RVOGlrUS1FQnhodmNtNkF0TXplSVFwVTNQM3FKTQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-19",
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
