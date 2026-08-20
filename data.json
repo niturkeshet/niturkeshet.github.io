@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T11:00+00:00",
+ "updated": "2026-08-20T11:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -293,6 +293,16 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
    "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "מנסור עבאס מוכר בית תמורת לילה במלון",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXpGdk4zWUNDbk9UajhGOHJxa0tYY19sZy1YOHpVNHpiOWFoU01KZkh3eUptRW9xYk00U2lDOThlRmQ2LUZra0ZSNElDT3E1QVFvSHlLdXBKc1pOT1hENU9RdXN1OEI4SndqSjBQbnpOSDVVQmhMMlI5OGdNaWwxUmVZdHJFVXpRMndJby1xdDZpRjU2S1VrWlRnaUEtckxkeExWcmYyWHlLSmlVWkow?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-19",
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
