@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T17:00+00:00",
+ "updated": "2026-08-20T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ פסל ההחלטה לסגור את גל\"צ • קרעי: מי שמכם עליונים על העם ונבחריו?",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHcFctMVFSZjR3WkdaOF9oN3hRd2k3dHFiSndnSjRCVU1GRmVQTHRHYzRiUnlMc0hNNHJQaDIzdVFVZWdUcFYw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
+  },
+  {
+   "title": "\"הפיכה נגד הדמוקרטיה\": השרים תוקפים את בג\"ץ - קרעי קורא להפר את הפסיקה",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rV08zZGtCNC1IaC1fZURKTWZXWFRmUXpYcW9yNUJraEZpWHphVFloSXJJMlA4bXFQWlFabTk5cUV1dDB1THJ5eHpvdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
   {
    "title": "בג\"ץ החליט פה אחד נגד החלטת הממשלה וקבע: אין לסגור את גלי צה\"ל",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQbnE3X1p6a3Z4SjkyeUJDNUxjdTZQVXItNXhWX0NrWjA2OUxQRzdxY09qT0lUdXMwdWZnbENwRHBFWnAtZ19TVHRhWFgyNlNCajFrTE9NWENVZE1aZ2ZWUXJsSDZTdkpIVGc?oc=5",
