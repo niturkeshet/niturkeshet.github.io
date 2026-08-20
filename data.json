@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T08:30+00:00",
+ "updated": "2026-08-20T08:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -283,6 +283,16 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
    "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "הוא הכהניסט הכי חמוד שיש, בגלל זה אוהבים אותו בליכוד",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEpVS2R1R3BwX19jOG80WElFTXdWalE3T0NBWjNrNzFpX3BMN004NHpQU3Y2Y2duTVZraU9CVHVuNlhzVHpEbVAxWnpZVkhVdU5xSENZZ2pFTDNVV3RfeXNxTjdOVWZyNDdGRFp1RXBKalI3Z0o1MlB3MFVTNnpJWUdnYzl1QzI1TnhIUTdrQ3hyTmpqclpaVV9rWnZWalBObThGYmxKSlBpUWdz?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-19",
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
