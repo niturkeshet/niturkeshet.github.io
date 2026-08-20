@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T19:45+00:00",
+ "updated": "2026-08-20T20:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,7 +258,17 @@
  ],
  "items": [
   {
-   "title": "קרב ראש בראש בין בכירים בליכוד: \"אחרי תדרוכים שקריים - עכשיו זה בשמך\"",
+   "title": "קרעי תוקף: \"בג״צ משיג את גבולותיהן של הממשלה והכנסת. התשובה שלנו צריכה להיות - לא!\"",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uMXNuZUktQWpDOEZFQU5MQ3ZRS280R1J5YjVsX2EyQl9FVUZEeU90MDRQU0dhUlJLaW0yQ3FQMmM3WEZWeVliYWd3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
+  {
+   "title": "קרב ראש בראש בין בכירים בליכוד: \"אחרי תדרוכים שקריים",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUdzZ1N2xWZFlMdm9ydnJveFFoMGVtSHEwR0lmcW1hYnB3OS03TnBxYzBrTktLbE1aeHlxdmZ4Z1VvTGZJdVJDOEE5emJzd0ZKWjB1Tkp6cGdMUQ?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
