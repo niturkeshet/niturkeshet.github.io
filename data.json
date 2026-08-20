@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T21:00+00:00",
+ "updated": "2026-08-20T21:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "‘Distinctly undemocratic’: High Court strikes down government decision to close Army Radio",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaUw2Y0I1Y1J5a3BXQWU2YUpNdmlDanY0cTd4bTJhRHM0cXhNSzJKVGF4N05GTFZhWWJSdTRlQ3RUXy1uVzZhbWRfdUVaU1lzeXhLNjdBYUhhU3RSNHRHeVNoa1MzVVdmUi1yMmhBdXlqdEh2MVM1LUdsOFpGSWJqcGNZZDFpNGh3SFU0RzZmRUdKbWFVTGc5MllfeEYyYUl5bnowNDFydnBnMkxmN0xuM250eFRTSUVsd2Zzd2dXd9IBvwFBVV95cUxOaUw2Y0I1Y1J5a3BXQWU2YUpNdmlDanY0cTd4bTJhRHM0cXhNSzJKVGF4N05GTFZhWWJSdTRlQ3RUXy1uVzZhbWRfdUVaU1lzeXhLNjdBYUhhU3RSNHRHeVNoa1MzVVdmUi1yMmhBdXlqdEh2MVM1LUdsOFpGSWJqcGNZZDFpNGh3SFU0RzZmRUdKbWFVTGc5MllfeEYyYUl5bnowNDFydnBnMkxmN0xuM250eFRTSUVsd2Zzd2dXdw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "\"שרעך הטוב ממך יעשה זאת\": קרעי ואוחנה פתחו חזית",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HR3VrYzU3cEh3ay1VTklLZ05WRlVMWVphdFhGUXYyZ1BWa1BWODg3UGo3RkdLMUVsRDVzekdUVHVYbzdVb2NWblJXLW5nOVZQRlYxajF0ZTFYTFhZUDhDVnFFT3k?oc=5",
