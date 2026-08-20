@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T05:15+00:00",
+ "updated": "2026-08-20T05:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "שלוש המסקנות מהפריימריז בליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NbEtVckRVQ3hwNTJhU1RIVWtVRl82dVFBTFdpV21vY09HTVhpMS1qSlk5VWR3bmZLSW9oMEJRMEE3R2NfNkdKeQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "גם אחרי שניצח בליכוד, נתניהו לא מתקרב לניצחון בבחירות. איזנקוט דווקא כן",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOVNidkg1RWJ6Y3hLc1ZSZXVfdllDT0dQaVVQbFNSUFR5S0RqSHF5LTJKd0R4RE10aFQ2Tk5qVVNlYjhRdF9VUDZ1S1dKMS10emJZNjhKelBybGNmdEN6VHdMNDM3cWVZQ2FrVksxVzc1bjRDNkZTaG9BSFE1YnQzajBxaU9OeXdLZUZQWEdTaXRJYnN0N2pFWHBRQkxlc2pVTDNwalRIdTUxZw?oc=5",
