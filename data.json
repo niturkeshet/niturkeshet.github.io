@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T07:45+00:00",
+ "updated": "2026-08-21T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -205,7 +205,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פסילת ההחלטה על סגירת גל\"צ: ההיבריס השלומיאלי של קרעי וכ\"ץ לא הותיר לבג\"ץ ברירה",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GNGp5RjR5azRkLTBJMTNUS1lNYXZmZFZhejdnbks1VGJFZEx2S1RKcEphTnZRQnE1MTNUUjA3TXRpUUJfQlVMSnh1eHJLUDdJRTR6ZUo1ZEJNVnAtZ2xTV2VvcDctanA5UDdF?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "לממשלה מותר לסגור את גל\"ץ",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WcWxwYkFUNXk1UENPRkNEVEFJSXNZX296M2NYdzVpVWlBMnhSYXVkMTcwbUdkcV85X3N6VEpTZ3hhMURqSjR0VVRiMjJHLUk2ZUxsR1hyakZEd0o1TnR1UGJlcVhGRVU?oc=5",
