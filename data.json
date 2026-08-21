@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T08:45+00:00",
+ "updated": "2026-08-21T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,13 +175,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -229,7 +229,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ד\"ר יפעת בן חי שגב: \"תעשיית הסקרים הפכה להיות כלי בקמפיינים פוליטיים\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2NXhsejkyUWZ5NGU5NkVsR2NHdkJta0JNY3RYZmJWbFNCQ3JUc3BxbXk0U1N2OThzSXpIVWxsWm5jNnFfYVdzZHJYOA?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-08-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רדיו גלי ישראל"
+  },
   {
    "title": "פסילת ההחלטה על סגירת גל\"צ: ההיבריס השלומיאלי של קרעי וכ\"ץ לא הותיר לבג\"ץ ברירה",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GNGp5RjR5azRkLTBJMTNUS1lNYXZmZFZhejdnbks1VGJFZEx2S1RKcEphTnZRQnE1MTNUUjA3TXRpUUJfQlVMSnh1eHJLUDdJRTR6ZUo1ZEJNVnAtZ2xTV2VvcDctanA5UDdF?oc=5",
