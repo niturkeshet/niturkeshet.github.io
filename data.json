@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T18:15+00:00",
+ "updated": "2026-08-21T18:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הפריימריז בליכוד: אוחנה ראשון ביבנה, הנהגת הסניף מסמנת הישג",
+   "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPelpwcHdUeWhndGVOTTlLWEtJVzBtekJZZ0UyVUFXNVhnNnRpMFBabElySkV2S210Q2ZfTEg2N0s1RXpON1o4SWpzUDRRbTI2QzhBZWhLR3FXc1ZLTmpSUVhQXzk0ODNqWWNQaXJDOXdvZUR4UHgxb25xMlBTZnRKcUNrV1ZnRDZ2Tk1odFZHV3hmbEh1YnFWX29WanlpZU1JbzdnLW0tZl8zUUlCdkdLQTB5QW9IWEd4NGtSWUZRdU1EbHRtOC1jUWJUX0I2VExTUWczX3c5eGwtNHgtUDRYY1VPOXB3ZjdlZGJZWlZrVV9Eb2twVGNiU1JrY29IVGp1RHlibXhfMHEzdkJtQndrR091NWQ4ekpfTDZSdU9kbE9rOFlCSHFBZUd6QjY5SUExSXUzNUJvb05JRGVnZXE2X2JMNlFXMDU0MFIxU0ROeWVWVnJMN0hpYnJSaE5qcm1GRWNvdVhzVDVuOUxBWHMyZk9yTmxYMHRTZ1lZczEyYjVfa3kwNW5tT3gzV1VXUXRVM29YYzVPajRkOFp3dUlNcUxDUHlRbkMwX2w0TS1TV3JTSnRkWkdtWFh1aHRFZWRtWU5xMl9BbjBHbWpwcGdjVA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "פורטל יבנה שלי - MYavne"
+  },
   {
    "title": "ד\"ר יפעת בן חי שגב: \"רק אחד מתוך ארבעה ישראלים מאמין לתקשורת",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11Q2FlVnNrVnVRTVlpd01lVURtNWdydXlDbjU2Qld1NEJlMVdEVmZsZHJTV3BDRVJtd3RWblNrUDV2alBDWVM5am5Gcw?oc=5",
