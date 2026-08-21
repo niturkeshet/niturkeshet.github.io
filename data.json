@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T09:00+00:00",
+ "updated": "2026-08-21T09:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,13 +175,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -229,7 +229,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "ד\"ר יפעת בן חי שגב: \"רק אחד מתוך ארבעה ישראלים מאמין לתקשורת - זה שפל המדרגה\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11Q2FlVnNrVnVRTVlpd01lVURtNWdydXlDbjU2Qld1NEJlMVdEVmZsZHJTV3BDRVJtd3RWblNrUDV2alBDWVM5am5Gcw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-08-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רדיו גלי ישראל"
+  },
+  {
+   "title": "גלי צה\"ל - הבית של השמאל | משה כהן-אליה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zYzJpT1Y0LVpIRDVoM2tSNWFrS1hLWEQwMmlTRFNDU2VSc0lPMUxTSEkybHNhbERJLUxlWHRqUDE1YV9FR1BpQ05yVjdJUQ?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-08-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
   {
    "title": "ד\"ר יפעת בן חי שגב: \"תעשיית הסקרים הפכה להיות כלי בקמפיינים פוליטיים\"",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2NXhsejkyUWZ5NGU5NkVsR2NHdkJta0JNY3RYZmJWbFNCQ3JUc3BxbXk0U1N2OThzSXpIVWxsWm5jNnFfYVdzZHJYOA?oc=5",
