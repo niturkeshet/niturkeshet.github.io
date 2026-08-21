@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T17:15+00:00",
+ "updated": "2026-08-21T17:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,13 +193,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -308,7 +308,7 @@
    "publisher": "ביזפורטל"
   },
   {
-   "title": "בג\"ץ ביטל החלטת הממשלה לסגור את גלי צה\"ל - \"מניעים פוליטיים\"; \"סתימת פיות\"",
+   "title": "בג\"ץ ביטל החלטת הממשלה לסגור את גלי צה\"ל",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SRzZib2tvbHJod01xTVp4b1BjUFRDNktfZHNVd3BIenFFZHpvZ2JyVTQ0TTFlNzdQX09rSXhJR3FFUlVSZmVKUjVKd2s3dE91U1JjVEZWdFpkX0ktdDFLb3hn?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -406,16 +406,6 @@
    "keywords": [],
    "pv": true,
    "publisher": "Haaretz"
-  },
-  {
-   "title": "בג\"ץ ביטל החלטת הממשלה לסגור את גלי צה\"ל",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VUmpYVkhoSXljOUZSa1YtcG42dThEVWJnLVFNRXpHVGF6Smg4N0k4N3FTOGFqakpveWp6UTJjbHdlUFlPempaZl9iX1BoTEMwSTNwcEhXYXFySHdPQWNYd21fSVVyT0I5N3ZObG5ZcmptUQ?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-08-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "News1 מחלקה ראשונה"
   },
   {
    "title": "850 מיליון שקלים ופגישה שאסור לה להתקיים: התאגיד על סף תהום",
