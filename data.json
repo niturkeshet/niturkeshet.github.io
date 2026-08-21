@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T09:15+00:00",
+ "updated": "2026-08-21T09:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,7 +181,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,7 +258,7 @@
  ],
  "items": [
   {
-   "title": "ד\"ר יפעת בן חי שגב: \"רק אחד מתוך ארבעה ישראלים מאמין לתקשורת - זה שפל המדרגה\"",
+   "title": "ד\"ר יפעת בן חי שגב: \"רק אחד מתוך ארבעה ישראלים מאמין לתקשורת",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11Q2FlVnNrVnVRTVlpd01lVURtNWdydXlDbjU2Qld1NEJlMVdEVmZsZHJTV3BDRVJtd3RWblNrUDV2alBDWVM5am5Gcw?oc=5",
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "type": "google",
