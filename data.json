@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T04:15+00:00",
+ "updated": "2026-08-21T04:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,7 +181,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לממשלה מותר לסגור את גל\"ץ - אבל לא בשל התכנים",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WcWxwYkFUNXk1UENPRkNEVEFJSXNZX296M2NYdzVpVWlBMnhSYXVkMTcwbUdkcV85X3N6VEpTZ3hhMURqSjR0VVRiMjJHLUk2ZUxsR1hyakZEd0o1TnR1UGJlcVhGRVU?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "קרעי קרא לממשלה להורות לכ\"ץ לסגור את גלי צה\"ל חרף החלטת בג\"ץ",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkQWtnc3RXV2JGVWJiQV8ydko3cGJOZkJhYVU5SzJCdnlWZEdnczVoeFpRR2lxSUpVbU9wSFVnQzRFTHY3eXpfdlM3cw?oc=5",
