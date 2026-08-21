@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T00:00+00:00",
+ "updated": "2026-08-21T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי קרא לממשלה להורות לכ\"ץ לסגור את גלי צה\"ל חרף החלטת בג\"ץ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkQWtnc3RXV2JGVWJiQV8ydko3cGJOZkJhYVU5SzJCdnlWZEdnczVoeFpRR2lxSUpVbU9wSFVnQzRFTHY3eXpfdlM3cw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "בכירי הליכוד בעימות פומבי: \"טעות שלא מוסיפה כלום\"",
    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4yN3JMSE9BcFdGYXRkR2JBbXlQSmFzYzhJaTAyM2g5bEJfZXRUSEF4WDRvRzhWV2ItS2xtLUszRnpHTUU?oc=5",
