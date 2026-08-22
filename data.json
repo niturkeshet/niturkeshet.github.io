@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T07:15+00:00",
+ "updated": "2026-08-22T07:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בצלמו ובדמותו",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1veXNlRUR4TXVpYnVXd21veVhXZ3lvcTdlT2NOTE4xU3FlNmluN2dRSlBmUGZra0tSU0p4M1YzM3F3RjExWDdBaVB0UkFnTTFfR3Q4bjVUcTc4R2hZTWc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet.co.il"
+  },
   {
    "title": "בג\"ץ פסק נגד קרעי",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wX05VNnhaTjFibWY0eXRaalo5NHJtT0hrOXM5YzJwZEE2Y1YxR2gzbm1pdkwxa0ZsWmlwR1NuQzlpX1h0LTljeTNyeXpPQ3lQOW45UkpsLWNNU1U0YXctY1Fvcw?oc=5",
