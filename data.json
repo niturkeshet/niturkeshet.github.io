@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T11:00+00:00",
+ "updated": "2026-08-22T11:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתוני הדרום: נתיבות ניצחה את באר שבע: כך הצביע הדרום בפריימריז בליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wVnZpcGNhTzBtTlBXSW91eFQyMl92aVZTc3B6bGYzM0otcVRjOHB3NTM0bGN3MGp1Q295SDZOYVM4cFJ4czd0NUdZVzQ4MVRoYUtpa1BGb2s?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות באר שבע והנגב"
+  },
   {
    "title": "בצלמו ובדמותו",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1veXNlRUR4TXVpYnVXd21veVhXZ3lvcTdlT2NOTE4xU3FlNmluN2dRSlBmUGZra0tSU0p4M1YzM3F3RjExWDdBaVB0UkFnTTFfR3Q4bjVUcTc4R2hZTWc?oc=5",
