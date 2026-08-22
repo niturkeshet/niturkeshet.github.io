@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T21:00+00:00",
+ "updated": "2026-08-22T21:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "קריקטורה יומית | 23 באוגוסט 2026",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2NRbjZkcVE0Rlp3TGJkVHUzRDRNZVZ5bE0wUEtVNzJQang0TEV5ZzRrZS16SEJsTWVNTHJKYXhNWm0xU1pLb1gwZXJpbWptQTc2ZU9IeU1ZNHJ4TUtrUFhKd05Uek5DNjNZclN1Mkw3OEZpbzl6dlJrRlVhdE5xenItR0dfUGljM04wbkFKLWN6OU15SDNUZmdMQ243TTJUcUZVMDdvQnVqVEdsNjVuZ0VFdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "העליון ביטל את החלטת ממשלת נתניהו על סגירת גלי-צה\"ל",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoZ3cwUzNOSjhhcmxvN3F4QUpJUGZUeEc3T2duS1VjVU55U2ttZGNRQmJxNDV4c2Z0dG16ZkRLREZzUWltZUtoXw?oc=5",
