@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T12:00+00:00",
+ "updated": "2026-08-23T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,7 +181,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -193,13 +193,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Israel’s new media law raises questions about press freedom and competition",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42RmlwWjBQcGtIek1hejBHNWQwVjdXZ09SSklxSkp1cWdpODBiY2hLYmhpM2o3bG5UWVo2XzhzMURkQUZ2cWtLZ3hGWEtwZ2FKUUh0N3VrVQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "בנט וליברמן זועמים על איזנקוט. האם הוא מסכן את הניצחון?",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUJ0b21EeE5nWGl6YXRzdGdSQktSM25IdlVFbXFrT0FCZ3Eyb0R0RDJBbTc1RndFZTE5d2p3MFVYRC03enRpTzU5bVQ3WGZPaXFBQzU1dV9TT0JJek5TNjE5R3o1QkhTemhPMGtsUm50RnJKWThEcVlmNVVMOXpWY3J5RTNEQkRRY25DcUszbHlLRjMtajlMNUVRMWxjbk5wTVdXYWtVd094VUpM?oc=5",
