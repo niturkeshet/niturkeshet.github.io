@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T17:00+00:00",
+ "updated": "2026-08-23T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אמיר אוחנה, אתה משת\"פ של הומופוב גאה בכל פעולותיך",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0NYZTR6akRjeVZzMzhvRlViVWg0TnhUdkFOTHNmamdqem1DbTBDTGVRVFBRZFRNMmtZWGdWa1V1dnVkNjI1cXl4clBDM2E1eDdmVkRoc3pVMmJRaFlBVVN6bVN0VHhpUGp2eF80dlV3ZmF4LWpNUGlsUHhFOGhLVE55elUzX2h6R0VWTG9POTJJT0VVM2VvLXpRMERUUkdBZ2dGc2VVYTF0djhzaVk3bjRZOGswNFdLaGc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "\"הטבה כלכלית בתקופת בחירות\": בקשה לפסול את ההטבה של קרעי לתחנות חרדיות",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZHdmSXZ5R3pld09INjlxUmZzcXhZMVhjQktlLVBLRTlWQ3dNb3ozeFhyQmpzSHNiamlYeWltMTZoemxGdDlwYXJ3WFNZYkxrSzJFYVlraDFwM2tYc3RMaG55V3FCTDV3VnBLa2pvUVMyRjUzMGVhVEFZOWFrZkJuVFdRZGNvTTBMVXBnU2hkYklEWnRuVXdMM1RNRFN4eUU?oc=5",
