@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T16:30+00:00",
+ "updated": "2026-08-23T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -205,7 +205,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הבן של אבי נמני פורץ: \"יגיע לליגת העל\"",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxb0ZaVm5FT2RCSW1TVFluM2dLNXJmNDBBUFl4cWpEVmxxd1I1dERVeUZCc0tSZWZNVWU0N1pUaWE0a29jS0xYVXF3VFVWTWNLVmNJMWdpbTlxZHlpckJ3VVdISXc0UWVuV05vdmktaFQ4a1dUWGfSAX5BVV95cUxPaGJaNnRZbmNmeE44V1Y5YlU4YUtaVTVhMEZ2blFTSnJrX1htMnIxd1RPQkN5eHRxX1UtTHYwdERXeHdtUTFwaXpwb3E5cnFCSjJNU3lXWkFoTngyczZ5OTFTSFJXYWRiQzJHbTNrNXVBTEl1ZVQ5Vlp4OGZmcFE?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "מאות מופעים לנרטיבים שקריים של תעמולת בחירות בערוצי הטלוויזיה",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wb3pLY0c5NkVQcG5WOVNaNVU4ZnkxemhtY2NURm9vM3dhdS1ubVR4Q3RqWHl0SDczMWExVlJ3WG1WS1FPU0JMMw?oc=5",
