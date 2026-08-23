@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T15:30+00:00",
+ "updated": "2026-08-23T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,13 +181,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -223,7 +223,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מאות מופעים לנרטיבים שקריים של תעמולת בחירות בערוצי הטלוויזיה",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wb3pLY0c5NkVQcG5WOVNaNVU4ZnkxemhtY2NURm9vM3dhdS1ubVR4Q3RqWHl0SDczMWExVlJ3WG1WS1FPU0JMMw?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "ה-eSIM מתחיל לנגוס בהכנסות הנדידה: כך משתנה שוק התקשורת של התיירים",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UzdSVFBnUXNxNTlyWFRsU0JtUG5iQlRSaHNhMkxadmFqNG5JMy11NEx6NU15TGg1LVdEZ1prbXZkSnBFSU1FS2hqLWZobnhiRUpKb05vOFNFQUJFdW82RVB6cGZYNXU5Mjc4OVlYVWM?oc=5",
