@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T19:00+00:00",
+ "updated": "2026-08-23T19:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,13 +175,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "תמונות חושפות את שרידי הכור הסורי שהפציץ צה\"ל לפני 19 שנה",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vWmJzSVBGVm9WRnZsbVQwQS1TMjNMMDREMDV0VW5CQU05X1Z4NkV2eW8tM2MyWEhuVEJBRVdJXzIwdFBRYWp1alFReEFXT2hXOEczbHJJcnh4OHZaS2JWalJR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "אמיר אוחנה, אתה משת\"פ של הומופוב גאה בכל פעולותיך",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0NYZTR6akRjeVZzMzhvRlViVWg0TnhUdkFOTHNmamdqem1DbTBDTGVRVFBRZFRNMmtZWGdWa1V1dnVkNjI1cXl4clBDM2E1eDdmVkRoc3pVMmJRaFlBVVN6bVN0VHhpUGp2eF80dlV3ZmF4LWpNUGlsUHhFOGhLVE55elUzX2h6R0VWTG9POTJJT0VVM2VvLXpRMERUUkdBZ2dGc2VVYTF0djhzaVk3bjRZOGswNFdLaGc?oc=5",
