@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T15:00+00:00",
+ "updated": "2026-08-24T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "היועמ\"שית תוקפת את מפקד פיקוד העורף על הרחבת שידורי הרדיו החרדי",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqcVBYd2xUZlhmeTZwTV9XRkk1WWNlVFlWOEJjMktKZXllUmxOZlNBYlFQdU0zTVgzUndnbW50d3ZZRHlyVGVSSDVZWQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
   {
    "title": "ג'ודי ניר מוזס מתפללת: \"הלוואי\"",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTczNmenFhUVpUYlhDRU4yeDR1Q1Rfcmd6SEcwMmN5SlduY0JCb0xqaV9FcldoS214NVh6bmlqRHZLNWdsd2Vxb1FKLVZZVC1lQlN2b05tZ0RsWVJYZlY5eVJUSnd2c2pRWXo0WHpDYXBkS3FfMnFTREZla9IBgwFBVV95cUxNNWU5dVNtVU50elF3bzFnQ1liSjVVa2tHQ0FaMFd6NzltTXJKZ29Rd1g3NDhaUlRrbHZxVk44RG8xdTg2d1N5N2FwR3BRNm8ycE8zWVJodkRlbjNZb2M2QXZvRXlnaTB0b1JfRm9tT1FXdmNjZU9XYzg1SVg4ZXJqcHgyZw?oc=5",
