@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T23:45+00:00",
+ "updated": "2026-08-24T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,19 +181,19 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -348,66 +348,6 @@
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
-  },
-  {
-   "title": "קריקטורה יומית | 23 באוגוסט 2026",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2NRbjZkcVE0Rlp3TGJkVHUzRDRNZVZ5bE0wUEtVNzJQang0TEV5ZzRrZS16SEJsTWVNTHJKYXhNWm0xU1pLb1gwZXJpbWptQTc2ZU9IeU1ZNHJ4TUtrUFhKd05Uek5DNjNZclN1Mkw3OEZpbzl6dlJrRlVhdE5xenItR0dfUGljM04wbkFKLWN6OU15SDNUZmdMQ243TTJUcUZVMDdvQnVqVEdsNjVuZ0VFdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "העליון ביטל את החלטת ממשלת נתניהו על סגירת גלי-צה\"ל",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoZ3cwUzNOSjhhcmxvN3F4QUpJUGZUeEc3T2duS1VjVU55U2ttZGNRQmJxNDV4c2Z0dG16ZkRLREZzUWltZUtoXw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "העין השביעית"
-  },
-  {
-   "title": "הפרדת רשויות — בנוסח ליכודי: שר מודה שניסה לסכל את מינוי יועמ\"שית הכנסת",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUJBODVFVVhPS1pNOUhtSkpOeUJ1UndtaWgyYVo3SjJmQ0FpSVk3MmNWSVJOMnhyR1Z2MVV2bTF4d0diV25zOGpDRUhhWG9RSTZLVlY1RlJ1N0RMRi1wd0dnaXl4ZEdzVkVQV25HaEtXX1NwLU1uMTdtTkFyLTlrbnFHb3Z2T2lxanJlbkx3bTV6QzE4U0VmVjNwRlNzWjlFRDBoaURwaGgtTEk?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "נתוני הדרום: נתיבות ניצחה את באר שבע: כך הצביע הדרום בפריימריז בליכוד",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wVnZpcGNhTzBtTlBXSW91eFQyMl92aVZTc3B6bGYzM0otcVRjOHB3NTM0bGN3MGp1Q295SDZOYVM4cFJ4czd0NUdZVzQ4MVRoYUtpa1BGb2s?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות באר שבע והנגב"
-  },
-  {
-   "title": "בצלמו ובדמותו",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1veXNlRUR4TXVpYnVXd21veVhXZ3lvcTdlT2NOTE4xU3FlNmluN2dRSlBmUGZra0tSU0p4M1YzM3F3RjExWDdBaVB0UkFnTTFfR3Q4bjVUcTc4R2hZTWc?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ynet.co.il"
-  },
-  {
-   "title": "בג\"ץ פסק נגד קרעי",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wX05VNnhaTjFibWY0eXRaalo5NHJtT0hrOXM5YzJwZEE2Y1YxR2gzbm1pdkwxa0ZsWmlwR1NuQzlpX1h0LTljeTNyeXpPQ3lQOW45UkpsLWNNU1U0YXctY1Fvcw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
   },
   {
    "title": "המלחמה על היוצרים: יוטיוב מציעה מיליונים כדי להרחיק אותם מנטפליקס",
@@ -546,6 +486,18 @@
     "ערוץ 14"
    ],
    "pv": true
+  },
+  {
+   "title": "טלי גוטליב נגד ינון מגל: \"חבר של רונן בר, מפיץ שקרים נגדי\"",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MeXRwYVpCdlRaOU1CdElBSkhxTDJ0dk91QkJ0T2Y0cGlaQVVySmtyNFB6MG56NnVwZmdtT213Z3BuZmd5bjd4ZUxscVFDRkc1UHBuV1BReHVlSmNDN096QUdHZ1JMNXM5Q2p2c9IBdEFVX3lxTE0tUEVJX25IaFNVWVI2bzk3a0RxdXdGMXphZW1iZG1qbDdHUVpYTFhGa1R0cTJuQWMyWTNZTnZFTERaN19pZEtmU2s3RE9JZXhRRmp5YWhaUHJvU3BFT3BETTcwUWIxdkh3Si1xNTRfZXJkYm5W?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-08-16",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "צוות i24NEWS הותקף באלימות קשה: הצלם נפצע בראשו מבקבוק זכוכית",
