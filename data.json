@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T19:30+00:00",
+ "updated": "2026-08-24T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,19 +181,19 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מסר לווינטר? נתניהו: \"להצביע למפלגות הקטנות - כמו לשים את הקולות בפח\"",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tZFRSbG5jZG5YdURHQURSZTMtLUNpeDFERl9UV0ZSMFkyQzZVN2oySmY3UVlmX1NuTTZMTjFqU0gtYzRpTHdFUi1TS2RObTVnVTRmMnRyNGowRDZFd1JRQU9BMGp1bUtST1AxbtIBdEFVX3lxTE9tNEpFUzVVX3MxQjQ4Nl9jbWsycG9LZUlhb3B4QXNWWC00UkxrRTN6Y3R2VW45WllES1BrbWgtMnFQTDg1d3BjRDdEZ1hhSEFQblRnT2s0SHV3YmZGQURjUDRuYnZxR241S3FOaEJLRURUYVg0?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "אחרי שהאב חוסל: נעצר אחיו של מבצע הפיגוע בדיזנגוף",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CUEZNdGpvSHd1RDZ5UWh0M2d0UzdpSjAwb3A1YWNpdUxReW5GbTNpUW1xUE9KZnNFeF8xVU1fNjJtY0RHbkc4QVE0cTVFTkFuLUpsNXNxaXd5UWRoY0R4SVUzcVg3bER6VnQw0gFzQVVfeXFMTWpkYUxNMnp2MVE2VldrX080WGRxQUxyMGQ2bmpvaWNVVC1pSTZpVVMzUFVmalFiaVBIWk5DUlRjRkk5bWExZU85ek9qU0M1U0lMcHhNd0U1YUplbGpsLW9kZThPOUQwa1hLZWZuZG92VUxvUQ?oc=5",
