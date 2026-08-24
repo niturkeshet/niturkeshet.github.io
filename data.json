@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T14:45+00:00",
+ "updated": "2026-08-24T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,7 +258,17 @@
  ],
  "items": [
   {
-   "title": "דיווח: שחקן ארסנל בדרך לווסטהאם - בעמדה של מנור סולומון",
+   "title": "ג'ודי ניר מוזס מתפללת: \"הלוואי\"",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTczNmenFhUVpUYlhDRU4yeDR1Q1Rfcmd6SEcwMmN5SlduY0JCb0xqaV9FcldoS214NVh6bmlqRHZLNWdsd2Vxb1FKLVZZVC1lQlN2b05tZ0RsWVJYZlY5eVJUSnd2c2pRWXo0WHpDYXBkS3FfMnFTREZla9IBgwFBVV95cUxNNWU5dVNtVU50elF3bzFnQ1liSjVVa2tHQ0FaMFd6NzltTXJKZ29Rd1g3NDhaUlRrbHZxVk44RG8xdTg2d1N5N2FwR3BRNm8ycE8zWVJodkRlbjNZb2M2QXZvRXlnaTB0b1JfRm9tT1FXdmNjZU9XYzg1SVg4ZXJqcHgyZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "דיווח: שחקן ארסנל בדרך לווסטהאם",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XM2ttWHdZMHE2WnV1Y2NfLTNOYjMxWFg2NDhiMW1saEhsOUlvaXlmVUFBT0hFZkVpUmdSRmU1RHJCb0o5RnpJQmpERGcxXzB4R0h3X0hSWHJEMW96dnFBZE5XTnlOMTk0Y19wazNDb1NWb2vSAXtBVV95cUxORjJoLTBsd1dyZHF5SHVOZHFDSldpN2FiRW9SVGlzYXNMVkxXY05Dd3B1S0tRR0xqYUVoYkJIUmZzTVZDX19tTWd5OHlucWc5ajVxc0V5cGNzTU5PVEt6ck9qVWZ5QmE4Q1NHck0wVFV1WHRJYlhYbXBJYlU?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
