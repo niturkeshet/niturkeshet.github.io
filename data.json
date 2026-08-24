@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T09:45+00:00",
+ "updated": "2026-08-24T10:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -290,6 +290,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "העין השביעית"
+  },
+  {
+   "title": "יועז הנדל תוקף: \"המפלגות החרדיות כופרות בתורה, לא אשב איתן בשום פנים ואופן\"",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEbTRLd2JIVkhiT1pCay1EcjRIZExuYWxzV0d0QUg5Ymlhc3d1OHpLZkdGUmNXVU1PWGJVSS1YS3FMSG5kWWdINXQwOTFmTU5zdnQ4QWNkVTZSdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
   },
   {
    "title": "מכבי תל אביב הביסה את הפועל ירושלים 2:5, שלושער ראשון בקריירה לדור פרץ",
