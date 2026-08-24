@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T13:45+00:00",
+ "updated": "2026-08-24T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -205,7 +205,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,7 +258,17 @@
  ],
  "items": [
   {
-   "title": "היועמ\"שית נגד מפקד פיקוד העורף: הלבין את רפורמת הרדיו של קרעי - בלי צורך מבצעי",
+   "title": "הרב שמואל אליהו באזהרה נדירה כנגד הינוקא: \"להתרחק ממנו\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wYl9BaGZKekhTNzNxNU1xbTB6emxEM193bXYwMTR3aXBIdTJEZWZDZWtiSkp3RTNjNHJXQWtSWTZUM0RkX1JzQXcyOUFSRlAtWEMwOF9BY3J6RS1wZGptdllkS1BhMnfSAW9BVV95cUxPU3dzWDJHQTlmZU9kUUZNVnIwLWRPOC1VVGhqY2FBSzNaLTM3VnItWVl2RlpoOHNGZGZXbmVnN1BicjVnZWQteGJUa0RacTVlcTk2RURGNTBRNWdHOGxkQ21zd2NxR2FaZ1VCakwzdG8?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "היועמ\"שית נגד מפקד פיקוד העורף: הלבין את רפורמת הרדיו של קרעי",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sdGl3OFZSZjRURUVXald6RWs4azBZYVBDb2ZicjExb1JIYzJ6by13c1ZPNzNqM1dUVDJoYXNZS1hEbFV3TERNd2U2X0c1S2piZlZnWU8xQW1DUQ?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
