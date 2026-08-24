@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T08:00+00:00",
+ "updated": "2026-08-24T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,18 @@
   }
  ],
  "items": [
+  {
+   "title": "פליטת הפה של שלמה קרעי המחישה בדיוק מה הוא חושב על ישראל",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5MmhhVERYY3d4Nm5jbWVXSGRHRDdqdUhZeGlzMHNBOGJEeTdaZXp3Q0hhSUNTSnV0eWtUc01uVm5jN2dSZy0xVmpoQklEUkJUc2hlTDQ2R0hTaENJNXF4ZHA1NWRFZmtpUlB6YkRB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-24",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "שלושה גברים על כל אישה: הפער המגדרי בשידורי האקטואליה בטלוויזיה הישראלית",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MUjZmSm9Qa29FT2hZUmt0OGphbG9qaE1KdThmMnhnd1Nsc2treXlTTi1BRF9WdGs0QUNGTlpESjdCamF0cjNmcw?oc=5",
