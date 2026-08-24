@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T08:47+00:00",
+ "updated": "2026-08-24T09:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -174,103 +174,101 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "אבי לוי על הדנ\"א של להב, על הוט מובייל ועל הפעילויות שירצה להנפיק - המניה? \"שיאים נועדו להישבר\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaVU5oY2s4OXpfb3VqZU1GdWVSZzdKYzZaamRFUGF4WlhhbjM5aXhTWTJnb1ZrUGRBb1dvNDc3NW9HM2hpbV8xTHI1Y2Z5bFVxZzVQZVNqTEwtN2NwRzBHMzFBTmhuamtfN3pZbWNUUjc?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-08-24",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "פליטת הפה של שלמה קרעי המחישה בדיוק מה הוא חושב על ישראל",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5MmhhVERYY3d4Nm5jbWVXSGRHRDdqdUhZeGlzMHNBOGJEeTdaZXp3Q0hhSUNTSnV0eWtUc01uVm5jN2dSZy0xVmpoQklEUkJUc2hlTDQ2R0hTaENJNXF4ZHA1NWRFZmtpUlB6YkRB?oc=5",
