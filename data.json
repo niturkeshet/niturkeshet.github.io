@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T16:45+00:00",
+ "updated": "2026-08-24T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,7 +181,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "גלעד לוי בדרך ליעד מפתיע ויוקרתי | פרסום ראשון",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40S3RaMHBreVg2N0FqV2hUQjFrN1BlNHlCQ3dxMEJfMW9DZFFnT0pvRUFnMjVIRURRcFpyZkI0T2M0aFZJZnhZdlNlUDBaNmRieXl6QTZhbGNicVM5TWRKa2dYMG91U1JIUFVpaU1vWFFsQWdHQnRBVWpyONIBgwFBVV95cUxOUUVsLXJZZFVvSURBRGk3Q3hLdnVQOTZLZEVLX2lVZThvTkIxaWNIM2xPRU1YSUVyTkRKd0lSQmk5VlhudTJUMW91N1dBVFFwXzA4eXJjeGh3WDMzdjZ6NjJvZk9KMG01SWhVNXBrU04tNWhzUzBsRVYtc1lFOWgwRzFyQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "המאבק על שידורי 'קול חי' בצפון מגיע להכרעת בג\"ץ",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9va0hIS25rVGZrMjNtWUMxbmR5LU5IcjhhT0dvdVFRUGxucHpxZGc1bXBwLVpKbXNsM2tlSU84UThYbFVQTmZ2T19HSERMUQ?oc=5",
