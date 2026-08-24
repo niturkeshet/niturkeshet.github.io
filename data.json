@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T21:15+00:00",
+ "updated": "2026-08-24T21:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"מיקי ברקוביץ' לימד מהו כוח, עכשיו אנחנו מבקשים להחזיר לך\"",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50TVJ6RFZYcnpCb3h5Q21UUF81VVg4WV9HTFpOX0h5S0ZBb1I4WHdONU9NNWZvSWsyVU5VcnlwMmhrdTFiTlFfR2w0LUVHV3RYOHRhZ1ZZMG1DWVNQTktpcHFSTmpmZWtqZ05vdjJxN29FTEliMy1nV2V4VdIBgwFBVV95cUxPSmVWTTgtVXVXTTU1ZE1INkdSYWRNRGZWTVhORkhUVlF2Z21uUklQdEM2VW5sQlA2cmZlVnFaakNLcVRSQVVXbmRiVWp0T2VDTHpxLUZhYWN2MzBxZTZBYlpwUmNLSHBQVkNOaTZ0QVFjajJULWUyZ1hMWEZLMVdJdk9JZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "לא מוותר על כוח 100: מילביצקי נגד חזרת הליכוד לערוץ 12",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBydjJyWmdfZi0tN1RrVVU0eFhndEZyT1BlX21BTjFVNXpIekc0dWRxZUFPQWdmN2dXa2t5UllxOFA4SHcyZHcxaGh6ZDJNdw?oc=5",
