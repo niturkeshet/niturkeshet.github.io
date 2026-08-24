@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T20:30+00:00",
+ "updated": "2026-08-24T20:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,25 +175,25 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,18 @@
   }
  ],
  "items": [
+  {
+   "title": "לא מוותר על כוח 100: מילביצקי נגד חזרת הליכוד לערוץ 12",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBydjJyWmdfZi0tN1RrVVU0eFhndEZyT1BlX21BTjFVNXpIekc0dWRxZUFPQWdmN2dXa2t5UllxOFA4SHcyZHcxaGh6ZDJNdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-24",
+   "keywords": [
+    "ערוץ 12"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "בין סגל לבן גביר",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vLVNtZnVoaXFiSWZWRzhhMmxGdVdHR2NkMnNQa0dDc1FQdGpKTFQ0VVY2aU1XVkt4a002WTNCd183LWVJemR0c1BZaFRJRXg4aDV2TXkwZ2pra3ZPcTViQ192LUJKZ9IBbkFVX3lxTFBWMjB6bl9ybXpOZ3VMdXFpVFRkRFdEZnkzNjVyZkZJdEQ5THRwZm1WZ0ZOVkxaMWpDSTZkWllkWnI1WEt0UnM0bldCWEFMeVNqY3piTk0xa3lXRU80S3RGVl9raV9uTk9pa3VZSDNB?oc=5",
