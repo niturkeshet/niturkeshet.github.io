@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T20:15+00:00",
+ "updated": "2026-08-24T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,19 +181,19 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בין סגל לבן גביר",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vLVNtZnVoaXFiSWZWRzhhMmxGdVdHR2NkMnNQa0dDc1FQdGpKTFQ0VVY2aU1XVkt4a002WTNCd183LWVJemR0c1BZaFRJRXg4aDV2TXkwZ2pra3ZPcTViQ192LUJKZ9IBbkFVX3lxTFBWMjB6bl9ybXpOZ3VMdXFpVFRkRFdEZnkzNjVyZkZJdEQ5THRwZm1WZ0ZOVkxaMWpDSTZkWllkWnI1WEt0UnM0bldCWEFMeVNqY3piTk0xa3lXRU80S3RGVl9raV9uTk9pa3VZSDNB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "מסר לווינטר? נתניהו: \"להצביע למפלגות הקטנות",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tZFRSbG5jZG5YdURHQURSZTMtLUNpeDFERl9UV0ZSMFkyQzZVN2oySmY3UVlmX1NuTTZMTjFqU0gtYzRpTHdFUi1TS2RObTVnVTRmMnRyNGowRDZFd1JRQU9BMGp1bUtST1AxbtIBdEFVX3lxTE9tNEpFUzVVX3MxQjQ4Nl9jbWsycG9LZUlhb3B4QXNWWC00UkxrRTN6Y3R2VW45WllES1BrbWgtMnFQTDg1d3BjRDdEZ1hhSEFQblRnT2s0SHV3YmZGQURjUDRuYnZxR241S3FOaEJLRURUYVg0?oc=5",
