@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T16:00+00:00",
+ "updated": "2026-08-24T16:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -205,7 +205,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -500,6 +500,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "העין השביעית"
+  },
+  {
+   "title": "proteanTecs מרחיבה את הניטור מתוך הסיליקון למארזים מרובי־שבבים",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPV3VQQTNEUmtvbUNHTFNabnRFRkJHSGMzNVZHTTkxTWw2OXRaQXNzVlRmdFJfLTdjRkx6Ul9OcHJZUmc4QWhxdzJEOTZ1VlVnaW5wbkpQSV9Xbzg3U052Rk9EeVFiSVBnNzBNS2kwUjRyMUhEZGZlYWRuTmE3NlgxMm5PX3pWd2x1UGU3SkF4S0FpNnlMNDhnZG10NmRfakd4bWRBaHRNV2l0eXlXNHkyTWlPbnZ0MHJwaExEZmJQc1Q2NFIxRjhjRzBOZzhVNGpUTjl4QU5xLTQzX2FabUtSbEVLZExFamkwTE9sZU5Od2NSMmFkejdEVVJaR1hmb1VkQ3dKSHdJaTF4RUxPUXlscHpoUlJybjdpakxSQXZfUDFuQ3l4ZzdDTzc0aFpUQnFTdjNjbXhqdDNHMjVJYnEzeV9nVTc?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Chiportal"
   },
   {
    "title": "ליברפול זרקה 300 מיליון יורו לפח? \"הם נחמדים מדי, מספיק\"",
