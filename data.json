@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T13:00+00:00",
+ "updated": "2026-08-24T13:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -410,6 +410,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "העין השביעית"
+  },
+  {
+   "title": "הו, קנדה! תגידו שלום לשתי סדרות קנדיות חדשות: מה לראות היום בטלוויזיה",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zYTZTbng0NkZKWGVpY1RrX2VWcVRnaHRiRGxVcWpPUDJFSG95dXFXdTFIaUg3OTdjNTlzaFBuZUFNdlJ4NkM1UGNpZnRKTjdHdEVyaVozUXRtVWF0b2s5RU5PSC1XS1lI0gFwQVVfeXFMT2V4Rm0zS2pycDZlTHZjY040WTVmaXNzcE43ZDN4d0pmZ1JyLTFEd1BwLXBtMGprTG1hMUIzaVIyTmx1OWlDSmFyNmNxdU9ONUowWVdzNjFaV1hBWTNoRjNiQWpKOFdPTmF4VjU0LTBDYQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "ברצלונה מחכה: \"ניתנה הוראה להשפיל את חוליאן אלברס\"",
