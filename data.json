@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T16:15+00:00",
+ "updated": "2026-08-24T16:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -500,6 +500,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "העין השביעית"
+  },
+  {
+   "title": "בגיל 20: אהבת השם גורדון התחתן עם בת זוגו אורן לוי",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VWk1wTkxPaWlwT0RGWVBObzZHWjl5eW1qM1NzcUJKREUzVnMwMnQ2ZWt0MGxjYzVQaUlkWUxwTXR4M0dKd3NqU3F3blU4UnBqcGRDYUthSDBTel9aZ19uekhXY0dhaHFvMEc0WTRYMFVtZGFnOFdjUdIBgAFBVV95cUxNdE5tQXlRX3QtUjY0SFNXVGdKbS1WVFNxYnZpTlMyN3hKVzhxdUg3M2psLXYwdVB0MnBDOEhsenBVa0FUWFRNRENySFNhaTFHR0tzYUxRaXFzckxnbGloU3VNSHFJOEhTUE1ZbVZNeWRCY0F0dC13aF9PZjFpRmwwRg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "proteanTecs מרחיבה את הניטור מתוך הסיליקון למארזים מרובי־שבבים",
