@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T05:00+00:00",
+ "updated": "2026-08-24T05:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -205,7 +205,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -223,7 +223,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "שלושה גברים על כל אישה: הפער המגדרי בשידורי האקטואליה בטלוויזיה הישראלית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MUjZmSm9Qa29FT2hZUmt0OGphbG9qaE1KdThmMnhnd1Nsc2treXlTTi1BRF9WdGs0QUNGTlpESjdCamF0cjNmcw?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "תמונות חושפות את שרידי הכור הסורי שהפציץ צה\"ל לפני 19 שנה",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vWmJzSVBGVm9WRnZsbVQwQS1TMjNMMDREMDV0VW5CQU05X1Z4NkV2eW8tM2MyWEhuVEJBRVdJXzIwdFBRYWp1alFReEFXT2hXOEczbHJJcnh4OHZaS2JWalJR?oc=5",
