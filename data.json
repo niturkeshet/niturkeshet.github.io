@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T10:15+00:00",
+ "updated": "2026-08-25T10:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -205,7 +205,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אם הציבור יצא לרחובות – תפרוץ מלחמה\": תרחיש הבלהות שמכניס את צה\"ל וארה\"ב לדריכות שיא | אבי אשכנזי",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTmVZTEVJTjVpaW91LVU4b2hHNnlNXzlpTFR0dEoyRXFTWGtxQWcwdkdFM3V4UU1tT2hnenJGblVwdm9TSmlxSGpwWEw0bTR3cmwzMFBzYVJmc1VKV3FIZGUycmw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "עתירה לבג\"ץ: לבטל את חוק התקשורת המקצץ מחצית מההשקעה ביצירה",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WMkFQX245VEpzSW92NWJYdXkzcERzTXIyTWtPSVcteTgyb1ZrckJHb2VTbEZ1cS04MlNjTjRxRWNTbWViNkM5ZVFLamtwV0tyQzhVajg2MWRjWFY2aVZuRjlB?oc=5",
