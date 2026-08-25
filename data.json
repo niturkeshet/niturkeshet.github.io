@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T10:00+00:00",
+ "updated": "2026-08-25T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,18 @@
   }
  ],
  "items": [
+  {
+   "title": "עתירה לבג\"ץ: לבטל את חוק התקשורת המקצץ מחצית מההשקעה ביצירה",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WMkFQX245VEpzSW92NWJYdXkzcERzTXIyTWtPSVcteTgyb1ZrckJHb2VTbEZ1cS04MlNjTjRxRWNTbWViNkM5ZVFLamtwV0tyQzhVajg2MWRjWFY2aVZuRjlB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-25",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "עתירה: חוק התקשורת יפגע בצורה קשה ביצירה המקורית הישראלית",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16T1NwVEpEYlZXUXlGWUwxSzdFSjdDM0c3eFpfU3NTb1hZUEJ3UktmYUVxNGtvYnFfUlV5MXpFZVQwZHRtTndEMy05Vi1LRGt2N2d2cWFXSjRBNTUzcjhNcXYxQTBMMFE?oc=5",
