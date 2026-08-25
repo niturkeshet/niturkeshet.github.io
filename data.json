@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T15:16+00:00",
+ "updated": "2026-08-25T15:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -144,16 +144,14 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -189,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -324,6 +322,16 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
+  },
+  {
+   "title": "בתוך מסגדים: צה\"ל ושב\"כ השמידו מחסני אמל\"ח בשאטי ודיר אל-בלח",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hdWdHZENFTm1JXzBoRWs3Nmo3TzhQNE1Qa0RhTnpEcVk4MXNZbnlWQUtGdEdPX2VQOVBVNmIxV3h6WXZCM2lYS0R5SFhDMkdVTmNXS3RBNDdXanpMVGhONGVua0lZTHgwZ3Yw0gFzQVVfeXFMUGswejljNUVhNmpPQ090MER6TTFVZC1lVExvZ3VhS3ZTcVJsb2l3MWJYTV9hcDlqSTZicTBpcGpsb2RSRlBjUzZlNFhhZW5WejhZN1g4dWZZYnJNVklGRW9CbGxCbk1kbFB4NXYtME03NW1Ddw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "מאחורי ה\"עימות\" בטקס האלטלנה: הקרב של נתניהו ובן גביר על מצביעי הימין",
