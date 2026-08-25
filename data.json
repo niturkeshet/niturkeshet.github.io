@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T23:47+00:00",
+ "updated": "2026-08-25T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -174,100 +174,86 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
@@ -638,136 +624,6 @@
    "publisher": "העין השביעית"
   },
   {
-   "title": "בגיל 20: אהבת השם גורדון התחתן עם בת זוגו אורן לוי",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VWk1wTkxPaWlwT0RGWVBObzZHWjl5eW1qM1NzcUJKREUzVnMwMnQ2ZWt0MGxjYzVQaUlkWUxwTXR4M0dKd3NqU3F3blU4UnBqcGRDYUthSDBTel9aZ19uekhXY0dhaHFvMEc0WTRYMFVtZGFnOFdjUdIBgAFBVV95cUxNdE5tQXlRX3QtUjY0SFNXVGdKbS1WVFNxYnZpTlMyN3hKVzhxdUg3M2psLXYwdVB0MnBDOEhsenBVa0FUWFRNRENySFNhaTFHR0tzYUxRaXFzckxnbGloU3VNSHFJOEhTUE1ZbVZNeWRCY0F0dC13aF9PZjFpRmwwRg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "proteanTecs מרחיבה את הניטור מתוך הסיליקון למארזים מרובי־שבבים",
-   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPV3VQQTNEUmtvbUNHTFNabnRFRkJHSGMzNVZHTTkxTWw2OXRaQXNzVlRmdFJfLTdjRkx6Ul9OcHJZUmc4QWhxdzJEOTZ1VlVnaW5wbkpQSV9Xbzg3U052Rk9EeVFiSVBnNzBNS2kwUjRyMUhEZGZlYWRuTmE3NlgxMm5PX3pWd2x1UGU3SkF4S0FpNnlMNDhnZG10NmRfakd4bWRBaHRNV2l0eXlXNHkyTWlPbnZ0MHJwaExEZmJQc1Q2NFIxRjhjRzBOZzhVNGpUTjl4QU5xLTQzX2FabUtSbEVLZExFamkwTE9sZU5Od2NSMmFkejdEVVJaR1hmb1VkQ3dKSHdJaTF4RUxPUXlscHpoUlJybjdpakxSQXZfUDFuQ3l4ZzdDTzc0aFpUQnFTdjNjbXhqdDNHMjVJYnEzeV9nVTc?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Chiportal"
-  },
-  {
-   "title": "ליברפול זרקה 300 מיליון יורו לפח? \"הם נחמדים מדי, מספיק\"",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHUzBFdmhiV1U1UHhoYTU0cmVMRm9ZMHJTNzh1ZmhWNnlaUG1fWW01RnZGamg0b19tZU9SWUdzLWxKVXd4RHZSRGx1Sm04clVKaHlfdWZJTXZnWTh5dDlfT3FVX0dOTEp5dXR2dm4xRmZUWXfSAXtBVV95cUxQWHZudjZqUlgyNlJLRkNaMkptVlJ6OTZQWmZncW9zRWhsUzRUWnd0TDYyZ1dTaHhURFJDY1c5cU1CcHpDbmFMQTZZaDdiOXVMcFRjd3hKTFNGY2ZNS1ZKRzNMSU5ad2hFb1ZWbl9iM3R1SXh4MlVVWG1XaFU?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "הו, קנדה! תגידו שלום לשתי סדרות קנדיות חדשות: מה לראות היום בטלוויזיה",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zYTZTbng0NkZKWGVpY1RrX2VWcVRnaHRiRGxVcWpPUDJFSG95dXFXdTFIaUg3OTdjNTlzaFBuZUFNdlJ4NkM1UGNpZnRKTjdHdEVyaVozUXRtVWF0b2s5RU5PSC1XS1lI0gFwQVVfeXFMT2V4Rm0zS2pycDZlTHZjY040WTVmaXNzcE43ZDN4d0pmZ1JyLTFEd1BwLXBtMGprTG1hMUIzaVIyTmx1OWlDSmFyNmNxdU9ONUowWVdzNjFaV1hBWTNoRjNiQWpKOFdPTmF4VjU0LTBDYQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "ברצלונה מחכה: \"ניתנה הוראה להשפיל את חוליאן אלברס\"",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YX0U0S2lsS3B6MXExVE9Hc1lpYk1VRmZMdHZ6TkVHazVzUnlpN1pFTkVBZEc1bV9Cb2pQQ3NoeTNEX1JRbnlJbUh5Snh6Zm9hZEx0ai00Vzl2WWgwMW80SUt1NGxZeWd5ZWhwdjc4VWtSQW_SAXtBVV95cUxORTYyRVBOUEhVSFFvcFNSNjFwZWRyWTBjc1Z6RENFblRSaVBob0dmd0huTGFXRUZDUEp4S1hZbWZkZUlfd3UtSU4xUUdwS3UtS1dWZlZMZkY2aGpIMnZBX2dLdWNHWTc2bmVHU2F4Y0M2QnJWNjN5cXB0bVk?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "אייל גולן מגן על עדן בן זקן: \"בלי לשנוא\"",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zWTlFdEI3SFZELUtIZk9VLU9xYktnenNJUkQ1V2JhS2RVUVpxWVRDNklPVUNqZEt5NnpKQ0dpMURjcFE4c09sem5VSy04eGxJZndiVGlUX0NHYXkzcVFGemhPRzZ6VGJHb1hJYtIBdEFVX3lxTE1XbkJIMDVpdHF4azA1OGVsSHVtLW1UWFRCYjVvQnlLMG16QTlqTmVGN0cyWERlVmxndW5EMXFaeGN6ZG1uUnUzWHFQb1JoYzh5dVlGRTlNUG5mS2Y4UVd0X0VfSFU1cXliQk9zbWtJcklVM2Np?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "יועז הנדל תוקף: \"המפלגות החרדיות כופרות בתורה, לא אשב איתן בשום פנים ואופן\"",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEbTRLd2JIVkhiT1pCay1EcjRIZExuYWxzV0d0QUg5Ymlhc3d1OHpLZkdGUmNXVU1PWGJVSS1YS3FMSG5kWWdINXQwOTFmTU5zdnQ4QWNkVTZSdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כיכר השבת"
-  },
-  {
-   "title": "מכבי תל אביב הביסה את הפועל ירושלים 2:5, שלושער ראשון בקריירה לדור פרץ",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUV9ZMmZIbnpZcXNIcVNGV3kzT3R1NlFYa0pOZkUwS0ZKbHFQQ1RwSGJ2QlVQdWVwTGFSQlZUc0ljSlZ1cWVGZ2hHNmNJSGdMLTFDZmx3QjNVZ09WNHZWcGUyMC1sVlRIWkpqeTdKY1BhejVYNXBraTNTYmFDR2dUOS0td29sZzZoTDB5a1FrYnNpOFFLUnFPdEJwM2VGQVZxZ3dIMTd3aw?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "תמונות חושפות את שרידי הכור הסורי שהפציץ צה\"ל לפני 19 שנה",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vWmJzSVBGVm9WRnZsbVQwQS1TMjNMMDREMDV0VW5CQU05X1Z4NkV2eW8tM2MyWEhuVEJBRVdJXzIwdFBRYWp1alFReEFXT2hXOEczbHJJcnh4OHZaS2JWalJR?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "News1 מחלקה ראשונה"
-  },
-  {
-   "title": "אמיר אוחנה, אתה משת\"פ של הומופוב גאה בכל פעולותיך",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0NYZTR6akRjeVZzMzhvRlViVWg0TnhUdkFOTHNmamdqem1DbTBDTGVRVFBRZFRNMmtZWGdWa1V1dnVkNjI1cXl4clBDM2E1eDdmVkRoc3pVMmJRaFlBVVN6bVN0VHhpUGp2eF80dlV3ZmF4LWpNUGlsUHhFOGhLVE55elUzX2h6R0VWTG9POTJJT0VVM2VvLXpRMERUUkdBZ2dGc2VVYTF0djhzaVk3bjRZOGswNFdLaGc?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "\"הטבה כלכלית בתקופת בחירות\": בקשה לפסול את ההטבה של קרעי לתחנות חרדיות",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZHdmSXZ5R3pld09INjlxUmZzcXhZMVhjQktlLVBLRTlWQ3dNb3ozeFhyQmpzSHNiamlYeWltMTZoemxGdDlwYXJ3WFNZYkxrSzJFYVlraDFwM2tYc3RMaG55V3FCTDV3VnBLa2pvUVMyRjUzMGVhVEFZOWFrZkJuVFdRZGNvTTBMVXBnU2hkYklEWnRuVXdMM1RNRFN4eUU?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "הבן של אבי נמני פורץ: \"יגיע לליגת העל\"",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxb0ZaVm5FT2RCSW1TVFluM2dLNXJmNDBBUFl4cWpEVmxxd1I1dERVeUZCc0tSZWZNVWU0N1pUaWE0a29jS0xYVXF3VFVWTWNLVmNJMWdpbTlxZHlpckJ3VVdISXc0UWVuV05vdmktaFQ4a1dUWGfSAX5BVV95cUxPaGJaNnRZbmNmeE44V1Y5YlU4YUtaVTVhMEZ2blFTSnJrX1htMnIxd1RPQkN5eHRxX1UtTHYwdERXeHdtUTFwaXpwb3E5cnFCSjJNU3lXWkFoTngyczZ5OTFTSFJXYWRiQzJHbTNrNXVBTEl1ZVQ5Vlp4OGZmcFE?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "מאות מופעים לנרטיבים שקריים של תעמולת בחירות בערוצי הטלוויזיה",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wb3pLY0c5NkVQcG5WOVNaNVU4ZnkxemhtY2NURm9vM3dhdS1ubVR4Q3RqWHl0SDczMWExVlJ3WG1WS1FPU0JMMw?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "העין השביעית"
-  },
-  {
    "title": "ה-eSIM מתחיל לנגוס בהכנסות הנדידה: כך משתנה שוק התקשורת של התיירים",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UzdSVFBnUXNxNTlyWFRsU0JtUG5iQlRSaHNhMkxadmFqNG5JMy11NEx6NU15TGg1LVdEZ1prbXZkSnBFSU1FS2hqLWZobnhiRUpKb05vOFNFQUJFdW82RVB6cGZYNXU5Mjc4OVlYVWM?oc=5",
    "source": "ביזפורטל",
@@ -778,36 +634,6 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
-  },
-  {
-   "title": "Israel’s new media law raises questions about press freedom and competition",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42RmlwWjBQcGtIek1hejBHNWQwVjdXZ09SSklxSkp1cWdpODBiY2hLYmhpM2o3bG5UWVo2XzhzMURkQUZ2cWtLZ3hGWEtwZ2FKUUh0N3VrVQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Jerusalem Post"
-  },
-  {
-   "title": "בנט וליברמן זועמים על איזנקוט. האם הוא מסכן את הניצחון?",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUJ0b21EeE5nWGl6YXRzdGdSQktSM25IdlVFbXFrT0FCZ3Eyb0R0RDJBbTc1RndFZTE5d2p3MFVYRC03enRpTzU5bVQ3WGZPaXFBQzU1dV9TT0JJek5TNjE5R3o1QkhTemhPMGtsUm50RnJKWThEcVlmNVVMOXpWY3J5RTNEQkRRY25DcUszbHlLRjMtajlMNUVRMWxjbk5wTVdXYWtVd094VUpM?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "\"הלילה השנים עשר\" ועוד המלצות לשבוע הקרוב",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWpqMG5TNHdxc0FzYUVnbm5kWkhVUi0ySjkzcWoyVlJKVnZUZmNDcGp2c0JENDZJeTQtOHZKS2c5ZHBJbWZRbGVwLUt0dVVUWkg5aHBhSGtMeU5ha0FFQktWVEtIZ2FvWHdodjZFM0dONUJEOWZpWVFmeGhiWElqYlEzYWhUWmFXbFdaeGNRbC1KRkdudXJPSWNqUXNXWkhnSF90TExfUGg0cnVEWV9v?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
   },
   {
    "title": "המלחמה על היוצרים: יוטיוב מציעה מיליונים כדי להרחיק אותם מנטפליקס",
