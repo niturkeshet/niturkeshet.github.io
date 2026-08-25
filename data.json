@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T07:45+00:00",
+ "updated": "2026-08-25T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -257,6 +257,30 @@
   }
  ],
  "items": [
+  {
+   "title": "עתירה: חוק התקשורת יפגע בצורה קשה ביצירה המקורית הישראלית",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16T1NwVEpEYlZXUXlGWUwxSzdFSjdDM0c3eFpfU3NTb1hZUEJ3UktmYUVxNGtvYnFfUlV5MXpFZVQwZHRtTndEMy05Vi1LRGt2N2d2cWFXSjRBNTUzcjhNcXYxQTBMMFE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-25",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
+  {
+   "title": "רייטינג: \"הסוד של מיקי ברקוביץ'\" כבש את הפריים טיים עם 15.1%",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtR29qVVJodWJkRmZpamVqVTNsemZZdmZTYlhMdEFUSlRPSGZUOHBLcmFLX1FtNFBfYWJPVlZVdXJPTzdSV3NTZm1leUo3X2tOLVVFb0RCV1F0V0xwSE5BS3d1ZFA1dHhQcU91bnl0Vng3VkFVWUJzODFWcmtkVDg?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-08-25",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "מאחורי ה\"עימות\" בטקס האלטלנה: הקרב של נתניהו ובן גביר על מצביעי הימין",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14VVJnQXpBYzhNUjVyZGxTYUZoaXdlQXdNR1huVlFnRzlQZUNDZ2hCTXRRMGZVRFBMQ3BSTHpIRlZjSVRzczNBZzdoMVpoT2pxYTlRSHVTeC1nb3J0NzhJMU14OHFkMjRPRkVRRNIBdEFVX3lxTE9mV0Q1THZzSzBVcUFyTDdxeWllSjhhMGhzcHpRXzVIbklSLVRrenZ2SHNtVmpxVmUxUGdIWmhMYWpMMFNhWnhDZklJeDNMbUgxeXo3RGxJYUJIdWxNUDVxRk4yWVI5c0FUWC1iM2drLUlTV0dG?oc=5",
