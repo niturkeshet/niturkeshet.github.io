@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T14:45+00:00",
+ "updated": "2026-08-26T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,7 +187,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -199,7 +199,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Israel's High court hears petition amid risk of KAN having no council, executive",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XVURreFVfanNoLWFrLWpzMktGSzd3TUM2dVJfaE9YQl9aVHlIdWZXbWc0M3pTNWxRVy1sYVI4NjRtLU5GbU5GaF9iLU9TVFFSbVgwVlpRQlR3VUpN?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "הדיון בבג\"ץ: האם שידורי הרדיו יורחבו? השר רוצה",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hS0V3aXZoRWw0eElZSHF4R1d0bTg3aWYwRjcxSmtIbzF5LXh0RzI0U1h2SDhtLTdyLXRsNEFtcXd1UEdoZlNvUHhtRUFkU1dobXZOdkp4aUpieVJnUmx1WTRPT3liQXlMQ1ZTQW9yanB2YU5Q0gF0QVVfeXFMT2FLRXdpdmhFbDR4SVlIcXhHV3RtODdpZjBGNzFKa0hvMXkteHRHMjRTWHZIOG0tN3ItdGw0QW1xd3VQR2hmU29QeG1FQWRTV2htdk52SnhpSmJ5UmdSbHVZNE9PeWJBeUxDVlNBb3JqcHZhTlA?oc=5",
