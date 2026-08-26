@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T10:00+00:00",
+ "updated": "2026-08-26T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -157,7 +157,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,7 +268,7 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "הדיון בבג\"ץ: האם שידורי הרדיו יורחבו? השר רוצה - היועמ\"שית פחות",
+   "title": "הדיון בבג\"ץ: האם שידורי הרדיו יורחבו? השר רוצה",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hS0V3aXZoRWw0eElZSHF4R1d0bTg3aWYwRjcxSmtIbzF5LXh0RzI0U1h2SDhtLTdyLXRsNEFtcXd1UEdoZlNvUHhtRUFkU1dobXZOdkp4aUpieVJnUmx1WTRPT3liQXlMQ1ZTQW9yanB2YU5Q0gF0QVVfeXFMT2FLRXdpdmhFbDR4SVlIcXhHV3RtODdpZjBGNzFKa0hvMXkteHRHMjRTWHZIOG0tN3ItdGw0QW1xd3VQR2hmU29QeG1FQWRTV2htdk52SnhpSmJ5UmdSbHVZNE9PeWJBeUxDVlNBb3JqcHZhTlA?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -296,16 +296,6 @@
    "keywords": [],
    "pv": true,
    "publisher": "JFeed"
-  },
-  {
-   "title": "הדיון בבג\"ץ: האם שידורי הרדיו יורחבו? השר רוצה",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lSGNYWnZlNlFOQ2xYZTRtUXdnd2RsS24tcTZ6a1hlSlZLejQtUU0tVXlSdDBwb04yOU16aWVTaGNYSXlQd0JuSEZBRzJiZTFrb0RMWHFFWGM2SFVvdFg3N3o2TmVQVV84T2llTdIBdEFVX3lxTE9hS0V3aXZoRWw0eElZSHF4R1d0bTg3aWYwRjcxSmtIbzF5LXh0RzI0U1h2SDhtLTdyLXRsNEFtcXd1UEdoZlNvUHhtRUFkU1dobXZOdkp4aUpieVJnUmx1WTRPT3liQXlMQ1ZTQW9yanB2YU5Q?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-26",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
   },
   {
    "title": "פיקוד העורף: אין הכרח להרחיב דווקא את שידורי תחנות הרדיו החרדיות",
