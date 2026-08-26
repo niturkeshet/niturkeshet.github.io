@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T10:45+00:00",
+ "updated": "2026-08-26T11:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,7 +181,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "גרוסקופף: קרעי רוצה למנות בעצמו את תאגיד כאן - אך לא כך קבע המחוקק",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdDRjLWZIQW1hUWh6WXFfaHJ2NVhfc203QWdUa0xxbllnVldZQVNlYWFjSXJlS0lKb2hLQmFTeGdYWU5UUE9uVm1vVDlIcmlZSVR0S2Q2ZVMzbXkzMG14Ql84ckxiMXc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "הנשיא עמית בדיון בבג\"ץ על ההטבות לתחנות הרדיו החרדיות: \"אנחנו יודעים שזה בלוף\"",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYTZTMVk3UFI1bDRma24wU2tmekFKdEV6UzdBa1FsNVRFRkt2RldDNEtqUlhQWlcwa0NYREJ3WXk3Nmhha2JTdHh1WkdCRF9LVU1MSWdESnRET0RxLXc5VHl0ZFNPSFRQQUJYRUZtZkNybWJzM0ZjN3JQZEkwSmw2NHJ1WXJQSTJyVUltdGs3SWtIR09GMzJSQkc2MVBTV1k?oc=5",
