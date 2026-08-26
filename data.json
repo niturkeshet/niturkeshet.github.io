@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T06:30+00:00",
+ "updated": "2026-08-26T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,28 @@
   }
  ],
  "items": [
+  {
+   "title": "שידור חי: הרחבת אזורי השידור של הרדיו האזורי מגיעה לבג\"ץ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sdWlrMERuUlRmNE9OT2dZQXBBUVhqejNoMWNTeUh6SXRvaVFMNk5oZmJhVk1FUDRlOEVXWXFGRDB3ejVmNnhxZUp5M2FQWjVzQXduUUFBRVNyY0ZtZ2cyd0FVaw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "מאסטר שף עדיין ראשונה, דה וויס כבר במרחק 0.7 נקודת רייטינג",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uNHFiTGxrcXhVWVdDdmJzUWhvb0s4NzZXRkJYMjNad0xqVGRNQmFXb3ZDLWx6c2ZWbEhRek1nay00NThfRm9FaEJERmJLa0NoNEhfSlItTE1FMllBTEtxUGRYbUtiRjU5NUR0OU1SNHlkdmRxNklMMGNKd044N2s?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-08-26",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "קנס של 200 מיליארד דולר: מטא בדרך להסדר ענק",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOa2xHb0MxM2d0MjdNREU1VExGakNHWW1JYXo3cmdLcGs2bmJNZHZnR1lmUVZ4QVFSMG55alNhU2lEMUo4ZThZb1FnLVNqWmV3ZnBOQ3lmWV92QQ?oc=5",
