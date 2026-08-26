@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T09:15+00:00",
+ "updated": "2026-08-26T09:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,13 +193,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,7 +258,17 @@
  ],
  "items": [
   {
-   "title": "הדיון בבג\"ץ: האם שידורי הרדיו יורחבו? השר רוצה - היועמ\"שית פחות",
+   "title": "Kosher Phones: Chief Justice Claims Haredi Dual Usage",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43N01mNTcyVGZ2R1BRRUV6UkpKWkV6a2ZicV93cXFMS3RYdko0cEJsVnZySkdyZFpKWkIzamUyeXNEWnRRVTJ5aEZnR3pVbGJaMk9BYVROV1p5d2YwZ01pV0UteEcwQVp1MlR0WTdGVUxKUk5f?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
+  {
+   "title": "הדיון בבג\"ץ: האם שידורי הרדיו יורחבו? השר רוצה",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lSGNYWnZlNlFOQ2xYZTRtUXdnd2RsS24tcTZ6a1hlSlZLejQtUU0tVXlSdDBwb04yOU16aWVTaGNYSXlQd0JuSEZBRzJiZTFrb0RMWHFFWGM2SFVvdFg3N3o2TmVQVV84T2llTdIBdEFVX3lxTE9hS0V3aXZoRWw0eElZSHF4R1d0bTg3aWYwRjcxSmtIbzF5LXh0RzI0U1h2SDhtLTdyLXRsNEFtcXd1UEdoZlNvUHhtRUFkU1dobXZOdkp4aUpieVJnUmx1WTRPT3liQXlMQ1ZTQW9yanB2YU5Q?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
