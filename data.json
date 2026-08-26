@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T09:45+00:00",
+ "updated": "2026-08-26T10:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,26 @@
   }
  ],
  "items": [
+  {
+   "title": "הנשיא עמית בדיון בבג\"ץ על ההטבות לתחנות הרדיו החרדיות: \"אנחנו יודעים שזה בלוף\"",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYTZTMVk3UFI1bDRma24wU2tmekFKdEV6UzdBa1FsNVRFRkt2RldDNEtqUlhQWlcwa0NYREJ3WXk3Nmhha2JTdHh1WkdCRF9LVU1MSWdESnRET0RxLXc5VHl0ZFNPSFRQQUJYRUZtZkNybWJzM0ZjN3JQZEkwSmw2NHJ1WXJQSTJyVUltdGs3SWtIR09GMzJSQkc2MVBTV1k?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "הדיון בבג\"ץ: האם שידורי הרדיו יורחבו? השר רוצה - היועמ\"שית פחות",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hS0V3aXZoRWw0eElZSHF4R1d0bTg3aWYwRjcxSmtIbzF5LXh0RzI0U1h2SDhtLTdyLXRsNEFtcXd1UEdoZlNvUHhtRUFkU1dobXZOdkp4aUpieVJnUmx1WTRPT3liQXlMQ1ZTQW9yanB2YU5Q0gF0QVVfeXFMT2FLRXdpdmhFbDR4SVlIcXhHV3RtODdpZjBGNzFKa0hvMXkteHRHMjRTWHZIOG0tN3ItdGw0QW1xd3VQR2hmU29QeG1FQWRTV2htdk52SnhpSmJ5UmdSbHVZNE9PeWJBeUxDVlNBb3JqcHZhTlA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "מי ישלוט בתאגיד? קרעי ו\"כאן\" מתייצבים בבג\"ץ | צפו",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xVmxoZjhpREdkbGRyZ1JmT2ZOY3Q0QkVHSVdjRnJ6NzM4SW54S2M1YTZoVG9adkV4OFc4VXh5ekt3RGRmSEtPUlRDcE1JeHZZLVlCeGRQSQ?oc=5",
