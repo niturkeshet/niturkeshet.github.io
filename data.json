@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T16:15+00:00",
+ "updated": "2026-08-26T16:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -217,7 +217,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "דיסטל התאיידה, סילמן נזרקה — ועכשיו גם הוגת תוכנית גמליאל־טראמפ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT3lyVU1iWE1WT2IxRlJUTVhjM2pVZF9RWWdGa1dTLVFnSDhFaWtVZVNFaUltY1A4MmdBMmlVSUt0eEwwc0thV0Z3Z2FxZzJZV01lWEhTTUdXRG9PSUE5YW5LTlhqQnZrNmdiem15dlZ5eE94VDdjcmM0bkJuWmJYMmYzN1AyX1JjTUZwU0xWSEZ0WGI2amdaSWM2cFpLU2V6elBQdkZ3?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "השופט גרוסקופף נגד קרעי: \"למרבה הצער זה לא עובד ככה!\"",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5USllsdXRldVlFdkxrbmRhWC16T3hfNVRiTEhMend6WmZxb1RQdlpUTndjMHpLSUh6NkQ3dTQzMERYaVVFOEJVS1ZTbGE3QllCbThZ?oc=5",
