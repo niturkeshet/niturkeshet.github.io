@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T03:00+00:00",
+ "updated": "2026-08-26T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הבוקר בבג\"ץ: הדיון המכריע בנוגע לתחנות הרדיו האזוריות",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HdnVyT0NoSlRDUmduNHNfQVNWSkVndlpzRXU4ZTVENVVRNHAtVEI2Qm1lX1NDczJmZDRELVU3R21oWGZTSUFYVTFmaXlQYlFpMHp6Tzd0YVdSNjVpOGc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "\"מכה אנושה\" להסברה הישראלית, ואז עוד אחת. ואז עוד ועוד ועוד",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2b3F2UmxSckRxZG4tb21MXzNLWFNDUDRQREp2X2hYUHh6MGd3OW9tZTROUmxtNG1RVWN1MTMyWjJkU2pmN3g1RU9EVUZWRzZaZEozUW1wcHpYZw?oc=5",
