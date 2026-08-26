@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T09:30+00:00",
+ "updated": "2026-08-26T09:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,13 +187,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מי ישלוט בתאגיד? קרעי ו\"כאן\" מתייצבים בבג\"ץ | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xVmxoZjhpREdkbGRyZ1JmT2ZOY3Q0QkVHSVdjRnJ6NzM4SW54S2M1YTZoVG9adkV4OFc4VXh5ekt3RGRmSEtPUlRDcE1JeHZZLVlCeGRQSQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "Kosher Phones: Chief Justice Claims Haredi Dual Usage",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43N01mNTcyVGZ2R1BRRUV6UkpKWkV6a2ZicV93cXFMS3RYdko0cEJsVnZySkdyZFpKWkIzamUyeXNEWnRRVTJ5aEZnR3pVbGJaMk9BYVROV1p5d2YwZ01pV0UteEcwQVp1MlR0WTdGVUxKUk5f?oc=5",
