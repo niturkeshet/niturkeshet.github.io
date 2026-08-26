@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T15:00+00:00",
+ "updated": "2026-08-26T15:47+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -151,7 +151,7 @@
    "source": "גלובס · גלית חתן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -181,19 +181,19 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,28 @@
   }
  ],
  "items": [
+  {
+   "title": "השופט גרוסקופף נגד קרעי: \"למרבה הצער זה לא עובד ככה!\"",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5USllsdXRldVlFdkxrbmRhWC16T3hfNVRiTEhMend6WmZxb1RQdlpUTndjMHpLSUh6NkQ3dTQzMERYaVVFOEJVS1ZTbGE3QllCbThZ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
+  {
+   "title": "התוכנית של צוקרברג: לפטר 60% מהעובדים במטא",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00Q3BOcW9TQTdtRWxWMDNxMHMyQl9XVmVTS0U2NkFjaTZPTVhzSVBncVF1dGdrV3VZbmwwbWRfY2NxWldORDJyY2hpbXZGOU1wQlo5c1FCYlpCYVR2UWg4N1J6STZPUzVlWER4aUtVczBpQnc?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-08-26",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
   {
    "title": "Israel's High court hears petition amid risk of KAN having no council, executive",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XVURreFVfanNoLWFrLWpzMktGSzd3TUM2dVJfaE9YQl9aVHlIdWZXbWc0M3pTNWxRVy1sYVI4NjRtLU5GbU5GaF9iLU9TVFFSbVgwVlpRQlR3VUpN?oc=5",
