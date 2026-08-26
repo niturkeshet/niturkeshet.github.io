@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T06:15+00:00",
+ "updated": "2026-08-26T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -257,6 +257,18 @@
   }
  ],
  "items": [
+  {
+   "title": "קנס של 200 מיליארד דולר: מטא בדרך להסדר ענק",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOa2xHb0MxM2d0MjdNREU1VExGakNHWW1JYXo3cmdLcGs2bmJNZHZnR1lmUVZ4QVFSMG55alNhU2lEMUo4ZThZb1FnLVNqWmV3ZnBOQ3lmWV92QQ?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-26",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "הבוקר בבג\"ץ: הדיון המכריע בנוגע לתחנות הרדיו האזוריות",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HdnVyT0NoSlRDUmduNHNfQVNWSkVndlpzRXU4ZTVENVVRNHAtVEI2Qm1lX1NDczJmZDRELVU3R21oWGZTSUFYVTFmaXlQYlFpMHp6Tzd0YVdSNjVpOGc?oc=5",
