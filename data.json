@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T15:47+00:00",
+ "updated": "2026-08-26T16:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -150,8 +150,9 @@
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
