@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T00:00+00:00",
+ "updated": "2026-08-27T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,7 +181,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -464,6 +464,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "עתירה: חוק התקשורת יפגע בצורה קשה ביצירה המקורית הישראלית",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16T1NwVEpEYlZXUXlGWUwxSzdFSjdDM0c3eFpfU3NTb1hZUEJ3UktmYUVxNGtvYnFfUlV5MXpFZVQwZHRtTndEMy05Vi1LRGt2N2d2cWFXSjRBNTUzcjhNcXYxQTBMMFE?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-08-25",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
   },
   {
    "title": "רייטינג: מיקי ברקוביץ' מצליח להביך את ינון מגל וערוץ 14",
