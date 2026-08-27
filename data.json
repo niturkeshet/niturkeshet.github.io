@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T14:30+00:00",
+ "updated": "2026-08-27T14:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -356,6 +356,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "אזהרת השירות המטאורולוגי: עשרות מ\"מ גשם - וחשש מהצפות בגוש דן",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXU2w4emxDNW8yYmFLZWtCWldQTVpheWQtYlBrNzZrdW9yNFJiUXdlQ3hzaE8zZDRPNkRPbHpZczdXTmIzRzlNcGx6UGk0NC1ZbmMtSW9EbXd6N3VVWkhaTjJJX2HSAWxBVV95cUxQa3VMdC0zVHZlME9EYXRRTFNSYUhHcGZEMUJMQXowUk1nektxNW9DWF9NQ0ZOVFNyMThlTjAyZDFuM2VYSWdPVVQ1YVFEWnE5WlNaOVZEdVYtMmU4RkJOMDdBLUhWdXhXMGFSbUk?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-08-26",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "איך מנגישים יהדות לקהל הישראלי? ארגון 2000 מציג כיוון חדש",
