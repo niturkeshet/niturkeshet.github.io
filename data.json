@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T20:30+00:00",
+ "updated": "2026-08-27T20:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Demand: Open Temple Mount on Shabbat",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DM0VsZzZnWDZiUFd1clU4MlhJd0hxOE5SdGlSMDYxNzV2aGJxQXZUV3ZxV1lBeXBwVlpBRmZKamJnbVBmNHg1N1ZGWGFsMzhDdFFndEI1TWgwZw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Israel National News"
+  },
   {
    "title": "קרעי קורא לפתוח את הר הבית בשבתות: \"אנחנו דורשים את זכותנו ההיסטורית\"",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZUk5QMkthcjEwVGJfc1AyV25ZRW5LZmdSd1liSEZJU01mZ2dxV1BQcmdmeE1XRk10dHNieVd5YzY2NGxGdDNFSA?oc=5",
