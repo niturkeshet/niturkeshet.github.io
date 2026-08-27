@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T14:00+00:00",
+ "updated": "2026-08-27T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "5 ימים לפתיחת הלימודים: 2.6 מיליון תלמידים חוזרים לכיתות, אך חסרים 800 מורים",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zVkZmY0NXVUpUendYV0V5NWxscVNxbFRHdGt5c0V6Q2I2ZWhrejhmWV9XTEFiQ0xadlR3UE1QT09nR3ZhdFFyMkZuZXY3WjU3M1JXdGQ4ejdHVkR1T0ZKNFpn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "הדילים, המתפקדים והפערים הגדולים: מפת הכוח בליכוד נחשפת",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ES2NvU0lNVHRzV0Y4bHBMMkRWQ0xGT3BsZG9YbFd0VVhrY18yN3d4cXNpRDU0U2otWTJjdy0xYmNLcnktTFlzay1rUTBtOThXZ1RxckVlRl9YeTlPclh6c29uc3BiajUwT3dnVtIBdEFVX3lxTE1LeHhLQVBFTldlZThNNXRlY0pBV3NtczdxODVMVlNJV2hqLTZPTDhNNjhJclladWFfdlVmMVNmY1JRSDd3WDJjV1BYU2d3bXVTTVVteWRpcVVIVDVRelRCbkItMVJuaHdNMVluZTVOQWVrQkV4?oc=5",
