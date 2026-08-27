@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T11:15+00:00",
+ "updated": "2026-08-27T11:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -223,7 +223,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -257,6 +257,18 @@
   }
  ],
  "items": [
+  {
+   "title": "הוט עם קפיצה ברווח לפני מכירת פעילות המובייל: אבל יש כוכבית",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vdlotbmZMMlBxeHVnWFFMdUY2X3hzbnNLRUZVUFUxZVhmdUdJcTNlRHVmQkZuMS1ocUN4QmU4dlA3STNuNEQ2WTJJX09PSThJQjI1TlhJUkhFUDRaek9F?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-27",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "כוכב \"ארץ נהדרת\" נגד משרד החינוך: \"מה עם שני הורים מאותו המין?\"",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBScVdHVkJhU3RmTGtaWm9qeHg2ZWtneXNEcnNKTnVLM3NsOTBrMTUwaWIyZFQzSTk3SmhScU8xUXJZaFpROVZxUmc0MWFTdmpCd01zSHJkWUhvVzNwYVpjdkdqUE1hRXN5?oc=5",
