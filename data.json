@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T14:45+00:00",
+ "updated": "2026-08-27T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -229,7 +229,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -257,6 +257,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ד\"ר יפעת בן חי שגב במתקפה על תעמולת הסקרים: \"צריך להבין שיש פה המון מניפולציות\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yRzE5Z2JjYldNWmtnX0w0Z0toV29yREVsUktpb1ZMT24wWjNrN1NRSExQY3hqTUxmVl9OUDZoRUJtMzhNV01TRzBZVQ?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-08-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רדיו גלי ישראל"
+  },
   {
    "title": "5 ימים לפתיחת הלימודים: 2.6 מיליון תלמידים חוזרים לכיתות, אך חסרים 800 מורים",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zVkZmY0NXVUpUendYV0V5NWxscVNxbFRHdGt5c0V6Q2I2ZWhrejhmWV9XTEFiQ0xadlR3UE1QT09nR3ZhdFFyMkZuZXY3WjU3M1JXdGQ4ejdHVkR1T0ZKNFpn?oc=5",
@@ -356,6 +366,16 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "High Court hears petition as public broadcaster KAN faces risk of having no council, executive",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaHNSWHZXV0d6SDdLYjAxVkJKb3RmdVVvVHNqN2xlQmt4SmluckNpcVFHMUh1YTlSRjdiUWtKQlZLeXZTNmxlcjJWRnBjOTJjdDZaV0dObkpfdzcyYTBLX00tdEUzdEdyOFhsX2FaWjNEX2FmbVNHTlk3dUdOdUk1dDI0d0ZKRVFYRVVDSUZ6VjA0Q3Ntc0Zj?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Yahoo"
   },
   {
    "title": "אזהרת השירות המטאורולוגי: עשרות מ\"מ גשם - וחשש מהצפות בגוש דן",
