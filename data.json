@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T07:00+00:00",
+ "updated": "2026-08-27T07:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -268,6 +268,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "חיים לוינסון הפסיד בתביעה לערוץ 14: \"אשמח לתרומה\"",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYMU1IblNETFpJa0Y2WVZMWHFwZjFDWFhBX1VfLTZWdGxsWV9FUlU0LXlLRm96ZThSYzNUSkJYdnltYlU1cTdiT1VhNG01Skx5T05vNEZ5MnFiQmV5QXVCakNxYVRObE4x0gFwQVVfeXFMTjQtOTFwV1JBMS1wRzY0UFVhRHktbmp4eUM4aGpjZWV4OFBHMUFsa0VXQ2UtdGpoVFYxUHFiMkFIblRaWV9Wby1DVUFLdGRKSjU5WUxnN003bkZ5Q1o0Z3BpazJoQzNQV1c1elBvaW9vWA?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-08-26",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "ניצחון לערוץ 14: העיתונאי הבכיר ייאלץ לשלם עשרות אלפי שקלים",
