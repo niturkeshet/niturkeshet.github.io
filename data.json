@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T07:30+00:00",
+ "updated": "2026-08-27T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -193,7 +193,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,26 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "נשיא העליון בדיון על הרחבת שידורי הרדיו האזורי: \"מה ההיגיון? כדי להגדיל אוזן?\"",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wRjBhdm9VaFhOejZocFhoMy15TU5vcm5lOXI0ZVJUMzJjcmJtUVlQXzVtWDR6UFNNbWVCM3p4eUxaakRWM3JjbW9HOElBYU16aFNvcldlbGpSWHJzbWZrZEVVUXZfZ1ZH?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
+  {
+   "title": "יצחק עמית מתנשא: 'טלפון אחד כשר ואחד להתקשר' • ש\"ס: \"לעג חצוף לציבור ענק\"",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzaV9NNG9KNmFwdWhJLVhNVnVrOE8tNWsyeVIwckpNRnREb0dFVGVxeHJVQk1rT2JPelRnLWlsSGlxRzdiWFNV?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
   },
   {
    "title": "חיים לוינסון הפסיד בתביעה לערוץ 14: \"אשמח לתרומה\"",
