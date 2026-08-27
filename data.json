@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T10:01+00:00",
+ "updated": "2026-08-27T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,7 +175,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -257,6 +257,18 @@
   }
  ],
  "items": [
+  {
+   "title": "שילמה ביוקר: הקנס האסטרונומי של מטא - והשינוי הצפוי בפיד",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1saWlsZDFLMzdnaDBCczZuVGk1OHhKaXVGYTh1aVhiaXFNcDh5RkRKQ1FibkhleEVKYm04MlJiTUYzdkRtQ3F2TG14eUtFRUdPRVdkVXZ3UjBKbllfUXVyNWF2UXQzX1NnejFudGx30gF2QVVfeXFMTy1OcDRFMGdzRy1SZFlDS2RyaEhERHM4N20wQkpDOWNuNElQUUZIdXJuY1FfRVhodmdfcjdhNGhfX0tjWlZRZ2xTckM4VWxCOHI5S2FvSm4xdDFnT3c5TnQxMHVKRUJhV0xXWm1jNnZNZXFva2FGUQ?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-08-27",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "חבר הכנסת שטרק את הדלת: \"אי אפשר לעשות שום דבר עם נתניהו\" | פודקאסט מעריב",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KQ2pON0VBWHJVb0h0V3oyQWI1XzctU2Z4YVg0UHFkZDAwb3ZJbDNLWWQ5S1RCbXZSMXVtcWkyTUJVdGZpTE5iazNySGtuMHlqVkVCQllhSGxsbWtIZEdhTlctbnk?oc=5",
