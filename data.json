@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T06:45+00:00",
+ "updated": "2026-08-28T07:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "כשהשופט יחיאל כשר נשען על ציוצים בטוויטר, פסק הדין שלו נראה כמו טוקבק",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QaTRGMllkRmtiZkNzcUZjOU1IX09WaEJHUnRWc2pxeXpEZWVSNS0ySkU1VUhHNkpQR1ZKNVExM3JEcUQwTVlJR1R6NmJaSEtjdnpPMlJQdUQzRzVJbjlNTzNmRWZJbnZPb0E?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "Likud’s rising star Eli Cohen on Netanyahu, Iran and the fight for the right",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yYl9nT3IyUXlvTTIxX0hQeTMyUTY0cnd1dERLNzNhNEd1TVdQVHMxNmpxbURuSzhOb2VfU2liVnVrZTRRdW1zZ2I3OXV3aGJTdFFxYmR3?oc=5",
