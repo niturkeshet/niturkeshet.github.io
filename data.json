@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T00:00+00:00",
+ "updated": "2026-08-28T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,28 @@
   }
  ],
  "items": [
+  {
+   "title": "הח\"כ הסרוג בעד עולם התורה ונגד שלמה קרעי: \"החוק שלו יאפשר תועבה\"",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU09yU1pBVnZTaVYtcHZYSEh4dXVqbmw0OHpzQ1ZyME1xaDUzeWpncm1wM19NUG83TE1fS3ZuanhhV3EtVzNhdmxCclJyck5EMkJldjNXNlhtUEZnR2ZXMWJHdGdIbjBtZmtmZ0xkRTczUThuSHZMY3lRWEtDWEVfSGJnX241bW5maURYbWQwQWM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-27",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
+  {
+   "title": "יחטוף עוד מכה? העימות בין קרעי ליועמ\"שית מגיע לבג\"ץ",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQbE9nT0xHalYwS2FlTm5DQWRiLTZpR05xU1FSYkFwdHlCc2VkNjVJNG1wdDRXelBzYTFtVFJZUE10Zi1md2tIanlLSjVKMHItOERINnhxczgtZlN1U3pUX1ZwVWJPNUR4dEg4dUthUnF0UTZsZkdJYXpwM0pwdlNmQ3BpOFRQaS1ETmt2UXg4NWxIcDJjUTE4cG9vem1EOXkyeDZWdXVrNm92MmtZMURkd2JrX2ZFOERDSzlfaS0tSGV0SXc1dGF3Y29jMGc5eVYtQ0VXOW45bHNud2hTSFZMd0tOQW5pUmRwRUdWYkpLRklnSDNXSE8waGp6MDN6ZmlzRHpJUFhKdUIzRGZzc09VZEVNeGZBOWtvNXRnREV2Qjd3cVMyYjNVZkhwMU9Tc0RxclNUQUJxSVdPXzFVcHZtanBuTkprWUZpUXhianVGTk81QVk?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "Demand: Open Temple Mount on Shabbat",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DM0VsZzZnWDZiUFd1clU4MlhJd0hxOE5SdGlSMDYxNzV2aGJxQXZUV3ZxV1lBeXBwVlpBRmZKamJnbVBmNHg1N1ZGWGFsMzhDdFFndEI1TWgwZw?oc=5",
