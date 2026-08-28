@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T11:15+00:00",
+ "updated": "2026-08-28T11:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -218,13 +218,13 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "לו רק השר שלמה קרעי היה יכול לדבר קצת פחות",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XaWFlTG1hWVNqSDNoTl9uX09ZOTEzSE0weFpSV0VFMDE5MEJITU5vRHJ2c3NHcXFRTXFydkpnSVVNbm5HZnVVUHB3Z014dkJCQjhfYjY1cERJbnhRZVI2bDh4TQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-28",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "\"כבוד הדדי בין רשויות\"? הצחקתם את כבוד השופט",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vNG1ZWkliTWVDd1VoUTV2dkpEZkpWcEIxY09fSnZtaFRUeTdSZW5IR3FCYmMyRFk5bjlPTTlxNnYyX2NVS3JMMFRCLTYxSjFybmVPM1BnYXZFNEhIcklQX2x2dw?oc=5",
