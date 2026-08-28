@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T03:00+00:00",
+ "updated": "2026-08-28T03:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "חטפתי שוק: ארוחת הצהריים הגרועה בחיי - דווקא בתל אביב | ניר קיפניס",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tTU1uOFFFcVZETTlSVzBXRklvcWo1MG9IbDhRb1d1OG42NC1QZlpaOHduVnE3LVpTSFllS3dkbVNMSE45RFl6eHZlSUdfaDZoSEFheGhKcTJRSHE4cnlZVTBqRng?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "הח\"כ הסרוג בעד עולם התורה ונגד שלמה קרעי: \"החוק שלו יאפשר תועבה\"",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU09yU1pBVnZTaVYtcHZYSEh4dXVqbmw0OHpzQ1ZyME1xaDUzeWpncm1wM19NUG83TE1fS3ZuanhhV3EtVzNhdmxCclJyck5EMkJldjNXNlhtUEZnR2ZXMWJHdGdIbjBtZmtmZ0xkRTczUThuSHZMY3lRWEtDWEVfSGJnX241bW5maURYbWQwQWM?oc=5",
