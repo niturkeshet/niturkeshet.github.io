@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T07:45+00:00",
+ "updated": "2026-08-28T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מהדורות החדשות נחלשות: זה הערוץ שזינק ביותר מ-14% ברייטינג",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOZzUzeHVNQVNTTzlkSjI0Tk5oNGlPdU01SzJSajNMZXk1eUlFbmZhTDBvLXU5cng0ZTJ0ZkZ3OFBadnBOdTh1UWFfaEMtc3BhazZ4aEtmNW4xZVd1U0RTbm9R?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-28",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "מהפך בטבלאות הרייטינג: מי הערוץ שהתברג במקום השני?",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9idFY2cy1hWnJfNzBydTRnVDlsYUFacGVUNjYyOHhINldlSXE4bm1TT3hDNnh2dEp0SXlHazh4cmQ2NjFwYWVJNmlHeDFVOHVPSy1sU01GRDRsTTVmYzNLTXNB?oc=5",
