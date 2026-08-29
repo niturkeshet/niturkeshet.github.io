@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T16:45+00:00",
+ "updated": "2026-08-29T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "'The polls are biased. The right always gets stronger': Likud’s quiet winner is suddenly hard to ignore",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mbzZrZTBSeU9HSEZuSEdVd2p4eDhHN3k5dktUcnVtMmJCcUhMVWY0cDBzRHF6eFV1TkFISFg3aGVCVXQzclFmbUVnMWlKWE4tU2hHUGs5RQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Ynetnews"
+  },
   {
    "title": "הממשלה מסירה חסמים: המהלך שעשוי לשנות את קליטת הסלולר בישראל",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ob2I4SVNSRmZvSkFWOTlENEg3VmYzdHViQ1lablpaRG5WdDdpWXJ4RmNzV2hEa1B2WkNBR0UwV3F6eWhmMlpGaklUdmJuNnQzY0NCMHQ0N1pTTUFqdFV6dGhzYVN5UQ?oc=5",
