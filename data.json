@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T17:00+00:00",
+ "updated": "2026-08-29T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "ההמצאה החדשה בבג\"ץ: בית המשפט כשבתו ככספומט-על כול-יכול",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12bUtnQnNNMi0tVjJtNDd3R1dGTnNQTDN3Tk52MmNYTHFib0FoQ2tpM21xTlRnV1lsOGhXdWFBQk05Z3BmNTExeDRZLTBraGVmSEd0eHYyaEJsQ2V6d0JmNDktWQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "חיבורים ואולפנים חדשים: ארגון 2000 פותח דלת למיינסטרים הישראלי",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yRDdFdUdzOWYtSlk4b0FUVl9aeUZ4bjlQMFhHZ0p3dDNHalZJYUprRlpWNHVIcm1ubjFGTVVVQklQU2FtQUdtUzB1LWo2MXBwNVFzNmVkaE1CR29jeFozVUxR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "'The polls are biased. The right always gets stronger': Likud’s quiet winner is suddenly hard to ignore",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mbzZrZTBSeU9HSEZuSEdVd2p4eDhHN3k5dktUcnVtMmJCcUhMVWY0cDBzRHF6eFV1TkFISFg3aGVCVXQzclFmbUVnMWlKWE4tU2hHUGs5RQ?oc=5",
