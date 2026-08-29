@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T08:30+00:00",
+ "updated": "2026-08-29T08:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הממשלה מסירה חסמים: המהלך שעשוי לשנות את קליטת הסלולר בישראל",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ob2I4SVNSRmZvSkFWOTlENEg3VmYzdHViQ1lablpaRG5WdDdpWXJ4RmNzV2hEa1B2WkNBR0UwV3F6eWhmMlpGaklUdmJuNnQzY0NCMHQ0N1pTTUFqdFV6dGhzYVN5UQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "בג\"ץ פסק נגד קרעי",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wX05VNnhaTjFibWY0eXRaalo5NHJtT0hrOXM5YzJwZEE2Y1YxR2gzbm1pdkwxa0ZsWmlwR1NuQzlpX1h0LTljeTNyeXpPQ3lQOW45UkpsLWNNU1U0YXctY1Fvcw?oc=5",
