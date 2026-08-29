@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T01:30+00:00",
+ "updated": "2026-08-29T01:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -355,6 +355,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "תשובה של 100 מיליארד דולר: אנבידיה השאירה את גוגל ואמזון מאחור",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CTXc4MmpMSTRPelNISllXd1pNWlZIQ3d0UzV5R3RBX1BRaWxDZFBWbnZLaE4zcmhNSl9qeTVxQlNVSWlrRjNZTTd2SndzOGpJTTdXczdXR1BwcWdPSFkwZDBUOGdSOURvaGZMakNn0gF2QVVfeXFMTTVKVndkM0p3SzI5c0lRWTVNeERzSFpuUWVRdkVTYnRzbFJBQVg0cS1BWlhrMFRCWU9GN09OTTJFQzV3NV80RktzczlwakF6YXF3WmROQTRmbXNiR0d2VUg1ZTZ5eTFIcHZDNnU1VUdnRndLU3E3UQ?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-08-27",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "כוכב \"ארץ נהדרת\" נגד משרד החינוך: \"מה עם שני הורים מאותו המין?\"",
