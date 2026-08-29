@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T18:30+00:00",
+ "updated": "2026-08-29T18:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "שרון ניר ממפלגת ישראל ביתנו הודיעה כי לא תתמודד לכנסת ה-26",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56enFsZkNKX1FTV0NZWDBLM3ljSzZhMmNaQmM2M2J0WEZVMmo2TkR2T0NrYVAtTW1HNWNLLTItVXU3THZrYWExRDNXc1A2cnRRZFd1RWV2N1h0bXR0SUJEQnBpS1pMMHfSAW9BVV95cUxPaDA5NlJndFJ3UFBUQlk3MnFiczNkOHNvNVhZNnhuN1pZQzVIYUdjWndvQnVsXzd3a3ZZWU11OGVVRnZ3LUVod3pkOERYM0NrUHVDRTFRM1NPUWJGV1NkTmF2SE5PbnZZa0g2alJXU1E?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "הפתרון שיחסוך למצביעים מחו\"ל אלפי דולרים",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQa0FEcFUzVzd6ZGhBelJQejZOSTFfb2hLc1FoeW9BTmxSY21EeGk0SjQtMjQ2MWhmZm5Eb25vcGc0UDJmNFZwZEw3VXRwUTN3SWh6MGk3U2lFLU01ZXJpTjJwcXlndlRpRUNKdg?oc=5",
