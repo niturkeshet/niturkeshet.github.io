@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T02:45+00:00",
+ "updated": "2026-08-30T03:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,7 +170,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -258,6 +258,17 @@
   }
  ],
  "items": [
+  {
+   "title": "ערוץ 14 מקדם אינסוף שקרים, ומאחוריהם מסתתרים שני פחדים גדולים",
+   "url": "https://www.haaretz.co.il/gallery/media/2026-08-30/ty-article-magazine/.premium/000001a0-3961-d936-a7ac-396d5b2c0000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-08-30",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
   {
    "title": "The voting fix that could save Israelis abroad thousands of dollars — and why Israel won’t adopt it",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03Vmx1dzBBaGJpSHpTaVd6dFN1cVpGQ0h3RFRJTTBlNG94UTdkcDRzTExocGRmNTZ2OXRCb01DSmpoclNmQURJSy1IYm5UbExISzN5YjViWQ?oc=5",
