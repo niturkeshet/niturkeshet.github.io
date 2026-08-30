@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T20:30+00:00",
+ "updated": "2026-08-30T20:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -259,7 +259,7 @@
  ],
  "items": [
   {
-   "title": "דרמה בליכוד: אחרי ספירה חוזרת - אלה תוצאות הפריימריז הסופיות",
+   "title": "דרמה בליכוד: אחרי ספירה חוזרת",
    "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQcDJJaUZLSURCRkU2Y0lhYTlobE1hY2RWdkd6N242OTlyQjAzLVdWdnpLYWZseXlwWGJyNm0xc29iV3Q2Y1ZteHI5bkNsX1V1UGYxNUFoVnUxbkFweEROU2NfQ3gxN2ctbGUwbmU1MFl2UWJ4elo2S1JlTTFJeVdBYnFQVERtMlJMN1hhN3hRdHV5Y3dJeFk1Sy1nMDBQbmQ5eDJKdll6aTVuOF9mMDY2MEEwc1gzTHB6c1BZMHdZbG1GQk1WaXNqclMxZWdTQU1TSzZfVnVmX0pfb0FYOFNvX3lKU3pGLUtnVHJjX1dzM3JtN2ZxcENxUVU2WUI1VDNsZDBfU2ZNcWNNN0F4UVRyOFVaZm14VzRYbFJGbXR5NV9XWnN0TEZLT2VqQ3lNZEFndlNBR3JDSHZ0OEVUdkpnUEpic19vRmFhRWpwZGw4c2ZVejZFRHd4cA?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -277,16 +277,6 @@
    "keywords": [],
    "pv": true,
    "publisher": "כיכר השבת"
-  },
-  {
-   "title": "דרמה בליכוד: אחרי ספירה חוזרת",
-   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOZHRNVmhOSHZJb1FXVHRUSnlBUklNejd3M2lza2R3MXc3a0ZyOGZxZ3VRYnF0N0RaMks0SHVKNkhYcmUyWUNWMm1HVDd3WVJHTVhjLWNFeXJUclZfUzVEdTVfdFVObVpfQXFZU0hjX1ZQamtDc29HMEFKZFZnYmUyaVpLbDVuVmFHcmdNQ3RoalJNS0RLNEE4cUQwVE5XdHZkeFhMMk1Xb0loMzJTZFFjX092QkdvLUphT2RlUWszUV9HcEx5dnpON01mMUZpU1A1MTNSTXlJLUl0ckxyVTdtcndHV2hRek02RnJKR01hcmJnMExtU3ZEX2Ywb3dMR2ZtLUpNc2kwOGhiekoxcGRMRlVfVmdtdHJzUVhvbUx0N2dYSk5haThxdzJsZW9jdnFvOTFFdFJycHJManBieFllT3lpMEowRWFJcmZINGZKS1dhSF9jMm10SDh3?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-30",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
   },
   {
    "title": "אחרי הספירה החוזרת בליכוד: גמליאל נדחקה למקום ה-35 ברשימה; עטיה עקפה אותה",
@@ -472,6 +462,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "Ynetnews"
+  },
+  {
+   "title": "אלי אוחנה שם סוף לשמועות: מגיש קשת 12 בדרך להצטרף לליכוד?",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZWjJQLS13UWFaRUtXT0RtdVlZbzV6dHBkZzdXZl9SRExTZ1JEY0JlaF94clJJTFVYU2VLdUdwVEdvNU93Zk8xbG94RGhFQ0pEQlB3UlB2SlVsd2xf?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-28",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "ינון מגל מתפוצץ על היועמ\"שית: \"חוצפנית ומופקרת, מי את בכלל?\"",
