@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T05:45+00:00",
+ "updated": "2026-08-30T06:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Israel has polling stations around the world, so why can't Israelis abroad use them?",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jMW9SMF9JbHB2ZmhaV0MzR0cyQmZ4R3dGSVhhM0RtbVFaNE9LdFpLZzBaeFo4bkd3MExfMmxkWVMydXloTHgyS1J1S2lmSVNHTE9YQ0x3NA?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Ynetnews"
+  },
   {
    "title": "ערוץ 14 מקדם אינסוף שקרים, ומאחוריהם מסתתרים שני פחדים גדולים",
    "url": "https://www.haaretz.co.il/gallery/media/2026-08-30/ty-article-magazine/.premium/000001a0-3961-d936-a7ac-396d5b2c0000",
