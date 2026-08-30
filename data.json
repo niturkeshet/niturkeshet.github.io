@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T23:45+00:00",
+ "updated": "2026-08-30T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -319,26 +319,6 @@
    "publisher": "Ynetnews"
   },
   {
-   "title": "הממשלה מסירה חסמים: המהלך שעשוי לשנות את קליטת הסלולר בישראל",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ob2I4SVNSRmZvSkFWOTlENEg3VmYzdHViQ1lablpaRG5WdDdpWXJ4RmNzV2hEa1B2WkNBR0UwV3F6eWhmMlpGaklUdmJuNnQzY0NCMHQ0N1pTTUFqdFV6dGhzYVN5UQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-28",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "בג\"ץ פסק נגד קרעי",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wX05VNnhaTjFibWY0eXRaalo5NHJtT0hrOXM5YzJwZEE2Y1YxR2gzbm1pdkwxa0ZsWmlwR1NuQzlpX1h0LTljeTNyeXpPQ3lQOW45UkpsLWNNU1U0YXctY1Fvcw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-28",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
    "title": "ינון מגל מתפוצץ על היועמ\"שית: \"חוצפנית ומופקרת, מי את בכלל?\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HSnpQVEdTa0w0YzkzUGpiQUE3ZVlackhMa19CekZtYkoyTTdKdHJXZk51c1M4XzlqQWdZOWZJQ2hMbk5wSHVwZV81eEZvRm8zUUtZeEFvYjd3SC1S?oc=5",
    "source": "ice · תקשורת",
@@ -349,28 +329,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "לו רק השר שלמה קרעי היה יכול לדבר קצת פחות",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XaWFlTG1hWVNqSDNoTl9uX09ZOTEzSE0weFpSV0VFMDE5MEJITU5vRHJ2c3NHcXFRTXFydkpnSVVNbm5HZnVVUHB3Z014dkJCQjhfYjY1cERJbnhRZVI2bDh4TQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-28",
-   "keywords": [
-    "שלמה קרעי"
-   ],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "\"כבוד הדדי בין רשויות\"? הצחקתם את כבוד השופט",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vNG1ZWkliTWVDd1VoUTV2dkpEZkpWcEIxY09fSnZtaFRUeTdSZW5IR3FCYmMyRFk5bjlPTTlxNnYyX2NVS3JMMFRCLTYxSjFybmVPM1BnYXZFNEhIcklQX2x2dw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-28",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
   },
   {
    "title": "מהדורות החדשות נחלשות: זה הערוץ שזינק ביותר מ-14% ברייטינג",
@@ -395,36 +353,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "כשהשופט יחיאל כשר נשען על ציוצים בטוויטר, פסק הדין שלו נראה כמו טוקבק",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QaTRGMllkRmtiZkNzcUZjOU1IX09WaEJHUnRWc2pxeXpEZWVSNS0ySkU1VUhHNkpQR1ZKNVExM3JEcUQwTVlJR1R6NmJaSEtjdnpPMlJQdUQzRzVJbjlNTzNmRWZJbnZPb0E?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-28",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "Likud’s rising star Eli Cohen on Netanyahu, Iran and the fight for the right",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yYl9nT3IyUXlvTTIxX0hQeTMyUTY0cnd1dERLNzNhNEd1TVdQVHMxNmpxbURuSzhOb2VfU2liVnVrZTRRdW1zZ2I3OXV3aGJTdFFxYmR3?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-08-28",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Ynetnews"
-  },
-  {
-   "title": "חטפתי שוק: ארוחת הצהריים הגרועה בחיי",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tTU1uOFFFcVZETTlSVzBXRklvcWo1MG9IbDhRb1d1OG42NC1QZlpaOHduVnE3LVpTSFllS3dkbVNMSE45RFl6eHZlSUdfaDZoSEFheGhKcTJRSHE4cnlZVTBqRng?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-08-28",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
   },
   {
    "title": "תשובה של 100 מיליארד דולר: אנבידיה השאירה את גוגל ואמזון מאחור",
@@ -2403,18 +2331,6 @@
     "i24"
    ],
    "pv": true
-  },
-  {
-   "title": "המבחן של חוק התקשורת: מי יגן על הילדים מהסכנות במרחב הדיגיטלי?",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVWtZcWRNR3o5dWVWc3RpMGVIMkVMYXBoN241UkVyR0oyeGFvUE9Ccm5Xc1IyNnQ4c0hQUnlnUzZ4bE9PWWdtdEZaUjBqcnNUVXAyZEs1Q3RSZVktS2k2Qg?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-06-30",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
   }
  ]
 }
