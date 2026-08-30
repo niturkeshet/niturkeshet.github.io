@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T11:15+00:00",
+ "updated": "2026-08-30T11:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "מי מונע את שידורי 'קול חי'? שר התקשורת חושף",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51UnJTS2VxQUlHUmhDNnRpbnQxaTFpclpXSEdNUFNKZnNOTnU4dEYtYjB3RDRSSXB3aDdYbzY0TFBURVV5Tnd0V1drX295dw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
+  {
+   "title": "בדרך מהנגב לכנסת? טל אוחנה חכמון ואל\"מ ניר חג'בי מצטרפים למפלגת ישר",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01clNMMWFYTVdwUnVnSGhoLU9rNkowd01nVEp0ZDNLYkZrZkhZZU5TVlJNTV9oazI2OTRqZDFUM1hSZ1haT2R5NHNXMm5mUQ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
   {
    "title": "\"לא אתן יד לחילול שבת\": אבי מעוז מאיים להפיל את חוק קרעי",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82Rm9SdEZ5THI2azF0cFdsV0dXTEZOMzJVTUdDSEp3eUhKajFVcGtCZF9jcVVWcjVVTzdUNlBwaEhQZm9tWTViYXE3ME1NcDZlb0hUZ05iQ0kzQXV3U3JIN243OWlMT25ZWGpRd05IcHQzaEJGdGhjNXRWeHQ4SGM?oc=5",
