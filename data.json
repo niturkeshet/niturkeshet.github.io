@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T18:47+00:00",
+ "updated": "2026-08-30T19:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,103 +175,99 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "דרמה בליכוד: אחרי ספירה חוזרת - אלה תוצאות הפריימריז הסופיות",
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQcDJJaUZLSURCRkU2Y0lhYTlobE1hY2RWdkd6N242OTlyQjAzLVdWdnpLYWZseXlwWGJyNm0xc29iV3Q2Y1ZteHI5bkNsX1V1UGYxNUFoVnUxbkFweEROU2NfQ3gxN2ctbGUwbmU1MFl2UWJ4elo2S1JlTTFJeVdBYnFQVERtMlJMN1hhN3hRdHV5Y3dJeFk1Sy1nMDBQbmQ5eDJKdll6aTVuOF9mMDY2MEEwc1gzTHB6c1BZMHdZbG1GQk1WaXNqclMxZWdTQU1TSzZfVnVmX0pfb0FYOFNvX3lKU3pGLUtnVHJjX1dzM3JtN2ZxcENxUVU2WUI1VDNsZDBfU2ZNcWNNN0F4UVRyOFVaZm14VzRYbFJGbXR5NV9XWnN0TEZLT2VqQ3lNZEFndlNBR3JDSHZ0OEVUdkpnUEpic19vRmFhRWpwZGw4c2ZVejZFRHd4cA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "ההתרסקות של שלמה קרעי: עשוי לצנוח למקום ה-23 ברשימת הליכוד",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHpOTUF6X1duaFJBQUx3VGpqb0hTOUZwYzB1WGRXVXA5dWhncko1RFEybmlzYXFHWmJMMTRHd2RLcXVPMGJiaFNtaTJ2NlNYTi1GR1k2Z1VoNUZ0T0E3T2RFOHRyS3VVZl9KTE5KVE9DcFRoRU80blMxTUF5bVZpeW94QnBkZ1BpVTdFWFpVa2NXbk95WUprSWRiSERJekk?oc=5",
