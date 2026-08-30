@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T14:15+00:00",
+ "updated": "2026-08-30T14:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "כתבי הסביבה נגד השרה עידית סילמן: כינסה מסיבת עיתונאים בלי למסור את הנתונים המביכים",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjOEhic2NCYnFYMGpTY3ZZRmI5OGUyZnRjbmw2RWlqZ3dwdlQtaEkzcmZJLUItTHZrMWl1RDBXa3VYNE9GWWZzaQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "מי מונע את שידורי 'קול חי'? שר התקשורת חושף",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51UnJTS2VxQUlHUmhDNnRpbnQxaTFpclpXSEdNUFNKZnNOTnU4dEYtYjB3RDRSSXB3aDdYbzY0TFBURVV5Tnd0V1drX295dw?oc=5",
