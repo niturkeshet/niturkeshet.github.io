@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T11:30+00:00",
+ "updated": "2026-08-31T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -151,8 +151,9 @@
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -194,7 +195,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -321,6 +322,16 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "נוביק, אכן אין סיבה לשלול את הסקרים של פילבר. אם הם רק היו סקרים",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWVIcDJRTUtyUFljTU8wa2hsamJKS2Zia0c3Z3NwaGpKaWQxUUg0djB1SGhtYmJsdDgxU2t0Qks0eE5RaDZ5UkdVLTk5aFZwS0RmcHl5Unp6S3hrdkcwaDZ1d0ZWUTU2Q2RGeVJpdHdOS0YzTldVRnJfMXZqcF9hS1dXWXhVUDQ2a04xRmFIR1BwXzg3emt4RW11bFhMZ1QxMlkyRUYxNjRBazFXempj?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "\"ביום שבת אפשר לצאת לעשות פוגרום, אבל לא להיכנס לקנות באינטרנט\"",
