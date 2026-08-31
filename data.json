@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T13:30+00:00",
+ "updated": "2026-08-31T13:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,30 @@
   }
  ],
  "items": [
+  {
+   "title": "בשווי 1.8 מיליארד שקל: פטריק דרהי נפרד סופית מהוט מובייל",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pTUlJbXBKdjRGTGhUSHd4RDdSVzlFbDN5MFJmaGRhQ2xFLVFzdDgwTnMyM1BjZDJfZEdYUU5YbU8xX3pSV1dFc04xQnd6NzRaS3Jjc204SVVjNFB2Z2Iw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-31",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "משרד התקשורת אישר את מכירת הוט מובייל לדלק קמעונאות וקיסטון",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80bzlGZk1HZFByMTY4V3BmNEdpSmtidW1XSHFsRk50bjFPYUZ3a0gyd0g2U1hid09FYUZTbnpGaWRJSjhKYkhqVlJEUWxhRUd4ZmY5dUNrQTB2U1FWUE5LU0hqZm96MFgzamhJ?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-31",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "אור ירוק לעסקת הענק: קרעי אישר את העברת הבעלות בהוט מובייל לקבוצת דלק",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZT3JEOEloQmtTWk5aT19TWGQzdjZ0VFhJWlZQREFlNktmbjZndHZVTGlrZy02MXJ1eFRKZDNrb2RzdU1lRlg0U0JYLWNTWkpyTXc?oc=5",
