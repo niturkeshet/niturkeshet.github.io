@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T16:47+00:00",
+ "updated": "2026-08-31T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,103 +175,99 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "After chaotic August, Ben Gurion Airport expects busy holidays",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHBBaWk3YnVTRlg0RmphRmMycE15dUVfMnVOamRBa0VjdU1UNU1xZ3k1UWFEUGtTX0lkaUtPbkpKZnozX2wzUzNiWEdyWU1aUVlWQ0dCcnoxbTAtaGE0VEZDVGpLXzZnRUt0bzBDaTFwSGlDQ2R3ODdVbWFTOWxDeHNrTkZ3Q1ZGNndRUHd6UzY1R05vZU9rcDcyT2R2X3M5QmZ3WmFxaFVRdkk?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Globes - Israel Business News"
+  },
   {
    "title": "Supermarket chain Keshet Teamim mulls flotation",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDl2SHNuU3NocUNaaVgwWXVkcjJKN19nS3lJb21CX3J4V28yS1dZVE95aEhReTVhTXlYU19HbFp3UnRuLS1lTy1MX0MzNk83Qjl3TEpCbHdzTFp6T01vYmdKdU9OMTJidW9kb0ZiWHFkajdERnVqSXhOZlZBVDBRSGt5OXEwazZnQlBDdVRlYWtQM3MxRVoyUw?oc=5",
