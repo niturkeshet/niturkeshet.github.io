@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T13:45+00:00",
+ "updated": "2026-08-31T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "בהפסד של 300 מיליון שקל: קרעי אישר את עסקת מכירת הוט מובייל",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04M2lTY3cyc0dXUnQ0Zl9hN3ZpTi1SYkRLRVRyODR5QWRCYm5nb2ZqRGQ5UHd2eVhHbFNucHdUT1BfUW1IbDJ5VWd0ZVJkaGhlVmE4bGs3UTdDQVhXNk8yNzdjUjg3dw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-31",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "בשווי 1.8 מיליארד שקל: פטריק דרהי נפרד סופית מהוט מובייל",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pTUlJbXBKdjRGTGhUSHd4RDdSVzlFbDN5MFJmaGRhQ2xFLVFzdDgwTnMyM1BjZDJfZEdYUU5YbU8xX3pSV1dFc04xQnd6NzRaS3Jjc204SVVjNFB2Z2Iw?oc=5",
