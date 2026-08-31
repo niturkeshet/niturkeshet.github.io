@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T20:15+00:00",
+ "updated": "2026-08-31T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "המעבר המפתיע בצה\"ל: מפקד שלדג ימונה למפקד גבעתי",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mQkpBd2tWbXRqdHIyNnNQMG12LTNnZDQta3dnNEFBa1lWVGI1NzB3RWFRS1RfX01lQmJvSUY2bGttWE9YUThwODQyT1I4dw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "news.walla.co.il"
+  },
   {
    "title": "שר התקשורת אישר סופית את מכירת הוט מובייל -",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqX1NyQXJNdFc0ampxazRvemlSZ3kwb2J1M3lkQmdROHhaWURSVVRIbThKQmJZakRFSl96ZVdkVXN5Vndpbk5Mc0dETzREZw?oc=5",
