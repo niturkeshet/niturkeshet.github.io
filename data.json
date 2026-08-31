@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T02:00+00:00",
+ "updated": "2026-08-31T02:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רביב דרוקר חושף: פניתי למנכ\"ל קשת 12 והצעתי לו חבילה",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iT0VEYWJHdjEwSDlwdjZjRVlOTENjQjVMWV82WW8zek50Z3JySTRHaWprMVBWY0FJdThSYUVlVnFxUDZVTEY0ZWhtSGdDclR6cGswMHlqV3hfYllE?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-31",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "דרמה בליכוד: אחרי ספירה חוזרת",
    "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOZHRNVmhOSHZJb1FXVHRUSnlBUklNejd3M2lza2R3MXc3a0ZyOGZxZ3VRYnF0N0RaMks0SHVKNkhYcmUyWUNWMm1HVDd3WVJHTVhjLWNFeXJUclZfUzVEdTVfdFVObVpfQXFZU0hjX1ZQamtDc29HMEFKZFZnYmUyaVpLbDVuVmFHcmdNQ3RoalJNS0RLNEE4cUQwVE5XdHZkeFhMMk1Xb0loMzJTZFFjX092QkdvLUphT2RlUWszUV9HcEx5dnpON01mMUZpU1A1MTNSTXlJLUl0ckxyVTdtcndHV2hRek02RnJKR01hcmJnMExtU3ZEX2Ywb3dMR2ZtLUpNc2kwOGhiekoxcGRMRlVfVmdtdHJzUVhvbUx0N2dYSk5haThxdzJsZW9jdnFvOTFFdFJycHJManBieFllT3lpMEowRWFJcmZINGZKS1dhSF9jMm10SDh3?oc=5",
