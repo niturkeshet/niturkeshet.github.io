@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T20:30+00:00",
+ "updated": "2026-08-31T20:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "IDF chief's wife a director of co involved in irregularities",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekJ4ZTJlczVsN3BKZHpVTXcxbzFLMzgzR0FJTkZvazd2c3k5OUJHY05ONmswTDN3ZVBpeThYczdsWW95dDFibHJVRF9Jal9vMURKZXpOMURaM2ZpQ3gtYzFXTE82ckZ6Y0IwYkN1MDNzMXJMZXZKRU1ERlBtS2NOZ2hpNjRKVm4yRi1NMFllYW9qOVQxTk5CQld6bVAzaVhhdkZQcFBIcVo?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Globes - Israel Business News"
+  },
   {
    "title": "המעבר המפתיע בצה\"ל: מפקד שלדג ימונה למפקד גבעתי",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mQkpBd2tWbXRqdHIyNnNQMG12LTNnZDQta3dnNEFBa1lWVGI1NzB3RWFRS1RfX01lQmJvSUY2bGttWE9YUThwODQyT1I4dw?oc=5",
