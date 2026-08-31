@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T12:45+00:00",
+ "updated": "2026-08-31T13:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -145,8 +145,9 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": true,
-   "kept": 3
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "גלובס · גלית חתן",
@@ -258,6 +259,18 @@
   }
  ],
  "items": [
+  {
+   "title": "אור ירוק לעסקת הענק: קרעי אישר את העברת הבעלות בהוט מובייל לקבוצת דלק",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZT3JEOEloQmtTWk5aT19TWGQzdjZ0VFhJWlZQREFlNktmbjZndHZVTGlrZy02MXJ1eFRKZDNrb2RzdU1lRlg0U0JYLWNTWkpyTXc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-31",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "וואלה כסף"
+  },
   {
    "title": "קרעי אישר את העברת השליטה בהוט מובייל לדלק וקיסטון",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12aElEbnVPV1hQcVpHUGV3Y1lPbnFfdWFrd2hUaUt5bkZ1OG9NSzBON2VQWk1mcVBGRFZlV2JkV1ppVGl1UnM4cFRTTUVsYktsS09CTVY4ZWswMkt3b2RrM0Z3?oc=5",
