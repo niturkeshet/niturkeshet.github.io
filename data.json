@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T14:00+00:00",
+ "updated": "2026-08-31T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "אחרי רשות התחרות: המדינה אישרה את מכירת הוט מובייל",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQNk5IU2l5QlNVdE9PSFNFQmxGWENpSkVRejhZUFdoNW5uVnVPSFViLVEtTkV2SXRmbnhtRXdSREVHQUp0T2lXOVJoMlBNOF9WY0E1azVfYjI1UWFpQkRkbGcwX3NwTXFuOUN5M21RN3dBRURVbW9sWl8tOElqRGRCaF9pekRFUDhtUjE4SHpVRHVVTDNhRHIwQXNaT3ZMWFBnYTVpcThaWGc4blhkdE05LXB2dmluNnRFUHJBbVZuRnNZREZKZm42NXJfZE1XdEhONHVyZlUxNWI5cnZiTmZSNGJSd2pnemlnYkFfQ3JGYmZ4dXJGR0wydmhsY2lON2ozdHFfOWpFRUVUZXJ1RzlVa0tZalRKekVoRU11OGlmT0ctdERqRE9KWnQ3SDlJUE9EYjVMQmU4WHBsbDBOa0pxWmRn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-31",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "ביזנעס"
+  },
   {
    "title": "בהפסד של 300 מיליון שקל: קרעי אישר את עסקת מכירת הוט מובייל",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04M2lTY3cyc0dXUnQ0Zl9hN3ZpTi1SYkRLRVRyODR5QWRCYm5nb2ZqRGQ5UHd2eVhHbFNucHdUT1BfUW1IbDJ5VWd0ZVJkaGhlVmE4bGs3UTdDQVhXNk8yNzdjUjg3dw?oc=5",
