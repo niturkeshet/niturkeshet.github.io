@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T19:30+00:00",
+ "updated": "2026-08-31T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "שר התקשורת אישר סופית את מכירת הוט מובייל -",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqX1NyQXJNdFc0ampxazRvemlSZ3kwb2J1M3lkQmdROHhaWURSVVRIbThKQmJZakRFSl96ZVdkVXN5Vndpbk5Mc0dETzREZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-31",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "אנשים ומחשבים"
+  },
   {
    "title": "קרעי אישר את העברת השליטה בהוט מובייל",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvWE5FOHJDQjZUbGNDVGJvU0xlbUxHeWxGQmtLZ0ktbGRuOUlmbVNSOE5ic053MHhJM2MwVTRHRXF6TmFsX3hQR0gwUmFCenoybnltQlA1aDFCcUdYN21BSWk0ZlR1UdIBbkFVX3lxTE1jeW55ckZmWXdpUVlfeUxueUZ6NHpzbkNNTWQtQWJ4a3BnWHU4YnZtcl9ReVlrVzQxYTI3MVVZWEkwN0taaGFSall6WUZGQ3FaRUpsVlNlQ1ZJa3EyalhYVjNmRkxHUndoeE5OV0Zn?oc=5",
