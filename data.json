@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T06:00+00:00",
+ "updated": "2026-09-01T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Israeli startups raised nearly $600m in August",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzBvTmJucGZMS3NCWlZkMWQwMk5aaDNGZWQtandJSVlIMmdnSE5rNUJoMEZvbXZ5TjUtSDFEcjFSR0RoR3g4dUZ0NjhMekVZUU1pVjNDanR6Mm5NbUwxUFNubkhFeXh2ZVBBNnlld1FGcnAxS21LWTNUc3BPREFIQVdQcDB0UzBlWDdXM19OOXNIRHdYc3c?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Globes - Israel Business News"
+  },
   {
    "title": "מפץ בתקשורת הישראלית: פטריק דרהי נפרד מהוט מובייל בהנחת ענק",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xV1YtTXk2N190QXYtUDlGN1pMWnpQdmJSTUFEeWNHUXFNQmhLbGNGTHdlVk12U3g5ZDl0NGg3UE5IZEY4dTl5WGpTVTlfVE1jU0tpQTdwZFFKc3NQV3RV?oc=5",
