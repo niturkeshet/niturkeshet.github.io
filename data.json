@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T13:15+00:00",
+ "updated": "2026-09-01T13:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מינון מגל ועד אלי ציפורי: עיתונאים לשעבר ממובילי ההסתה נגד התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtd05MNno4dllXOWI0Z2tFR3dqMVZ5bm5jOFZic1hQUzQwTVdMSlM0YVZrNVdvZUFxaHNPNURBMkI5VEllMkNfOQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "רייטינג: שרה נתניהו מובכת על ידי גיא פינס, אסף רפפורט מקבל מסר",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04LUNQQUk3dlIwa2xjY25hMFZqUi00enFNQzhvMGdrbVM1Q3RLQVcwV21vTkEtaklydmlrRnktMWZSWEY1VXhvSzdveHlfQ2RGYUMxb29aclVCVlVLT0RxUWh3?oc=5",
