@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T14:15+00:00",
+ "updated": "2026-09-01T14:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "דואר היום ליום שלישי, 1 ספטמבר 2026: למי צלצלו הפעמונים",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UbDlySGtscUh4VnV6RFBvME5MRFY4MXNKaXBrdThDcHFBdXlrSTd0NzJieGdkT1RMSzFTdzJBYUJDMG5pb0tpVTZPRzI2QXUxY0lxaVZicGM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "יאיר גולן על רמיזת שרה נתניהו לקונספירציה ב־7.10: נגיש נגדה תביעה",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVURaQjBUUjd2N0NWeExZdTYyc2NvZkJYNVYxeVJFaElLYUdfN1FMaTZHb1JNdHB5WlFqY21tMnQtZHdPaXVyX0FaMUR1ZHFPMFdEc2hKV3Y2WW81ZUtRQnY5WEZRNk9ELUVvWE5MbjRoZXVZUlBIT3ZqTzI5U1RUWk5OWGFlSXNicDhFdzN2Nl9Jb3FBTm5iLWVlekVQZzJvd3BsSQ?oc=5",
