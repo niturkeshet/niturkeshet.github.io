@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T13:45+00:00",
+ "updated": "2026-09-01T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "יאיר גולן על רמיזת שרה נתניהו לקונספירציה ב־7.10: נגיש נגדה תביעה",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVURaQjBUUjd2N0NWeExZdTYyc2NvZkJYNVYxeVJFaElLYUdfN1FMaTZHb1JNdHB5WlFqY21tMnQtZHdPaXVyX0FaMUR1ZHFPMFdEc2hKV3Y2WW81ZUtRQnY5WEZRNk9ELUVvWE5MbjRoZXVZUlBIT3ZqTzI5U1RUWk5OWGFlSXNicDhFdzN2Nl9Jb3FBTm5iLWVlekVQZzJvd3BsSQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "מינון מגל ועד אלי ציפורי: עיתונאים לשעבר ממובילי ההסתה נגד התקשורת",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtd05MNno4dllXOWI0Z2tFR3dqMVZ5bm5jOFZic1hQUzQwTVdMSlM0YVZrNVdvZUFxaHNPNURBMkI5VEllMkNfOQ?oc=5",
