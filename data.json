@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T14:30+00:00",
+ "updated": "2026-09-01T14:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "יש עתיד ממשיכה להתכווץ: דבי ביטון לא תתמודד לכנסת הבאה",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KRmNIN3BwVXh4LXRNUEF3S05uWW5GSk56WnBfeXRFaDVpazRkTDdWRGNSMUxydTBkenJMVjdZYzQzUG1vaGo3d1ZTLUs4cDd3M19SZ29XMnVsQ3RMVzZEbWdn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "דואר היום ליום שלישי, 1 ספטמבר 2026: למי צלצלו הפעמונים",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UbDlySGtscUh4VnV6RFBvME5MRFY4MXNKaXBrdThDcHFBdXlrSTd0NzJieGdkT1RMSzFTdzJBYUJDMG5pb0tpVTZPRzI2QXUxY0lxaVZicGM?oc=5",
