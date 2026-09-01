@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T16:45+00:00",
+ "updated": "2026-09-01T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ פרסם צו על תנאי נגד רפורמת הרדיו האזורי של השר קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zMnFEU2FvVTRsbzF0VFZ3WXdzSDJtbDJzdUxERmlrU3M4ZzNlNktyVUNPLWdZN1hqVzE2SEFIM1I5ZVNWS2FESjhHcmplMHRvNFMyb1lqYmt1SjQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet"
+  },
   {
    "title": "יש עתיד ממשיכה להתכווץ: דבי ביטון לא תתמודד לכנסת הבאה",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KRmNIN3BwVXh4LXRNUEF3S05uWW5GSk56WnBfeXRFaDVpazRkTDdWRGNSMUxydTBkenJMVjdZYzQzUG1vaGo3d1ZTLUs4cDd3M19SZ29XMnVsQ3RMVzZEbWdn?oc=5",
