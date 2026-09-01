@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T17:30+00:00",
+ "updated": "2026-09-01T17:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בג״ץ הוציא צו נגד הרחבת שידורי הרדיו החרדי לצפון",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTeTRXUi11NkZNeDRLZ1RYOFNzbGh2UGczdzhsT1dTWEMzd1BjeW45UnZLQXZ6QWJpbnVScnpPaExzdWcya1F5S3F3TQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
   {
    "title": "הצוללת השישית של ישראל דרקון יצאה מגרמניה בדרכה ארצה",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xQzhENnNNekFTQU1RYU80UXJUemUwUFFoVUI5SHoyUnNPbHRmbXdJa205QWFSZjE2S3drdHVpSHRYcG9vVERoY09jMEFibzd1aXdSWHRRbWJjc2U2ay1xdjdB?oc=5",
