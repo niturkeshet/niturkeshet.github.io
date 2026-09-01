@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T03:00+00:00",
+ "updated": "2026-09-01T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "כשביטחון וכסף נפגשים, היו בטוחים: כולם עובדים על כולם",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdnVVa0lWdEE0WXR3NVlwRzNFak1pUnZjY29LUnRqbUZSYVdUSGJQSFA5cjAyZ21aNE56b2ZmcDduYnRYanJVLW1yWjBCM1ljZW1IZmk2bWZyNmUtQ0lmOTdhYWNzeWQ1YTBVZHlUSmYxMFVPcDM1QWZqMTBkcVhGeFZaVlZUR0dtNHpZM3FURmZMbFQyeUNsRnM4X0RfdFVKX3Y1QmJIQUVyOVE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "אחרי הסערה: דדו בר כליפא ימונה לאלוף פיקוד המרכז",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYzFudlVLTG1WMlJ4UEpfOU42TWZxWjhVX0FDYVZFX0ppWkFhcmJWWV9fUEphZ3VkSXJKMV9Ld3BPTmM4MWdYeENTSzNHQWs0RGhtNGdXMWM0UQ?oc=5",
