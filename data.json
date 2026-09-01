@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T06:15+00:00",
+ "updated": "2026-09-01T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "רייטינג: שרה נתניהו מובכת על ידי גיא פינס, אסף רפפורט מקבל מסר",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04LUNQQUk3dlIwa2xjY25hMFZqUi00enFNQzhvMGdrbVM1Q3RLQVcwV21vTkEtaklydmlrRnktMWZSWEY1VXhvSzdveHlfQ2RGYUMxb29aclVCVlVLT0RxUWh3?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [
+    "רייטינג",
+    "רפפורט"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "Israeli startups raised nearly $600m in August",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzBvTmJucGZMS3NCWlZkMWQwMk5aaDNGZWQtandJSVlIMmdnSE5rNUJoMEZvbXZ5TjUtSDFEcjFSR0RoR3g4dUZ0NjhMekVZUU1pVjNDanR6Mm5NbUwxUFNubkhFeXh2ZVBBNnlld1FGcnAxS21LWTNUc3BPREFIQVdQcDB0UzBlWDdXM19OOXNIRHdYc3c?oc=5",
