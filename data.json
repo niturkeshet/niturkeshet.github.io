@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T14:00+00:00",
+ "updated": "2026-09-01T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -324,6 +324,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "הקונספירציה של שרה נתניהו: \"יאיר גולן היה לבוש ומוכן ב-7/10, מוקדם. כשרה\"מ לא ידע\"",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZak12ajNMQVBNWm5ack9JQVhqN2syV0w0Sm5hbEs2cm1IRkt6a0hUSzFicHNrZk5RYldqRGVRbnRmY2Faa2dEeFh3VU5tNFJuYlczWm55MUpEdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet"
   },
   {
    "title": "אחרי הסערה: דדו בר כליפא ימונה לאלוף פיקוד המרכז",
