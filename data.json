@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T19:45+00:00",
+ "updated": "2026-09-01T20:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,13 +218,13 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "שרה נתניהו רמזה בערוץ 14 שיאיר גולן ידע מראש על הטבח - והוא מאיים לתבוע",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPOGl2c2FPZi1qUXFBekZyazI3V2l6cTVyQUp1dEZLUmgtZkJGY29rOEx0YnlOY0Fock1sZnBUYVQ3eDVYbTNOdS1weklzQ2l3OENwVElEOGp0S3BtS1hDc0hyLVE4NFdJNjlrckptSlh6R2w5c3c?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "כאן 11"
+  },
   {
    "title": "קלמן ליבסקינד מטעה בטור שלו על בג\"ץ סגירת גלי-צה\"ל",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hQ2lTVk4tMjRpS25rUEVZeXRrRVVTRTM1UmoxSXU2azFaQTF3SFUwcC0wUVZLVVB4VEFiZHIzNEc3QWVBZkJIbQ?oc=5",
