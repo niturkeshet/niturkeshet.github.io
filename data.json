@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T19:30+00:00",
+ "updated": "2026-09-01T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "קלמן ליבסקינד מטעה בטור שלו על בג\"ץ סגירת גלי-צה\"ל",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hQ2lTVk4tMjRpS25rUEVZeXRrRVVTRTM1UmoxSXU2azFaQTF3SFUwcC0wUVZLVVB4VEFiZHIzNEc3QWVBZkJIbQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
+  {
+   "title": "כ-50 ח\"כים בדרך החוצה: הכנסת ה-26 תשנה את פניה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxMldTSDJkaWdpYnZaS0xHR1BpX1ZjTnlkbzd2S0huTzZ5U3N6MU1HZUEzdE5zRU1EQ29vd3ltMGVBNDJ0d2VuYzhBSzNmZw?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
   {
    "title": "בג״ץ הוציא צו נגד הרחבת שידורי הרדיו החרדי לצפון",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTeTRXUi11NkZNeDRLZ1RYOFNzbGh2UGczdzhsT1dTWEMzd1BjeW45UnZLQXZ6QWJpbnVScnpPaExzdWcya1F5S3F3TQ?oc=5",
