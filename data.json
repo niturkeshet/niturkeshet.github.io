@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T00:00+00:00",
+ "updated": "2026-09-02T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,19 +182,19 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פחות מרבע מהנוכחות על המסך: תת-הייצוג של נשים בשידורי האקטואליה בטלוויזיה",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWUjBVREJISVc1RFZPcnFEdWdQcW0weHg0c2tpcExLaWxQWjBuY0VpbGpsM201VWRITjkzSHROQzc3UDluN09lWmJYdmgyYUJLbC1PTmZR?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "x.com"
+  },
   {
    "title": "אברי גלעד מפתיע בקשת 12: זה הקאמבק הדרמטי שלו",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CZlZzand4dTZTQTRteVhGRWpjYzRDNUpRQUt4UE9TSWN1eGJRZFFhelFnWFlQdEJYTUVRd0JDR18tTWlYNU1vNnlQcEVUU2NJUDZldGtvMFA?oc=5",
