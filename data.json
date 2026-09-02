@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T11:15+00:00",
+ "updated": "2026-09-02T11:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,17 @@
   }
  ],
  "items": [
+  {
+   "title": "הרשות השנייה הזהירה ממידע כוזב, אך שותקת על הריאיון של שרה נתניהו",
+   "url": "https://www.themarker.com/news/themedia/2026-09-02/ty-article/.premium/000001a0-6191-d234-aff2-7199e4100000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-09-02",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true
+  },
   {
    "title": "\"פייגלין וסמוטריץ' הם ימין כמו שאני מכביסט\"",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOellDTVVva0xBRnl2Zmd2LW5rU3UxQnJLRHdlVkhTZ1pfSzZ4bmp4cEhUSmNTWkF2cmdQcEp0ZWcyeElaeExHNHVGOENJWl91ZEVVa0JiaHN6QnoyNVBfWC1fbU1KWkRma2VUOTdhcktERGtvR3NXTl91RkNfVm43Qg?oc=5",
