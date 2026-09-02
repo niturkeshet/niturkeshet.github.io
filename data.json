@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T08:30+00:00",
+ "updated": "2026-09-02T08:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -158,7 +158,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -277,6 +277,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "זמן ישראל"
+  },
+  {
+   "title": "\"לא אתן יד לחילול שבת\": אבי מעוז מאיים להפיל את חוק קרעי",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82Rm9SdEZ5THI2azF0cFdsV0dXTEZOMzJVTUdDSEp3eUhKajFVcGtCZF9jcVVWcjVVTzdUNlBwaEhQZm9tWTViYXE3ME1NcDZlb0hUZ05iQ0kzQXV3U3JIN243OWlMT25ZWGpRd05IcHQzaEJGdGhjNXRWeHQ4SGM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-01",
+   "keywords": [
+    "חוק קרעי"
+   ],
+   "pv": true,
+   "publisher": "כיכר השבת"
   },
   {
    "title": "פחות מרבע מהנוכחות על המסך: תת-הייצוג של נשים בשידורי האקטואליה בטלוויזיה",
