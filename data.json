@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T07:15+00:00",
+ "updated": "2026-09-02T07:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "עלילת הבגידה בשבעה באוקטובר הפכה לקמפיין הבחירות הרשמי של הליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1jSXpIQlRLYmlxcC0wQW4tZE9CeHl2cUlZeG1OeW5DYXpuQ1Q1QzNqdTVMcG1KdE5zcE9SeEtxSDlZTWRy?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "פחות מרבע מהנוכחות על המסך: תת-הייצוג של נשים בשידורי האקטואליה בטלוויזיה",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWUjBVREJISVc1RFZPcnFEdWdQcW0weHg0c2tpcExLaWxQWjBuY0VpbGpsM201VWRITjkzSHROQzc3UDluN09lWmJYdmgyYUJLbC1PTmZR?oc=5",
