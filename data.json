@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T23:45+00:00",
+ "updated": "2026-09-02T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -420,214 +420,6 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "הקונספירציה של שרה נתניהו: \"יאיר גולן היה לבוש ומוכן ב-7/10, מוקדם. כשרה\"מ לא ידע\"",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZak12ajNMQVBNWm5ack9JQVhqN2syV0w0Sm5hbEs2cm1IRkt6a0hUSzFicHNrZk5RYldqRGVRbnRmY2Faa2dEeFh3VU5tNFJuYlczWm55MUpEdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ynet"
-  },
-  {
-   "title": "אחרי הסערה: דדו בר כליפא ימונה לאלוף פיקוד המרכז",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYzFudlVLTG1WMlJ4UEpfOU42TWZxWjhVX0FDYVZFX0ppWkFhcmJWWV9fUEphZ3VkSXJKMV9Ld3BPTmM4MWdYeENTSzNHQWs0RGhtNGdXMWM0UQ?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ynet"
-  },
-  {
-   "title": "IDF chief's wife a director of co involved in irregularities",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekJ4ZTJlczVsN3BKZHpVTXcxbzFLMzgzR0FJTkZvazd2c3k5OUJHY05ONmswTDN3ZVBpeThYczdsWW95dDFibHJVRF9Jal9vMURKZXpOMURaM2ZpQ3gtYzFXTE82ckZ6Y0IwYkN1MDNzMXJMZXZKRU1ERlBtS2NOZ2hpNjRKVm4yRi1NMFllYW9qOVQxTk5CQld6bVAzaVhhdkZQcFBIcVo?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Globes - Israel Business News"
-  },
-  {
-   "title": "המעבר המפתיע בצה\"ל: מפקד שלדג ימונה למפקד גבעתי",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mQkpBd2tWbXRqdHIyNnNQMG12LTNnZDQta3dnNEFBa1lWVGI1NzB3RWFRS1RfX01lQmJvSUY2bGttWE9YUThwODQyT1I4dw?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "news.walla.co.il"
-  },
-  {
-   "title": "שר התקשורת אישר סופית את מכירת הוט מובייל -",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqX1NyQXJNdFc0ampxazRvemlSZ3kwb2J1M3lkQmdROHhaWURSVVRIbThKQmJZakRFSl96ZVdkVXN5Vndpbk5Mc0dETzREZw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "אנשים ומחשבים"
-  },
-  {
-   "title": "קרעי אישר את העברת השליטה בהוט מובייל",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvWE5FOHJDQjZUbGNDVGJvU0xlbUxHeWxGQmtLZ0ktbGRuOUlmbVNSOE5ic053MHhJM2MwVTRHRXF6TmFsX3hQR0gwUmFCenoybnltQlA1aDFCcUdYN21BSWk0ZlR1UdIBbkFVX3lxTE1jeW55ckZmWXdpUVlfeUxueUZ6NHpzbkNNTWQtQWJ4a3BnWHU4YnZtcl9ReVlrVzQxYTI3MVVZWEkwN0taaGFSall6WUZGQ3FaRUpsVlNlQ1ZJa3EyalhYVjNmRkxHUndoeE5OV0Zn?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "ת\"א 35 הוסיף 0.5% ות\"א 90 השיל 0.9% באוגוסט; גילת איבדה היום 6.6%, נייס הוסיפה 5.2%",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mR3lVUGhzM0JuOC1va3B5dzdiSHVqdXpIc3praldMQ2hNanRjOF9MSFlVRVRXZzJZZW1kU2FHT3ZHdW9BbW1ZRHBNWG9ZdmJvSS1BWUZveXl4Z2t2b1dkN3g3cE5iMmdoTGFfcUJNeEs?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ביזפורטל"
-  },
-  {
-   "title": "After chaotic August, Ben Gurion Airport expects busy holidays",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHBBaWk3YnVTRlg0RmphRmMycE15dUVfMnVOamRBa0VjdU1UNU1xZ3k1UWFEUGtTX0lkaUtPbkpKZnozX2wzUzNiWEdyWU1aUVlWQ0dCcnoxbTAtaGE0VEZDVGpLXzZnRUt0bzBDaTFwSGlDQ2R3ODdVbWFTOWxDeHNrTkZ3Q1ZGNndRUHd6UzY1R05vZU9rcDcyT2R2X3M5QmZ3WmFxaFVRdkk?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Globes - Israel Business News"
-  },
-  {
-   "title": "Supermarket chain Keshet Teamim mulls flotation",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDl2SHNuU3NocUNaaVgwWXVkcjJKN19nS3lJb21CX3J4V28yS1dZVE95aEhReTVhTXlYU19HbFp3UnRuLS1lTy1MX0MzNk83Qjl3TEpCbHdzTFp6T01vYmdKdU9OMTJidW9kb0ZiWHFkajdERnVqSXhOZlZBVDBRSGt5OXEwazZnQlBDdVRlYWtQM3MxRVoyUw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Globes - Israel Business News"
-  },
-  {
-   "title": "Sale of Hot Mobile receives final approval",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSV9fOC1TbWJCUnBOejVLSUtneFpuTm9MVTZ5bThtSWYwVFZMbXVQbmxWSjZXUXRaSW5iS3VYcmg2aGowb3Z5WUVDZkxGaXpySjJWVzd0MUZiLUdkRnhIRGFoN2lFWnNJRWFQMlJWakF1Y3A2VW5FV2R1amNjRF9RbG1EN3Fabi1oV1JOMW9Ubmlxdw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Globes - Israel Business News"
-  },
-  {
-   "title": "אחרי רשות התחרות: המדינה אישרה את מכירת הוט מובייל",
-   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQNk5IU2l5QlNVdE9PSFNFQmxGWENpSkVRejhZUFdoNW5uVnVPSFViLVEtTkV2SXRmbnhtRXdSREVHQUp0T2lXOVJoMlBNOF9WY0E1azVfYjI1UWFpQkRkbGcwX3NwTXFuOUN5M21RN3dBRURVbW9sWl8tOElqRGRCaF9pekRFUDhtUjE4SHpVRHVVTDNhRHIwQXNaT3ZMWFBnYTVpcThaWGc4blhkdE05LXB2dmluNnRFUHJBbVZuRnNZREZKZm42NXJfZE1XdEhONHVyZlUxNWI5cnZiTmZSNGJSd2pnemlnYkFfQ3JGYmZ4dXJGR0wydmhsY2lON2ozdHFfOWpFRUVUZXJ1RzlVa0tZalRKekVoRU11OGlmT0ctdERqRE9KWnQ3SDlJUE9EYjVMQmU4WHBsbDBOa0pxWmRn?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "ביזנעס"
-  },
-  {
-   "title": "בהפסד של 300 מיליון שקל: קרעי אישר את עסקת מכירת הוט מובייל",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04M2lTY3cyc0dXUnQ0Zl9hN3ZpTi1SYkRLRVRyODR5QWRCYm5nb2ZqRGQ5UHd2eVhHbFNucHdUT1BfUW1IbDJ5VWd0ZVJkaGhlVmE4bGs3UTdDQVhXNk8yNzdjUjg3dw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "בשווי 1.8 מיליארד שקל: פטריק דרהי נפרד סופית מהוט מובייל",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pTUlJbXBKdjRGTGhUSHd4RDdSVzlFbDN5MFJmaGRhQ2xFLVFzdDgwTnMyM1BjZDJfZEdYUU5YbU8xX3pSV1dFc04xQnd6NzRaS3Jjc204SVVjNFB2Z2Iw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "משרד התקשורת אישר את מכירת הוט מובייל לדלק קמעונאות וקיסטון",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80bzlGZk1HZFByMTY4V3BmNEdpSmtidW1XSHFsRk50bjFPYUZ3a0gyd0g2U1hid09FYUZTbnpGaWRJSjhKYkhqVlJEUWxhRUd4ZmY5dUNrQTB2U1FWUE5LU0hqZm96MFgzamhJ?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "Calcalist"
-  },
-  {
-   "title": "אור ירוק לעסקת הענק: קרעי אישר את העברת הבעלות בהוט מובייל לקבוצת דלק",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZT3JEOEloQmtTWk5aT19TWGQzdjZ0VFhJWlZQREFlNktmbjZndHZVTGlrZy02MXJ1eFRKZDNrb2RzdU1lRlg0U0JYLWNTWkpyTXc?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "וואלה כסף"
-  },
-  {
-   "title": "קרעי אישר את העברת השליטה בהוט מובייל לדלק וקיסטון",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12aElEbnVPV1hQcVpHUGV3Y1lPbnFfdWFrd2hUaUt5bkZ1OG9NSzBON2VQWk1mcVBGRFZlV2JkV1ppVGl1UnM4cFRTTUVsYktsS09CTVY4ZWswMkt3b2RrM0Z3?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "News1 מחלקה ראשונה"
-  },
-  {
-   "title": "האישור האחרון התקבל: הוט מובייל עוברת רשמית לידי דלק ישראל",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rcWhWRFBQaGJ2eTlubldoSkRBSFJvQXkySjdfZG5MdFh4Q0xHekNZY3JpRFRTeFNvZjQwQ05vVWdfZ1h5cm11aEt2ZXR5UGlMOGV2YjEtX3lDQnFTZEhnZ2cyUXpVVzJr?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "גלובס"
-  },
-  {
-   "title": "פחות מרבע מהנוכחות על המסך: תת-הייצוג של נשים בשידורי האקטואליה בטלוויזיה",
-   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5nTHZqOHJUel84bXdPNi1DMVZsa09JUmlCQlBqMGpYVk52dW1Pb2wwc0V3Z0xjQWZlWmNBMkJENUQ?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זו הדרך"
-  },
-  {
-   "title": "רק מילה בעברית חודרת אל עורקי, אל נשמתי. חייבים להציל אותה",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzZwZG5ESVF3U2xJb3JKUV9iUDZpSTVBcmlQSGRVeHRKaHhfdnRpX0V2ZEpsVlpSY3hUTmVtaUpzc1JDTHQ0VWVrekUxd1BuVVhsc19wcEFuRV84c1MtZTlUblJZMVhwaTQzQV9rcmhUU29tOFBBV0NSekJSNVE0X3F2V19PZjJXamUybzlORGY3UTZLOF9kU2d1RDJqQlRRd09VUVBYVHF6RnUxRkE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
    "title": "נטעלי שם טוב חזרה לאולפן של חדשות 12 - וקרן מרציאנו לא הרפתה",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12NXNDcmxmM2dwUXV0blR0anpJUXNyaFVFTGozTXVXNWV0Wlc2T1NFcGpVRkpRUEZzd1hLMXA4dlQ0T2oxY1dsN1BuMVBRc0VMcklqdVlpTjNsN1N4?oc=5",
    "source": "ice · תקשורת",
@@ -635,58 +427,6 @@
    "date": "2026-08-31",
    "keywords": [
     "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "תוצאות סופיות בליכוד: סעדה עולה, קרעי וגמליאל יורדים",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rTHlIQnBQeVh2czdSb0k1b2stVXN5US1WX2tieUdDN0k4dERlSGY2UU1JcW1zYlM1WEFpUTBBOEpmOWtwR0RITjZpVzJxUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "אמס"
-  },
-  {
-   "title": "ח\"כ מהאופוזיציה חושף: \"החרדים באו אלינו לפחות 4 פעמים\" | פודקאסט מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1VDR2dnc5aGVjaW9nQmt0OEF6bFVWWWhnZkd3M0M5MzRELTBQMlkxR1hveDZjNDR4Nnc5b2UwMGl2RHV1aUVXbXc2dE9fMkhrZjFMZE9aWFppNnpwWnkwRjN2WnU?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "הסוף לבעיות הקליטה? הצעד הדרמטי של משרד התקשורת",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOcGVRRkZSOGlnMnI1SXdCbkFGRHZUdTBzbmxPODFfcDVqLUktOXdmV0RTdlpTdTMwdk8tWG1RWHo1RlkwRW5iaWZ6YjR3aTJNUVdoOGUzVU1CdXpW?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "רביב דרוקר חושף: פניתי למנכ\"ל קשת והצעתי לו חבילה",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MVjJtdF9FZ1NQSFZjYmVraEROZ0VqanZRQy1VMUJobnZRYWlRNGF4dWJDWHY5ZlA1NFZLNXdKMFowTl9pWlEzVjRBOTQ0bGh6MlRndTdaX28wYmM?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "רביב דרוקר חושף: פניתי למנכ\"ל קשת 12 והצעתי לו חבילה",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iT0VEYWJHdjEwSDlwdjZjRVlOTENjQjVMWV82WW8zek50Z3JySTRHaWprMVBWY0FJdThSYUVlVnFxUDZVTEY0ZWhtSGdDclR6cGswMHlqV3hfYllE?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-08-31",
-   "keywords": [
-    "קשת 12"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
@@ -2677,17 +2417,6 @@
    "source": "ישראל היום · ביני אשכנזי",
    "type": "site",
    "date": "2026-07-05",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ח\"כים בליכוד נגד ערוץ 14: \"בלוף – כל אחד יכול להשפיע על הפריימריז\" - היום",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oM0dwY3VyRWhDWlVJQTRhTFFrS0VLeTU1WWozVUYtQzFUVHhIRlNBam9zYlRJZ0R4b1BhT2UzZ2FtNmk4WkxaXzJWdVJFZndMUHEtMUtBZ1dxYnpCZkhGV3JuRUEtOUwwUTNMRtIBdEFVX3lxTE1EcjRuSXdFRkRuUXhDR080X2Q1ZFZ5ZDhoeDBnYzItcU9qek96VkN0eXNTQVIzMmpLZjhiekFSTUF6SEpnYWg0VUE0djlsYk9ZN3UxOWVBUVhiZk5La0ozNkZ5N0phalVld1liQ2xXNHpkSk9P?oc=5",
-   "source": "ישראל היום · ביני אשכנזי",
-   "type": "site",
-   "date": "2026-07-03",
    "keywords": [
     "ערוץ 14"
    ],
