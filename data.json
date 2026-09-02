@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T15:15+00:00",
+ "updated": "2026-09-02T15:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אני חושף אותו\": נתניהו גילה לתלמידים על יום הולדתו של הרב פנדל",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoWnlvcDBsdUQ5RnQxMWtpNm5NVXFkWDdwT0syOU8zeWlxenl5WHpxSXgzaHdiMnhmcWFIajMxSkY5N3hyWVRtcA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "מחיר הדולר הנמוך: מפעל בבעלות קוקה קולה סוגר פעילות ייצור בישראל — עובדים יפוטרו",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcS1CNHI3Y3NMTkJtV0dhUFAtM3hEY1hRWVBrTWJTWENyNnBtUDNKME9nLTlKV3ZVam1zcUdoUTVEVXRicEVyQ3pDb2laelhlZmM4YTkzVXUzTXk4cS1iMjZBeFByLXhBWm9sUy13aGVNaHlzMmQtRTA3UU5zSXZRbEpwb1NEcnVIbjROTHBidVRuNDhaT3I1ZVNSeHZfdk9SdDBBNg?oc=5",
