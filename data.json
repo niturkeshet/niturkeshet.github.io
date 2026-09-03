@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T06:30+00:00",
+ "updated": "2026-09-03T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
