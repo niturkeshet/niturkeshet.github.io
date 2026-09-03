@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T18:00+00:00",
+ "updated": "2026-09-03T18:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ישראל טעתה. המזרח התיכון לא השתנה, ומדינות ערב לא \"שכחו\" את הפלסטינים",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamZaelFLTFNiR1J0cUdncGJwV05fT2ctYWRHWnRlak5IVTF6cU1KNkZQVEdXbDlLcGFzMmdYbzVWNkhES0t2VGxubThFTmx6RmtiVl9SWTZxeFZFNEZ5c3U4a2w3cjAxZVVjdS1MSTBKUFhlc0sxQzFxeGNSUzZzdU1QUkxOVzNSSzdZc3RIUUZDYmVWZ3NSaFBfTUpfU3F6OTV6RUVsb01SZ2NhUV9B?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "\"אני לא מאמין שבגלל מאווים אישיים אתה מוכן לסכן את המדינה\"",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0taU256RmY0LUxQbXVfQzRIUU1wOGpFajNIaDRQeHRmWjM3MFhBYTBzS2doZFRnTE1sRGZwaTFRYVM3a3RqZHB5MFZXNXpIQVlOcEVWQlhnM013bzNwelhjaUc0M0ZDZ20wR28zbkFlYjBqLVk4YWlQOVMycnU5bzV1a2hxam9abWJyNDVnSGdJVWNlaUZwX3RhdEJwY3Z6Z0pEWFV3ekc1N1NvT2ZtNTBBME84Tk9r?oc=5",
