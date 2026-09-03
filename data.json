@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T16:15+00:00",
+ "updated": "2026-09-03T16:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -259,7 +259,17 @@
  ],
  "items": [
   {
-   "title": "איזו מדינה הפילה מטוס נוסעים של אל על ב–1955? - 20 שאלות",
+   "title": "החלטנו השנה להישאר בארץ באוגוסט. כן, כן. בארץ. באוגוסט. גילינו גן עדן",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFBYblpOTlh1N0x5SXJ5MGZESExHcWZTaWdiQ25qVTByUGd3OWUzdFdHcm1mcW1pZmZaTXQ5SlpLbzlqNnh6YTFjbzhVMXlmVVhzbkhrXzRFUm5PWGRMZlA0emhEN3FLM0hxUFlhYmtPQW5tVW9UdDdlR2FVSHlpc3pyNUZldnpFUk8xODFienFLZjc2aEkybGlaVkIxVTBUeUh1azFuSFU0NWxLemNEZmNmSQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "איזו מדינה הפילה מטוס נוסעים של אל על ב–1955?",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckVvU2VmamRfUVJPYVB0OVlKTVExdUxKeXppNEtUc1VfMUVRY1J5TXFoT3pPWHBtQ2VrZnJYNV9JVmtKSFgwV0pvRGlvUXR2SlROcl9qdS16dXRsNUF2RERIRlotcUJELXFObUlpdWFPMXRRam9FZWJjdWZkbHhzeHFlY0JPVzQ5WjVtOTJTaDIxRXpLN05nYjVSQUxFNzBnM1dpaXEwTEJXX1ZnUnNtOFpJMlMyUEkxdERkeg?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -375,6 +385,16 @@
    ],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "שמורות טבע עלולות להפוך לשרידים של עולם החי והצומח שהתקיים בעבר",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1V1ZDNtbTRIbDNLSXp3aDN4M1FKZzFjbjhkTlFZOXNLZkJtaHBxcnBHRDlWSUFWSkJPcFdWaUNpSk5talRQdXByZEc0NjIta2tXQXNkMm53bGVWSmE3RlptaVVQNWJRbllLZ3dENG12NGduNDRiZHVPcXlQaTVlUDk3QXdqdUFtNjJIQkJ4Rl9odjhTUnIwUlV1MlVZLWpqNzlBdUlfTTNtNnAwNkd2dzlXeWczbTlK?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "\"הוא הטריד אותי מינית תוך כדי הבדיקה\": העדויות הקשות בבית החולים הדסה | המבקר",
