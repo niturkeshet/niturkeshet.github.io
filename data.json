@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T11:15+00:00",
+ "updated": "2026-09-03T11:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"תודה רבה לך שרון גל, תמשיך לראיין את עצמך\": איל בן ראובן פוצץ ריאיון בשידור חי",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnVTUUVnYkFMUEtSRl9iTnYxb3piem5xWG5fSUtKQUxkR2JMa1NIdy1uU05ab1FOV2lDeU9iZDBXMnc4cEFadlhIUDJIMl92Q1VJUEhoNjNfM2lDcDktVWxJZlNqVklaSWVxUF9kZUZPWVh4bi1zS29zdVEwWDJHVw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "i24NEWS"
+  },
   {
    "title": "לפיד הציע למיקי לוי תפקיד",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ua1ZuVVFONy1LUGZzYWVJZlRUOGFDR3lWX1NaRjl4NUhweFRqajd0U2lCc2ZrMjdzOE9PdnNHeWRTTDVBVnF4UDdtX0FCVHh1bUpheFhmdmRUNFI0MWo0TjR3?oc=5",
