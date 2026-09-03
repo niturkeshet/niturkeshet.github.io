@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T16:30+00:00",
+ "updated": "2026-09-03T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ללפיד מקום של כבוד בפוליטיקה אבל למען הניצחון והעתיד, כעת עליו לפרוש",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkJpeC1ENUxiejFhc0dqbmRULWpGa3BKMGZjTmV3M0s4RjlVVFFHTmhjdnVUVkFNeU95aG03ZmFXd3g5WW5SNEt4YWlJSXhZQndXc3dsSEJ3TE4yaHVjYnYwVi1vRXAxbC1QY0tNcW5zM1BvWXp5cUtOZUhlNEphVWx2TklSY1pkblB6N2NrUk5ja3dnWjdPQ2JSaGJ3djMzcFRGeUlsOW90Q2g1Y3F3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "החלטנו השנה להישאר בארץ באוגוסט. כן, כן. בארץ. באוגוסט. גילינו גן עדן",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFBYblpOTlh1N0x5SXJ5MGZESExHcWZTaWdiQ25qVTByUGd3OWUzdFdHcm1mcW1pZmZaTXQ5SlpLbzlqNnh6YTFjbzhVMXlmVVhzbkhrXzRFUm5PWGRMZlA0emhEN3FLM0hxUFlhYmtPQW5tVW9UdDdlR2FVSHlpc3pyNUZldnpFUk8xODFienFLZjc2aEkybGlaVkIxVTBUeUh1azFuSFU0NWxLemNEZmNmSQ?oc=5",
