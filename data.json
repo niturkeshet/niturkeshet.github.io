@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T08:15+00:00",
+ "updated": "2026-09-03T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אין שום סיבה לעצור רק ב-7 באוקטובר",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzdmNuTkJjcW1NNDBDNm5PQUdmOHdzUl82TlVCdkc2R3d4Q3F2QThoZ1pxVEM3V2xibDJXYlVNdGloaUgzLWJKU2RlLW41VXRHS1VJVjd1b0pKdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet"
+  },
   {
    "title": "שיחת השוק הבלוף של האג\"ח האמריקאי נחשף; בקרוב ייחשף גם הבלוף של האג\"ח הישראלי",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSDVkQUdSUWQyN0Y5ZktPUjFOSkdXWWtqVk9xc2VmRjdvNmpmRnF0WXZERFpTWlpibElNRkV6RE4yWTBaeVdHUkRXaUswQzVRTDZEQXlFSF9BMHJycmRkay1pMUFWQnh3blpLV3FLbXVFaTZ5QjNfbE44OWhESHdPNGtrZlZMZzAzZzVlV2FNdThnelZ1M3IxdzBvV255RnFMLXJj?oc=5",
