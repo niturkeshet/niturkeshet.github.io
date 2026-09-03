@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T03:15+00:00",
+ "updated": "2026-09-03T03:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -224,13 +224,13 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "רגע לפני רכישת הוט מובייל, קרעי שאל: מה עם פרסום בערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHA5Q1g3MHFzT0w3NnNaVjNwc1R6ZVhFRXpMbnhiN0lDektfMmNWOUxUdWkzS2J4a1htSmg5N3RKdFBFcFRmVjBiVHlRYzh5WHgyTjFINGxxOHI5VWluRERPa2ZTTlZkNlJzS1JLU05sYVhVOExqdmlodDZTa2VsODZaeUpuY0lHNnBFeVNEb1FIakE4aWs1RlRUSDFPWGpDN3d3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [
+    "הוט",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "\"אני הענקתי לערוץ 14 את הרישיון ב-2014 ואני גאה על זה\"",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UajI0akxreDd4cDJncUVtYzMyVG5aSC1FUlBFcGFKNkpzT1dtRGV5VUFGelBoNzlFbFQ5SGRBa3RvN0NManRvSWhIY1BheUNROFAwaVk4Vy1kUEVNUEg2VmhYOG8?oc=5",
