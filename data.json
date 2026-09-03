@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T20:45+00:00",
+ "updated": "2026-09-03T21:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,13 +230,13 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "גוטליב עוברת לבן גביר: ההשפעה על הליכוד - והשרה שהרוויחה",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0RnVyaHhDYVVwZWJfQksyRjdjUjFYQUM1aGw0ZFFReEF2SHBzOU93RnFlLUEzZTdPX1R6aExwMGszSHJ0QlkxaV9yeFZiQVpMRUtValJ5bWYwQzdYb0drelBPU2hIcDNrUTU5aVp6MUhQTjFO0gF0QVVfeXFMUDRGdXJoeENhVXBlYl9CSzJGN2NSMVhBQzVobDRkUVF4QXZIcHM5T3dGcWUtQTNlN09fVHpoTHAwazNIcnRCWTFpX3J4VmJBWkxFS1VqUnltZjBDN1hvR2t6UE9TaEhwM2tRNTlpWnoxSFBOMU4?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "israelhayom.co.il"
+  },
   {
    "title": "מול דורסנות בג\"ץ",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aSVBibTZYRGZEWUNpbmhsQ3B6d2FPYVhmbUEwZU9UbUdHNHRCUkJLbUtxQXphN0dCVzNzNHlTUWxLcHdpUDZHNU5PNDFYUQ?oc=5",
