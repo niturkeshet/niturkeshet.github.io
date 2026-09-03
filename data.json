@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T12:45+00:00",
+ "updated": "2026-09-03T13:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -224,19 +224,19 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 3
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -254,12 +254,12 @@
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   }
  ],
  "items": [
   {
-   "title": "בחירות 2026 | בלי פאניקה: מה באמת אומר \"השוויון הדרמטי\" בסקר - נוהרים לקלפיות",
+   "title": "בחירות 2026 | בלי פאניקה: מה באמת אומר \"השוויון הדרמטי\" בסקר",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEF0Q2MxZ3VuR3cwdVE0TG8wTlY4UDZJUng2S0p3eEpNUGFBRkxTcWFQS2d1MTlwM1I5dG9lUlVGa2NZQkhJbVo0emExeXFkdVUxYzFEYTEteTFhVThwbGtRU1VmRGJ0ZThhTEdrVWZSZVNvMkFsZVdEdDVyRUplc0Z3X1g5M3RSQVVvNktGX09YeVdHRlg2RThNdGVSZzQ1SXlOOTlBNFZDa0lCekJ4RFNfbDNlTVU?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -355,6 +355,16 @@
    ],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "\"הוא הטריד אותי מינית תוך כדי הבדיקה\": העדויות הקשות בבית החולים הדסה | המבקר",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tMHRobU9FMC1XX0ctRmtlcF9mS1JTMkxDSlo5WktpX3g0TVhKWjhvV0dFOWJlUEFrRWdWeDNIeFk4eDUxM3dOekZBQ2czaktqd2JSRmo0cUZwRnVxUWMtMFF0ZWlyaTdteEpMMnNTTkx4SDBQajQyVFBjVGxyQQ?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "mako"
   },
   {
    "title": "יפעת בן חי שגב",
