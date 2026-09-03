@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T11:00+00:00",
+ "updated": "2026-09-03T11:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -323,6 +323,16 @@
    "keywords": [
     "ערוץ 14"
    ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "יפעת בן חי שגב",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE90dWFuTW92c0oxeG5ZLUZvSkZqOFBZRzBmQk5SbE1jbFU0eTdYV0NVamI3QjcwM0dwOWhHRGlPVENOZll2ZWh0ajJNNGptMjNnZ0NTdzRsSm0xcnNaQ2gyNzZKT0lUY0RtUmVrVHhWWlBRWGpyS0VXY1RBZGVFajBaNE9Ka1BlUDFscTdqU0R4VkpFb3h6c1Uxak5OVjV4?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-02",
+   "keywords": [],
    "pv": true,
    "publisher": "מעריב"
   },
