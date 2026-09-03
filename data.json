@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T12:00+00:00",
+ "updated": "2026-09-03T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,13 +176,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -224,13 +224,13 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -248,13 +248,13 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 0
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 0
   }
  ],
  "items": [
