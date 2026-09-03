@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T17:00+00:00",
+ "updated": "2026-09-03T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,19 +182,19 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,28 +236,58 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 0
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 0
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 0
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 0
   }
  ],
  "items": [
+  {
+   "title": "הגינוי חוצה המחנות נגד דברי שרה נתניהו הוא הנשק היחיד נגד הרעל שהפיצה",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa01NTFVTUDJKR2JodU1YczF6bTcySHFlX2p5ZmRlVnhVTFNmWjFuRTFOblNKMFlneEc5a3BsaV8zRlFaUkN2SWdCb05iSWRrSG1GUHRhdE96OEF0aUttb29UWmdsWmt5UWpOcDZlMUp0eDlrOFBud09RNm5QRHVQNDV6eGZ6N25EWmExSU1SalFQRkV4VkpWbHRoX1R0VkVvd1UxYW9YdHBDSzBlczBz?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "ברצלונה פינטזה על חוליאן אלבארס. האובססיה שלה סיכלה את ההחתמה שלו",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTUNZenY2TkJUb3ZaSGl6NWloTm5yQjV0elh4WWswM09JNnpDdWVCZzVpRUNhb1Y1el9ZaFVTZUIwRFBqbmNaS21EUllhSUlSY0xia2pyRTctNW5UcE51aWhrZkV4OU9TTUo1QnNMcEJNeFdZdXcwanoycXhTQVdBMHFDODJ0ZEFVVzljUU1zQmdFeGlkVjJVRTJNMG4tTTVoV0VrcmstaUp0dnRKM0JGamdERTNuSHlULUxQX3Vn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "צודקות בנותיו של הרב עובדיה, ש\"ס כבר לא המפלגה של אבא שלהם",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1phN1JZbGo4S1RQSWd3N29SY2hGdkpZQVhtOUpQcm0wb1Nxd0NYYUNRSzNkMnpSR1A2ZWJCWlVKeHNjYlpBUUxfZ3hsZjE3QWVxb1dqeU5ZQy0wLVVVSVdhMWswNjJTS2tuN2djcHllTHptRzJRMmtqTXdMQldjSEF3Q1hObWxhWUdyeEFfZG9aYmZzWGdUTUJzMTE4bmhmaUwzWnlBUy16SEJQb3Rj?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "ללפיד מקום של כבוד בפוליטיקה אבל למען הניצחון והעתיד, כעת עליו לפרוש",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkJpeC1ENUxiejFhc0dqbmRULWpGa3BKMGZjTmV3M0s4RjlVVFFHTmhjdnVUVkFNeU95aG03ZmFXd3g5WW5SNEt4YWlJSXhZQndXc3dsSEJ3TE4yaHVjYnYwVi1vRXAxbC1QY0tNcW5zM1BvWXp5cUtOZUhlNEphVWx2TklSY1pkblB6N2NrUk5ja3dnWjdPQ2JSaGJ3djMzcFRGeUlsOW90Q2g1Y3F3?oc=5",
@@ -395,6 +425,16 @@
    ],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "קריקטורה יומית | 3 בספטמבר 2026",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVJSMTFGNGVUQ0hzYWRoXzNTTVg0eE1nV1JMN2RNRXgzandwQzR0Rmx2Q2tXRjhSQUtoUUUweTNndFNFRHBneGI1ZktORXlqQWhMMlBPaEtpY1Exb0NyUmlvSE9fT2pCbF9HbzZ2MFo3ZEQ0enUyX1hJLWExT2xVSFVPMi1Qbkp5OHB3bVl1Qm9JYXZORk5pckVyTFdGY2xyaUpmeC15RHRLOGs3VEp3aEZPbw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "שמורות טבע עלולות להפוך לשרידים של עולם החי והצומח שהתקיים בעבר",
