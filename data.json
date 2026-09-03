@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T17:45+00:00",
+ "updated": "2026-09-03T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,25 +176,25 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,31 +218,31 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
@@ -258,6 +258,46 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אני לא מאמין שבגלל מאווים אישיים אתה מוכן לסכן את המדינה\"",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0taU256RmY0LUxQbXVfQzRIUU1wOGpFajNIaDRQeHRmWjM3MFhBYTBzS2doZFRnTE1sRGZwaTFRYVM3a3RqZHB5MFZXNXpIQVlOcEVWQlhnM013bzNwelhjaUc0M0ZDZ20wR28zbkFlYjBqLVk4YWlQOVMycnU5bzV1a2hxam9abWJyNDVnSGdJVWNlaUZwX3RhdEJwY3Z6Z0pEWFV3ekc1N1NvT2ZtNTBBME84Tk9r?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "הגיע הזמן למכור מניות? השאלה לאיזה משבר אתם מתחברים",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEphdGEzTHlUSlE3QU54bGZwUHRITUFYY2pTQmFNSWVBenBqZGU3WFdWV18yVWVzdHN3Tm9TajhESERmeWlVUllUSTJVaC1YTWRkQ1N2NE9PWnptdGc0cURlRjBRVHJRTjBtdDRkbi1vVDQ0ZkNqY2N0VXc1dVl5MmJrR3JEWU4tOVdYeWxmdGtKeTFfcERIdEE2TWhWY29pa1lJaTlB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "\"השמאל חושב שכל הציונות הדתית אוכלי מוות. אם הם לא יתפכחו נהיה בבעיה\"",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0swTzZ1VDJmYUs3eGRMaGxRRUhMVVk5NGZDODZoY2ljUEYzbDhXU2VYWEFKWEtldG9GQmJiR2o1YmFLTFdNa3BEQWJtQTJsUTh4LWRuMDJiLTU5QzVwb055T0xaMnpZSFRHSGZiTzYtYnQ4MFRGLWhFMmNmb1NLZU1GS1UxV21ZNS1RS2IxTGxCME5YQ24xWnlXb25heU1tZWNFTmNzajM0R3RodEF3c2ZjSGhJZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "המפלגה היהודית־ערבית שחלמה על שלום התפרקה בגלל מלחמה",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS01Bcm5NRlc3LXhBeTlJOVhwM25NeEVvbGl6QzBwZHRJazNDLS00Qk9GVnQ2RnlWdmJpZUFxUEdfZGRkSXUxYUFveldrZHpyeUJ5STlaei1aejNTeTFXMVlldldMcWNlQ3c5LVlqQ3g5aHFmVHBxb1VpaXlEVkVCNU4tRXVjR0ZYU0lLMDhHakltZVpMbUtWZEJTaGlSWmdPRG1xT29Nb3Q3Q3NHUjRFYzNVY2h4LXpEMlJFdGRxSmZfUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "הגינוי חוצה המחנות נגד דברי שרה נתניהו הוא הנשק היחיד נגד הרעל שהפיצה",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa01NTFVTUDJKR2JodU1YczF6bTcySHFlX2p5ZmRlVnhVTFNmWjFuRTFOblNKMFlneEc5a3BsaV8zRlFaUkN2SWdCb05iSWRrSG1GUHRhdE96OEF0aUttb29UWmdsWmt5UWpOcDZlMUp0eDlrOFBud09RNm5QRHVQNDV6eGZ6N25EWmExSU1SalFQRkV4VkpWbHRoX1R0VkVvd1UxYW9YdHBDSzBlczBz?oc=5",
