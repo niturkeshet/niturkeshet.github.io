@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T18:15+00:00",
+ "updated": "2026-09-03T18:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ענבל שגיב נקדימון: כיצד התייחסה הממשלה לשחרור החטופים במסגרת מטרות המלחמה בעזה?",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1SQ0ZsTjhON29sbS1KQjczZTBRMjF6aFVqZlZaczBrVUlNMmUxcUQxcGlFM1ItT185OXNackV3S2h4ekNE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "ישראל טעתה. המזרח התיכון לא השתנה, ומדינות ערב לא \"שכחו\" את הפלסטינים",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamZaelFLTFNiR1J0cUdncGJwV05fT2ctYWRHWnRlak5IVTF6cU1KNkZQVEdXbDlLcGFzMmdYbzVWNkhES0t2VGxubThFTmx6RmtiVl9SWTZxeFZFNEZ5c3U4a2w3cjAxZVVjdS1MSTBKUFhlc0sxQzFxeGNSUzZzdU1QUkxOVzNSSzdZc3RIUUZDYmVWZ3NSaFBfTUpfU3F6OTV6RUVsb01SZ2NhUV9B?oc=5",
