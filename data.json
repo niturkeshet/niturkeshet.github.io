@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T15:46+00:00",
+ "updated": "2026-09-03T16:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אורן חסון פוטר מתפקידו כמנכ\"ל הפועל תל אביב, שבוע בלבד אחרי שמונה",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdxd25HdndKRnZ5S0lUVEpwNWQwQzBieUtOdkFVRlkwS29uZUFnMHVrY1dvR1Q0NnBYRzlDRjN2OEliN0t5ZmI0RmE3SEtRZlJDM1RfWmlSeWttaW5nQjZxOGNlejFlV1dhTHBCZGZpMkNCTl9iQnMybjlleEMtZkRzZGdUNXIyTHJMdXZkb2RQQW5VYi0wN3R1VWZXbmt0UXFn?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "בחירות 2026 | בלי פאניקה: מה באמת אומר \"השוויון הדרמטי\" בסקר",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEF0Q2MxZ3VuR3cwdVE0TG8wTlY4UDZJUng2S0p3eEpNUGFBRkxTcWFQS2d1MTlwM1I5dG9lUlVGa2NZQkhJbVo0emExeXFkdVUxYzFEYTEteTFhVThwbGtRU1VmRGJ0ZThhTEdrVWZSZVNvMkFsZVdEdDVyRUplc0Z3X1g5M3RSQVVvNktGX09YeVdHRlg2RThNdGVSZzQ1SXlOOTlBNFZDa0lCekJ4RFNfbDNlTVU?oc=5",
