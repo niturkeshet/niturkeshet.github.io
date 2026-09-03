@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T06:00+00:00",
+ "updated": "2026-09-03T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -380,6 +380,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "זמן ישראל"
+  },
+  {
+   "title": "אחרי 25 שנה בטלוויזיה: מגיש חדשות 12 דני קושמרו בהישג ענק",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wZXFRY2Q0YmF6T1NMVmREd0UzZlpmWDJDOE53N19kUEI1cEZUUWl0bDFxblZXWUh1QkdKMlRiLWpNVGZfVEJOcmFvRmVGaVdOdG9WQXdKX2phM2JZ?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-01",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "אברי גלעד מפתיע בקשת 12: זה הקאמבק הדרמטי שלו",
