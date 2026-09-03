@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T16:00+00:00",
+ "updated": "2026-09-03T16:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -218,46 +218,56 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "איזו מדינה הפילה מטוס נוסעים של אל על ב–1955? - 20 שאלות",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckVvU2VmamRfUVJPYVB0OVlKTVExdUxKeXppNEtUc1VfMUVRY1J5TXFoT3pPWHBtQ2VrZnJYNV9JVmtKSFgwV0pvRGlvUXR2SlROcl9qdS16dXRsNUF2RERIRlotcUJELXFObUlpdWFPMXRRam9FZWJjdWZkbHhzeHFlY0JPVzQ5WjVtOTJTaDIxRXpLN05nYjVSQUxFNzBnM1dpaXEwTEJXX1ZnUnNtOFpJMlMyUEkxdERkeg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "אורן חסון פוטר מתפקידו כמנכ\"ל הפועל תל אביב, שבוע בלבד אחרי שמונה",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdxd25HdndKRnZ5S0lUVEpwNWQwQzBieUtOdkFVRlkwS29uZUFnMHVrY1dvR1Q0NnBYRzlDRjN2OEliN0t5ZmI0RmE3SEtRZlJDM1RfWmlSeWttaW5nQjZxOGNlejFlV1dhTHBCZGZpMkNCTl9iQnMybjlleEMtZkRzZGdUNXIyTHJMdXZkb2RQQW5VYi0wN3R1VWZXbmt0UXFn?oc=5",
