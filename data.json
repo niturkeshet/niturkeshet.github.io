@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T03:00+00:00",
+ "updated": "2026-09-03T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אני הענקתי לערוץ 14 את הרישיון ב-2014 ואני גאה על זה\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UajI0akxreDd4cDJncUVtYzMyVG5aSC1FUlBFcGFKNkpzT1dtRGV5VUFGelBoNzlFbFQ5SGRBa3RvN0NManRvSWhIY1BheUNROFAwaVk4Vy1kUEVNUEg2VmhYOG8?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "Netanyahu spills the secret",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyYXJIZHBqRVA1OFJGTGU2X3Q4YksxdHRpOXMtaFktWkpac01ZaEEyMWIxUEE2V09VQlVPM3o4NlVwQ0dzM1ZZT0ZxUU9KLVoyc0l2YVZUbHJYQQ?oc=5",
