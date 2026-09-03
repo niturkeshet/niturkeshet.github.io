@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T10:15+00:00",
+ "updated": "2026-09-03T10:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לפיד הציע למיקי לוי תפקיד - התקנון אינו מאפשר את מינויו",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ua1ZuVVFONy1LUGZzYWVJZlRUOGFDR3lWX1NaRjl4NUhweFRqajd0U2lCc2ZrMjdzOE9PdnNHeWRTTDVBVnF4UDdtX0FCVHh1bUpheFhmdmRUNFI0MWo0TjR3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "אין שום סיבה לעצור רק ב-7 באוקטובר",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzdmNuTkJjcW1NNDBDNm5PQUdmOHdzUl82TlVCdkc2R3d4Q3F2QThoZ1pxVEM3V2xibDJXYlVNdGloaUgzLWJKU2RlLW41VXRHS1VJVjd1b0pKdw?oc=5",
