@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T12:30+00:00",
+ "updated": "2026-09-03T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -248,7 +248,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בחירות 2026 | בלי פאניקה: מה באמת אומר \"השוויון הדרמטי\" בסקר - נוהרים לקלפיות",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEF0Q2MxZ3VuR3cwdVE0TG8wTlY4UDZJUng2S0p3eEpNUGFBRkxTcWFQS2d1MTlwM1I5dG9lUlVGa2NZQkhJbVo0emExeXFkdVUxYzFEYTEteTFhVThwbGtRU1VmRGJ0ZThhTEdrVWZSZVNvMkFsZVdEdDVyRUplc0Z3X1g5M3RSQVVvNktGX09YeVdHRlg2RThNdGVSZzQ1SXlOOTlBNFZDa0lCekJ4RFNfbDNlTVU?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "אבל כבד בעולם התקשורת: העיתונאית האגדית הלכה לעולמה בגיל 92",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83VjlwY1c2WHNmVGNYNnFjbkVvMWRpS0t3YzhYSm9ZVFU5RGtjOGZCejl1RWNlUkpaRHEzZDNReUNaX0g4a2IwdkRUdGZqQ0M3czdxcVBNNkdlYXBQ?oc=5",
