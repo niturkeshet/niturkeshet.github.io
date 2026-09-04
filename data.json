@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T10:00+00:00",
+ "updated": "2026-09-04T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -151,9 +151,8 @@
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
