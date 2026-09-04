@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T00:00+00:00",
+ "updated": "2026-09-04T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "יפעת בן חי שגב",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE90dWFuTW92c0oxeG5ZLUZvSkZqOFBZRzBmQk5SbE1jbFU0eTdYV0NVamI3QjcwM0dwOWhHRGlPVENOZll2ZWh0ajJNNGptMjNnZ0NTdzRsSm0xcnNaQ2gyNzZKT0lUY0RtUmVrVHhWWlBRWGpyS0VXY1RBZGVFajBaNE9Ka1BlUDFscTdqU0R4VkpFb3h6c1Uxak5OVjV4?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "גוטליב עוברת לבן גביר: ההשפעה על הליכוד",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0RnVyaHhDYVVwZWJfQksyRjdjUjFYQUM1aGw0ZFFReEF2SHBzOU93RnFlLUEzZTdPX1R6aExwMGszSHJ0QlkxaV9yeFZiQVpMRUtValJ5bWYwQzdYb0drelBPU2hIcDNrUTU5aVp6MUhQTjFO0gF0QVVfeXFMUDRGdXJoeENhVXBlYl9CSzJGN2NSMVhBQzVobDRkUVF4QXZIcHM5T3dGcWUtQTNlN09fVHpoTHAwazNIcnRCWTFpX3J4VmJBWkxFS1VqUnltZjBDN1hvR2t6UE9TaEhwM2tRNTlpWnoxSFBOMU4?oc=5",
@@ -515,6 +525,18 @@
    ],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "ערוץ 14 ממשיך ליהנות מהטבות ומעמדו טרם נקבע",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00djhxR0NXTnVMU1NlUGx3bW9XMXZpM1BTWU1ybHk2bk1lN1BFaEl2emFfOU9KSFh2UU10RWJzeTBnR1dsc1M5ZGg1X2RWREpVV1h6elQwY2VhdEkwdVhRTUp6R0RlX1Z1?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-09-02",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
   },
   {
    "title": "הרשות השנייה הזהירה ממידע כוזב, אך שותקת על הריאיון של שרה נתניהו",
