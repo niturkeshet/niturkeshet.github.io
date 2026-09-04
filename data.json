@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T16:15+00:00",
+ "updated": "2026-09-04T16:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -242,7 +242,7 @@
    "source": "ice · תקשורת",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 0
   },
   {
    "source": "ביזפורטל",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "תמיד כיף עם מכבי חיפה. היא אף פעם לא משעממת ולעולם לא מאכזבת",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTVrQ0ZWeXhpWkpuaTRCS0E2cGtiU0JNQ2g4Q3RwSWNnZnJtX2VNZjcwOTRaYURmc2xNajhwVTFQaU0zd0FfcFFPb19xZ0hOal9zcmVkVE4xem1BT1FaT0Jtcy0wVHB1NVdHUE5KMEdZTlFlcnJ3T2lqNnpndHpRTUhvUThzZjAwVGNGRkZMSUUtc0ROek8yYVdETUczdUdJOW9pZUZnSUZsaHhDR3d2XzhiSmI5eWV6V3R3?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "גילינו למה נתניהו חיכה 12 שעות לפני שיצא בהצהרה | מיקי לוין",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zNWI5MEZRVkpaSzFibXV4dUtSdUFrdkZva0dnazRTd1hURjh6OGFXOGRpNDRjeWotMnZfYWRoLXhNTUxzNXlMNGRKalNwa2d1eWxxc05vM2FGVXp6SFVrcQ?oc=5",
