@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T05:30+00:00",
+ "updated": "2026-09-04T05:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -558,6 +558,18 @@
     "הרשות השנייה"
    ],
    "pv": true
+  },
+  {
+   "title": "רמי לוי ובעלי ערוץ 14 בסכסוך על מיליונים – החברה עלולה להיסגר",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QMkdUbEZ1dWxuZVQyTC1uRWtPRGtBdUFxUnNxV3FuUWdMRnpVb28taHdkZS1GN3FzRU9KeG9hTXVWS05raVZNcFRKYlNITzBxMnF5STlPWk9obE51Vm84?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-01",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "אחרי 25 שנה בטלוויזיה: מגיש חדשות 12 דני קושמרו בהישג ענק",
