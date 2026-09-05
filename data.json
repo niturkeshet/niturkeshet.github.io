@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T23:45+00:00",
+ "updated": "2026-09-05T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -322,236 +322,6 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "יפעת בן חי שגב",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE90dWFuTW92c0oxeG5ZLUZvSkZqOFBZRzBmQk5SbE1jbFU0eTdYV0NVamI3QjcwM0dwOWhHRGlPVENOZll2ZWh0ajJNNGptMjNnZ0NTdzRsSm0xcnNaQ2gyNzZKT0lUY0RtUmVrVHhWWlBRWGpyS0VXY1RBZGVFajBaNE9Ka1BlUDFscTdqU0R4VkpFb3h6c1Uxak5OVjV4?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "גוטליב עוברת לבן גביר: ההשפעה על הליכוד",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0RnVyaHhDYVVwZWJfQksyRjdjUjFYQUM1aGw0ZFFReEF2SHBzOU93RnFlLUEzZTdPX1R6aExwMGszSHJ0QlkxaV9yeFZiQVpMRUtValJ5bWYwQzdYb0drelBPU2hIcDNrUTU5aVp6MUhQTjFO0gF0QVVfeXFMUDRGdXJoeENhVXBlYl9CSzJGN2NSMVhBQzVobDRkUVF4QXZIcHM5T3dGcWUtQTNlN09fVHpoTHAwazNIcnRCWTFpX3J4VmJBWkxFS1VqUnltZjBDN1hvR2t6UE9TaEhwM2tRNTlpWnoxSFBOMU4?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "israelhayom.co.il"
-  },
-  {
-   "title": "מול דורסנות בג\"ץ",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aSVBibTZYRGZEWUNpbmhsQ3B6d2FPYVhmbUEwZU9UbUdHNHRCUkJLbUtxQXphN0dCVzNzNHlTUWxLcHdpUDZHNU5PNDFYUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "c14.co.il"
-  },
-  {
-   "title": "ראש השב\"כ של חמאס נעצר. הקפלניסט ההוא?",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVVR0aU83SnhRWGRabjNTV04zbXNGTi1zY0dtVTRqNjJUclh4cWE5TkkwUW13YWU3cUZmellaajRLdGpVbDZNSHBzSFM3RXFJZEFUTzl5cTFpajgxOXhfQk54M082R3FTOU1IdEg2RC1WR0pjTjYtV3B4THlLLU40dVdTQ3ExeDFXVlE3Szdtelh0VVU4NDRmMFYtV1VwVjhraEl2WjQ0Z3lIaTE2SHhvM1BUS083Z2lsNDRtSUY1eWx4M001ekE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "ענבל שגיב נקדימון: כיצד התייחסה הממשלה לשחרור החטופים במסגרת מטרות המלחמה בעזה?",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1SQ0ZsTjhON29sbS1KQjczZTBRMjF6aFVqZlZaczBrVUlNMmUxcUQxcGlFM1ItT185OXNackV3S2h4ekNE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "ישראל טעתה. המזרח התיכון לא השתנה, ומדינות ערב לא \"שכחו\" את הפלסטינים",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamZaelFLTFNiR1J0cUdncGJwV05fT2ctYWRHWnRlak5IVTF6cU1KNkZQVEdXbDlLcGFzMmdYbzVWNkhES0t2VGxubThFTmx6RmtiVl9SWTZxeFZFNEZ5c3U4a2w3cjAxZVVjdS1MSTBKUFhlc0sxQzFxeGNSUzZzdU1QUkxOVzNSSzdZc3RIUUZDYmVWZ3NSaFBfTUpfU3F6OTV6RUVsb01SZ2NhUV9B?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "\"אני לא מאמין שבגלל מאווים אישיים אתה מוכן לסכן את המדינה\"",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0taU256RmY0LUxQbXVfQzRIUU1wOGpFajNIaDRQeHRmWjM3MFhBYTBzS2doZFRnTE1sRGZwaTFRYVM3a3RqZHB5MFZXNXpIQVlOcEVWQlhnM013bzNwelhjaUc0M0ZDZ20wR28zbkFlYjBqLVk4YWlQOVMycnU5bzV1a2hxam9abWJyNDVnSGdJVWNlaUZwX3RhdEJwY3Z6Z0pEWFV3ekc1N1NvT2ZtNTBBME84Tk9r?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "הגיע הזמן למכור מניות? השאלה לאיזה משבר אתם מתחברים",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEphdGEzTHlUSlE3QU54bGZwUHRITUFYY2pTQmFNSWVBenBqZGU3WFdWV18yVWVzdHN3Tm9TajhESERmeWlVUllUSTJVaC1YTWRkQ1N2NE9PWnptdGc0cURlRjBRVHJRTjBtdDRkbi1vVDQ0ZkNqY2N0VXc1dVl5MmJrR3JEWU4tOVdYeWxmdGtKeTFfcERIdEE2TWhWY29pa1lJaTlB?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "\"השמאל חושב שכל הציונות הדתית אוכלי מוות. אם הם לא יתפכחו נהיה בבעיה\"",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0swTzZ1VDJmYUs3eGRMaGxRRUhMVVk5NGZDODZoY2ljUEYzbDhXU2VYWEFKWEtldG9GQmJiR2o1YmFLTFdNa3BEQWJtQTJsUTh4LWRuMDJiLTU5QzVwb055T0xaMnpZSFRHSGZiTzYtYnQ4MFRGLWhFMmNmb1NLZU1GS1UxV21ZNS1RS2IxTGxCME5YQ24xWnlXb25heU1tZWNFTmNzajM0R3RodEF3c2ZjSGhJZw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "המפלגה היהודית־ערבית שחלמה על שלום התפרקה בגלל מלחמה",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS01Bcm5NRlc3LXhBeTlJOVhwM25NeEVvbGl6QzBwZHRJazNDLS00Qk9GVnQ2RnlWdmJpZUFxUEdfZGRkSXUxYUFveldrZHpyeUJ5STlaei1aejNTeTFXMVlldldMcWNlQ3c5LVlqQ3g5aHFmVHBxb1VpaXlEVkVCNU4tRXVjR0ZYU0lLMDhHakltZVpMbUtWZEJTaGlSWmdPRG1xT29Nb3Q3Q3NHUjRFYzNVY2h4LXpEMlJFdGRxSmZfUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "הגינוי חוצה המחנות נגד דברי שרה נתניהו הוא הנשק היחיד נגד הרעל שהפיצה",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa01NTFVTUDJKR2JodU1YczF6bTcySHFlX2p5ZmRlVnhVTFNmWjFuRTFOblNKMFlneEc5a3BsaV8zRlFaUkN2SWdCb05iSWRrSG1GUHRhdE96OEF0aUttb29UWmdsWmt5UWpOcDZlMUp0eDlrOFBud09RNm5QRHVQNDV6eGZ6N25EWmExSU1SalFQRkV4VkpWbHRoX1R0VkVvd1UxYW9YdHBDSzBlczBz?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "ברצלונה פינטזה על חוליאן אלבארס. האובססיה שלה סיכלה את ההחתמה שלו",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTUNZenY2TkJUb3ZaSGl6NWloTm5yQjV0elh4WWswM09JNnpDdWVCZzVpRUNhb1Y1el9ZaFVTZUIwRFBqbmNaS21EUllhSUlSY0xia2pyRTctNW5UcE51aWhrZkV4OU9TTUo1QnNMcEJNeFdZdXcwanoycXhTQVdBMHFDODJ0ZEFVVzljUU1zQmdFeGlkVjJVRTJNMG4tTTVoV0VrcmstaUp0dnRKM0JGamdERTNuSHlULUxQX3Vn?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "צודקות בנותיו של הרב עובדיה, ש\"ס כבר לא המפלגה של אבא שלהם",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1phN1JZbGo4S1RQSWd3N29SY2hGdkpZQVhtOUpQcm0wb1Nxd0NYYUNRSzNkMnpSR1A2ZWJCWlVKeHNjYlpBUUxfZ3hsZjE3QWVxb1dqeU5ZQy0wLVVVSVdhMWswNjJTS2tuN2djcHllTHptRzJRMmtqTXdMQldjSEF3Q1hObWxhWUdyeEFfZG9aYmZzWGdUTUJzMTE4bmhmaUwzWnlBUy16SEJQb3Rj?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "ללפיד מקום של כבוד בפוליטיקה אבל למען הניצחון והעתיד, כעת עליו לפרוש",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkJpeC1ENUxiejFhc0dqbmRULWpGa3BKMGZjTmV3M0s4RjlVVFFHTmhjdnVUVkFNeU95aG03ZmFXd3g5WW5SNEt4YWlJSXhZQndXc3dsSEJ3TE4yaHVjYnYwVi1vRXAxbC1QY0tNcW5zM1BvWXp5cUtOZUhlNEphVWx2TklSY1pkblB6N2NrUk5ja3dnWjdPQ2JSaGJ3djMzcFRGeUlsOW90Q2g1Y3F3?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "החלטנו השנה להישאר בארץ באוגוסט. כן, כן. בארץ. באוגוסט. גילינו גן עדן",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFBYblpOTlh1N0x5SXJ5MGZESExHcWZTaWdiQ25qVTByUGd3OWUzdFdHcm1mcW1pZmZaTXQ5SlpLbzlqNnh6YTFjbzhVMXlmVVhzbkhrXzRFUm5PWGRMZlA0emhEN3FLM0hxUFlhYmtPQW5tVW9UdDdlR2FVSHlpc3pyNUZldnpFUk8xODFienFLZjc2aEkybGlaVkIxVTBUeUh1azFuSFU0NWxLemNEZmNmSQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "איזו מדינה הפילה מטוס נוסעים של אל על ב–1955?",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckVvU2VmamRfUVJPYVB0OVlKTVExdUxKeXppNEtUc1VfMUVRY1J5TXFoT3pPWHBtQ2VrZnJYNV9JVmtKSFgwV0pvRGlvUXR2SlROcl9qdS16dXRsNUF2RERIRlotcUJELXFObUlpdWFPMXRRam9FZWJjdWZkbHhzeHFlY0JPVzQ5WjVtOTJTaDIxRXpLN05nYjVSQUxFNzBnM1dpaXEwTEJXX1ZnUnNtOFpJMlMyUEkxdERkeg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "אורן חסון פוטר מתפקידו כמנכ\"ל הפועל תל אביב, שבוע בלבד אחרי שמונה",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdxd25HdndKRnZ5S0lUVEpwNWQwQzBieUtOdkFVRlkwS29uZUFnMHVrY1dvR1Q0NnBYRzlDRjN2OEliN0t5ZmI0RmE3SEtRZlJDM1RfWmlSeWttaW5nQjZxOGNlejFlV1dhTHBCZGZpMkNCTl9iQnMybjlleEMtZkRzZGdUNXIyTHJMdXZkb2RQQW5VYi0wN3R1VWZXbmt0UXFn?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "בחירות 2026 | בלי פאניקה: מה באמת אומר \"השוויון הדרמטי\" בסקר",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEF0Q2MxZ3VuR3cwdVE0TG8wTlY4UDZJUng2S0p3eEpNUGFBRkxTcWFQS2d1MTlwM1I5dG9lUlVGa2NZQkhJbVo0emExeXFkdVUxYzFEYTEteTFhVThwbGtRU1VmRGJ0ZThhTEdrVWZSZVNvMkFsZVdEdDVyRUplc0Z3X1g5M3RSQVVvNktGX09YeVdHRlg2RThNdGVSZzQ1SXlOOTlBNFZDa0lCekJ4RFNfbDNlTVU?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "אבל כבד בעולם התקשורת: העיתונאית האגדית הלכה לעולמה בגיל 92",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83VjlwY1c2WHNmVGNYNnFjbkVvMWRpS0t3YzhYSm9ZVFU5RGtjOGZCejl1RWNlUkpaRHEzZDNReUNaX0g4a2IwdkRUdGZqQ0M3czdxcVBNNkdlYXBQ?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "\"תודה רבה לך שרון גל, תמשיך לראיין את עצמך\": איל בן ראובן פוצץ ריאיון בשידור חי",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnVTUUVnYkFMUEtSRl9iTnYxb3piem5xWG5fSUtKQUxkR2JMa1NIdy1uU05ab1FOV2lDeU9iZDBXMnc4cEFadlhIUDJIMl92Q1VJUEhoNjNfM2lDcDktVWxJZlNqVklaSWVxUF9kZUZPWVh4bi1zS29zdVEwWDJHVw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "i24NEWS"
-  },
-  {
-   "title": "לפיד הציע למיקי לוי תפקיד",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ua1ZuVVFONy1LUGZzYWVJZlRUOGFDR3lWX1NaRjl4NUhweFRqajd0U2lCc2ZrMjdzOE9PdnNHeWRTTDVBVnF4UDdtX0FCVHh1bUpheFhmdmRUNFI0MWo0TjR3?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "News1 מחלקה ראשונה"
-  },
-  {
-   "title": "אין שום סיבה לעצור רק ב-7 באוקטובר",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzdmNuTkJjcW1NNDBDNm5PQUdmOHdzUl82TlVCdkc2R3d4Q3F2QThoZ1pxVEM3V2xibDJXYlVNdGloaUgzLWJKU2RlLW41VXRHS1VJVjd1b0pKdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ynet"
-  },
-  {
-   "title": "שיחת השוק הבלוף של האג\"ח האמריקאי נחשף; בקרוב ייחשף גם הבלוף של האג\"ח הישראלי",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSDVkQUdSUWQyN0Y5ZktPUjFOSkdXWWtqVk9xc2VmRjdvNmpmRnF0WXZERFpTWlpibElNRkV6RE4yWTBaeVdHUkRXaUswQzVRTDZEQXlFSF9BMHJycmRkay1pMUFWQnh3blpLV3FLbXVFaTZ5QjNfbE44OWhESHdPNGtrZlZMZzAzZzVlV2FNdThnelZ1M3IxdzBvV255RnFMLXJj?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "themarker.com"
-  },
-  {
    "title": "בנק לאומי על הכוונת: המהלך הדרמטי של שלמה קרעי וערוץ 14",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xaEJKRGE3T0dxUkZWamNYY0pNaGlNT21XSlZLY0Z6ekM3TlN5b0pmY0dXZmFPNV9WUFMyVlRfYlNPUUExQ3NtMHFDNDNQOHJCQWtGWDRmUm02Mm1K?oc=5",
    "source": "ice · תקשורת",
@@ -563,31 +333,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "רגע לפני רכישת הוט מובייל, קרעי שאל: מה עם פרסום בערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHA5Q1g3MHFzT0w3NnNaVjNwc1R6ZVhFRXpMbnhiN0lDektfMmNWOUxUdWkzS2J4a1htSmg5N3RKdFBFcFRmVjBiVHlRYzh5WHgyTjFINGxxOHI5VWluRERPa2ZTTlZkNlJzS1JLU05sYVhVOExqdmlodDZTa2VsODZaeUpuY0lHNnBFeVNEb1FIakE4aWs1RlRUSDFPWGpDN3d3?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [
-    "הוט",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "\"אני הענקתי לערוץ 14 את הרישיון ב-2014 ואני גאה על זה\"",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UajI0akxreDd4cDJncUVtYzMyVG5aSC1FUlBFcGFKNkpzT1dtRGV5VUFGelBoNzlFbFQ5SGRBa3RvN0NManRvSWhIY1BheUNROFAwaVk4Vy1kUEVNUEg2VmhYOG8?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-03",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "מעריב"
   },
   {
    "title": "ערוץ 14 ממשיך ליהנות מהטבות ומעמדו טרם נקבע",
@@ -2605,29 +2350,6 @@
    ],
    "pv": true,
    "publisher": "Calcalist"
-  },
-  {
-   "title": "לאחר שהחזרת סעיפי החרדים נפסלה: חוק השידורים עבר לקריאה שנייה ושלישית",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CRFoxT0JoVTRWeEdDR3JhMzIwYzhfaVlzM3laMEVqcmJ4bnJZYWVzbk5uaGpOc3RyYlN2eFQzMGN6UTMzS0xBNnlJc1F5VzZxNWVqSWpPQnFISmN1Z2FYcmdEMFhHUWs4?oc=5",
-   "source": "כלכליסט · עומר כביר",
-   "type": "site",
-   "date": "2026-07-06",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "כלכליסט"
-  },
-  {
-   "title": "תלונה נגד ערוץ 14: חשד לפגיעה שיטתית בביטחון מדינת ישראל",
-   "url": "https://www.haaretz.co.il/gallery/television/news/2026-07-06/ty-article/0000019f-3790-db7c-af9f-37d551a50000",
-   "source": "הארץ · עידו דוד כהן",
-   "type": "site",
-   "date": "2026-07-06",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true
   }
  ]
 }
