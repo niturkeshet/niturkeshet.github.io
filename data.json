@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T16:00+00:00",
+ "updated": "2026-09-05T16:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Religious Right: Slowly but surely, Israel’s right-wing is becoming the religious bloc - opinion",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5haW0xVjZCc05feUJxaW5PRGZGaEZPUTB0dVZoSkRCQ0VhTjFRYmdtTmxlU0ozVFc3Szh0NjJpME1VNE9YcUJxYWtYTnNWamM3MWRrLTVyRQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "אולפן שישי הקים ועדת חקירה",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEV3ZlZENLNmFUNEc5VXlzdE5FSjBSMUhicUJUWTh5bm5HQk5pZDlUVWc4SnFlYzhCbkM0a1ZzZDhqd08ySVBkdkNxT2lyQzhwVC1PbHlwcWxoN3RXR2FEdQ?oc=5",
