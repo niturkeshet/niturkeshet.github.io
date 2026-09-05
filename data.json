@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T08:15+00:00",
+ "updated": "2026-09-05T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -320,6 +320,19 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "אסף רפפורט במהלך חדש לפיתוח רשת 13: \"להרחיב את גבולות הפעילות\"",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BTXUxWXFoYWtoemxwSkZuX0dFZ3RmczZ0Q0NlUnZPSnIzblpjb2NLVW4tU2lDbWpQam1yRFQ2X0dzX3psQU1iZXRaWGlwVm5IdUx3bFMwcEwtcnQ4Y2lpTjZyZw?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-03",
+   "keywords": [
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "בנק לאומי על הכוונת: המהלך הדרמטי של שלמה קרעי וערוץ 14",
