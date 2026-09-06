@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T07:45+00:00",
+ "updated": "2026-09-06T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"מעולם לא הייתי בש\"ס, אני בליכוד\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVFyVG43WVRjNGVyZWJHODRjWl9RS0lNb1dMak9vUW1yQUx5Szk3RXp1NVlKUTJkQ18yek9CT0tQQ05IVjlrZkNRRTF2V1BBdDRia2k1QmZpbzYtTkRVdGJJMFgtU2s3STh5MUktZ1RQNG1Ydm8xS3ItanNDVzFTQXdqYw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רדיו צפון 104.5FM"
+  },
   {
    "title": "אזליה בנקס נגד מיקי זוהר: \"הוא עושה משהו בכלל?\"",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CZmllS1YwM1FjaTExNzFVOGpIY0FkM040TEgzWWQ3bDh2NV9YM2Vmd25qQ3ZQQTNmLXVzUzBNVGt0ajYyX0pRbWNn?oc=5",
