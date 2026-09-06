@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T06:00+00:00",
+ "updated": "2026-09-06T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אזליה בנקס נגד מיקי זוהר: \"הוא עושה משהו בכלל?\"",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CZmllS1YwM1FjaTExNzFVOGpIY0FkM040TEgzWWQ3bDh2NV9YM2Vmd25qQ3ZQQTNmLXVzUzBNVGt0ajYyX0pRbWNn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה תרבות"
+  },
   {
    "title": "השאלה שנתניהו שאל בבוקר ה-7 באוקטובר",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3eFFCR0hubU1PWEZZdHJjTnpub05zQnlicGNjMk4ydGxJODh4aExVVC1Ba2tEYnFIbHMtQXZ5cy1sX3gtdUNsUlZnWEhyYkM4aTVkRWFiaVJHaGFiSUtsR0NDemQ?oc=5",
