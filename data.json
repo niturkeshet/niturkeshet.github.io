@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T13:00+00:00",
+ "updated": "2026-09-06T13:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הטלטלות במפלגות החרדיות: ההדחות והשינויים בדרך לרשימות",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84d0VWbU9LQlYyVWUwejNuRGpLRHYyaHNFNnVkRll2WFlrTTB5QzZ5TWpjVmtyM0cxVEw0V0NXUHBLV3FvM0hOay1BMHhtdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "\"החזית השמינית\": קרעי חושף מה נתניהו מנסה לעשות עד הבחירות",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xNWNLR2Iyc2w5YTlwWDlCdURTVUQyTS1uTllKcWVBTTJZYlJSVlozY25rd0ZzOGtrdFB0LWRTUnRRRUZzMjVmMXgwSjJRa2dETFVHanllMFFSYkVmbE0zcUNhUFc?oc=5",
