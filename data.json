@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T03:00+00:00",
+ "updated": "2026-09-06T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,36 @@
   }
  ],
  "items": [
+  {
+   "title": "השאלה שנתניהו שאל בבוקר ה-7 באוקטובר - שומטת את הלסת גם היום | בן כספית",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3eFFCR0hubU1PWEZZdHJjTnpub05zQnlicGNjMk4ydGxJODh4aExVVC1Ba2tEYnFIbHMtQXZ5cy1sX3gtdUNsUlZnWEhyYkM4aTVkRWFiaVJHaGFiSUtsR0NDemQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "בשיטת האנטישמים הגדולים ביותר: שרה נתניהו לא המציאה שום דבר | סופי רון מוריה",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MN1AxTTZGcHA2SVYyOUZ5MGpja3M1RFY2SjNObkFmTjN2Y0JWa3U4NHU3RmdxREl5T1djdC1DZ203UjZYX1JoRVlOWmNUVVFZcFE1bHk4cW1ORXdKQWphN01lbVA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "בצל הבחירות והמלצת השופטים לסגת מהשוחד, משפט נתניהו מתחדש היום",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNS13MkZ2cTF2S1VpMXQtVmpSb2ZGSVZIQ0ZHVHJuMmRoUi0zMVVDTzVpWUtKSEdrbGJCTkhXeC1paC1wXzhlS0pMdG1VNkRDb2tpRmtma2dtaGxHNGFrODlLdFJvNUNCSF8zQ1kxYlFLR0JOZlFHMUxORlhXVjhUUmxKRFVvNmt2OGx3WDIyRHNHSjFnbWtRdml4MGlvSlpycGdyYkEybER3eWlTTzlBSHU1bFppMTZR?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "האיש שנתניהו בונה עליו כדי להציל את הליכוד בבחירות",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CX1dkQkt6Tnd0U054Vy1yNnZ4NHlPcTFuWVJKMUJUQUNTZGc1c2duV0NyemZ2dU1ZeHVDb0EwQkh6ZDgyeWJQWXZ1Mktib3hhMDdsYURXQUxrdmFvX1BUUWxXU3o?oc=5",
