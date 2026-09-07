@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T18:30+00:00",
+ "updated": "2026-09-07T18:46+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -145,14 +145,16 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": true,
-   "kept": 3
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 502"
   },
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -176,7 +178,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -230,7 +232,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +260,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו מתעלם מהדדליין של בית הדין: השריונים בליכוד מסתבכים",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBnVjktSjhYdFMyWFNnRE5rcG12blFpQlBybkdVZ25NN3RheF9NV1Nrc3R4aWk1N3NwQ3gxcGRvMHRUdjA?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "המחדש"
+  },
   {
    "title": "האולטימטום שהוצב לנתניהו והמרוץ אחר השריונים בליכוד",
    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5UOG1WYW1rQTVEZGw4bW9mb29YSnJudl9OWHdHV3NfOElOaXNHaTZJM01ud1RNcnFicjdTQVhFVXVLdjg?oc=5",
