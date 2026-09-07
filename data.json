@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T11:30+00:00",
+ "updated": "2026-09-07T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "שעות יגידו: האם הכוכב העולם בימין יקבל שיריון במפלגת הליכוד?",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LNjBEWkw4TTJNOEJtN3AteFpJX1pwOGdSUUd3WE5YdWRyblk2aTJqOUhySVZQdW5oTVFZZWhHd2h2RU56RlYxNGJ3RFZKTVp2VUhZd293bDY?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "kikar.co.il"
+  },
+  {
+   "title": "מסתמן: עו״ד דוד פטר ישוריין ברשימת הליכוד לכנסת",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UaUY4QUR4cnJ4SUFfelZqQ1kxVm5sS2JhZE9rLXlfVE5LbFJseDMyUVpiOWFHRGZaQUg3X3hJMmdPRTVuanNyclRhdGhMd3Ita0Yxdk55eUxHT2tKSkxTQTd6ODlUZzRJZ0RXSdIBdEFVX3lxTE5hdlBaR0xncXlNNlFpTWNCNzBtMlNmUnU1WmJJSWdrZ3NXdE1telFLOE9tTWNVcEFJdFBkd04xUmpSU3l5VEI3emxFMWI4cFN0YUxDaHFQeGRLZGdORUp5R25PMm9ob2dEd24xVkxGWG5OUnZs?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "נתניהו נפגש עם המועמדים לשריונים | יודיע בשעות הקרובות",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WazNKLXl4bjNKNnVVek81MzRQZWlMUGx0U1JSU0M0TTVEcVBic1RUY3VlWmFGMVNSWnJ5TTgtamwtUGdZeDlORml5bw?oc=5",
