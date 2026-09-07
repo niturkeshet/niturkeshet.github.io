@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T17:00+00:00",
+ "updated": "2026-09-07T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "האולטימטום שהוצב לנתניהו והמרוץ אחר השריונים בליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5UOG1WYW1rQTVEZGw4bW9mb29YSnJudl9OWHdHV3NfOElOaXNHaTZJM01ud1RNcnFicjdTQVhFVXVLdjg?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "hm-news.co.il"
+  },
   {
    "title": "אולטימטום לנתניהו מבית הדין של הליכוד: \"פרסם את השריונים ע..",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGxKVWRTU2M0aW1FVk9pN1lJRGk2a1JYV1hIS2VfcEZlWVJDUDdaS21PenVWanR0dXd4eGgyNTkwZjZzY29fTHhxbURVWkxvb1daUnA0NUs3MlpOWVNoRldlNDcxLVo3bmNRTUJxcnIzal9yY1ptZzM3UHpGaU1mOWdPNmtQdjV2Q0ZmM0p4NFY?oc=5",
