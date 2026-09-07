@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T22:30+00:00",
+ "updated": "2026-09-07T22:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Editorial | Netanyahu is the greatest hazard to Israelis' health",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLUx2TmM5Yi1lb0g3bkxwSmhRU0pudDVVcnFIN2tFQ2hOQ1hhQ3VzUnFoVUNnUE9YcWlPOU4wUFktR0syUVBmM2NQd1otbFNNcHB2am1tYmowQVlTeHdFWG0xUWNJNFNtWFlxQTVQNFVjSzVqSTkzd0JXcEt2bWw5TExnNDlKT28tQllOdHVWS0xieUVCeC1XSkNsZ2VQMTZmdjMxV0hDc01aeU5aUWdPcG9sRlVCYlJNTGlPTDUzQ2wzZVNMN01DTk9HZEhzX1VtUkVJWVg0Y0Z0emVVY3dLNERqMXJoV0o5eU04M1NpZ0tCTmtnVEJuWi1UMzgzdw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haaretz"
+  },
   {
    "title": "נתניהו מסוכן לבריאות",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMENSZXdqY1RnY1FXNmJ1ZG1iVkRUQ3BCd01JQlRFZlRqV0c3ZXBJUnNwWGhNTUR5ZHJ1c0FPUDhLdUxoczltRUZpSWhyMDdxNEpwSjdtbzZoV3E5ZlFEcVJLc01nRFpoUjlOc2U4RVM5X0tVTVRBWE54amxPS3lKZjRORThRUFRveVM3LXh5dmhqSDBoekxld2lBVW9nbkFNUzhXVTgtX0FockhJLTJ2bDRFOVh2MDk0elR5LQ?oc=5",
