@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T15:30+00:00",
+ "updated": "2026-09-07T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "יש עוד מקומות בעולם עם השיטה הזאת? \"באפריקה משתמשים בתמונות\"",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHV4dXV3ZlYwSlNsQzNMWXlMcTFMQ0VwajdJWnVwQjRndzRtNVh1RG1BTzdiZGhGTmVvN2F5YUN0bkVEdWhwdnUtZl8yUEZkMEluZXphdUxnYk5iQzl6RDdMaUljZmEtR3k5Z0VoalpTYzhFU1BFVG0yVWJvMnVXSmF4VlpTOWNYeV9fY2xIaTRsalZEQVR1c29HRUxFN3QwS3JJMzQ0dXViMEE?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "מכה לערוץ 14: ייאלץ לשלם 100 אלף שקל ליחצנית שתבעה אותו",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MWTI2dk5XY19rcF9HaFFnUUZsR2dfV0Fzbm12QnpwZ2loNjRZU093MzhoN1dOQzFTOVotUzRfa2tfQWdEU19obUMydjV6amIweE1NRlBpa2wxMEdy?oc=5",
