@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T21:00+00:00",
+ "updated": "2026-09-07T21:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו מסוכן לבריאות",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMENSZXdqY1RnY1FXNmJ1ZG1iVkRUQ3BCd01JQlRFZlRqV0c3ZXBJUnNwWGhNTUR5ZHJ1c0FPUDhLdUxoczltRUZpSWhyMDdxNEpwSjdtbzZoV3E5ZlFEcVJLc01nRFpoUjlOc2U4RVM5X0tVTVRBWE54amxPS3lKZjRORThRUFRveVM3LXh5dmhqSDBoekxld2lBVW9nbkFNUzhXVTgtX0FockhJLTJ2bDRFOVh2MDk0elR5LQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "נתניהו מתעלם מהדדליין של בית הדין: השריונים בליכוד מסתבכים",
    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBnVjktSjhYdFMyWFNnRE5rcG12blFpQlBybkdVZ25NN3RheF9NV1Nrc3R4aWk1N3NwQ3gxcGRvMHRUdjA?oc=5",
@@ -539,6 +549,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "\"הליגה הרגה את הקליפרס\": העונש חסר התקדים שהוטל על קבוצת ה-NBA",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLRWhOdXRMNnlQd0VQMldCWS13XzQybzdoTWdibU5Sdjh1MkRQdnN4ZUN4ZEpaNWpwLUJmUUlOakU5V0pfVGpIOW1wX3ZkVTNvRG9OOTYwZ3NLNDdxd0xsZ3M0c2RlaHVQRVdWS2l2dXl0aUlxbFhOb9IBgAFBVV95cUxQZFVHTUhjclNKNkNSQ3VHUHByMjlOSWlPSjZKR2ZrcTYtTVVpS1lrMmxCQ1VEWEFBdl9Wd3R6Skx2QkxTTy1uWlQzaVVuekY2V1hZbG9MOHdmM0FXRDJ3cGZvZkJpWU1pQk9YVEdtVTN2ZmdSUVgzS2pfcDBzT05vYQ?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-09-02",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "ערוץ 14 ממשיך ליהנות מהטבות ומעמדו טרם נקבע",
