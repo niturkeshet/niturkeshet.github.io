@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T06:45+00:00",
+ "updated": "2026-09-07T07:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מהחטוף ששוחרר ועד הח\"כ המיתולוגי של הליכוד: רשימת הכבוד של איזנקוט",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBORFRPRUFZNE9ySWdKR2JCMnRNY2oxdDVzamRscDBCTUZtWTRlSzdjRGtCcGh3OUJpR05kbXhqLThrZy1DQ3VGQlhHcllaZw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
   {
    "title": "תוך שנתיים: פריסת הסיבים בישראל תגיע ל־99.9%",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzQU0wM3R1RW55RkUxTnZJWm9pUTF5MzBZODRTNnpPdGZXbDVwcXJvcThJNVVXSUgzQjJEU1pWbGR5R2F2eDE2SkhKNFFfa3FCYWFBSDJoUm1NWHNtRUVYUmpVSnk?oc=5",
