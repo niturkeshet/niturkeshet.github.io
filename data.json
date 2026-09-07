@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T14:45+00:00",
+ "updated": "2026-09-07T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,13 +176,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מכה לערוץ 14: ייאלץ לשלם 100 אלף שקל ליחצנית שתבעה אותו",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MWTI2dk5XY19rcF9HaFFnUUZsR2dfV0Fzbm12QnpwZ2loNjRZU093MzhoN1dOQzFTOVotUzRfa2tfQWdEU19obUMydjV6amIweE1NRlBpa2wxMEdy?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-07",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "פרסום ראשון: רה\"מ נתניהו הציע ליסכה בינה שריון בליכוד",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95LURmRGY0MFZrUEZId0dhbkF0cEpCMnVONE1XVDgtREhBeWNrY2M1MlBqTzhmTVFCaGtSSHpaOGtJQ051ZkRWZGdTazNlZw?oc=5",
