@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T11:45+00:00",
+ "updated": "2026-09-07T12:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פרסום ראשון: רה\"מ נתניהו הציע ליסכה בינה שריון בליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95LURmRGY0MFZrUEZId0dhbkF0cEpCMnVONE1XVDgtREhBeWNrY2M1MlBqTzhmTVFCaGtSSHpaOGtJQ051ZkRWZGdTazNlZw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "שעות יגידו: האם הכוכב העולם בימין יקבל שיריון במפלגת הליכוד?",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LNjBEWkw4TTJNOEJtN3AteFpJX1pwOGdSUUd3WE5YdWRyblk2aTJqOUhySVZQdW5oTVFZZWhHd2h2RU56RlYxNGJ3RFZKTVp2VUhZd293bDY?oc=5",
