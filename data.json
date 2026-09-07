@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T06:30+00:00",
+ "updated": "2026-09-07T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ice · תקשורת",
@@ -267,6 +267,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "מקור ראשון"
+  },
+  {
+   "title": "מפת הטלוויזיה לשנת תשפ\"ז: מי יתרסק, מי ישלוט ומי ייעלם",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51dF9DUGJpN2MwWUs1Z2VQX2xyY1NwUjA1SHVUOUhFMENjYkpyV21VVm5oNVRHUVlSWkhrN2xMYmVhVnZYQjNKQVp2R2F2SkIzNVU3UkFpU0Zab2VhclFOazJxX3RRWjFx0gFwQVVfeXFMTW94UVRWQVlmbFdKalV5YmRUUlQ5SFlWT3BFQWhlc2hYbnRhazBSelIzZFpYZEZXbmUxSXBiYWJjeEJfRmRzLWRhVjF4R2l0eWlKM2NmeDZMVmRfNUVJcWc0SjJZbEhOWUZmSWROZHhfMw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "שפל חדש: העימות המכוער בליכוד רגע לפני סגירת הרשימות",
