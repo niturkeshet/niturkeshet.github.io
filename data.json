@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T14:00+00:00",
+ "updated": "2026-09-07T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -499,6 +499,18 @@
     "הרשות השנייה"
    ],
    "pv": true
+  },
+  {
+   "title": "תרגיל למתקדמים: כמה מוחות נכנסים בין שערי הצבא של יואב קיש?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jMmJGTWhKZzE3YzRjM21KVFhyUzlQeUJ4VE5ac0NvM3ppNUlFWDVUOVJCaTdBUC0xSXhwZlNLd1ZDSXZRZzlHVlVlSWNZaVp1RnFqM2V6dTB2blBjMUwxR0Q0MnFxVHdwX3NhOEpwcTF0Zw?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-09-01",
+   "keywords": [
+    "יואב קיש"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "מפץ בתקשורת הישראלית: פטריק דרהי נפרד מהוט מובייל בהנחת ענק",
