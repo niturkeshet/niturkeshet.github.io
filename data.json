@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T12:00+00:00",
+ "updated": "2026-09-08T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,28 @@
   }
  ],
  "items": [
+  {
+   "title": "Communications minister slams High Court over Second Authority decision, vows to restrict court after election",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMlBqQnB3ejFHQ2U4dlRIWTBBWGVvS0JFNm5jVTliNnFaZGZySTB2OXF5YUxBdkFkbUJtOGRLaHVSamQwZkZXM1l0N0ozZ1VLOHV2TEhFOFJ1Z3dWWkhseWdzXzlyR0xXZVdIYUF2S0J4c2txeUpJSUcyWVRGMWhvWlNDTXMtR1Z6TUxPbkpVSnJxYzBUZ0hLLXpORDVnODZOTUR1YUNSaDJRN0JKc0xKTlcycUVxTmRNVE1PRE5UTDF4VGZMaWV4UlB2blItTnJyd2x3YjB2aVQwYl92ZXc2dGZWY3VRQnpaWlkw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
+  {
+   "title": "בג\"ץ ביטל 3 מינויים למועצת הרשות השנייה עקב ניגוד עניינים",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50OU84S1NNQlFvTE1RMXFSbjJyLXNuZFVJQU1LNHNBRzMyNDBlZ1JYTVQ4MDJXQnE4Z1lOZEJHakt6SGRXajBCV2k2eDBFRGJKeEVpQzVLZ1RyNkRyYkt6RF9n?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "בג\"ץ ביטל מינויים פוליטיים בפיקוח על הטלוויזיה",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IMmp0aFRMTmRKUXA3V21PVzhUOFhuZTBoNVBjTTJUTDRObDdrT0dhM1NSM3ZoMkZxTGlyRHVYdjRERm8yRG04RA?oc=5",
