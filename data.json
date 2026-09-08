@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T10:45+00:00",
+ "updated": "2026-09-08T11:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -158,7 +158,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 10
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,71 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ ביטל את מינוי יפעת בן חי שגב ליו\"ר הרשות השנייה",
+   "url": "https://www.themarker.com/news/themedia/2026-09-08/ty-article/000001a0-80a4-d4e3-ada1-e6fd96f20000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true
+  },
+  {
+   "title": "פה אחד: נפסל מינויה של יפעת בן חי-שגב ליו\"ר הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jd1VkMFg3Ny03SWc5ZGMtMlFQZTl4cU9mNUFTdmxNRHVYM0NMa0lPVTkyNmpWNlhSWG5XeVBPVk50dHZTdE02elhwdEk5cmtRb1M0X3hYaFRzT1hGTzVIaXZfWHY4d9IBbkFVX3lxTE5kM1VCZFdyQVFEWUNUTE0xaU5qNERLRDNZeWJVMWpCOE9NdFhELVBHQURDUjJzZUY4NGxjNmJhT0xJTm56alRGd1lfTmxrNUk0SDBZTXZRQlNSWF9PTWFLaVdSbkZ1TTNiT2lrdFhn?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "פה אחד: בג\"ץ פסל את מינוי יפעת בן חי-שגב ליו\"ר הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFNGVnTzBYTlN6RmhFbnktNXNHMF9za0lZWHE2cGJfTGRyWjNIb2JlOFlfa3pVLUZlTU5PQjc0R0s5NzJkeGxCVGhySHI2TVNJYkFFZ29YQXhTSHFvdjVKTTJoeUZlT2ZmUTNaNDRSY1pMbHdaZXh1U1Z5SE0?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "רשת 13"
+  },
+  {
+   "title": "בג\"ץ קבע פה אחד: נפסל מינויה של יפעת בן חי-שגב ליו\"ר מועצת הרשות השניה",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02dU45clN1c2VuUl9ycEFUVVlrSGVLU1JZWHB6LVFhNngzYmZ3clU2c3NSOXEtRjNURk13eE5WNU9jUjJtSnI2cUZFTzY2TlU?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
+  {
+   "title": "בנוהל: יצחק עמית מבטל עוד החלטת ממשלה",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNeGFRdm5XOGR6YjFoWVg4ak9kbl8xSUp4SjhHa0oxR1hhbVVaYXI2VFRBanJpRldtOGtzUEVWMXBBNlZMY2czclRVQ0E1SXdEckI3OUs2YmhGM0Rrc3cwNjBxMnkxVW5FWkxIUVpNdlhmLVBXZ2VKQnR1U2lfbXJDSHhwdUVCRlROUkl0OFpRR1MtYWpOVzNwektrSTJrS3dPVl9ROENBRGx2Z0xYOWdjdWh2MmdoZWFnS201LXY4T3JuUHZzYl8xLTJONWZUSE85bG8zSndtaFN4bnk4aHNXZUV2aGZyQ3h0YVRDS2ZYRXJvdXRxY3ZZMlg3MDhOTzhOYVFEeTlkUnAwU0xVSV9uR0ZDQ0N3YktUdi1EbTAxMk5FaGdDYkpNN3hZV3JrM0x0SHN3MVFtS0tiV1F1cDhHMjhHOA?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
+  {
+   "title": "פה אחד: בג\"ץ ביטל את מינויי הממשלה לבכירים ברשות השניה",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11cnl5VDVVMGJxd0lJM21lTjFLemEzUnl6QURwRmNiNVlfWWZMQ240NEFRTlRBVTlXQkFhd1g3TXpYdUM1U3F1OGhnZDRzLUd1UzJvbFNkdFI0aXZ5Q29ycWRZWkw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "זו החתמה חריגה של מכבי תל אביב. מעולם לא נחת בישראל שחקן בפרופיל כזה",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUNqNDdhczItWGFQX3hwbkRJeFBBQjlUQjlLVmhQZ241R2ZYdzA2WDlGN2JEa0RSc1l0VUxiRlczclFXOGlHRmJZMXItZGQxWHJyUUhxbWk4V1R4Q3RpVnhXbjRmS2NxYk9qaDVQMG5nRnZ1NThISmhiNzJlX0NhNzdrM2JHN2ZRTVJfQndEcUxvX04tYUo5eWtxdHZVcVNJSEhFQThyX1pZOHJwNUtPdzJ1TUExN3F6ekpaOHBYRQ?oc=5",
