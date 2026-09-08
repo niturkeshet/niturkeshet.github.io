@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T11:30+00:00",
+ "updated": "2026-09-08T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -146,7 +146,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "גלובס · גלית חתן",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,70 @@
   }
  ],
  "items": [
+  {
+   "title": "בכיר ערוץ 14 שראש הממשלה משריין לו מקום ברשימת הליכוד",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001554803",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-09-08",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "בג\"ץ פסל את מינויה של ד\"ר יפעת בן חי שגב ליו\"ר מועצת הרשות השנייה",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001554802",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true
+  },
+  {
+   "title": "מכה לנתניהו ולקרעי: בג\"ץ ביטל פה אחד את המינויים ברשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94akxlUS1HVDBTR1ItWGo5TzR4YjMwOE05bDA0aDlzcmJidzNZQ0RsNEpUQldtMXJOY0l1bFdoMXNRZ1RYX3FlRUtlMjhkZzZRUmYwdDktdUpCR1JzaWc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "High Court cancels Second Authority appointments over Netanyahu conflict of interest",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5WHp5MjkwRVhNZWpPel9HSE01Z1dQWGZnS3JfTXBab3dRa3JBMTJGQXdXeVc3d0NDOWd1VHU0N2JBWm55RmJZa2lKbHRaRUNrY19BQnFPajJTa1Ju?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
+  {
+   "title": "בג\"ץ קיבל את עמדת היועמ\"שית: ביטל את מינוי יו\"ר מועצת הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LYURja2dLT0E4ZGRWb2dWN1FXc1QzWmY4b1JvaHczd2JFa3U5OWY0MEs4LWZ0SjBuMF9Ua2I3MWlCVHp5dUxmczJIM3RIT3hPbUtaZ0RNUllMdkJyT1RuQnc2QQ?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "בגלל ניגוד עניינים של נתניהו: בג\"ץ ביטל מינויי מקורבים",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uOTE5dXNoTGRNeFE3OVlIYXZVcExseVp2V2pXUUp4eWxFV3p2YkJ3NTBMWWhaaHNadUhhUVNmdGx3dWZhR29pMG83eEhHQTZPYUJCSk9OcW54dw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "בג\"ץ מבטל את מינוי יפעת בן חי שגב וכנרת בראשי למועצת הרשות השנייה",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QZnEzQ1JXRlM1al82dWdRQ1BobWFQdlZtNzVBVzZFV3hWOURSUFRwT2w0WTd4TWxFNFlkc3c4OGRMNkMxeXNTTmhFdw?oc=5",
