@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T20:30+00:00",
+ "updated": "2026-09-08T20:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,25 +188,25 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -230,34 +230,64 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "High Court annuls controversial government appointments to broadcast regulator",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUE2MGxRTzhibkpOOE5aa1F1cTFfMTVvcDNHQllabUN3bWFkb25RY2RTZDF2dVVpbXd5ZHh3d2FjMk9fZWdFbERsbklacmFIdlRaSjNta1RkNUFPUHMyTVVOdjNZSmlsMDRUTkxlaFdQbV92ajdIeDNra19TeTk1QmIwUS1mRGg4eEZ4MXZ6cWFYZFZlT1BtdDZBX3JiMEw2YkNVVWRzdmhZdjg3YWfSAbMBQVVfeXFMUEp6ZFhvc3ZLQjVEUzFyRkdrNThJbXJNbkZxWTFwSWtNSGxlR1NKMFk1Ull2SFN6dUhGdWJQS3l6ZkhSU2pnM0F0dEFENTBTMnNJV2tTQW9pMjhkQzgyY2JqSWc0b0FvUmtKUVZINmIwaVpIc21ZeW5oS2t0c3l1cTQ0MjNUc29ORFY3aDBXSGxGQ3RaMWxma0JTb1lpN0gtdF9GNnBMX3o2S1B5ZlplVjBYRVk?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
+  {
+   "title": "Parties submit final Knesset slates for Israel's October 27 election",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOLXg2T29RM28wNDhWQWhqclRyTERKWWlxU3R5SnU3ZFJkSUlYRGtxeV9qR29ONjRxUExsVVItaHlEcjhKTzBGVERZUG9nRTVhZEVma01RMlIzR3J6ZlR5TG1NUUFadG5zSVQzVE1zOEc4V1BWdk5HYmtsZkswSGY0ZUNJd0l2UE8wZ1B2ZHh0TWsyTkQ0Ri1yT0ktenFLaTRzTFVwZTNfZmVUYUdZZW5wWXpkWE5iamZCV2JXLVJ3RU9TUURIUUdvSEl3QUFmaWZNOHFETjlfUl9VY3JzMVc1eXN3OHJ1V1NrNjZOZUJobndPNzVnbmVQNzZ3YjdPOE1tNlRTV0FLN0NmeUdfZHc?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haaretz"
+  },
+  {
+   "title": "פה אחד: בג”ץ ביטל את מינויי הממשלה ברשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUhYdzZmOE1ISUU4VlpCdFh6RVg4Y3ZlX3VEMDZIU3BJV0JwdERVcW9wcmNxOHBxeEFOaVluRTVoMXV6MGpsVnBwTnV1cFpCMGxzSzUxX1dNY2F3cEF0Nlo3UTdpTlFEUU5uWDdZQ2hYeUcwSjQ3OVRFZ0NWblpKQ1hVMWo3TFE?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "mako.co.il"
+  },
   {
    "title": "Yaakov Bardogo Justice Minister: Netanyahu Ally's Rise",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92eFR4QW1JbjdOaUhvSUk3SjVJRWtPYUt1d2RvUFI3eUMwdFVEMzFiQ29vU0dNY01QbHZZTGlTVVlFNzdBeXVZOXdBWUpSb0RiRFUxc2xUT1dkSTM0MGpQR0FxNEhaa3VNMWgwQ2RvY3E5ZDg?oc=5",
