@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T14:00+00:00",
+ "updated": "2026-09-08T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ ביטל את מינוי יפעת בן חי־שגב ליו\"ר הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmI1cV9fLXZLdkNCSDNEZlpGcDZCU20yYTlZdWtvd0pGTHhDbERrMllOZ201S25WeEJYeFlpTFh0RXpmXzc4eEFPd01RUXp6VDV6MVhINlJmOUhYcUU0YUN4QUJORE9GaHBuQmR1RktlcVM0TEVDRTBiNDlUWktkcWIzOTkyVlhDSHNkMl9pcE5uYkRXNVBTY1BmR0JpazQ?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "מכה לממשלה: בג\"ץ פסל שורת מינויים במועצת הרשות השנייה",
    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ma2lnMkxibDIxOEludk1JNVB4enhOeUpkVGlKSVhqQlpPU1BsU1pWTGxfdHBGaFFoOEl4Nk4tTzNzS2s?oc=5",
