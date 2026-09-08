@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T10:30+00:00",
+ "updated": "2026-09-08T10:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "זו החתמה חריגה של מכבי תל אביב. מעולם לא נחת בישראל שחקן בפרופיל כזה",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUNqNDdhczItWGFQX3hwbkRJeFBBQjlUQjlLVmhQZ241R2ZYdzA2WDlGN2JEa0RSc1l0VUxiRlczclFXOGlHRmJZMXItZGQxWHJyUUhxbWk4V1R4Q3RpVnhXbjRmS2NxYk9qaDVQMG5nRnZ1NThISmhiNzJlX0NhNzdrM2JHN2ZRTVJfQndEcUxvX04tYUo5eWtxdHZVcVNJSEhFQThyX1pZOHJwNUtPdzJ1TUExN3F6ekpaOHBYRQ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "אורי מקלב נפרד מהכנסת: \"השליחות לא כבדה עליי\"",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tVklKVmd3anlGdTBWdGc0a0RvVE9TUlBGMWNzeEJCTU42YmZRQnVJTms3V1Bja3VmajBRNkZiWDktQ3lLOFg2dmJldl8zTVlwTkRsa0V3VjRmRWFzZ18tSHNB?oc=5",
