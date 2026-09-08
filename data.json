@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T12:30+00:00",
+ "updated": "2026-09-08T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "בחירות 2026: ברדוגו במקום ה-11 - זו רשימת הליכוד המלאה לכנסת ה-26",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xcVRHR3ZleWtsY0c5QWc1YTNvSF92UVg5VG9ra0dnVE9BVGFBUGFJSmdiVlplNkRiNXFYek9EeVhzNHRXMWItZkN2VDBQekhFN28yVldZNkMyMWZjbFZlS1RUZDR3U3ZsNXMtag?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "Israel’s High Court overturns three appointments over Netanyahu’s breach of conflict-of-interest arrangement",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQajJCdGR6eHlweGVXeDQ0UkVuOWdJbFR4OWxHUzZQbUhkUy1BUFlUWGJiNW9GQVRKZGpKWW0xTW1jSjhZQlU5YmZYOGZtLXhPUmtYdzh0dXM3UE5EamtLanFPWW9DRjJpSjlRQnlaRnlQZ1M4eFVKWG9WN0k3cVR0dW1OU1BlS0tzZVRVQUR1TGx2M2Nyb2ZkX1VpVkR4aTdKNTlPWnBnNFA2b3RfaDN4dGR4RzhpN0ZuV3phamtyLTB0bElLdDNXV05LTXlUa2tTQ1F4TA?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "UA.NEWS"
+  },
   {
    "title": "עכשיו זה רשמי: רשימת הליכוד לבחירות לכנסת ה-26",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IVzF3Y0paSzRsVEZTREUtWVpOWWxGenFNeDFiOGhlOWFTR3YyaDhRQ3BSbE9CNEwyaVRETDQzd2lRT3dqN3pPVFdUY2czdDc4a1U5Y0U0OTYzd0ZSNmJmb3pld2Y?oc=5",
