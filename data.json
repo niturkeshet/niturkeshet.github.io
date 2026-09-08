@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T03:00+00:00",
+ "updated": "2026-09-08T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "ערוץ 14 השיג \"תיעוד בלעדי\"; חדשות 12 לא נותרו אדישים - הרגע המטלטל של השנה",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0V0pIVzNVcUFCbGFNclFvV0lxODZKRnJIdjNxYmQxQ1J3ekR0MThuOURxWFAwR3B4TGhFWFF1SGtjN3FQRjg2VXZZbTVxOFVKWHlpZFl3R2NOWFZvZS10ag?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [
+    "חדשות 12",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "קרוסלת החוקים של הקואליציה: איזנקוט בדרך להשיג את מה שאף אחד לא הצליח לקחת מנתניהו",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEYTc1dmpLU0I5eUNEbDkyR0xjRHdDZDRHVHlKLXA4VjFIR21WVUpiMkFjcmV4YUh4Wld1TVc2aGJyRDJpdmxoLWxMQTAwNmkxX21lMkhEbl9sLXoxNWVvTkRxREs?oc=5",
