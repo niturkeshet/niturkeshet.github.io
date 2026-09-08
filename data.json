@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T15:30+00:00",
+ "updated": "2026-09-08T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -258,6 +258,28 @@
   }
  ],
  "items": [
+  {
+   "title": "בעיצומו של דיון קבינט על איראן: נתניהו נפגש עם הסוקר של ערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nd00yQW0ycDBPQTRIaFl0QjhCaE1XUkRxSEZlR2xLbThUWjNNbm5BR2Q5TXM3TTRhSG1iVTRQSXdGZ3lyanNWNlVNTnl5TENkamRFT1NDUDc3QXBoTzdpeXpQa1FDR2Vmby1FZ9IBdEFVX3lxTE5HWEZFa2wxLVk0cEQwVE9rUjkxeGNyOUF0M3FlYUttWUtHTjdabnlJb0dKQy1SNG5CSXlHQ29uazNOdVpGOUE4cU1wZXo1eHhCZjJaWjJHUFZtUHR4cjgzMC1GbWd3U3I2MU1pV1Via01GZHZt?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-09-08",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "באופן סופי: זו רשימת הליכוד לבחירות הבאות",
+   "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQQVpQemRiLUVsbnloTnFoeHExSzBhenpnRkNUSHl5MmRQSWhiVmRaTTUwdGZIT3dpMHY4UlZyZ2hLYWZxNU01UFJjOTNqTndpUk1aWWMwczNfb0RDOGlOMFpVVk5xcFp6WlRoZWRCb3p2b1IzWFNYSFFGNTFDU252SDlhMlhsWVJpaVdYanh1V0xNQUxKNlItZ1hlVl9heVd3VXkxbjVidVlFLUZXUzIzbElGLUk2MkhtN09MU3lsTENjR2IteVRGR2VoWTZVVG1IY05UT1RmLWZhRzNTdFJKWUwyWTliZm5MRFJnN1ozNnpSeG42dmI5c1czSXJjREZ6MUJ6U19Wd0ltNktNQzdOMFBzR2RCMnRvMFNCNkR0UW1VS2IySDE4Y1RtUDFKTWVXNnVGekN1VGVfeHhjZnBpNFhWVVZHWmxDU3l1V2hfRXZaNHdvVm52azQzS1A4SEVfZ3c?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "בג\"ץ ביטל את מינוי יפעת בן חי־שגב ליו\"ר הרשות השנייה",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmI1cV9fLXZLdkNCSDNEZlpGcDZCU20yYTlZdWtvd0pGTHhDbERrMllOZ201S25WeEJYeFlpTFh0RXpmXzc4eEFPd01RUXp6VDV6MVhINlJmOUhYcUU0YUN4QUJORE9GaHBuQmR1RktlcVM0TEVDRTBiNDlUWktkcWIzOTkyVlhDSHNkMl9pcE5uYkRXNVBTY1BmR0JpazQ?oc=5",
