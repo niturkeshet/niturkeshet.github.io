@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T08:15+00:00",
+ "updated": "2026-09-08T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -270,6 +270,16 @@
    ],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "צורם לעין: ההחלטה שעלולה לעלות להפועל תל אביב ביוקר",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFSGZEQjlqN2J2NWxZS1dBZ2RETlNabDNyNHFsMmJ3d0Q4alhkVVpEN1NNbnQzYnUzSVFKZkx1X0Jmd1A0YTlGVlZHT2ZtVkk5c2hvaUE0bnhVdFJNVC1Gb013VlZIOHFoM1dnMnFnd0RyR0tJTlHSAX5BVV95cUxNVVB3LWtNLWpLd3FpZ1RiTTV6ZDJ6YS12N2NmVWdVODNIRmYwb1dPMGltNm13OEs5U25Gc2lvYUxhYndYd1VLRURwZzlJS3dDekdMNk1XbHFzb3J6M1h1Q0ttZ3dLTWs2RFltYkFEVVhhQzI2RjlhM1RFYTRTd3c?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "שני קטינים בני 13 ו-15 נעצרו בחשד לפריצה לבית ספר בתל אביב",
