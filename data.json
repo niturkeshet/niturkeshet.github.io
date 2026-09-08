@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T18:30+00:00",
+ "updated": "2026-09-08T18:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "ice · תקשורת",
@@ -697,6 +697,16 @@
    ],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "מכבי ת\"א הביסה את הפועל ב\"ש 1:4 בטרנר, ושמרה על מאזן מושלם בליגה",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb0d1cTdFeGpVX3Q5YTlXQmhRRkdfeGdZeHRGUmNzcjIxMEZBRHJManhFX2pzRUNKb3VEZHJiM2Ntbm03VFdfZEdvcU53S29qTUZqbXQ4SkFmOE1ET3FWT2wxZV9iX2NRRzVOVXJTWUkyUUJjZXFkLWgzRE1Fem5mR2xIWHVrMEc4MzZtdjdvSnZsbzJpTUp6alRYNW1pU195Y19BZVFkVQ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "בית\"ר ירושלים רשמה ניצחון ראשון לעונה, הפועל תל אביב פירקה",
