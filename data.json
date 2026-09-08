@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T11:45+00:00",
+ "updated": "2026-09-08T12:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ ביטל מינויים פוליטיים בפיקוח על הטלוויזיה",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IMmp0aFRMTmRKUXA3V21PVzhUOFhuZTBoNVBjTTJUTDRObDdrT0dhM1NSM3ZoMkZxTGlyRHVYdjRERm8yRG04RA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
+  {
+   "title": "מסתמן: זו רשימת הליכוד לכנסת ה-26 אחרי השיריונים",
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNT1ktaFlDZjQzSWZLck5SMm1QNndVVWJNUkp0LXhrOEZPQXhCdWV3MElNTjROQmtmV3FqZTFUSE1xVTJjU3c3cjFBMV8wRUMwcGxDdXB1eV9LcnRZUC1iN1hidUlFNHBiTU9kRWZrR1BpOTlOUUcxWGNjcEFnRzBWVlh1b1lvVVhuXzkwZFpNS2RFR3AweDRVblltNTJ2YTk3b2lEeUZjQ25LV2ZGVlg0eG5qa3JqSS1hMTFkWkh1ZEVaVklieXEyRDZWTnpxU3BocWg0cGdOQUI4eWpBSkVFLVVEYzU5NHhKMzJvdjlCM2lDVmo2cWhZTzBtbWhBX3E4bGlXd29HM3lWT0RBNEo3aUpNNDZNVy03WTVaME5IcEE2cEtmVE8tdUtwamhEMUtBTHBkeHR4Zw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "בכיר ערוץ 14 שראש הממשלה משריין לו מקום ברשימת הליכוד",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001554803",
