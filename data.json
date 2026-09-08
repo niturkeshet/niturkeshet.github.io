@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T11:15+00:00",
+ "updated": "2026-09-08T11:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,30 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ מבטל את מינוי יפעת בן חי שגב וכנרת בראשי למועצת הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QZnEzQ1JXRlM1al82dWdRQ1BobWFQdlZtNzVBVzZFV3hWOURSUFRwT2w0WTd4TWxFNFlkc3c4OGRMNkMxeXNTTmhFdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
+  {
+   "title": "בג\"ץ: לבטל את מינויי הממשלה ליו\"ר הרשות השנייה וחברי המועצה",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tUDZXYkpWd202Wno0X0hRTGlfWDNoY2wxUDhURzB6VnM1S1hMU3QtR0pwQlU4NDZfdW9SRVQtaTVLcXFEaTZ6M21nRTc1RUxESmRtaVhET21zbVk?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "YNET"
+  },
   {
    "title": "בג\"ץ ביטל את מינוי בן-חי שגב, בראשי ושיין למועצת הרשות השנייה",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13VzhSek1wenRBVFFkMkU1NEUycGJtWEF2blp6OHdLS3kwNTRhd05vTFRDOTdpRWpPWXZDQUNCVnlIbE43b082SGRDSGtMaEw3YTlXWmdIUENCM1F3T2dsMDBsblU1RW8?oc=5",
