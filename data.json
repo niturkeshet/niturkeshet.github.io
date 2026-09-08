@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T13:45+00:00",
+ "updated": "2026-09-08T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,38 @@
   }
  ],
  "items": [
+  {
+   "title": "מכה לממשלה: בג\"ץ פסל שורת מינויים במועצת הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ma2lnMkxibDIxOEludk1JNVB4enhOeUpkVGlKSVhqQlpPU1BsU1pWTGxfdHBGaFFoOEl4Nk4tTzNzS2s?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "המחדש"
+  },
+  {
+   "title": "מכה לממשלה: בג\"ץ ביטל מינוי כנרת בראשי, חיים שיין ויפעת בן חי-שגב לרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqY2VKNjBQM0k3Q0lYRWNzV0dPVGJULWVrcXdicXNsTTlvRzRobkhQejZVbW0yN29lRDk1MGhqR0hqZ3U5SWJF?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
+  },
+  {
+   "title": "Israel Left-Wing Leader Golan Pledges to End Wars After October Election",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUTdBS1h4bHdITE45dXJ2U0NzS1BLTk9kSlh4Mk5zaVZrT1pZbGFQa3QtRi01cFdjUzFvSW5qMjNxRU5jRThacUd1VjV4cEFNaVBPU3o3Yjh5RHJuUDF0UUV4QzZ0YlhjN0xLbWZfaGlhUFJyWjlmOWJMMU9jVEFrNmp1NnZjWXpDZzFIRDhneHZKd0FuYVpSc055VkJsdw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Military.com"
+  },
   {
    "title": "בג\"ץ ביטל פה אחד את מינוי בן חי-שגב ליו\"ר הרשות השנייה",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40RVdiVmZkcjQxR2tYcW1uTWtCQ3ZpZFFkLTJxUlMtZkdYcldqT0cyS3ExdkhGWW1FR3E1NnZGYXQwUG5jVUgyQzByaWxzVTJidFRNbmI1cDlYVloxRUh1SHhzU2ZOUy1uTzI3T0I2c9IBb0FVX3lxTE40RVdiVmZkcjQxR2tYcW1uTWtCQ3ZpZFFkLTJxUlMtZkdYcldqT0cyS3ExdkhGWW1FR3E1NnZGYXQwUG5jVUgyQzByaWxzVTJidFRNbmI1cDlYVloxRUh1SHhzU2ZOUy1uTzI3T0I2cw?oc=5",
