@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T12:45+00:00",
+ "updated": "2026-09-08T13:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,30 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ ביטל פה אחד את מינוי בן חי-שגב ליו\"ר הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40RVdiVmZkcjQxR2tYcW1uTWtCQ3ZpZFFkLTJxUlMtZkdYcldqT0cyS3ExdkhGWW1FR3E1NnZGYXQwUG5jVUgyQzByaWxzVTJidFRNbmI1cDlYVloxRUh1SHhzU2ZOUy1uTzI3T0I2c9IBb0FVX3lxTE40RVdiVmZkcjQxR2tYcW1uTWtCQ3ZpZFFkLTJxUlMtZkdYcldqT0cyS3ExdkhGWW1FR3E1NnZGYXQwUG5jVUgyQzByaWxzVTJidFRNbmI1cDlYVloxRUh1SHhzU2ZOUy1uTzI3T0I2cw?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "מכה לשר קרעי: בג\"ץ ביטל את המינויים הפוליטיים למועצת הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44aDZRT0ZPT3V0QlVmWVdLUkFPX2VUSGdkUnFoUlRSLTZXNXRZbUlRSmlYVkNfMlFHcEs0ZmRhb1lRVTducjduMG5MYmdOdHl2UWw1R04wUW9OLW5BNk5DcVRIaFFwcjA?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "calcalist.co.il"
+  },
   {
    "title": "בחירות 2026: ברדוגו במקום ה-11 - זו רשימת הליכוד המלאה לכנסת ה-26",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xcVRHR3ZleWtsY0c5QWc1YTNvSF92UVg5VG9ra0dnVE9BVGFBUGFJSmdiVlplNkRiNXFYek9EeVhzNHRXMWItZkN2VDBQekhFN28yVldZNkMyMWZjbFZlS1RUZDR3U3ZsNXMtag?oc=5",
