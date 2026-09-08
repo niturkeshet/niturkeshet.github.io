@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T16:30+00:00",
+ "updated": "2026-09-08T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו: \"זה או ממשלה לאומית חזקה או ממשלת שמאל צרה עם המפלגות הערביות\" | ישיר",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBidUlGOUQxZVdmQkIwM2xhWkk5TW9CaUtFbGl0eUNIRkZPYWdweW5wdVpOdS1lZE1OTnpaTFVkZ3Z0UEwwT01ZVFpIS3NNSnlsY1VDVHhkNXp4RXhPcE9QRjhDNWg0QVdXWmliZA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
   {
    "title": "בעיצומו של דיון קבינט על איראן: נתניהו נפגש עם הסוקר של ערוץ 14",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nd00yQW0ycDBPQTRIaFl0QjhCaE1XUkRxSEZlR2xLbThUWjNNbm5BR2Q5TXM3TTRhSG1iVTRQSXdGZ3lyanNWNlVNTnl5TENkamRFT1NDUDc3QXBoTzdpeXpQa1FDR2Vmby1FZ9IBdEFVX3lxTE5HWEZFa2wxLVk0cEQwVE9rUjkxeGNyOUF0M3FlYUttWUtHTjdabnlJb0dKQy1SNG5CSXlHQ29uazNOdVpGOUE4cU1wZXo1eHhCZjJaWjJHUFZtUHR4cjgzMC1GbWd3U3I2MU1pV1Via01GZHZt?oc=5",
