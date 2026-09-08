@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T10:00+00:00",
+ "updated": "2026-09-08T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -259,7 +259,17 @@
  ],
  "items": [
   {
-   "title": "\"שתי דקות - והטלפון נעלם\": מכת הגניבות בחופי תל אביב",
+   "title": "אורי מקלב נפרד מהכנסת: \"השליחות לא כבדה עליי\"",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tVklKVmd3anlGdTBWdGc0a0RvVE9TUlBGMWNzeEJCTU42YmZRQnVJTms3V1Bja3VmajBRNkZiWDktQ3lLOFg2dmJldl8zTVlwTkRsa0V3VjRmRWFzZ18tSHNB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
+  {
+   "title": "\"שתי דקות",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tVVNjUVpVb3kwODJISTJXX2dqaHlBV2NRelFOemVGaV9Na2VIRmNCaTFGWlRpSE5LY3pFQjgyb0tuNzNmZzZjMy1LUGg4YWhzZ2cxRWh0STk2SHZHbkJtUGtmQVpGbFp60gFwQVVfeXFMTXFoOVMwZjM0V3FrMUw3bzQxa0NQZ0hKWGMySWphX0J4ZWdfeTNxa2dZT2VHdzdaMlhVdXVLOFgwVm5KYUtWemFmckl3MmJqbWxZZTRZUGtPekZqcW4zNmluWmNPdF94SGhDdWIzOVBLdg?oc=5",
    "source": "חיפוש גוגל · אבי ניר",
    "type": "google",
