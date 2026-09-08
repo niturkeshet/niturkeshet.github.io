@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T07:00+00:00",
+ "updated": "2026-09-08T07:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -270,6 +270,16 @@
    ],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "שני קטינים בני 13 ו-15 נעצרו בחשד לפריצה לבית ספר בתל אביב",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91aG5pTHZCYmxCelBIX09EVjZQRmhQWnlfOHlSZWpxQXNTQnhPcmdzRnkwNkVyNUpmaEhRYzhWYWJOdnZyMXc1bWlsZVJvVnlWWlVPMzFYa0VuemlaX0ZHbjNaQkRaQzBr0gFwQVVfeXFMTUhFQmpEV1gtc3lrZW5pZW9BS0JEcEdTbF9zSjc0UW5qNERRYjk1RWhPcU5tVGJpLW5sdko2Y0FDQWlXY2xmQldjd0xqOFp4cUZYbUZPNlBSbzNzVE84M3d6SUM3anhTampEZ1EyT2xldg?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "קרוסלת החוקים של הקואליציה: איזנקוט בדרך להשיג את מה שאף אחד לא הצליח לקחת מנתניהו",
