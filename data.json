@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T11:00+00:00",
+ "updated": "2026-09-08T11:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,38 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ ביטל את מינוי בן-חי שגב, בראשי ושיין למועצת הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13VzhSek1wenRBVFFkMkU1NEUycGJtWEF2blp6OHdLS3kwNTRhd05vTFRDOTdpRWpPWXZDQUNCVnlIbE43b082SGRDSGtMaEw3YTlXWmdIUENCM1F3T2dsMDBsblU1RW8?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
+  {
+   "title": "פה אחד: בג\"ץ ביטל את החלטת הממשלה למנות את ד\"ר יפעת בן חי-שגב ליו\"ר הרשות ה",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80ZnlYeEducTJLbEhjVXM1Q2V3Y0puVFRzTnVIWFVOQy13UEw5WWo4aXNoa1FZTnhiMXdjMGlhTGZ1UHlfeU1nUjFiSnZHbDdjUEVRUmRBS0N2Y3NuZkNiaHc0aw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "i24NEWS"
+  },
+  {
+   "title": "בג\"ץ ביטל את מינויי כנרת בראשי, חיים שיין ויפעת בן חי-שגב לרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tenl6Z0ZoWUQ3TUpvWTNGV045ZHNzdVlmUTlveS0tQXJ1OFh2VHJUNFptZDFxUFgxRmVhNFVoUE5QLW1Jc09Hcw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "בג\"ץ ביטל את מינוי יפעת בן חי שגב ליו\"ר הרשות השנייה",
    "url": "https://www.themarker.com/news/themedia/2026-09-08/ty-article/000001a0-80a4-d4e3-ada1-e6fd96f20000",
@@ -385,6 +417,16 @@
    ],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "בית\"ר ירושלים רשמה ניצחון ראשון לעונה, הפועל תל אביב פירקה",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PTFJBSG5rdmN1SW9pcEFEOXN4RU4wbGlLMVpSSzhtQkJhc09wTGZpT0FkSnZNb2N6QlRhS1RwU2ZGUURaVzk1QWxBNEtfZ2F2M1gtbDIzcU9RRWZDYUpjbGdlWE54UGFESXVWLUtYUVJZLUZQNUHSAX5BVV95cUxQVVFkSE1hOThtSGs5dXhMajEtdV9aZERURldSZ3RkRnlqemZLYWV1WEFTNW1DQTlQMmpFXzBRbTliZkV0YktGRGRQY2xlMTdmdS1iZUYycVBnTjFST3A1WDlFVDZIczY4NW5tWm5veDI0Ty1ZanpaREI5U0hQWUE?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "צורם לעין: ההחלטה שעלולה לעלות להפועל תל אביב ביוקר",
