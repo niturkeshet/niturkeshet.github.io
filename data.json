@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T13:45+00:00",
+ "updated": "2026-09-09T14:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -349,6 +349,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "Calcalist"
+  },
+  {
+   "title": "התרסקות: חבר הכנסת בליכוד שהידרדר עד למקום ה-76 במפלגה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KSEY3N2pBTVZWeTgxTndHQ29ra3FjT2xDWGhES2Q5OERVNHJzVE1oWmQ4ejJTWFN4Z0duSVFFUndWSVBjZU16dnVaVHptdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
   },
   {
    "title": "העליון הכריע: איתן אורנשטיין ימשיך כבורר בסכסוך הענק של דן גרטלר",
