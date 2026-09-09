@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T16:15+00:00",
+ "updated": "2026-09-09T16:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "זעם בליכוד על חיים כץ בשל ההזמנה לשימוע של יהודה אליהו",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41S1dBNk1Cb2RBMFFUWTUwQ3dYX2ctZU1ZWHVqUXFpc1lKY0pfcDJ5Z1V0ODA4WWtxcGloRUdWckVYM3JoeXVENlJCRU1zVDhBTVAzUlBTcG9KUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
+  {
+   "title": "הקרב על רמ\"י מחריף: סמוטריץ' תוקף את כץ, קרעי קורא לפטרו",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTYjF5MFJNalc0bWJWMnNvTHdZV0U2b3FQUWJfZGhKemNCdmwtLVdwTzVIbE1xNHZibWwxYTZXM0UwbjMyUF9MTg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "inn.co.il"
+  },
   {
    "title": "כץ זימן את מ\"מ מנהל רמ\"י לשימוע",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85TmExdm9iNVR3SFBtWndoX1J1TUF5Y2VlMmhrNE1vNEM4TVVZbGFtQktHZmpzRWpsX3Z0U1R1ZENrRkNDakVKeG9sRTJ5YTJIU2p2Z0hFYzNzQQ?oc=5",
