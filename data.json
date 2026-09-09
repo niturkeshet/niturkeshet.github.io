@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T15:30+00:00",
+ "updated": "2026-09-09T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,36 @@
   }
  ],
  "items": [
+  {
+   "title": "השר מהליכוד נגד חיים כץ: \"משלב ידיים עם גיל לימון והדיפ-סטייט\"",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOMUxGYkZGTDY0N0xtQTBNSS1fMEVBOHZQQ1U3dEZReVE1TFJGbFNLY3FzXzlTNEVrZktzazA5T2lfQVJaTlVlRzEzZEpxY1A3Tzh6S0FFclVWUVBkaWlJQWhVSGI1TFhoU29lQXg0bk1RWjd6ekV0Zmp3VUZhaVE5T1FwS1g1LUlYc0I3V0Q3bDJieHRWenZ3dnB2cEU3cTZzbnlJYnk1MDFxdjZGazhodkloN29tSjRFbWZFaGY5NDNmRmpXSmdZREdVejlhZlZ5TmlzNkhkNklXeWdoRHJyWm9zNEZTeTE2YlRCY3BMRVI1QWo4NllpcEpiQXhiYXJrR3hRazFZMnBtdldKUkt5cl9tMG9DNVVMbXFpOWJxVW9nb2VGNkpfWWJETlU5eGVhRDM4UWgwUHJ3a011ZmRVUUUxOA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "srugim.co.il"
+  },
+  {
+   "title": "נתניהו נגד חיים כץ: יהודה אליהו לא יפוטר מרמ\"י",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFltZC11djhmTllpOHdNN1NySDB4cjFWc1FGWUtLLW1tTEVFU2pPWGpLdW03VDVvTUN0c2RLdExTV1VJZDdLbG05bm1mRWotUW5DQzlkZlQ5TjFFbl9SY2Jva3kzOFhSemhJTEt4UUk3czllbjVuTDJ4bTZxR2FRZQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "mako"
+  },
+  {
+   "title": "נתניהו בולם את חיים כץ: יהודה אליהו לא יפוטר מרמ\"י",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1abXRSMFo5OGhveHBReUlMZFpuenRsT1lIZzhyZjRBc1B0bWhFd0l5YktiSnFzbkhnWXVwdmhSUmFfdHR5Q3ptZGJyWEFFMXdxQjhGeGkxaVBWZ1dFamRpWXVn?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "news1.co.il"
+  },
   {
    "title": "הליכוד: יהודה אליהו לא יפוטר • כץ הגיב: 'השימוע יתקיים' • מגל איים: לא אצביע ליכוד'",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pazJ0d1RkZHRIYXY0bzhOaDNWQlRQTEF6by1JclYzdmNGbmNjTDRHQzhnYXVoOFVUNmZlRC16ZVF4dndjS2Vr?oc=5",
