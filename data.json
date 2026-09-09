@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T14:45+00:00",
+ "updated": "2026-09-09T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי ומגל יצאו למתקפה; הליכוד הודיע: \"אליהו לא יפוטר\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12VVV4LUFCRE9NeUZpUnp3c0M0ZUx4VUlZZGxZUFZ5cVo5V3M1N0JOdkpRVmxHME5RNXhoZzJMdWJvbERkRU1VSDY3YVlZdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
+  {
+   "title": "הסערה בימין הכניעה את נתניהו, שהתחייב: יהודה אליהו יישאר מ\"מ מנכ\"ל רמ\"י",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yaWhVNDVMVU8tNi00LURMWWc1ODBZUDRQZm9zallCZlFLb1RtXzhmX1dQNzJLZWV4Mm9XMU11R0hVVjJfVlhMem9yYkF0b0RfTjluNFhQNVFRM0xlUkZCNmtnWVVORkxVWkE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "בג\"ץ: הדחת הממונה על התחרות מיכל כהן תיבחן ע\"י ועדת המינויים",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zRDVXUG5IVmpBd0FXUGw1NXFEd3phMmhXRENvejEwaDFic1hIa0VMeE5UU3lpY1ViN084OG85X0tVbmZXR0JHX2pTVWRDb2JDLUVrc3V0VTU3dDBzT0tmcVFoVzR6ckxF?oc=5",
