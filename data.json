@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T22:30+00:00",
+ "updated": "2026-09-09T22:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "שעות יגידו: האם הכוכב העולם בימין יקבל שיריון במפלגת הליכוד?",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LNjBEWkw4TTJNOEJtN3AteFpJX1pwOGdSUUd3WE5YdWRyblk2aTJqOUhySVZQdW5oTVFZZWhHd2h2RU56RlYxNGJ3RFZKTVp2VUhZd293bDY?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "kikar.co.il"
+  },
   {
    "title": "נתניהו הטיח בחיים כץ: 'מה אתה עושה לי?' • יהודה אליהו לכץ: זו הסיבה שאתה רוצה לפטר אותי",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LR0R4R1ZsVWxBajRfMkthU0puMmttMzg1eFJoUmhFZFFBMmJ6RkpkUWhsOTZPMnNydUpEak9sY1FLVmZObmRR?oc=5",
