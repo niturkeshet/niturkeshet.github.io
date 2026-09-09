@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T03:00+00:00",
+ "updated": "2026-09-09T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"כשאינטרסים שלו נפגעים, הוא תוקף\": למה ברדוגו רוצה להיות שר משפטים?",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTNXLXpXa0wyQ1ZYYUhxTmROM0JNcTNTS1lUTi1mQk1JS3BVc2ZmZVhFeWV1OFAydG56YTB1a2xTd2pKWFpiZFcySUNMRl9vUF92YW9nS0M0enp2cnNOM2dNNmNHY3VvWU1hTnhOSXgtV01rcVRidnlLWmxrNHBHR0phME96VWZNdU94YnFIbHMxMTlFQVRMeFhwUGxmWHh0TEZGM0lQb2ZFS1hPRVE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "קרב בלימה בכנסת",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Y2NsWThwZmdoZnJEUmdNS3RfR2FCZkY4NDN1NlUzSThENzZkOTRHZXlOVnB2YURuQWJCZ3FmVzRaTWRQSm1jbEZhOVBOTEQtcnZtM1p1UGxkRXBwdHM2MGVwUGt2bVJp?oc=5",
