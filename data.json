@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T17:00+00:00",
+ "updated": "2026-09-09T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הסירו את ידיכם מתאגיד השידור הציבורי",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWllYRVlNU2NnMU4wQkp1Z2YyMzNTT0xrMThEbHlZUWlLSUhkTFJUZ29Ob1R6MGtqcFBCMHpPbkhNOF9EUlNCbkpWZ0VRS3JQSzZGZ1QxTW9qU0ZVeU1GTjhEODBaQ2JmV1ZEYTFPWGdLVVVqZjlhTWo2QVZIYU42OS1ENkItaW54WWdXV0VrZ0p1UFZ3WWpmTmwtZWFFR29lVk5wSjVuUlBzZzR6aHQ0?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "זעם בליכוד על חיים כץ בשל ההזמנה לשימוע של יהודה אליהו",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41S1dBNk1Cb2RBMFFUWTUwQ3dYX2ctZU1ZWHVqUXFpc1lKY0pfcDJ5Z1V0ODA4WWtxcGloRUdWckVYM3JoeXVENlJCRU1zVDhBTVAzUlBTcG9KUQ?oc=5",
