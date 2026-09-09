@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T14:01+00:00",
+ "updated": "2026-09-09T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -349,6 +349,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "Calcalist"
+  },
+  {
+   "title": "הליכוד הגישה את רשימתה לוועדת הבחירות; שלוש נשים בלבד בעשרים המקומות הראשונים",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LbFlqMjRxX1NrMXotdGhVT2RNTGx3ci04ZERSdmVPR09VT1RlejRodm5TR1ZaLUhocUpkWGwwT0N2MlhEX0paNUFTUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "zman.co.il"
   },
   {
    "title": "התרסקות: חבר הכנסת בליכוד שהידרדר עד למקום ה-76 במפלגה",
