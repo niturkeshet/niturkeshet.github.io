@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T07:30+00:00",
+ "updated": "2026-09-09T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -883,6 +883,19 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "אייל ברקוביץ׳ בערוץ 14? ינון מגל פתח את הדלת ל״הפטריוטים״",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RSjNhdl9MM3ZzMUlhSHBWSjBjWlhIZ2Vkb1Bra0haNXBPZmNhRVkyOFdKN0hqY2JMOEJpY0JGQU5IM0lYOEVyYkgwSkR1TW1XTS1xcjhqUUZJYkFKTjhTRXRKLUdoemZZYnppadIBdEFVX3lxTE5VckY3dTNNMVpzZXVIeTM5azZpZVlwaHVqYTMxcWd2VDlSYUs1Yk5qTjBxc2NsZ05QR0J6LXZpRWFrU1RJaUcwUlFseHRENnhEVk5DTnRPWnJGWkpIYi1XMDNsMmZ6eEZoNVlTZmRaanZFM3Y4?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-09-02",
+   "keywords": [
+    "ינון מגל",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "\"הליגה הרגה את הקליפרס\": העונש חסר התקדים שהוטל על קבוצת ה-NBA",
