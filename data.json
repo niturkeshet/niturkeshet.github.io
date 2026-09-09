@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T12:30+00:00",
+ "updated": "2026-09-09T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -339,6 +339,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "Calcalist"
+  },
+  {
+   "title": "הרשימות נסגרו: מי יהיו 120 הח\"כים? • אלו המתמודדים בבחירות לכנסת ה-26",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tY1FPREhrVXhpV21zV1J3R1p3Y3BVMFdVUGdmSWxEbVUtdV9XWGYxOUs1UHJMQ1NzZEhSVEx0bUExcmVOR25B?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
   },
   {
    "title": "בג\"ץ ביטל את מינויי יפעת בן חי־שגב, כנרת בראשי וחיים שיין למועצת הרשות השנייה",
