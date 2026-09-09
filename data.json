@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T04:15+00:00",
+ "updated": "2026-09-09T04:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "תהום מפרידה בין השאיפות לביצוע",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVUhhbG1zNHRLMFNtUW44T25mdFlFcW9DMW9YSE9nbWh1STdsdVVBb3paSFM3aF9vRGpDUmw2OEJWRlgwTXZ3dnVlbjBVSUZ6cU1lQ2ZmZXB1R1Yyd3BZMWRJOG9JaUk?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "\"כשאינטרסים שלו נפגעים, הוא תוקף\": למה ברדוגו רוצה להיות שר משפטים?",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTNXLXpXa0wyQ1ZYYUhxTmROM0JNcTNTS1lUTi1mQk1JS3BVc2ZmZVhFeWV1OFAydG56YTB1a2xTd2pKWFpiZFcySUNMRl9vUF92YW9nS0M0enp2cnNOM2dNNmNHY3VvWU1hTnhOSXgtV01rcVRidnlLWmxrNHBHR0phME96VWZNdU94YnFIbHMxMTlFQVRMeFhwUGxmWHh0TEZGM0lQb2ZFS1hPRVE?oc=5",
