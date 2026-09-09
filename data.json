@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T05:00+00:00",
+ "updated": "2026-09-09T05:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הקרב האמיתי מתחיל: אלו הרשימות שיתמודדו לכנסת",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPU3hGTjBIbk5jVDhTLXNJZWNwY3FtX1NIWGU3bkdiUEt3RU11V0J4ZGU2VlZ1dzdwdWFfYU9QSnNCcGo2ZFBNYW9uQ3docWlsYkFJYk1aQUp3OWFjNVByTlRhNk8yMG05ZTBDbmRadktvd9IBekFVX3lxTE0xbUl3Zk5LM3RoXzRDSEc5cEYzaERxWmRMNmNlaHUxRVEwbG1rTkVtQzl5UHhGbE9IRkNxZV9pdTNvVTUzYTFyR3dnb2ctMkFBbHFhckFRYVgzOGpvU3pGdXlaT05TNk9GX2dfaGhWc0FFc1ZJZUJJaGtR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "kipa.co.il"
+  },
   {
    "title": "תהום מפרידה בין השאיפות לביצוע",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVUhhbG1zNHRLMFNtUW44T25mdFlFcW9DMW9YSE9nbWh1STdsdVVBb3paSFM3aF9vRGpDUmw2OEJWRlgwTXZ3dnVlbjBVSUZ6cU1lQ2ZmZXB1R1Yyd3BZMWRJOG9JaUk?oc=5",
