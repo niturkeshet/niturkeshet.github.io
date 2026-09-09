@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T17:45+00:00",
+ "updated": "2026-09-09T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Likud Internal Dispute: Minister Accuses Colleague of Aligning with Legal E",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zaXEzQjVHb3BfZzBTOE1BV0ZaZ3dzYWIxaDg4N0xUcWlET3k3cU9NQnR1aXlieFJIeTNObC1pdGUyZ294Y2Y2Y2o1M3g4RHFXSzFxUVlWSkJvcHdoTlhQbzRQVWdmOHdYOUVnR05oSFJySXB2b1hhbXh2UTVXUQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
   {
    "title": "שטילמן: משפחת רקנאטי עבדה במשך חצי שנה כדי להוציא את פדרמן ממכבי ת\"א",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3Rfb2JDT3Q3Tm83NjhyR0pObi13TWNfOVdId3oxQ2tXMkNQckxSaHZ3c3FRLU1EbDZ6TFlZbUdwbGRVS2drS3lOUGdvLTM3eDRPdExtLTByQWpOUENlQklUM1N5MTBiU0ExTXEwSU12QlktVTIwRThMeUg3UlY2eDlBZTRrYXZXVEFZclJaYWZkUlY5SW5xODYtMFdqNHpjOFA4?oc=5",
