@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T10:15+00:00",
+ "updated": "2026-09-09T10:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -145,8 +145,9 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": true,
-   "kept": 5
+   "ok": false,
+   "kept": 0,
+   "err": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
    "source": "גלובס · גלית חתן",
@@ -194,7 +195,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +219,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +259,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השרה לשעבר לימור לבנת חויבה לפצות את השר דוד אמסלם ב-98,500 שקלים",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qUnZYV1VlUXVJTDU1dHZROVA4dzZPb3BCSUJjczFGZ0FjdUlDNTNHbGFDS2hBVUFScmhYTmZvY21ubjRrOGlFVEd0eV9rV3U5aURhbVVGd0pNWDNpazdfai1R?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "יופי בג'אגר: כנראה שזה ההמבורגר הטוב בישראל",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBadTNRWU9HTkFyRndXQkFEcjdRVnpVemlqRk1yM2x2eUxNV3dQdThjNlNFem4yN2ZYaV9waEZwMXJTS2M4bXpESFFTc0NVZk9mMjJETDFlaGpRTm85dFN5WWNwMHQ?oc=5",
