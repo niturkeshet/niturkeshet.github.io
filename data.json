@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T02:45+00:00",
+ "updated": "2026-09-09T03:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "קרב בלימה בכנסת",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Y2NsWThwZmdoZnJEUmdNS3RfR2FCZkY4NDN1NlUzSThENzZkOTRHZXlOVnB2YURuQWJCZ3FmVzRaTWRQSm1jbEZhOVBOTEQtcnZtM1p1UGxkRXBwdHM2MGVwUGt2bVJp?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "בג\"ץ ביטל את מינויי יפעת בן חי־שגב, כנרת בראשי וחיים שיין למועצת הרשות השנייה",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3MjZxZExmb2F6Sl9XVXExYm1hTjFxdzNtQ0ozRVo4WnZvMlNKWkhiRVVfQm42MjctZDI4TGlPSEhibVJnQ0g2Y2doZw?oc=5",
