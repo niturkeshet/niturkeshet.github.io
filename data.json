@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T10:00+00:00",
+ "updated": "2026-09-09T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "יופי בג'אגר: כנראה שזה ההמבורגר הטוב בישראל",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBadTNRWU9HTkFyRndXQkFEcjdRVnpVemlqRk1yM2x2eUxNV3dQdThjNlNFem4yN2ZYaV9waEZwMXJTS2M4bXpESFFTc0NVZk9mMjJETDFlaGpRTm85dFN5WWNwMHQ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "בג\"ץ ביטל את מינוי מועצת הרשות השנייה: נתניהו הפר את הסדר ניגוד העניינים",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rYXd0NDJZZkFUd2RzaldaY0UwUlA4ZWVlXzFxTUlzZnFlZ1NVaEI0OXFBekc5cDFlLVV5RHhDZUZNdHVJWk1MUzNZbm1GQmhuMEtzMGpXY3AzOTR0ckcweTV2R0Q1dw?oc=5",
