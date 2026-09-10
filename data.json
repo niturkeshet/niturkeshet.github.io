@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T16:15+00:00",
+ "updated": "2026-09-10T16:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הנציב בביקורת חריפה: השופט עמית פגע בזכויות של השר קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBBLThuY3hGOE5RcU1CTkRuWWRDQnJvSWhtTk9kNVFEWHVCUURVNTFsbUg2U2RfYUduYk9XeUYyM2VRVGM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "המחדש"
+  },
   {
    "title": "נציב התלונות קבע: הנשיא יצחק עמית פגע בזכותו של השר קרעי",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PUExUWlFFNXdxZ0pIZE5ZQk4yMjBuclFGdUQ4LXh3clNKQ0RGU1VUd09iRUlTNDJIRmZVTnc3Vzdfc3pKNEVzSklkTQ?oc=5",
