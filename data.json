@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T15:00+00:00",
+ "updated": "2026-09-10T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נציב תלונות השופטים בביקורת חריפה על הנשיא עמית",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOc2JJczdJXzN3UWgtcDNFUkV6LVpqZXcwbGQ3UHQ2b09KajJNODZ2WXJwQUE5YzZEOHlQdWxLX3ZidXlTVzJXRGlMVWNtdkZjVDJ5LXBvRTlKVmU1a0FTQlpwQkdGQ3N6cDluNGJuLXY2cU0tNUR1TlFMR29FSFNKR1JIMEdybHJUVVZ3MEV6OVN1dW9XYUxYTFZQTU1xd1VZX2VQdWoyWlA5VmZlV01vaWRGc3FBUWZsemJybEdESVk2X24zcTlWel9zZEg4VzR4Szc4WGJoYnpLUERqNDNzYW9CV2l4YzVKclBOZE5QdEV3SzVyWlo1alI3aUltblZ2Q25DNGRDUnh5SEsxZXJrOTJyczVwU2dVY2VZMVJza3dUbURlb192YkV6SkdPLWhhcHE4STl1bDFrQTVNVy1NekRCR0hYeW1Sc1E?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "הרשימות נסגרו - מלחמת העולם נגד וינטר נפתחה: \"צריך להוריד אותו\"",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tZU91RjVmN2J5ajlSelBIeGQ5bHFWRnVVQi1UQ3YxeEdxbEcybndTWkVqMm9KZ3dXeXJ5SmtNSnd3YmRONXE3VzV4QWluQl8yWC04SmgyY2ktM1czcGkzSEZBbWl6bGtrWkthWg?oc=5",
