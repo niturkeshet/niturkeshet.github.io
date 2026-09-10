@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T14:45+00:00",
+ "updated": "2026-09-10T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "הרשימות נסגרו - מלחמת העולם נגד וינטר נפתחה: \"צריך להוריד אותו\"",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tZU91RjVmN2J5ajlSelBIeGQ5bHFWRnVVQi1UQ3YxeEdxbEcybndTWkVqMm9KZ3dXeXJ5SmtNSnd3YmRONXE3VzV4QWluQl8yWC04SmgyY2ktM1czcGkzSEZBbWl6bGtrWkthWg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "מטיב טעם ועד מגדל: המסמך העמום שהצית גל תביעות נגד החברות הגדולות במשק",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aUWd4WDJRY3ZaUmRiLTktNU1LYnJZRzROd24ybWtkMDZWTWhMSXpyLXhYbkhONmVIZWxYS2J5R09RQVAyN1hYNVEwVWhHRzBtMGhMUUptQkhFN25zVlA0ZjNIU0FTR1JN?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "globes.co.il"
+  },
   {
    "title": "\"החלטתי להגשים את החלום שלי\": דנית הביאה את האומנות שלה ליריד \"הלב עם המילואימניקים\" של חדשות 12",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DVEd5UjNTRmczYXJ2ZDlFZVVIaVE0aWU4Z2NneUlub1JaZnptcTZGdFc1UF9IdTktSHA5SnV5c0NYMkpocUhHZmZhRjY1VkotOFkxejEyWjRocW1VT0xNMEIyR0xLTmxZZ1Jsa3BzSVlUUWdxeTFxSW9MaWM?oc=5",
