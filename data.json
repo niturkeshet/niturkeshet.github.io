@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T21:30+00:00",
+ "updated": "2026-09-10T21:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לאחר ערעור, דן תורג'מן ירצה 10 חודשי מאסר במקום עבודות שירות",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsVzlsVTVmSU9IN1Izc3NQeDBmbjNmRjRKUzFqZWxCZWNac2swSGRZTGJyUEhuaVNBTFFGcTc1Wnh2a09qQk9PVlB6SklqRDN0eG9QYjd6bF8zblRSM1VONktMXzcyQlZZ?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "כך עיקם נתניהו את החוק, השוק והרגולציה והפך את ערוץ 14 לאחד מגופי התקשורת המשפיעים בארץ",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90ZWxaLWczS0tDOG1mRkxSYlRkUFhoZFBSUWJXVUVBTFFubC1wOWRlRWtya2JKQzdvb0poOC14LU45SEdxZXlXZw?oc=5",
