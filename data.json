@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T07:15+00:00",
+ "updated": "2026-09-10T07:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,13 +218,13 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,29 @@
   }
  ],
  "items": [
+  {
+   "title": "שערי העיתונים: 10.9.2026",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xMktnc1hjT1hXamRBTDh1R1lQSUFnNzQ5UThaOHk4bmlveVVWaEV2S0dXRm04SEZjVGpHTUdVZ2NzOUphYmU4Rw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "the7eye.org.il"
+  },
+  {
+   "title": "i24NEWS שוברים שיאים: הכפילו את כוחם, נוגסים ברייטינג של המתחרים",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fTXVvVDNsMEZVa09JS0Qwd0s0aWJBRDBJODVkclkzZTlhdldYcWdEY2kxcDQyVTN3RHhmeVRYTUJsalIzbnBYeVctNVZBd0xLRXRCSzZpY0NndTBq?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [
+    "רייטינג",
+    "i24"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "רייטינג: \"מאסטר שף\" בשפל היסטורי בגמר הגדול",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51SlFkSXYwbnlrRWdCSDdwdy11Y0pUUFJ1REFUU0ZLTWNyUmJwZXE0MHAzckYtNjNwOTk5ekdSNnl6UHVhT0x0SDEtSGY1N3hfWVR4UEVEN2Nham1kd0h1Nmpn?oc=5",
