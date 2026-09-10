@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T23:45+00:00",
+ "updated": "2026-09-10T00:02+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,86 +175,100 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": true,
-   "kept": 2
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": true,
-   "kept": 2
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": true,
-   "kept": 4
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": true,
-   "kept": 3
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": true,
-   "kept": 2
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   }
  ],
  "items": [
@@ -543,138 +557,6 @@
    "publisher": "Calcalist"
   },
   {
-   "title": "הליכוד הגישה את רשימתה לוועדת הבחירות; שלוש נשים בלבד בעשרים המקומות הראשונים",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LbFlqMjRxX1NrMXotdGhVT2RNTGx3ci04ZERSdmVPR09VT1RlejRodm5TR1ZaLUhocUpkWGwwT0N2MlhEX0paNUFTUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "zman.co.il"
-  },
-  {
-   "title": "התרסקות: חבר הכנסת בליכוד שהידרדר עד למקום ה-76 במפלגה",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KSEY3N2pBTVZWeTgxTndHQ29ra3FjT2xDWGhES2Q5OERVNHJzVE1oWmQ4ejJTWFN4Z0duSVFFUndWSVBjZU16dnVaVHptdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "העליון הכריע: איתן אורנשטיין ימשיך כבורר בסכסוך הענק של דן גרטלר",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ycVhveU50UURpMkxpcEZONURpcXVrMGRGQkJRdzNrcDFJWW5mMzBEYWRxZ3pGcFA3LWJvVUt1b3J4ZnM0VkdPZTQ2UXlXNDJtOWZEQ0dkVWxvOHJjc0hnWUI4YlJESXQ5?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "גלובס"
-  },
-  {
-   "title": "הרשימות נסגרו: מי יהיו 120 הח\"כים? • אלו המתמודדים בבחירות לכנסת ה-26",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tY1FPREhrVXhpV21zV1J3R1p3Y3BVMFdVUGdmSWxEbVUtdV9XWGYxOUs1UHJMQ1NzZEhSVEx0bUExcmVOR25B?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חרדים10"
-  },
-  {
-   "title": "בג\"ץ ביטל את מינויי יפעת בן חי־שגב, כנרת בראשי וחיים שיין למועצת הרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3MjZxZExmb2F6Sl9XVXExYm1hTjFxdzNtQ0ozRVo4WnZvMlNKWkhiRVVfQm42MjctZDI4TGlPSEhibVJnQ0g2Y2doZw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "Likud submits 35-person Knesset slate featuring 9 Netanyahu appointees, just 4 women",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFFDMGR3X0tLMWdUenYtbHAtcy1kMHlsbDcxTzNneV9zREtMOXJ1UGF2RVhEcDhYY01kRUhhcWZteTRjVWJTV0FyOUljNTFwc0VodWRTU0VPQWxqV0w0VHBTNzNMbzFZc0FROGVWV1p6ZVlfd2VwdGNpVUNwaWxNMDR5S3B3MGlEa1RKTTFzUzZLak4tNWJ6bTJLMVZCdmozczdqWkV0LVAyN0VHbU9WbGZHZ2wzTC1jR3hrNDZWb2RreVkzV3VqQg?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Times of Israel"
-  },
-  {
-   "title": "Finalizing slate, Netanyahu fills reserved Likud slots with allies, ideologues",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1RXdUNSdDBrTFBYNEJsSjAwUFhfZUNoRFI1OVhhc2xWTmFSRm8wV21KX3diZDdFNFg1aXBIUGZfLXlHdzQtaFpDSlotenJObWdDMWN3ejlLVDdoWVNCaFhJNVl3SEM4XzgzX1dzTkZHdXZVSUtjZWdwQXUyNTVhajJ4X3p6ZzVuNS1BOU9KaTRoNVFlbTlGUThOR0FhdWF2cE9PQldTeDJqTFVma1RCYdIBsAFBVV95cUxNU1RXdUNSdDBrTFBYNEJsSjAwUFhfZUNoRFI1OVhhc2xWTmFSRm8wV21KX3diZDdFNFg1aXBIUGZfLXlHdzQtaFpDSlotenJObWdDMWN3ejlLVDdoWVNCaFhJNVl3SEM4XzgzX1dzTkZHdXZVSUtjZWdwQXUyNTVhajJ4X3p6ZzVuNS1BOU9KaTRoNVFlbTlGUThOR0FhdWF2cE9PQldTeDJqTFVma1RCYQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Times of Israel"
-  },
-  {
-   "title": "High Court annuls controversial government appointments to broadcast regulator",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUE2MGxRTzhibkpOOE5aa1F1cTFfMTVvcDNHQllabUN3bWFkb25RY2RTZDF2dVVpbXd5ZHh3d2FjMk9fZWdFbERsbklacmFIdlRaSjNta1RkNUFPUHMyTVVOdjNZSmlsMDRUTkxlaFdQbV92ajdIeDNra19TeTk1QmIwUS1mRGg4eEZ4MXZ6cWFYZFZlT1BtdDZBX3JiMEw2YkNVVWRzdmhZdjg3YWfSAbMBQVVfeXFMUEp6ZFhvc3ZLQjVEUzFyRkdrNThJbXJNbkZxWTFwSWtNSGxlR1NKMFk1Ull2SFN6dUhGdWJQS3l6ZkhSU2pnM0F0dEFENTBTMnNJV2tTQW9pMjhkQzgyY2JqSWc0b0FvUmtKUVZINmIwaVpIc21ZeW5oS2t0c3l1cTQ0MjNUc29ORFY3aDBXSGxGQ3RaMWxma0JTb1lpN0gtdF9GNnBMX3o2S1B5ZlplVjBYRVk?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Times of Israel"
-  },
-  {
-   "title": "Parties submit final Knesset slates for Israel's October 27 election",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOLXg2T29RM28wNDhWQWhqclRyTERKWWlxU3R5SnU3ZFJkSUlYRGtxeV9qR29ONjRxUExsVVItaHlEcjhKTzBGVERZUG9nRTVhZEVma01RMlIzR3J6ZlR5TG1NUUFadG5zSVQzVE1zOEc4V1BWdk5HYmtsZkswSGY0ZUNJd0l2UE8wZ1B2ZHh0TWsyTkQ0Ri1yT0ktenFLaTRzTFVwZTNfZmVUYUdZZW5wWXpkWE5iamZCV2JXLVJ3RU9TUURIUUdvSEl3QUFmaWZNOHFETjlfUl9VY3JzMVc1eXN3OHJ1V1NrNjZOZUJobndPNzVnbmVQNzZ3YjdPOE1tNlRTV0FLN0NmeUdfZHc?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Haaretz"
-  },
-  {
-   "title": "פה אחד: בג”ץ ביטל את מינויי הממשלה ברשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUhYdzZmOE1ISUU4VlpCdFh6RVg4Y3ZlX3VEMDZIU3BJV0JwdERVcW9wcmNxOHBxeEFOaVluRTVoMXV6MGpsVnBwTnV1cFpCMGxzSzUxX1dNY2F3cEF0Nlo3UTdpTlFEUU5uWDdZQ2hYeUcwSjQ3OVRFZ0NWblpKQ1hVMWo3TFE?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "mako.co.il"
-  },
-  {
-   "title": "Yaakov Bardogo Justice Minister: Netanyahu Ally's Rise",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92eFR4QW1JbjdOaUhvSUk3SjVJRWtPYUt1d2RvUFI3eUMwdFVEMzFiQ29vU0dNY01QbHZZTGlTVVlFNzdBeXVZOXdBWUpSb0RiRFUxc2xUT1dkSTM0MGpQR0FxNEhaa3VNMWgwQ2RvY3E5ZDg?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "JFeed"
-  },
-  {
-   "title": "בג״ץ כבר לא עוצם עיניים מול המניעים שמאחורי המינויים",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KbDRjT3ZNOGlyMVNvTzV4YzQ0WklUVzJqUjE2dXo2T29yNGFRY21ibW9ManM5cDB6UlVURjg2TVhjM01NNVk0cWhWNVhMeEhpLS1PaDBhUUk5Mm5fcll6Q013X3d2S3M0?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Calcalist"
-  },
-  {
-   "title": "נתניהו: \"זה או ממשלה לאומית חזקה או ממשלת שמאל צרה עם המפלגות הערביות\" | ישיר",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBidUlGOUQxZVdmQkIwM2xhWkk5TW9CaUtFbGl0eUNIRkZPYWdweW5wdVpOdS1lZE1OTnpaTFVkZ3Z0UEwwT01ZVFpIS3NNSnlsY1VDVHhkNXp4RXhPcE9QRjhDNWg0QVdXWmliZA?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
    "title": "בעיצומו של דיון קבינט על איראן: נתניהו נפגש עם הסוקר של ערוץ 14",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nd00yQW0ycDBPQTRIaFl0QjhCaE1XUkRxSEZlR2xLbThUWjNNbm5BR2Q5TXM3TTRhSG1iVTRQSXdGZ3lyanNWNlVNTnl5TENkamRFT1NDUDc3QXBoTzdpeXpQa1FDR2Vmby1FZ9IBdEFVX3lxTE5HWEZFa2wxLVk0cEQwVE9rUjkxeGNyOUF0M3FlYUttWUtHTjdabnlJb0dKQy1SNG5CSXlHQ29uazNOdVpGOUE4cU1wZXo1eHhCZjJaWjJHUFZtUHR4cjgzMC1GbWd3U3I2MU1pV1Via01GZHZt?oc=5",
    "source": "ישראל היום · ביני אשכנזי",
@@ -685,60 +567,6 @@
    ],
    "pv": true,
    "publisher": "היום"
-  },
-  {
-   "title": "באופן סופי: זו רשימת הליכוד לבחירות הבאות",
-   "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQQVpQemRiLUVsbnloTnFoeHExSzBhenpnRkNUSHl5MmRQSWhiVmRaTTUwdGZIT3dpMHY4UlZyZ2hLYWZxNU01UFJjOTNqTndpUk1aWWMwczNfb0RDOGlOMFpVVk5xcFp6WlRoZWRCb3p2b1IzWFNYSFFGNTFDU252SDlhMlhsWVJpaVdYanh1V0xNQUxKNlItZ1hlVl9heVd3VXkxbjVidVlFLUZXUzIzbElGLUk2MkhtN09MU3lsTENjR2IteVRGR2VoWTZVVG1IY05UT1RmLWZhRzNTdFJKWUwyWTliZm5MRFJnN1ozNnpSeG42dmI5c1czSXJjREZ6MUJ6U19Wd0ltNktNQzdOMFBzR2RCMnRvMFNCNkR0UW1VS2IySDE4Y1RtUDFKTWVXNnVGekN1VGVfeHhjZnBpNFhWVVZHWmxDU3l1V2hfRXZaNHdvVm52azQzS1A4SEVfZ3c?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
-  },
-  {
-   "title": "בג\"ץ ביטל את מינוי יפעת בן חי־שגב ליו\"ר הרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmI1cV9fLXZLdkNCSDNEZlpGcDZCU20yYTlZdWtvd0pGTHhDbERrMllOZ201S25WeEJYeFlpTFh0RXpmXzc4eEFPd01RUXp6VDV6MVhINlJmOUhYcUU0YUN4QUJORE9GaHBuQmR1RktlcVM0TEVDRTBiNDlUWktkcWIzOTkyVlhDSHNkMl9pcE5uYkRXNVBTY1BmR0JpazQ?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "מכה לממשלה: בג\"ץ פסל שורת מינויים במועצת הרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ma2lnMkxibDIxOEludk1JNVB4enhOeUpkVGlKSVhqQlpPU1BsU1pWTGxfdHBGaFFoOEl4Nk4tTzNzS2s?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "המחדש"
-  },
-  {
-   "title": "מכה לממשלה: בג\"ץ ביטל מינוי כנרת בראשי, חיים שיין ויפעת בן חי-שגב לרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqY2VKNjBQM0k3Q0lYRWNzV0dPVGJULWVrcXdicXNsTTlvRzRobkhQejZVbW0yN29lRDk1MGhqR0hqZ3U5SWJF?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חרדים10"
-  },
-  {
-   "title": "Israel Left-Wing Leader Golan Pledges to End Wars After October Election",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUTdBS1h4bHdITE45dXJ2U0NzS1BLTk9kSlh4Mk5zaVZrT1pZbGFQa3QtRi01cFdjUzFvSW5qMjNxRU5jRThacUd1VjV4cEFNaVBPU3o3Yjh5RHJuUDF0UUV4QzZ0YlhjN0xLbWZfaGlhUFJyWjlmOWJMMU9jVEFrNmp1NnZjWXpDZzFIRDhneHZKd0FuYVpSc055VkJsdw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Military.com"
   },
   {
    "title": "בג\"ץ ביטל פה אחד את מינוי בן חי-שגב ליו\"ר הרשות השנייה",
@@ -765,88 +593,6 @@
    "publisher": "calcalist.co.il"
   },
   {
-   "title": "בחירות 2026: ברדוגו במקום ה-11 - זו רשימת הליכוד המלאה לכנסת ה-26",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xcVRHR3ZleWtsY0c5QWc1YTNvSF92UVg5VG9ra0dnVE9BVGFBUGFJSmdiVlplNkRiNXFYek9EeVhzNHRXMWItZkN2VDBQekhFN28yVldZNkMyMWZjbFZlS1RUZDR3U3ZsNXMtag?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "Israel’s High Court overturns three appointments over Netanyahu’s breach of conflict-of-interest arrangement",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQajJCdGR6eHlweGVXeDQ0UkVuOWdJbFR4OWxHUzZQbUhkUy1BUFlUWGJiNW9GQVRKZGpKWW0xTW1jSjhZQlU5YmZYOGZtLXhPUmtYdzh0dXM3UE5EamtLanFPWW9DRjJpSjlRQnlaRnlQZ1M4eFVKWG9WN0k3cVR0dW1OU1BlS0tzZVRVQUR1TGx2M2Nyb2ZkX1VpVkR4aTdKNTlPWnBnNFA2b3RfaDN4dGR4RzhpN0ZuV3phamtyLTB0bElLdDNXV05LTXlUa2tTQ1F4TA?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "UA.NEWS"
-  },
-  {
-   "title": "עכשיו זה רשמי: רשימת הליכוד לבחירות לכנסת ה-26",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IVzF3Y0paSzRsVEZTREUtWVpOWWxGenFNeDFiOGhlOWFTR3YyaDhRQ3BSbE9CNEwyaVRETDQzd2lRT3dqN3pPVFdUY2czdDc4a1U5Y0U0OTYzd0ZSNmJmb3pld2Y?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "חדשות היום, 8 בספטמבר",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUVzd1FSc3luSWhJdE5MbnVHZi1FMWR4alZYMTdLdTZCTk1FUF9SWUsycEVNa0c2U3U5aG9DSE5Ic3AxWkdtN3ZWNGdfNE9WeEJrNmFRYTJpMjMzTVM4aDR2MVdOT1pUZ3c4WlFPV3A3NkZWQ1I5QjhGREU1VmJKcU1wSC1oRGhDenA4Uk9fZ3JLQ1JLUVk4eFV1aHdjYmFzcVdrc2trUQ?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "Communications minister slams High Court over Second Authority decision, vows to restrict court after election",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMlBqQnB3ejFHQ2U4dlRIWTBBWGVvS0JFNm5jVTliNnFaZGZySTB2OXF5YUxBdkFkbUJtOGRLaHVSamQwZkZXM1l0N0ozZ1VLOHV2TEhFOFJ1Z3dWWkhseWdzXzlyR0xXZVdIYUF2S0J4c2txeUpJSUcyWVRGMWhvWlNDTXMtR1Z6TUxPbkpVSnJxYzBUZ0hLLXpORDVnODZOTUR1YUNSaDJRN0JKc0xKTlcycUVxTmRNVE1PRE5UTDF4VGZMaWV4UlB2blItTnJyd2x3YjB2aVQwYl92ZXc2dGZWY3VRQnpaWlkw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Times of Israel"
-  },
-  {
-   "title": "בג\"ץ ביטל 3 מינויים למועצת הרשות השנייה עקב ניגוד עניינים",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50OU84S1NNQlFvTE1RMXFSbjJyLXNuZFVJQU1LNHNBRzMyNDBlZ1JYTVQ4MDJXQnE4Z1lOZEJHakt6SGRXajBCV2k2eDBFRGJKeEVpQzVLZ1RyNkRyYkt6RF9n?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "News1 מחלקה ראשונה"
-  },
-  {
-   "title": "בג\"ץ ביטל מינויים פוליטיים בפיקוח על הטלוויזיה",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IMmp0aFRMTmRKUXA3V21PVzhUOFhuZTBoNVBjTTJUTDRObDdrT0dhM1NSM3ZoMkZxTGlyRHVYdjRERm8yRG04RA?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "העין השביעית"
-  },
-  {
-   "title": "מסתמן: זו רשימת הליכוד לכנסת ה-26 אחרי השיריונים",
-   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNT1ktaFlDZjQzSWZLck5SMm1QNndVVWJNUkp0LXhrOEZPQXhCdWV3MElNTjROQmtmV3FqZTFUSE1xVTJjU3c3cjFBMV8wRUMwcGxDdXB1eV9LcnRZUC1iN1hidUlFNHBiTU9kRWZrR1BpOTlOUUcxWGNjcEFnRzBWVlh1b1lvVVhuXzkwZFpNS2RFR3AweDRVblltNTJ2YTk3b2lEeUZjQ25LV2ZGVlg0eG5qa3JqSS1hMTFkWkh1ZEVaVklieXEyRDZWTnpxU3BocWg0cGdOQUI4eWpBSkVFLVVEYzU5NHhKMzJvdjlCM2lDVmo2cWhZTzBtbWhBX3E4bGlXd29HM3lWT0RBNEo3aUpNNDZNVy03WTVaME5IcEE2cEtmVE8tdUtwamhEMUtBTHBkeHR4Zw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
-  },
-  {
    "title": "בכיר ערוץ 14 שראש הממשלה משריין לו מקום ברשימת הליכוד",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001554803",
    "source": "גלובס · נבו טרבלסי",
@@ -867,104 +613,6 @@
     "הרשות השנייה"
    ],
    "pv": true
-  },
-  {
-   "title": "מכה לנתניהו ולקרעי: בג\"ץ ביטל פה אחד את המינויים ברשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94akxlUS1HVDBTR1ItWGo5TzR4YjMwOE05bDA0aDlzcmJidzNZQ0RsNEpUQldtMXJOY0l1bFdoMXNRZ1RYX3FlRUtlMjhkZzZRUmYwdDktdUpCR1JzaWc?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "High Court cancels Second Authority appointments over Netanyahu conflict of interest",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5WHp5MjkwRVhNZWpPel9HSE01Z1dQWGZnS3JfTXBab3dRa3JBMTJGQXdXeVc3d0NDOWd1VHU0N2JBWm55RmJZa2lKbHRaRUNrY19BQnFPajJTa1Ju?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Jerusalem Post"
-  },
-  {
-   "title": "בג\"ץ קיבל את עמדת היועמ\"שית: ביטל את מינוי יו\"ר מועצת הרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LYURja2dLT0E4ZGRWb2dWN1FXc1QzWmY4b1JvaHczd2JFa3U5OWY0MEs4LWZ0SjBuMF9Ua2I3MWlCVHp5dUxmczJIM3RIT3hPbUtaZ0RNUllMdkJyT1RuQnc2QQ?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "בגלל ניגוד עניינים של נתניהו: בג\"ץ ביטל מינויי מקורבים",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uOTE5dXNoTGRNeFE3OVlIYXZVcExseVp2V2pXUUp4eWxFV3p2YkJ3NTBMWWhaaHNadUhhUVNmdGx3dWZhR29pMG83eEhHQTZPYUJCSk9OcW54dw?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "בג\"ץ מבטל את מינוי יפעת בן חי שגב וכנרת בראשי למועצת הרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QZnEzQ1JXRlM1al82dWdRQ1BobWFQdlZtNzVBVzZFV3hWOURSUFRwT2w0WTd4TWxFNFlkc3c4OGRMNkMxeXNTTmhFdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "בחדרי חרדים"
-  },
-  {
-   "title": "בג\"ץ: לבטל את מינויי הממשלה ליו\"ר הרשות השנייה וחברי המועצה",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tUDZXYkpWd202Wno0X0hRTGlfWDNoY2wxUDhURzB6VnM1S1hMU3QtR0pwQlU4NDZfdW9SRVQtaTVLcXFEaTZ6M21nRTc1RUxESmRtaVhET21zbVk?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "בג\"ץ ביטל את מינוי בן-חי שגב, בראשי ושיין למועצת הרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13VzhSek1wenRBVFFkMkU1NEUycGJtWEF2blp6OHdLS3kwNTRhd05vTFRDOTdpRWpPWXZDQUNCVnlIbE43b082SGRDSGtMaEw3YTlXWmdIUENCM1F3T2dsMDBsblU1RW8?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "ביזפורטל"
-  },
-  {
-   "title": "פה אחד: בג\"ץ ביטל את החלטת הממשלה למנות את ד\"ר יפעת בן חי-שגב ליו\"ר הרשות ה",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80ZnlYeEducTJLbEhjVXM1Q2V3Y0puVFRzTnVIWFVOQy13UEw5WWo4aXNoa1FZTnhiMXdjMGlhTGZ1UHlfeU1nUjFiSnZHbDdjUEVRUmRBS0N2Y3NuZkNiaHc0aw?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "i24NEWS"
-  },
-  {
-   "title": "בג\"ץ ביטל את מינויי כנרת בראשי, חיים שיין ויפעת בן חי-שגב לרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tenl6Z0ZoWUQ3TUpvWTNGV045ZHNzdVlmUTlveS0tQXJ1OFh2VHJUNFptZDFxUFgxRmVhNFVoUE5QLW1Jc09Hcw?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ערוץ 7"
   },
   {
    "title": "בג\"ץ ביטל את מינוי יפעת בן חי שגב ליו\"ר הרשות השנייה",
@@ -988,111 +636,6 @@
    ],
    "pv": true,
    "publisher": "היום"
-  },
-  {
-   "title": "פה אחד: בג\"ץ פסל את מינוי יפעת בן חי-שגב ליו\"ר הרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFNGVnTzBYTlN6RmhFbnktNXNHMF9za0lZWHE2cGJfTGRyWjNIb2JlOFlfa3pVLUZlTU5PQjc0R0s5NzJkeGxCVGhySHI2TVNJYkFFZ29YQXhTSHFvdjVKTTJoeUZlT2ZmUTNaNDRSY1pMbHdaZXh1U1Z5SE0?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "רשת 13"
-  },
-  {
-   "title": "בג\"ץ קבע פה אחד: נפסל מינויה של יפעת בן חי-שגב ליו\"ר מועצת הרשות השניה",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02dU45clN1c2VuUl9ycEFUVVlrSGVLU1JZWHB6LVFhNngzYmZ3clU2c3NSOXEtRjNURk13eE5WNU9jUjJtSnI2cUZFTzY2TlU?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "וואלה חדשות"
-  },
-  {
-   "title": "בנוהל: יצחק עמית מבטל עוד החלטת ממשלה",
-   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNeGFRdm5XOGR6YjFoWVg4ak9kbl8xSUp4SjhHa0oxR1hhbVVaYXI2VFRBanJpRldtOGtzUEVWMXBBNlZMY2czclRVQ0E1SXdEckI3OUs2YmhGM0Rrc3cwNjBxMnkxVW5FWkxIUVpNdlhmLVBXZ2VKQnR1U2lfbXJDSHhwdUVCRlROUkl0OFpRR1MtYWpOVzNwektrSTJrS3dPVl9ROENBRGx2Z0xYOWdjdWh2MmdoZWFnS201LXY4T3JuUHZzYl8xLTJONWZUSE85bG8zSndtaFN4bnk4aHNXZUV2aGZyQ3h0YVRDS2ZYRXJvdXRxY3ZZMlg3MDhOTzhOYVFEeTlkUnAwU0xVSV9uR0ZDQ0N3YktUdi1EbTAxMk5FaGdDYkpNN3hZV3JrM0x0SHN3MVFtS0tiV1F1cDhHMjhHOA?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
-  },
-  {
-   "title": "פה אחד: בג\"ץ ביטל את מינויי הממשלה לבכירים ברשות השניה",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11cnl5VDVVMGJxd0lJM21lTjFLemEzUnl6QURwRmNiNVlfWWZMQ240NEFRTlRBVTlXQkFhd1g3TXpYdUM1U3F1OGhnZDRzLUd1UzJvbFNkdFI0aXZ5Q29ycWRZWkw?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "זו החתמה חריגה של מכבי תל אביב. מעולם לא נחת בישראל שחקן בפרופיל כזה",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUNqNDdhczItWGFQX3hwbkRJeFBBQjlUQjlLVmhQZ241R2ZYdzA2WDlGN2JEa0RSc1l0VUxiRlczclFXOGlHRmJZMXItZGQxWHJyUUhxbWk4V1R4Q3RpVnhXbjRmS2NxYk9qaDVQMG5nRnZ1NThISmhiNzJlX0NhNzdrM2JHN2ZRTVJfQndEcUxvX04tYUo5eWtxdHZVcVNJSEhFQThyX1pZOHJwNUtPdzJ1TUExN3F6ekpaOHBYRQ?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "אורי מקלב נפרד מהכנסת: \"השליחות לא כבדה עליי\"",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tVklKVmd3anlGdTBWdGc0a0RvVE9TUlBGMWNzeEJCTU42YmZRQnVJTms3V1Bja3VmajBRNkZiWDktQ3lLOFg2dmJldl8zTVlwTkRsa0V3VjRmRWFzZ18tSHNB?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "News1 מחלקה ראשונה"
-  },
-  {
-   "title": "\"שתי דקות",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tVVNjUVpVb3kwODJISTJXX2dqaHlBV2NRelFOemVGaV9Na2VIRmNCaTFGWlRpSE5LY3pFQjgyb0tuNzNmZzZjMy1LUGg4YWhzZ2cxRWh0STk2SHZHbkJtUGtmQVpGbFp60gFwQVVfeXFMTXFoOVMwZjM0V3FrMUw3bzQxa0NQZ0hKWGMySWphX0J4ZWdfeTNxa2dZT2VHdzdaMlhVdXVLOFgwVm5KYUtWemFmckl3MmJqbWxZZTRZUGtPekZqcW4zNmluWmNPdF94SGhDdWIzOVBLdg?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "אדוה לוטן: למה נסגרה תחנת הרדיו ערוץ 7?",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MOVg2NjlKWlpqYlM1QUhJc09penpqS2lnTTgyWkZKMlloLUJhQXRaZE1hS2Job2dXOG9OU1pmWFRFd2Rf?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "הפועל ת\"א נענשה באיסור על מכירת כרטיסים למשחק חוץ באירופה בגלל אבוקות",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlNIVTRfdXdWRDdNaFdpWW9xcjdVMlh2U21VYmFLd2RhWVpPeUxhSGpueml0bjRSOGRZQVZ5aDRlcWxPVlJKY2VaekNaY1VLallwMHdjLWlpMU1WSGF2MFdUTkJZc011MGl1SzZRQV9GaEN6RkRvZEhMSWdidHZQZV9EbUVZeXVQdUxIZzBjZHloMk9rRThNbTRabUE5TEJaUEdvVlRqSQ?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "ערוץ 14 השיג \"תיעוד בלעדי\"; חדשות 12 לא נותרו אדישים",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0V0pIVzNVcUFCbGFNclFvV0lxODZKRnJIdjNxYmQxQ1J3ekR0MThuOURxWFAwR3B4TGhFWFF1SGtjN3FQRjg2VXZZbTVxOFVKWHlpZFl3R2NOWFZvZS10ag?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-08",
-   "keywords": [
-    "חדשות 12",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "מעריב"
   },
   {
    "title": "חדשות 12 משנה כיוון: זה המהלך החדש שיעלה למסך",
@@ -3162,18 +2705,6 @@
     "שלמה קרעי"
    ],
    "pv": true
-  },
-  {
-   "title": "רה\"מ נתניהו הורה לזיני לחקור את ערוץ 12",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sSEN4VWVkSm5Ua3k4MkxVSVp0T1NOdjk4TWdrN3Z0XzhBNFREeFFndXMyM1BoSmV5NGgxbGZXVDUtTkJGZmdxVmU5Y2NQamQ3VEljY2JrYkxkd0J5WkhRMWJqS3FQd2dITVc0Y3dyVjRzcTgtRDZZVm5XNDdidw?oc=5",
-   "source": "n12 / מאקו · חדשות 12",
-   "type": "site",
-   "date": "2026-07-11",
-   "keywords": [
-    "ערוץ 12"
-   ],
-   "pv": true,
-   "publisher": "mako.co.il"
   }
  ]
 }
