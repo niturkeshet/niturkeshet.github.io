@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T23:15+00:00",
+ "updated": "2026-09-10T23:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ice · תקשורת",
@@ -501,6 +501,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "ההימור של צוקרברג: מטא חושפת ה-AI שיעשה את כל העבודה בשבילכם",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JeEdXbnNQaTBLUjBNcUdfQTEwRlhQR3FWRTROMVdudzVBaVRCUXBsLWFTWXZweWE0WURISFBjSjV0TlNtVkd3SlNnd2lETExVZHN1d0hrTGVYN2lobEkyazBwX1BPcm9jZ1ZCVG9R0gF2QVVfeXFMT2RzQ3piWDJHMUhsRkVQM3BzVkE0Njk2czNTUjNWWU5KMktER19OZjJpNTdTVmtVZzQyNUNuQmNtTzNESVM3U0tFY2hnTzNzY3dQREdxOE1idGwzc3hSdG51cWl0VVpwdERnQy1BdUJ4MnRxeUpxUQ?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-09-09",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "אחרי שעזבה את חדשות 12: רינה מצליח שופכת אור על היחסים עם עמית סגל",
