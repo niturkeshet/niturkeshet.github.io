@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T14:30+00:00",
+ "updated": "2026-09-10T14:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "\"החלטתי להגשים את החלום שלי\": דנית הביאה את האומנות שלה ליריד \"הלב עם המילואימניקים\" של חדשות 12",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DVEd5UjNTRmczYXJ2ZDlFZVVIaVE0aWU4Z2NneUlub1JaZnptcTZGdFc1UF9IdTktSHA5SnV5c0NYMkpocUhHZmZhRjY1VkotOFkxejEyWjRocW1VT0xNMEIyR0xLTmxZZ1Jsa3BzSVlUUWdxeTFxSW9MaWM?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-09-10",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
   {
    "title": "\"להוריד אותו עכשיו\": הוויכוח הסוער בליכוד על עופר וינטר",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HQjFSYlRObzRFN0JZNGNKVVUtYjZvd0w1SWhkRG92TFRXSC1rZmJ3R1FSRHlCTEM3dFZHM09OZVJxeDZhT241dTN3bVBidw?oc=5",
