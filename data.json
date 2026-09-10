@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T19:45+00:00",
+ "updated": "2026-09-10T20:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Israel Moves to Shut Down Local Al Jazeera Over Terror Ties - Channel 14 | C14",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5qTEJLRGVzVHI3Z3M3TXlZUmhNVGs5VTRER3hvZjNFaXJUNVNyQVBFTWpvQmtZR19la21R?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "t.co"
+  },
   {
    "title": "אדוה לוטן: למה נסגרה תחנת הרדיו ערוץ 7?",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MOVg2NjlKWlpqYlM1QUhJc09penpqS2lnTTgyWkZKMlloLUJhQXRaZE1hS2Job2dXOG9OU1pmWFRFd2Rf?oc=5",
