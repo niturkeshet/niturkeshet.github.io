@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T16:30+00:00",
+ "updated": "2026-09-10T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "הנציב קבע: עמית ושופטי העליון פגעו בזכות הטיעון של השר קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxTDk3MzNiejhoU3BYbWptWHh2R1pNWDdmSDhyYUJOb2d4RndKT3hGeFRrTU1UXzJ1bDAtcnl6OE1aTnJyRnhfTzM3UQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
+  {
+   "title": "\"זה פר אקסלנס ראיוס שפגע ברפי דהן\"",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02LUYzcW1xS1p3UklINXdzcnZuMDVqMU9aY2RVN0YwbFBsVzdDVXMzNzlUZ1NhUWxuUlByakd2NTl0VGpUTlZWQTlzckJwdjlhMlZTVFM4RWJLX3F1cE93YTg5cGs0NXVzM2hrM0hHeFROcENWajNzb20tM3VOWW8?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103fm.maariv.co.il"
+  },
   {
    "title": "הנציב בביקורת חריפה: השופט עמית פגע בזכויות של השר קרעי",
    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBBLThuY3hGOE5RcU1CTkRuWWRDQnJvSWhtTk9kNVFEWHVCUURVNTFsbUg2U2RfYUduYk9XeUYyM2VRVGM?oc=5",
