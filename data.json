@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T20:15+00:00",
+ "updated": "2026-09-10T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "כך עיקם נתניהו את החוק, השוק והרגולציה והפך את ערוץ 14 לאחד מגופי התקשורת המשפיעים בארץ",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90ZWxaLWczS0tDOG1mRkxSYlRkUFhoZFBSUWJXVUVBTFFubC1wOWRlRWtya2JKQzdvb0poOC14LU45SEdxZXlXZw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [
+    "רגולציה",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "Israel Moves to Shut Down Local Al Jazeera Over Terror Ties",
    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5qTEJLRGVzVHI3Z3M3TXlZUmhNVGs5VTRER3hvZjNFaXJUNVNyQVBFTWpvQmtZR19la21R?oc=5",
@@ -478,6 +491,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "אחרי שעזבה את חדשות 12: רינה מצליח שופכת אור על היחסים עם עמית סגל",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RdktqaXV2U2YxVkF1RGdqa1Y1QXNkYkVha3lLTXJROTZGOW13bEZDdGYzcl9BS1N2SVRpSldQQWw3ZlZKNVlnaktXYWVubDdXQmhuTTRPaENPYm1vR1JWUUhlb1ZQRW5C?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-09-09",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "מסתמן: זו רשימת הליכוד לכנסת ה-26 אחרי השיריונים",
