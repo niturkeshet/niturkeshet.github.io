@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T00:15+00:00",
+ "updated": "2026-09-11T00:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ice · תקשורת",
@@ -511,6 +511,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "ערוץ 14 במתקפה נגד יעקב בוזגלו: \"לא מצא את עצמו\"",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTQWxhUlJMOFBYYTZNR3VCY3RReUNmTGtYdE1NUGw1N2JQNEItQWZJTThBY01hWHpFU29YOG92WE9kNkhITnB1cVdyQ242b0ZPWEJDYnRFbzlkV2ZzQTZ4VENLanRLREE5VW5xOdIBdEFVX3lxTFAyR2VtdW55SjBvOXF2TjhVeU42UmRoeGY5b3gtSWE3Y2dHcS16QWdpUExMR3U1RWJDZjNhVVRCZVlJV0R3TXJzd3lULW1fb3FCa1BvSl9kb3M4STZQVU1DeUhrNnZ6dWxybnBjeDVTSVBsQzJu?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-09-09",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "ההימור של צוקרברג: מטא חושפת ה-AI שיעשה את כל העבודה בשבילכם",
