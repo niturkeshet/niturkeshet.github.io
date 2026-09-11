@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T03:00+00:00",
+ "updated": "2026-09-11T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השר בן גביר הגיע למירון ודרש: \"אל תגיעו לפה - זה ממש פיקוח נפש\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWF82ZkgzMTU0ZG1zZm5KT2h0STItb05nLWVEZklVNnVSVnQ0SUZiamhCeW5tcHlKQlFqaU9tSzY3TEt0MDNxT1ZGTFhKT2Y1TXJBUVZnSy1IZTJDWTZId3JyRGgyeTkzcFpBdzU3ODBoSVAxZUdNbXYzMDlPRWVheEFhYWc0LUduR0E?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "הקרב בליכוד על וינטר: \"אם מחליטים להוריד אותו אז עכשיו\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uMG82UHkzVi1Wa1l0ZW1jVWYzMHU2Ymc0ajViaXA0TzFxWDlXSy1ZRm1fcWRVc2l1OVJINzNBR2N1VWJBRlRsSVhoS0RrZw?oc=5",
