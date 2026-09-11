@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T07:01+00:00",
+ "updated": "2026-09-11T07:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,7 +170,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -258,6 +258,17 @@
   }
  ],
  "items": [
+  {
+   "title": "שריוּן יעקב ברדוגו בליכוד הוא חדשות מעולות",
+   "url": "https://www.haaretz.co.il/opinions/2026-09-10/ty-article-opinion/.premium/000001a0-861b-d532-a9ba-861fc1ad0000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-09-10",
+   "keywords": [
+    "יעקב ברדוגו"
+   ],
+   "pv": true
+  },
   {
    "title": "השר בן גביר הגיע למירון ודרש: \"אל תגיעו לפה",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWF82ZkgzMTU0ZG1zZm5KT2h0STItb05nLWVEZklVNnVSVnQ0SUZiamhCeW5tcHlKQlFqaU9tSzY3TEt0MDNxT1ZGTFhKT2Y1TXJBUVZnSy1IZTJDWTZId3JyRGgyeTkzcFpBdzU3ODBoSVAxZUdNbXYzMDlPRWVheEFhYWc0LUduR0E?oc=5",
