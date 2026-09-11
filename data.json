@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T07:31+00:00",
+ "updated": "2026-09-11T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ד\"ר יפעת בן חי שגב: \"השופטים שיושבים בדין פועלים תחת מוראה של התקשורת\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85cnJKZ0RKdlYwdE9IRzhmOFpsZVg4NE9zV2x5S0V3RWQxbWRrU3dwWENvSlI4Nk4tT2lEUmRXZjR2SENKcEwtWDVraw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רדיו גלי ישראל"
+  },
   {
    "title": "שריוּן יעקב ברדוגו בליכוד הוא חדשות מעולות",
    "url": "https://www.haaretz.co.il/opinions/2026-09-10/ty-article-opinion/.premium/000001a0-861b-d532-a9ba-861fc1ad0000",
