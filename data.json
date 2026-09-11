@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T23:45+00:00",
+ "updated": "2026-09-11T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ice · תקשורת",
@@ -527,46 +527,6 @@
    "publisher": "היום"
   },
   {
-   "title": "מסתמן: זו רשימת הליכוד לכנסת ה-26 אחרי השיריונים",
-   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNT1ktaFlDZjQzSWZLck5SMm1QNndVVWJNUkp0LXhrOEZPQXhCdWV3MElNTjROQmtmV3FqZTFUSE1xVTJjU3c3cjFBMV8wRUMwcGxDdXB1eV9LcnRZUC1iN1hidUlFNHBiTU9kRWZrR1BpOTlOUUcxWGNjcEFnRzBWVlh1b1lvVVhuXzkwZFpNS2RFR3AweDRVblltNTJ2YTk3b2lEeUZjQ25LV2ZGVlg0eG5qa3JqSS1hMTFkWkh1ZEVaVklieXEyRDZWTnpxU3BocWg0cGdOQUI4eWpBSkVFLVVEYzU5NHhKMzJvdjlCM2lDVmo2cWhZTzBtbWhBX3E4bGlXd29HM3lWT0RBNEo3aUpNNDZNVy03WTVaME5IcEE2cEtmVE8tdUtwamhEMUtBTHBkeHR4Zw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
-  },
-  {
-   "title": "שעות יגידו: האם הכוכב העולם בימין יקבל שיריון במפלגת הליכוד?",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LNjBEWkw4TTJNOEJtN3AteFpJX1pwOGdSUUd3WE5YdWRyblk2aTJqOUhySVZQdW5oTVFZZWhHd2h2RU56RlYxNGJ3RFZKTVp2VUhZd293bDY?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "kikar.co.il"
-  },
-  {
-   "title": "נתניהו הטיח בחיים כץ: 'מה אתה עושה לי?' • יהודה אליהו לכץ: זו הסיבה שאתה רוצה לפטר אותי",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LR0R4R1ZsVWxBajRfMkthU0puMmttMzg1eFJoUmhFZFFBMmJ6RkpkUWhsOTZPMnNydUpEak9sY1FLVmZObmRR?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חרדים10"
-  },
-  {
-   "title": "News from Israel and the Jewish world in Spanish",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGpPbmJkSV91WWxPeUQxazctOWwyN1dkR3dLNWthUWJISE0wWVp3QnlkYUtvZkg1T3hIUFI4d0RhNWxUWWEwWmN5RWFKZTI0aFMxNks3cFp1WHNBZG5ITGpRWHN3MUo0QzkwWkJhaUFRNVZfNWF4VzBIV2lvVW4zRWtza0hieVU?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Aurora Israel"
-  },
-  {
    "title": "סקר המנדטים הראשון של חדשות 12 אחרי סגירת הרשימות: וינטר וליברמן מתחזקים, הדמוקרטים נחלשים",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXRYSi1ESXlpYkQxTXk1RURremFaWVNkdWF6WHdFS0tySFJtZHN1Q1BlWWxfNERQRmlnZ1p6RDdlMFZsejh6eHczZXV3SzlvWGVrcXI5Rm5EQnFMT1Nwdl9xT09hY2RFMU5rYnlJN2lFaUZlUzYtNUt5LWpFeVFKR1VzcDJwRmc?oc=5",
    "source": "n12 / מאקו · חדשות 12",
@@ -577,248 +537,6 @@
    ],
    "pv": true,
    "publisher": "Mako"
-  },
-  {
-   "title": "Likud Internal Dispute: Minister Accuses Colleague of Aligning with Legal E",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zaXEzQjVHb3BfZzBTOE1BV0ZaZ3dzYWIxaDg4N0xUcWlET3k3cU9NQnR1aXlieFJIeTNObC1pdGUyZ294Y2Y2Y2o1M3g4RHFXSzFxUVlWSkJvcHdoTlhQbzRQVWdmOHdYOUVnR05oSFJySXB2b1hhbXh2UTVXUQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "JFeed"
-  },
-  {
-   "title": "שטילמן: משפחת רקנאטי עבדה במשך חצי שנה כדי להוציא את פדרמן ממכבי ת\"א",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3Rfb2JDT3Q3Tm83NjhyR0pObi13TWNfOVdId3oxQ2tXMkNQckxSaHZ3c3FRLU1EbDZ6TFlZbUdwbGRVS2drS3lOUGdvLTM3eDRPdExtLTByQWpOUENlQklUM1N5MTBiU0ExTXEwSU12QlktVTIwRThMeUg3UlY2eDlBZTRrYXZXVEFZclJaYWZkUlY5SW5xODYtMFdqNHpjOFA4?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "haaretz.co.il"
-  },
-  {
-   "title": "האנשים שמבינים טוב מכולם מזהים שלנתניהו יש בעיה. זה סימן חשוב ואופטימי",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVdscFY4YXZDaUp4NHhJTWF2a2RqTVFocjc3dGdvMUZjWUFKblczZ2JXR1dZMGhGSVhzOU9mUVBCSXhyRFROTmhPQm9NWEh3Y202cjRQUk1lR3lxenJGeUVsLVNKTlF4aUo0dk15X3lMYmJudGdwb2RVa2JCQjJOMEwyU2toelh2ZXpGR184b0pXcFAwNFp0R1B2WFJRb3VITnRobmM3VWtKWDJH?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "הסירו את ידיכם מתאגיד השידור הציבורי",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWllYRVlNU2NnMU4wQkp1Z2YyMzNTT0xrMThEbHlZUWlLSUhkTFJUZ29Ob1R6MGtqcFBCMHpPbkhNOF9EUlNCbkpWZ0VRS3JQSzZGZ1QxTW9qU0ZVeU1GTjhEODBaQ2JmV1ZEYTFPWGdLVVVqZjlhTWo2QVZIYU42OS1ENkItaW54WWdXV0VrZ0p1UFZ3WWpmTmwtZWFFR29lVk5wSjVuUlBzZzR6aHQ0?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "זעם בליכוד על חיים כץ בשל ההזמנה לשימוע של יהודה אליהו",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41S1dBNk1Cb2RBMFFUWTUwQ3dYX2ctZU1ZWHVqUXFpc1lKY0pfcDJ5Z1V0ODA4WWtxcGloRUdWckVYM3JoeXVENlJCRU1zVDhBTVAzUlBTcG9KUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "הקרב על רמ\"י מחריף: סמוטריץ' תוקף את כץ, קרעי קורא לפטרו",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTYjF5MFJNalc0bWJWMnNvTHdZV0U2b3FQUWJfZGhKemNCdmwtLVdwTzVIbE1xNHZibWwxYTZXM0UwbjMyUF9MTg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "inn.co.il"
-  },
-  {
-   "title": "כץ זימן את מ\"מ מנהל רמ\"י לשימוע",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85TmExdm9iNVR3SFBtWndoX1J1TUF5Y2VlMmhrNE1vNEM4TVVZbGFtQktHZmpzRWpsX3Z0U1R1ZENrRkNDakVKeG9sRTJ5YTJIU2p2Z0hFYzNzQQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "סערה בליכוד: חיים כץ זימן לשימוע את האיש שמינה נתניהו",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QY0VESHFXMWtLMUNMc2pnWHc0cmE0YnhtXzE5TG1haURQYVVSR0lmYkdEblpkZTh0bS1mMENmLS1RZzFxZVhxZGxWUl9uOVBwREo5cXd4T3BVV2wwVUtnQ2w0WGt4NXd1OXBuQ9IBdEFVX3lxTE9iQ21sSzdJY1oyWFRxNEhCcjlYMGQ5alhxUzVNa2V0ZHZIR1R0RGx2N3VzdFJ5T1NRWHJpaGt1Yi1DXzFJSVRsS0tMVm11Zy05eUozS0tGTW9iMXpYdVR2SGkxWXBxUTBBRUozNjNVSkVtNTBa?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "השר מהליכוד נגד חיים כץ: \"משלב ידיים עם גיל לימון והדיפ-סטייט\"",
-   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOMUxGYkZGTDY0N0xtQTBNSS1fMEVBOHZQQ1U3dEZReVE1TFJGbFNLY3FzXzlTNEVrZktzazA5T2lfQVJaTlVlRzEzZEpxY1A3Tzh6S0FFclVWUVBkaWlJQWhVSGI1TFhoU29lQXg0bk1RWjd6ekV0Zmp3VUZhaVE5T1FwS1g1LUlYc0I3V0Q3bDJieHRWenZ3dnB2cEU3cTZzbnlJYnk1MDFxdjZGazhodkloN29tSjRFbWZFaGY5NDNmRmpXSmdZREdVejlhZlZ5TmlzNkhkNklXeWdoRHJyWm9zNEZTeTE2YlRCY3BMRVI1QWo4NllpcEpiQXhiYXJrR3hRazFZMnBtdldKUkt5cl9tMG9DNVVMbXFpOWJxVW9nb2VGNkpfWWJETlU5eGVhRDM4UWgwUHJ3a011ZmRVUUUxOA?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "srugim.co.il"
-  },
-  {
-   "title": "נתניהו נגד חיים כץ: יהודה אליהו לא יפוטר מרמ\"י",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFltZC11djhmTllpOHdNN1NySDB4cjFWc1FGWUtLLW1tTEVFU2pPWGpLdW03VDVvTUN0c2RLdExTV1VJZDdLbG05bm1mRWotUW5DQzlkZlQ5TjFFbl9SY2Jva3kzOFhSemhJTEt4UUk3czllbjVuTDJ4bTZxR2FRZQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "mako"
-  },
-  {
-   "title": "נתניהו בולם את חיים כץ: יהודה אליהו לא יפוטר מרמ\"י",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1abXRSMFo5OGhveHBReUlMZFpuenRsT1lIZzhyZjRBc1B0bWhFd0l5YktiSnFzbkhnWXVwdmhSUmFfdHR5Q3ptZGJyWEFFMXdxQjhGeGkxaVBWZ1dFamRpWXVn?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "news1.co.il"
-  },
-  {
-   "title": "הליכוד: יהודה אליהו לא יפוטר • כץ הגיב: 'השימוע יתקיים' • מגל איים: לא אצביע ליכוד'",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pazJ0d1RkZHRIYXY0bzhOaDNWQlRQTEF6by1JclYzdmNGbmNjTDRHQzhnYXVoOFVUNmZlRC16ZVF4dndjS2Vr?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חרדים10"
-  },
-  {
-   "title": "בג\"ץ פסק בהרכב מורחב: נציב שירות המדינה אינו מוסמך לבלום לבדו בקשות שרים לפיטורי בכירים",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91Z3JJMGQtcUV4MWFSYzVyNFR5ZFlvWllhV1c1Q2JDOU96SHZiODF6dTVfS3BZRGt6dTFNVkhRWURuVzMzU0FkdmRyaG5WZTMyalJMRV92ZmpURWxtVldBeVdR?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "news1.co.il"
-  },
-  {
-   "title": "קרעי ומגל יצאו למתקפה; הליכוד הודיע: \"אליהו לא יפוטר\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12VVV4LUFCRE9NeUZpUnp3c0M0ZUx4VUlZZGxZUFZ5cVo5V3M1N0JOdkpRVmxHME5RNXhoZzJMdWJvbERkRU1VSDY3YVlZdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "אמס"
-  },
-  {
-   "title": "הסערה בימין הכניעה את נתניהו, שהתחייב: יהודה אליהו יישאר מ\"מ מנכ\"ל רמ\"י",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yaWhVNDVMVU8tNi00LURMWWc1ODBZUDRQZm9zallCZlFLb1RtXzhmX1dQNzJLZWV4Mm9XMU11R0hVVjJfVlhMem9yYkF0b0RfTjluNFhQNVFRM0xlUkZCNmtnWVVORkxVWkE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "בג\"ץ: הדחת הממונה על התחרות מיכל כהן תיבחן ע\"י ועדת המינויים",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zRDVXUG5IVmpBd0FXUGw1NXFEd3phMmhXRENvejEwaDFic1hIa0VMeE5UU3lpY1ViN084OG85X0tVbmZXR0JHX2pTVWRDb2JDLUVrc3V0VTU3dDBzT0tmcVFoVzR6ckxF?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "גלובס"
-  },
-  {
-   "title": "רשימת הליכוד לכנסת ה־26 | בחירות 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSi1UQ1ZBUHFOUzIzNmRQb2pWRHVQbDliNng2M29LX2FSektEWTZyRGhnaU5ydS1TUkoxVHZqNng5bWlDdFRzSmxBbG94LVNNM1A3M2U2Wm5oMnNqUTFzYUdGWS1IczAta2c?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "השרה לשעבר לימור לבנת חויבה לפצות את השר דוד אמסלם ב-98,500 שקלים",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qUnZYV1VlUXVJTDU1dHZROVA4dzZPb3BCSUJjczFGZ0FjdUlDNTNHbGFDS2hBVUFScmhYTmZvY21ubjRrOGlFVEd0eV9rV3U5aURhbVVGd0pNWDNpazdfai1R?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "News1 מחלקה ראשונה"
-  },
-  {
-   "title": "יופי בג'אגר: כנראה שזה ההמבורגר הטוב בישראל",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBadTNRWU9HTkFyRndXQkFEcjdRVnpVemlqRk1yM2x2eUxNV3dQdThjNlNFem4yN2ZYaV9waEZwMXJTS2M4bXpESFFTc0NVZk9mMjJETDFlaGpRTm85dFN5WWNwMHQ?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "בג\"ץ ביטל את מינוי מועצת הרשות השנייה: נתניהו הפר את הסדר ניגוד העניינים",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rYXd0NDJZZkFUd2RzaldaY0UwUlA4ZWVlXzFxTUlzZnFlZ1NVaEI0OXFBekc5cDFlLVV5RHhDZUZNdHVJWk1MUzNZbm1GQmhuMEtzMGpXY3AzOTR0ckcweTV2R0Q1dw?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "ynet.co.il"
-  },
-  {
-   "title": "הקרב האמיתי מתחיל: אלו הרשימות שיתמודדו לכנסת",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPU3hGTjBIbk5jVDhTLXNJZWNwY3FtX1NIWGU3bkdiUEt3RU11V0J4ZGU2VlZ1dzdwdWFfYU9QSnNCcGo2ZFBNYW9uQ3docWlsYkFJYk1aQUp3OWFjNVByTlRhNk8yMG05ZTBDbmRadktvd9IBekFVX3lxTE0xbUl3Zk5LM3RoXzRDSEc5cEYzaERxWmRMNmNlaHUxRVEwbG1rTkVtQzl5UHhGbE9IRkNxZV9pdTNvVTUzYTFyR3dnb2ctMkFBbHFhckFRYVgzOGpvU3pGdXlaT05TNk9GX2dfaGhWc0FFc1ZJZUJJaGtR?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "kipa.co.il"
-  },
-  {
-   "title": "תהום מפרידה בין השאיפות לביצוע",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVUhhbG1zNHRLMFNtUW44T25mdFlFcW9DMW9YSE9nbWh1STdsdVVBb3paSFM3aF9vRGpDUmw2OEJWRlgwTXZ3dnVlbjBVSUZ6cU1lQ2ZmZXB1R1Yyd3BZMWRJOG9JaUk?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Calcalist"
-  },
-  {
-   "title": "\"כשאינטרסים שלו נפגעים, הוא תוקף\": למה ברדוגו רוצה להיות שר משפטים?",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTNXLXpXa0wyQ1ZYYUhxTmROM0JNcTNTS1lUTi1mQk1JS3BVc2ZmZVhFeWV1OFAydG56YTB1a2xTd2pKWFpiZFcySUNMRl9vUF92YW9nS0M0enp2cnNOM2dNNmNHY3VvWU1hTnhOSXgtV01rcVRidnlLWmxrNHBHR0phME96VWZNdU94YnFIbHMxMTlFQVRMeFhwUGxmWHh0TEZGM0lQb2ZFS1hPRVE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "קרב בלימה בכנסת",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Y2NsWThwZmdoZnJEUmdNS3RfR2FCZkY4NDN1NlUzSThENzZkOTRHZXlOVnB2YURuQWJCZ3FmVzRaTWRQSm1jbEZhOVBOTEQtcnZtM1p1UGxkRXBwdHM2MGVwUGt2bVJp?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-09",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Calcalist"
   },
   {
    "title": "בג\"ץ ביטל את מינוי בן-חי שגב, בראשי ושיין למועצת הרשות השנייה",
@@ -2944,41 +2662,6 @@
    "date": "2026-07-13",
    "keywords": [
     "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ליקויים בחקיקה ופגיעה בתקשורת: בג\"ץ ידון מחר בעתירות נגד חוק השידורים של קרעי",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5QmYtMUswbHVORTNjVnExaU1XT0I5Rk9EbHU2SE1CUjdEdFE5ck0xM0ZwUndOUUdMdEgyQ3poSHVGM1RMMU4tZDVuUjBCT1ltSEhLbkFVYkhBOVBCb2xHYUtBTkpMVzBy?oc=5",
-   "source": "כלכליסט · עומר כביר",
-   "type": "site",
-   "date": "2026-07-12",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "Calcalist"
-  },
-  {
-   "title": "\"לפי החלטת הממשלה אין מנכ\"ל לרשות השנייה\": אושרה רפורמת ענק ברדיו",
-   "url": "https://www.themarker.com/news/themedia/2026-07-12/ty-article/0000019f-5570-d9b4-abdf-dd79e3540000",
-   "source": "דה-מרקר · יסמין גואטה",
-   "type": "site",
-   "date": "2026-07-12",
-   "keywords": [
-    "הרשות השנייה",
-    "שלמה קרעי"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ביטן וקרעי מתאחדים ודוהרים להשתלטות על הרדיו, חרף אזהרות גורמי המקצוע",
-   "url": "https://www.themarker.com/news/themedia/2026-07-12/ty-article/.premium/0000019f-502c-dc56-adff-7c6ef9800000",
-   "source": "דה-מרקר · יסמין גואטה",
-   "type": "site",
-   "date": "2026-07-12",
-   "keywords": [
-    "שלמה קרעי"
    ],
    "pv": true
   }
