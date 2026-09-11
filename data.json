@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T14:46+00:00",
+ "updated": "2026-09-11T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "צוקרברג הציע לו עד 1.5 מיליארד דולר. פחות משנה אחרי שחזר למטא, הוא עוזב לאנת'רופיק",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZdC1NZVh5RUgyTXNqY19RS0tibGZkWTZaZmxQTE9mQWpNX29lTzVLVXRKWW9yUFU3dmo4UWRQMlM0SW5oWGdXNHhtdFV3V3k1bndwQXlSXzlnTEFmUHpBdHBaVzkybUR3YjRtYlUxbXJaOTJ4TVBIRjA4bGY?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-09-11",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
   {
    "title": "יעקב ברדוגו נפרד מערוץ 14: \"קיבלתי החלטות\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uTkx2NU1SWGgxZ3BFb1pkaXZCbGdJdXNtLXJpSFFOVjcxd1pwWUctWXQwSGNzSFFtcTMtSnZSbm9SZFZvQzJFTVJ2eURaMVJvRWZLX3hFQVBMbml6?oc=5",
