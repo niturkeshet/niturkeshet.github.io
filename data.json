@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T08:45+00:00",
+ "updated": "2026-09-12T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
@@ -314,6 +314,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "רדיו גלי ישראל"
+  },
+  {
+   "title": "סקר חדשות 12: 16% ממצביעי איזנקוט הצביעו לליכוד ב-2022",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlY4dnZXVUNRMmNFYzN3S2ktWl9nakx3OXB6dFEydWxqTldEMXJwbFBkeTlHRlAybXhDdDF3dDlxbkJJSHJTTWZOWEdQZ0dtYUU1WXhyZEJBOWlZVTBXUFlJeS1PMi1mSTQ3YVROUDdjYVFDVTRtbHZ0UmNyaXB2TWFPRWlJZms?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-09-10",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "mako"
   },
   {
    "title": "שריוּן יעקב ברדוגו בליכוד הוא חדשות מעולות",
