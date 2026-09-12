@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T00:15+00:00",
+ "updated": "2026-09-12T00:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נציב תלונות השופטים בביקורת חריפה על הנשיא עמית",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOc2JJczdJXzN3UWgtcDNFUkV6LVpqZXcwbGQ3UHQ2b09KajJNODZ2WXJwQUE5YzZEOHlQdWxLX3ZidXlTVzJXRGlMVWNtdkZjVDJ5LXBvRTlKVmU1a0FTQlpwQkdGQ3N6cDluNGJuLXY2cU0tNUR1TlFMR29FSFNKR1JIMEdybHJUVVZ3MEV6OVN1dW9XYUxYTFZQTU1xd1VZX2VQdWoyWlA5VmZlV01vaWRGc3FBUWZsemJybEdESVk2X24zcTlWel9zZEg4VzR4Szc4WGJoYnpLUERqNDNzYW9CV2l4YzVKclBOZE5QdEV3SzVyWlo1alI3aUltblZ2Q25DNGRDUnh5SEsxZXJrOTJyczVwU2dVY2VZMVJza3dUbURlb192YkV6SkdPLWhhcHE4STl1bDFrQTVNVy1NekRCR0hYeW1Sc1E?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "צוקרברג הציע לו עד 1.5 מיליארד דולר. פחות משנה אחרי שחזר למטא, הוא עוזב לאנת'רופיק",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZdC1NZVh5RUgyTXNqY19RS0tibGZkWTZaZmxQTE9mQWpNX29lTzVLVXRKWW9yUFU3dmo4UWRQMlM0SW5oWGdXNHhtdFV3V3k1bndwQXlSXzlnTEFmUHpBdHBaVzkybUR3YjRtYlUxbXJaOTJ4TVBIRjA4bGY?oc=5",
