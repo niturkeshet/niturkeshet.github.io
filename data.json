@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T08:00+00:00",
+ "updated": "2026-09-14T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נציב התלונות על שופטים הפך את עצמו לערכאת ערעור על בג\"ץ",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45bmhCSUZuWnY3VmIxamx5eVhDYjRxaEJjME5Sdjc3QVhCSVlpdFR1aXNOeFh0NkpRa2pxbUljNlUzZERG?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "נתניהו זימן את לפיד לתדריך ביטחוני בניסיון להשיג תמיכה בתקציב הביטחון",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aazF3bjFpVXJqYl8zZ1ZCVXhoeVVaeVktWFBMbEpQM2tLY0ZEYS1vd3loekhSMFZUQy1JdUxxYmNzRlRSS0NFMUs1WnBQS2o0WmpoeVI1MllocWtnUmg4WmFR?oc=5",
