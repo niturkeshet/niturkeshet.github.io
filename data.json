@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T17:00+00:00",
+ "updated": "2026-09-14T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,19 +194,19 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו הורה לתקוף את וינטר: \"לא בטוח שהוא יקים איתנו ממשלה\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBldWt3eGRYTHlZTlZsaHRVZzUwM3Q2a3V0QmdfcnBaZlFIRDk4cWJBMGFzd011aWQyZ2xLOVh5ZlRyZEhad2NPWnFYeVNHTjQ2Zkh5R21mbm1tRHpBSjJ4b1p1Y0tTcHJEcWhNVUlUbm4?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רשת 13"
+  },
   {
    "title": "כשהכנסת מתגייסת לממשלה: נתניהו נכשל במדד הפרדת הרשויות",
    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE94U2pKbUotM2Z2OElTTU1XbGdYUGdKdVU4bU1xMUdSbUFxQkdmd1oyMU5lZ3FrWllDemtkSm02aw?oc=5",
