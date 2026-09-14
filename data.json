@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T11:30+00:00",
+ "updated": "2026-09-14T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -317,6 +317,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "גלובס"
+  },
+  {
+   "title": "תמונות השבוע של צלמי \"הארץ\"",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2lBd2Nnb25GNkVnVG1FZnVyRnM5ejYzV0VKdmNDbE5hUlNaSUJrZC15VHczRkFJaHlHbkQzMktQc1d2Q2twdDhjZUJnMlBWZ3hjR1ZaOW9WSmhzQ0lTTmg3ZlVlemJvbEY1cmhHOVI3VU5MWlpSV0dCejVJSkJtMWJWN2lZbGdxVjJ6emRWZmtaY1hnbXh3LWF4TTh5ek9rZ3JPVzJCTjA4N2xqdWVUclNOTmhlWndoVE1B?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "News from Israel and the Jewish world in Spanish",
