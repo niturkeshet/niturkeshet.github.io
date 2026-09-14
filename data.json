@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T04:02+00:00",
+ "updated": "2026-09-14T04:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -146,7 +146,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "גלובס · גלית חתן",
@@ -170,108 +170,136 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "האח טען לבעלות מלאה, ביהמ\"ש פסק: 13% מהבית יועברו לאחיותיו",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nU2hUanl2NEluQUZCNnBxWDJYLTRMNzZtY2lPbEk2WGdwN0h3RnN2eHB4X25WeFNyZ0tKOTNHYkwwWU8zSE50bmdoTnNFRTNuLWl0a0JhYVJNRm91aHFVQ1QwaXItWUs3?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
+  {
+   "title": "News from Israel and the Jewish world in Spanish",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTzdmV1ItcUN3T3JmR3QteFZ0LWt4LXVzUGgwandGc1I5N0xFWXZURGRrTXRsY1hvWHlNajUwOTludDNVVEROZ0pKMU04dWlJTGduM2UzVjBMa1g0ZVk2SjF0Z3N6ZHRjSHRUZmstMlBTbW1zWElHZU1peUJNaGhlbW1pS05KcTdNQXRLNWY5X0NwbE9yMXNMV1VvRmpzYjhhSExXQU13clRxS05VWEd6VV9QMTlNVDZxNFBaUkJB?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Aurora Israel"
+  },
+  {
+   "title": "נדחתה טענה ל\"אכיפה בררנית\" מצד הבלוגרים אבי וייס ואלי ציפורי שהואשמו בהטרדת עדה במשפט נתניהו",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zLXRYZzJsdUV2dXpOeTJnbjZZY0pJYXdjSTlGNnlUN29NV3BQd0duMl9IcUotMmxobTNDekRmUEt3Y1YyZS1ZQQ?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "the7eye.org.il"
+  },
+  {
+   "title": "ערוץ 14 חוגג הישג משפטי: החלטת המשטרה שמשנה את התמונה",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Qd3FTalcyWEgteWRUX01JTHBUSWFGQ1YtM1gwU2NERFhZbmZ5eXd5VnJhMmVDbkxacE5Cd2tLVXVWR1RrVi1sU2NwZWdiZEtBZGpzNVVsWWFfTTRi?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-13",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "צוקרברג הציע לו עד 1.5 מיליארד דולר. פחות משנה אחרי שחזר למטא, הוא עוזב לאנת'רופיק",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZdC1NZVh5RUgyTXNqY19RS0tibGZkWTZaZmxQTE9mQWpNX29lTzVLVXRKWW9yUFU3dmo4UWRQMlM0SW5oWGdXNHhtdFV3V3k1bndwQXlSXzlnTEFmUHpBdHBaVzkybUR3YjRtYlUxbXJaOTJ4TVBIRjA4bGY?oc=5",
@@ -2472,18 +2500,6 @@
     "חוק התקשורת"
    ],
    "pv": true
-  },
-  {
-   "title": "ככה לא מחוקקים: החוק להחלשת התקשורת הפך לבדיחה",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZUR5MUFQTVN2bkVSeWpKU2Q0TDVhZVdBU08yN0c4dzVHWmpTV0s4dXVzZmt0NGJWNWdXRE1jZW51N1hFTUc3NmxLLU5TZFNuRUY4cWlud2FETDdmT2hZWEcwM2ZSaFRfZGNCSWtRa3VObWYwNDk1bDdZN0hnbU0?oc=5",
-   "source": "n12 / מאקו · חדשות 12",
-   "type": "site",
-   "date": "2026-07-15",
-   "keywords": [
-    "החוק להחלשת התקשורת"
-   ],
-   "pv": true,
-   "publisher": "mako.co.il"
   }
  ]
 }
