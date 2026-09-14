@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T13:00+00:00",
+ "updated": "2026-09-14T13:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "הריאיון המיוחד סידר לקשת 12 ערב חזק: 15% בפריים, אברי ושרקי עם 9.7%",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kZEMycFFKZl9LcmNKd2Q4VTY1RF8wRHJmWVF1RHNOdndpeVdkR2VMSVFQSkVJcGtYR1JKRzhCZHhEWVNzanhwYkxQbGtZUlYzclRTb0tjU0x0XzZSbURKNnhJMFl3LWdSeWRSdm5Rb2FBTmZUdVpneHhRVkQ1V2M?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-09-14",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "ענבל שגיב נקדימון: כמה מהחטופים שוחררו בעסקאות עם חמאס וכמה במבצעי חילוץ?",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5R0Nja3BZYVYwRmRTNVVJQzJ5YUhYLTUwQUZXVjBnZ2RyVWFwN3J4bTM3WTc4Rmx6aGo5MnhyY0R1SW9a?oc=5",
