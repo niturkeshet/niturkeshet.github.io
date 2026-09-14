@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T19:30+00:00",
+ "updated": "2026-09-14T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,19 +194,19 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "חוק התקשורת של קרעי אושר סופית בכנסת",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oaUlub3lWTXNLeXN5aHp2blpQNzlIV3dvSnQ4Si1VQVdleXZpVHRLS3Z0R1R4TjZFOUE3R2ZjU0ZBOF80RG5zRkdFSE1adUgxb1gwSkNMZHg2cXZIREtaV09SaUEzUWtlOEE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "יוצאים למתקפה: ראש הממשלה החליט לסמן את האויב החדש בקמפיין",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HS2ZRMDBqcDRvMl81bGhIcXFTaTdSMENycUk2MTdUTUR2SEtJTkxiWDlPaTNTVzN6WW5EOUtGTkZRaXZWMGwyVUxkNDZLQ0x0cXlQVg?oc=5",
