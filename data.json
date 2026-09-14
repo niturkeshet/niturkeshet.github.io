@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T20:15+00:00",
+ "updated": "2026-09-14T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Netanyahu: Ofer Winter \"Dangerous to Right-Wing Bloc\"",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aWlRmb2Z5Q3RQay13dkVyUG9TUkZLV2FId093dGFOOEJGTGdOSk80eDdoNUw0LVBtUXRPYlZVWHRjVWV4Qi1ic0owaExWTDZieVE?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
   {
    "title": "חוק התקשורת של קרעי אושר סופית בכנסת",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oaUlub3lWTXNLeXN5aHp2blpQNzlIV3dvSnQ4Si1VQVdleXZpVHRLS3Z0R1R4TjZFOUE3R2ZjU0ZBOF80RG5zRkdFSE1adUgxb1gwSkNMZHg2cXZIREtaV09SaUEzUWtlOEE?oc=5",
