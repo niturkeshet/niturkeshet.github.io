@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T15:15+00:00",
+ "updated": "2026-09-14T15:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "טדי הפקות נשארת בבית: טמירה ירדני מוכרת את השליטה ליואב צפיר",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FbFpwc3FfSnFNcTh4OTNodU9XRmZFbFE3UXYzdjJHSlU5YUVVcFIzNUc5MG8tejI4QkltRm1GZ3ByOWNIVUo2SnVSZ1NoTjFHWktrQkhGNm9RZlNja1BCUTFLVkpkd1Fi?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "חסר שחקן: מה שאפשר ללמוד מהמשחק של מכבי תל אביב נגד אולימפיאקוס",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhWm54QkMzRmE1ZUE4VjRrM0hzRHMwM2YzNDlTTml0Q3VlWWFrRUFHN1lGUGozcW1TakNaOTNodENGdUtrREl1dDFSMkxYMVludTFEQ25DdERqNU1TRmktamtnRURvaDJwTFJfRlEteDhVaFVDcWfSAX5BVV95cUxNM0VrU1pXd1J6bGRiSlluWkNmTXdZWlFITUFkQXVtaGhKZFJEZjlXQkxoTW5Rc1BzcDFFOWRwTTF4Tm12QTUyaWJOSXBybjYtVUJIa1hqUkRCQnd2YnBXcEtLak1tR3c3WnYtVGI1SEFsRXM2X0d6Xy12UDg2OXc?oc=5",
