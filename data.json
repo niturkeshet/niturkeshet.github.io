@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T09:30+00:00",
+ "updated": "2026-09-14T09:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פסק הדין של העליון שישפיע על היזמים בפרויקטי מחיר למשתכן",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15WHU3eHo3YmhMX0RhOTFMRmxNNkNMQ2w5cXZHQ2p3ZWNKQlBXNjJYbm9mTVJNYW1BTWdyR0xxSTh0cGFnNDNxWTBQcWlMS1kwZjNJOEp1THZnSXZ1ZlZJaVlMMWpQdVRj?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "נציב התלונות על שופטים הפך את עצמו לערכאת ערעור על בג\"ץ",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45bmhCSUZuWnY3VmIxamx5eVhDYjRxaEJjME5Sdjc3QVhCSVlpdFR1aXNOeFh0NkpRa2pxbUljNlUzZERG?oc=5",
