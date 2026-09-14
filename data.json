@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T12:30+00:00",
+ "updated": "2026-09-14T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "ice · תקשורת",
@@ -337,6 +337,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "גלובס"
+  },
+  {
+   "title": "עוד לפני פתיחת העונה: עתידו של שחקן הפועל תל אביב בסימן שאלה",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0aTNhNjdLLVVmemN5aGdXbUc5VUdzUjJOSVZLbTM0eFY3QmM4REtyN0JKSWVldU9lNmJJWEtXRVRZZUlmVTIweF9JX2NWenp1WGQyclZNTHZlWGFqODNKODNaNVFzRmJVSVhKM3g4dWIwLWZadGfSAX5BVV95cUxOR3dBSmRkSTItY3JDUE9VSjRCWjFHYk9HdF9CM3d4Tngxam5ENHhVQTRCXzFNVFVwbE5aalZsd3dwWWhGeFhlOG9kWEpVV1RTQ3JvNGxuMWtpa2pRUVJhZC0zWmJTNG85Z3Q4b3paLVA0QnBidENoQmNoQThMU3c?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "israelhayom.co.il"
   },
   {
    "title": "תמונות השבוע של צלמי \"הארץ\"",
