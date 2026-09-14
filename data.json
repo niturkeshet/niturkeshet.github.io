@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T16:30+00:00",
+ "updated": "2026-09-14T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "כשהכנסת מתגייסת לממשלה: נתניהו נכשל במדד הפרדת הרשויות",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE94U2pKbUotM2Z2OElTTU1XbGdYUGdKdVU4bU1xMUdSbUFxQkdmd1oyMU5lZ3FrWllDemtkSm02aw?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "שקוף"
+  },
   {
    "title": "טדי הפקות נשארת בבית: טמירה ירדני מוכרת את השליטה ליואב צפיר",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FbFpwc3FfSnFNcTh4OTNodU9XRmZFbFE3UXYzdjJHSlU5YUVVcFIzNUc5MG8tejI4QkltRm1GZ3ByOWNIVUo2SnVSZ1NoTjFHWktrQkhGNm9RZlNja1BCUTFLVkpkd1Fi?oc=5",
