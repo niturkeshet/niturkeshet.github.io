@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T18:45+00:00",
+ "updated": "2026-09-14T19:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "יוצאים למתקפה: ראש הממשלה החליט לסמן את האויב החדש בקמפיין",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HS2ZRMDBqcDRvMl81bGhIcXFTaTdSMENycUk2MTdUTUR2SEtJTkxiWDlPaTNTVzN6WW5EOUtGTkZRaXZWMGwyVUxkNDZLQ0x0cXlQVg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
+  {
+   "title": "נתניהו הורה לתקוף את עופר וינטר: \"לא בטוח שהוא יקים איתנו ממשלה\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41RmFVenZQSTE3ZVpiYXF5SEhacWlXUlBjaHN6c2kxMXZsZm10WDNxTzJxckRMd3dvQ2dtWFdNckZVbUttamlzNG1VVQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
   {
    "title": "נתניהו הורה לתקוף את וינטר: \"לא בטוח שהוא יקים איתנו ממשלה\"",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBldWt3eGRYTHlZTlZsaHRVZzUwM3Q2a3V0QmdfcnBaZlFIRDk4cWJBMGFzd011aWQyZ2xLOVh5ZlRyZEhad2NPWnFYeVNHTjQ2Zkh5R21mbm1tRHpBSjJ4b1p1Y0tTcHJEcWhNVUlUbm4?oc=5",
