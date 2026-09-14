@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T12:15+00:00",
+ "updated": "2026-09-14T12:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ענבל שגיב נקדימון: כמה מהחטופים שוחררו בעסקאות עם חמאס וכמה במבצעי חילוץ?",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5R0Nja3BZYVYwRmRTNVVJQzJ5YUhYLTUwQUZXVjBnZ2RyVWFwN3J4bTM3WTc4Rmx6aGo5MnhyY0R1SW9a?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "אחרי 55 שנה: טמירה ירדני מעבירה את השליטה בטדי הפקות ליואב צפיר",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3dfejdSS21TQUJyTmd1QWg1MDJkZHJEc0NnalJ4MHZBMTdfTUJQbkY4SVVVZUVsOVUxV2w2X2VxSXBHclRianZoS0V6WXJVNWZLMXYwS0NzdEk0RzQ1aklvcXZTODdPZXpUaDl0T0FSby1hVFJtSWlnMHpzTXAzVHpjdmNGcDlvMGswRXhWSGE3cUM2akc0LTkxT2VTMGNLclgtMnc4WEpfWFE?oc=5",
