@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T07:30+00:00",
+ "updated": "2026-09-14T07:46+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו זימן את לפיד לתדריך ביטחוני בניסיון להשיג תמיכה בתקציב הביטחון",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aazF3bjFpVXJqYl8zZ1ZCVXhoeVVaeVktWFBMbEpQM2tLY0ZEYS1vd3loekhSMFZUQy1JdUxxYmNzRlRSS0NFMUs1WnBQS2o0WmpoeVI1MllocWtnUmg4WmFR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "האח טען לבעלות מלאה, ביהמ\"ש פסק: 13% מהבית יועברו לאחיותיו",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nU2hUanl2NEluQUZCNnBxWDJYLTRMNzZtY2lPbEk2WGdwN0h3RnN2eHB4X25WeFNyZ0tKOTNHYkwwWU8zSE50bmdoTnNFRTNuLWl0a0JhYVJNRm91aHFVQ1QwaXItWUs3?oc=5",
