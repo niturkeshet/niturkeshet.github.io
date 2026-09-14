@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T13:45+00:00",
+ "updated": "2026-09-14T14:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,13 +230,13 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הרשות השופטת מעלה הילוך: כל ההתערבויות בעבודת הממשלה והכנסת",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RMEI2b0dEdG9HLUJnY0dBQm1lR2QweUhKUVdIZXJIdEZ1V25iQXV2NlVUVW9saGFMNENZSVRHWWdHd0xxdGVocWJ0d2k5Y042U0ZralBoQXFjMW9UYzFNc3F3Zw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "לפיד מתנה תמיכה בתוספת לביטחון בביטול הכספים הקואליציוניים",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aMjYtUUw3TWNfbEJ6YmRiMWdfazJlZUxSMG5aOW1jc0tVU1MzTFE3Rm81MlIzOG9yZDVQWWNMS1gwUTdacEF3RUJvSTd6YnNMcHpzeTVRYjZqRklad1M3T2VB?oc=5",
