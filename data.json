@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T06:15+00:00",
+ "updated": "2026-09-15T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "בייבי בום מובילה; הדרבי עקף את כאן, רשת וערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWE5nQzdiZ2J1S2xPZWZfeHMyNFNJUy1MMEFrdjhWZUcxUUk5VzZ2cGVfc2NSamFLOFNGMWVXOEw2aXJsLVVjNG1RcFM5ZmZmV0FHS0c2dUhFMk9sQVVmQ0JJTzBiV3oxbllGUFpkaHBVLXNlaW50aXQ4OGdvU28?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-09-15",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "קוקה קולה מסתבכת שוב: הסכום הגדול שנדרשת החברה לשלם",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PTWppUkptdjc4NTBMMlBleXZZX2g0bFl6UHI3MW83M2hUTU1jRzZVZ1N0eFozTVNoSFdMYU5CdlF6cmFZUUlfYUstMjY1bUczdmRveHduN0ZGSWxiV2VzRFdlaTM?oc=5",
