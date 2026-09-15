@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T23:45+00:00",
+ "updated": "2026-09-15T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -471,46 +471,6 @@
    "keywords": [],
    "pv": true,
    "publisher": "גלובס"
-  },
-  {
-   "title": "עוד לפני פתיחת העונה: עתידו של שחקן הפועל תל אביב בסימן שאלה",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0aTNhNjdLLVVmemN5aGdXbUc5VUdzUjJOSVZLbTM0eFY3QmM4REtyN0JKSWVldU9lNmJJWEtXRVRZZUlmVTIweF9JX2NWenp1WGQyclZNTHZlWGFqODNKODNaNVFzRmJVSVhKM3g4dWIwLWZadGfSAX5BVV95cUxOR3dBSmRkSTItY3JDUE9VSjRCWjFHYk9HdF9CM3d4Tngxam5ENHhVQTRCXzFNVFVwbE5aalZsd3dwWWhGeFhlOG9kWEpVV1RTQ3JvNGxuMWtpa2pRUVJhZC0zWmJTNG85Z3Q4b3paLVA0QnBidENoQmNoQThMU3c?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-09-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "israelhayom.co.il"
-  },
-  {
-   "title": "תמונות השבוע של צלמי \"הארץ\"",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2lBd2Nnb25GNkVnVG1FZnVyRnM5ejYzV0VKdmNDbE5hUlNaSUJrZC15VHczRkFJaHlHbkQzMktQc1d2Q2twdDhjZUJnMlBWZ3hjR1ZaOW9WSmhzQ0lTTmg3ZlVlemJvbEY1cmhHOVI3VU5MWlpSV0dCejVJSkJtMWJWN2lZbGdxVjJ6emRWZmtaY1hnbXh3LWF4TTh5ek9rZ3JPVzJCTjA4N2xqdWVUclNOTmhlWndoVE1B?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-09-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "News from Israel and the Jewish world in Spanish",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTzdmV1ItcUN3T3JmR3QteFZ0LWt4LXVzUGgwandGc1I5N0xFWXZURGRrTXRsY1hvWHlNajUwOTludDNVVEROZ0pKMU04dWlJTGduM2UzVjBMa1g0ZVk2SjF0Z3N6ZHRjSHRUZmstMlBTbW1zWElHZU1peUJNaGhlbW1pS05KcTdNQXRLNWY5X0NwbE9yMXNMV1VvRmpzYjhhSExXQU13clRxS05VWEd6VV9QMTlNVDZxNFBaUkJB?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-09-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Aurora Israel"
-  },
-  {
-   "title": "נדחתה טענה ל\"אכיפה בררנית\" מצד הבלוגרים אבי וייס ואלי ציפורי שהואשמו בהטרדת עדה במשפט נתניהו",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zLXRYZzJsdUV2dXpOeTJnbjZZY0pJYXdjSTlGNnlUN29NV3BQd0duMl9IcUotMmxobTNDekRmUEt3Y1YyZS1ZQQ?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-09-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "the7eye.org.il"
   },
   {
    "title": "ערוץ 14 חוגג הישג משפטי: החלטת המשטרה שמשנה את התמונה",
@@ -2629,99 +2589,6 @@
    "date": "2026-07-18",
    "keywords": [
     "מטא"
-   ],
-   "pv": true
-  },
-  {
-   "title": "היועמ\"שית לכנסת: שינויים בחוק התקשורת עלולים לפגום בהליך",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EVWR3TWpvNWZ2a3VkeXdtTW9uOW9Zd08tWGx6RzI3VWVHV1JiaGJ2aTR2R0JGNzVzZmRMUTVKZU41a2RfTWtNNnBMWUZKTktoS3VGNmVPQ3JwTjhhalRjTC1XZ0M1ZFnSAW9BVV95cUxPUkhJZzFZN3haX05wTFNHWXBRLWZESnRHMjNJcHpOcU5aY0RkRE5wSzdER0pacHBaTGgtejMyUEgzYWpROVR3bWNiX3JpQUlleXVwbkI4aWtjQ2hRQWxCQzlaZzItbjNpSzJGSm5iSEk?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "site",
-   "date": "2026-07-16",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "חוק התקשורת אושר: כך עשוי לשנות את מפת השידורים בישראל",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yM2ZXdDYtYlptSVRZUkprc3o5LVVMaWcxa0JRdzhBVGdmS1R0eXRucklNcGwzSzZOZmx6RlYxNjJLYmpKVkQ4U2FlT09wc0ZNc3JzaWdpbkt0dXJm?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-07-16",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "למרות הביקורת: הכנסת אישרה סופית את חוק השידורים; הוגשו עתירות לבג\"ץ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DTzgwUV9pR2NfWjdNeHlWR2NOZHRMbmZPZUlYWXByVUxSRDBCbklyT1lTLVA3NXhEUG9jaEh2TEFwQjdYSnpvc1MtaTg0Q1hjbEdYbVlVRm5kU0dmNVFjaWxtWTJyMjBL?oc=5",
-   "source": "כלכליסט · עומר כביר",
-   "type": "site",
-   "date": "2026-07-16",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "Calcalist"
-  },
-  {
-   "title": "חוק התקשורת אושר; הוארך שירות החובה ל-32 חודשים במסגרת הוראת שעה",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96b2hsdXpSb3ZDeWRkeE1aVExDTEJsczEyZm4xLWZEd3VoMUxQSEhIU2tTeUJFNFY1TmlObkxIdWdCdzI5WGlfcEI3NUstZTlybzhibU0yQ1V1V0hMbFFqak1rbjhYcGdlN3pic9IBdEFVX3lxTE5yTVI3QXJMQUFwdEFONEdjVEdkSU1YaUJjRm9ubjZCWk1seWZzV0dIRG9nRElZS3Q3aGNEVEhQekRZbDFodS11M3NsUW9jaEZFOUVwakZjVGRIekVUSUVUaUkzY3RCbTlmZUh3RHlRa1lVWU9t?oc=5",
-   "source": "ישראל היום · ביני אשכנזי",
-   "type": "site",
-   "date": "2026-07-16",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "החוק להחלשת התקשורת אושר במליאת הכנסת | N12 - mako",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOGFBYks5QjhpbGlUY2d2VHdlVmdiUTZLb1g4aUp4elNPdXRVZ2JlMmtoYXNZa1N3Wl96WEJuQUNwbUwxLWVpZUk2Y19STFB6WWdxSk1hU0tWZGhUMTN4ajJxazUyM3JHUDBGckZfYUp0STJSTjFtZDc5YVEydUYwOV8tTmdkMTQ?oc=5",
-   "source": "n12 / מאקו · חדשות 12",
-   "type": "site",
-   "date": "2026-07-16",
-   "keywords": [
-    "החוק להחלשת התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "הכנסת אישרה את חוק התקשורת של קרעי; ההכרעה עוברת לבג\"ץ - ביזפורטל",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9USGZQZjl2U0I2QXg3THFTdDB3cHJUMjNOLVVyVGFOZkdfX2x5cXFFRmFJRXhla1hKWENtd19WVm9vdEJHeFBySnRaSDdaNEJ2aWZ5RDg3bWRidkxVWHlSRGdZTTZsZ3Z0?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-07-16",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "\"אדוני ראש הממשלה, המשימה הושלמה\": הכנסת אישרה את חוק השידורים של קרעי",
-   "url": "https://www.themarker.com/news/themedia/2026-07-16/ty-article/.premium/0000019f-6b39-d161-a5df-effbe47f0000",
-   "source": "דה-מרקר · יסמין גואטה",
-   "type": "site",
-   "date": "2026-07-16",
-   "keywords": [
-    "שלמה קרעי",
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "חוק השידורים מגיע להכרעה: מי מרוויח, מי מפסיד והאם בג\"ץ יעצור אותו?",
-   "url": "https://www.themarker.com/news/themedia/2026-07-16/ty-article-magazine/.highlight/0000019f-6a47-ddf1-abbf-6adf2aa10000",
-   "source": "דה-מרקר · יסמין גואטה",
-   "type": "site",
-   "date": "2026-07-16",
-   "keywords": [
-    "חוק התקשורת"
    ],
    "pv": true
   }
