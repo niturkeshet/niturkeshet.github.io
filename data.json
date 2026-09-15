@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T18:00+00:00",
+ "updated": "2026-09-15T18:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -322,6 +322,16 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "השר בן גביר הגיע למירון ודרש: \"אל תגיעו לפה - זה ממש פיקוח נפש\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWF82ZkgzMTU0ZG1zZm5KT2h0STItb05nLWVEZklVNnVSVnQ0SUZiamhCeW5tcHlKQlFqaU9tSzY3TEt0MDNxT1ZGTFhKT2Y1TXJBUVZnSy1IZTJDWTZId3JyRGgyeTkzcFpBdzU3ODBoSVAxZUdNbXYzMDlPRWVheEFhYWc0LUduR0E?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
   },
   {
    "title": "News from Israel and the Jewish world in Spanish",
