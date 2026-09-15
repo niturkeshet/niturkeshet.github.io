@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T17:30+00:00",
+ "updated": "2026-09-15T17:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -146,7 +146,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "גלובס · גלית חתן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,27 @@
   }
  ],
  "items": [
+  {
+   "title": "תגובת מטא ללאומי חושפת: המשתמשים בארה\"ב מוגנים יותר מאשר בישראל",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001555503",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-09-15",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true
+  },
+  {
+   "title": "נתניהו מגביר את הלחץ. וינטר: \"שלחו אליי חוקרים פרטיים\"",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjF5X291dFFISGNHZTFXbS1OSXk3NjVCbVpQbnBoRkhtQnVFdEQwX0MxYUlpc2ZiVGZ1XzBUWG9TZEw4b2dQT1NCaEd4Nk13QWhIQXQtMm8tQWw4bXhCdFBUU1l1Z1BDWXRnSC01ck5iWnpRbzEtdnNMNGxBd0VYUW54NjZvbjlZbV9DTVJB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רשת 13"
+  },
   {
    "title": "Al-Quds province warns of escalating calls to open Al-Aqsa to settlers",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hZE5ZbWNaT3NtT3lEX2E2NmhfdVlFclFfRTVmMjJWODduVmVtWUoxSV9ZcVgyUmxwUzlWSGhVWXpMU243TE5lWWp3YmZZRW8?oc=5",
