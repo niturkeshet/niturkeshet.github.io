@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T00:00+00:00",
+ "updated": "2026-09-15T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "News from Israel and the Jewish world in Spanish",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTzdmV1ItcUN3T3JmR3QteFZ0LWt4LXVzUGgwandGc1I5N0xFWXZURGRrTXRsY1hvWHlNajUwOTludDNVVEROZ0pKMU04dWlJTGduM2UzVjBMa1g0ZVk2SjF0Z3N6ZHRjSHRUZmstMlBTbW1zWElHZU1peUJNaGhlbW1pS05KcTdNQXRLNWY5X0NwbE9yMXNMV1VvRmpzYjhhSExXQU13clRxS05VWEd6VV9QMTlNVDZxNFBaUkJB?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Aurora Israel"
+  },
   {
    "title": "Netanyahu: Ofer Winter \"Dangerous to Right-Wing Bloc\"",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aWlRmb2Z5Q3RQay13dkVyUG9TUkZLV2FId093dGFOOEJGTGdOSk80eDdoNUw0LVBtUXRPYlZVWHRjVWV4Qi1ic0owaExWTDZieVE?oc=5",
