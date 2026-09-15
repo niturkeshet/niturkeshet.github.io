@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T20:16+00:00",
+ "updated": "2026-09-15T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "ice · תקשורת",
@@ -259,6 +259,19 @@
  ],
  "items": [
   {
+   "title": "האמירה עלתה ביוקר: יעקב ברדוגו וערוץ 14 ישלמו פיצוי של 105 אלף שקלים",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XajN1VHA0b1dqRjJZWXpEWXVvRU1TRGRRZDRjZjN3TGJuendVMENUV0FicEhXZzZSVGxuTGJ6a3FzSkxwajh4aUs2NjZkV2I5MEo4NXVVbFpZU0ZsLTdXc1dGbkRPd9IBbkFVX3lxTE8zMzRZcDNobEZ0clZ2X3RMV2xNcWo0N2lxaXQzWVowTldWWmhaTUE2UG96bFNwa05WelNRYjJ5QUxrRlVtSldhWWJGUEE5WG5zdFBFNEhuM3U4dnFtLXRZYXJEYmZTaTdjWV9UeXln?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-09-15",
+   "keywords": [
+    "יעקב ברדוגו",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
    "title": "הספר שחושף את תפיסת הביטחון של הרבי מחב\"ד",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSWXlHdHJmNlNSRE9vLVJFR3gxRlJvLVhGdUZabE8yT016eUwydVBXV1Bfc2hJaVdDRHplWmxLSFZYZEFTUl9hSg?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -269,7 +282,7 @@
    "publisher": "ערוץ 7"
   },
   {
-   "title": "\"ליגת העל וליגה לאומית - ליגות שונות לחלוטין\"",
+   "title": "\"ליגת העל וליגה לאומית",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Vllqa3hRbnRyck9CTll4UlhnTWQ3UjM0Xzd0WklqRVBlSTBCRHlEUS1fdF8zLThlMmlGZl81MnhQZVdvbE9Rcy1qbzFaam5PNDN4ZTRUUDViWkZNLU9MTERNYXp2cTBUOVU5VjRxNW1OMWk0Z0ZGdVVLTVVLV28?oc=5",
    "source": "חיפוש גוגל · אבי ניר",
    "type": "google",
