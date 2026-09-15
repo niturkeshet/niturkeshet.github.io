@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T20:00+00:00",
+ "updated": "2026-09-15T20:16+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "הספר שחושף את תפיסת הביטחון של הרבי מחב\"ד",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSWXlHdHJmNlNSRE9vLVJFR3gxRlJvLVhGdUZabE8yT016eUwydVBXV1Bfc2hJaVdDRHplWmxLSFZYZEFTUl9hSg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
+  {
+   "title": "\"ליגת העל וליגה לאומית - ליגות שונות לחלוטין\"",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Vllqa3hRbnRyck9CTll4UlhnTWQ3UjM0Xzd0WklqRVBlSTBCRHlEUS1fdF8zLThlMmlGZl81MnhQZVdvbE9Rcy1qbzFaam5PNDN4ZTRUUDViWkZNLU9MTERNYXp2cTBUOVU5VjRxNW1OMWk0Z0ZGdVVLTVVLV28?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "מקבלי ההחלטות הצהירו: \"חייבים לפעול לפי משנתו המדינית של הרבי מליובאוויטש\"",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyY2gxbi1WOTRlNWh4SDdONVJUcDVBVjNIaW5VZkh6SjRjcWxBRENLeUhfSzlOcG9waDRDaHY3UzZpc0J4MGctbVoyQQ?oc=5",
