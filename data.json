@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T00:45+00:00",
+ "updated": "2026-09-15T01:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "קוקה קולה מסתבכת שוב: הסכום הגדול שנדרשת החברה לשלם",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PTWppUkptdjc4NTBMMlBleXZZX2g0bFl6UHI3MW83M2hUTU1jRzZVZ1N0eFozTVNoSFdMYU5CdlF6cmFZUUlfYUstMjY1bUczdmRveHduN0ZGSWxiV2VzRFdlaTM?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-15",
+   "keywords": [
+    "קוקה קולה"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "News from Israel and the Jewish world in Spanish",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTzdmV1ItcUN3T3JmR3QteFZ0LWt4LXVzUGgwandGc1I5N0xFWXZURGRrTXRsY1hvWHlNajUwOTludDNVVEROZ0pKMU04dWlJTGduM2UzVjBMa1g0ZVk2SjF0Z3N6ZHRjSHRUZmstMlBTbW1zWElHZU1peUJNaGhlbW1pS05KcTdNQXRLNWY5X0NwbE9yMXNMV1VvRmpzYjhhSExXQU13clRxS05VWEd6VV9QMTlNVDZxNFBaUkJB?oc=5",
