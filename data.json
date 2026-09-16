@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T20:15+00:00",
+ "updated": "2026-09-16T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,29 @@
   }
  ],
  "items": [
+  {
+   "title": "Sale of Channel 13 to government critic approved; comms minister calls decision ‘unlawful’",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmh6OVlpWFpDdW9NOWhMbVFrUGh1TE53S3Exb0ozMkJQY3IxLXItMjVNWlhOTnh4UHFwQXZBZUltTGRtc29RVkpKaEROWmlhREJoZW5WMkEzMmRtVTJLejVJdDVSRW1jVC1fSHo3T1c3eC1CY2hKaGxlczMyNEozbERRdnBmN0lIZ0V5VVZGZHZhU0xsRzh5QVFkLURnNVV5UGt4ODRWd0VLRW91Mk9zSkZzTHRYOWtacEHSAb8BQVVfeXFMTjZkSWJoWW5kS011dF8xUk5BS3AxamhwMFZLYW91T3J3ZkNEUUsyUUpSRVg1LWllb1c1VjRuVm13R3kzeUVkNXRTNEFrWmI1V0tEay0tSnBxa1V5WHo4T1ZNWXZmVTRlRkE3UzBWTXNPanhhbDVhSHIwb0tXTGFPTHVvd2ZvRWNxUlI2NFNMVmlrWF96YlRPWXhUT1FrbU5YSjViQ0x4YXd1dmxsVlBJR3h5RmowUGUxcTdoVlZMckk?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
+  {
+   "title": "אסף רפפורט קיבל את רשת 13 - עכשיו מתחיל המבחן של 120 מיליון דולר",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80WEJZVjFFQzByZnVObFVDcVhqbkhjZFB3RjhJcEl5UXdOUUtBSmQ3d2d0cDdSMzlEUlBuVDAtT1ZtUG9nUHlEVE9xdWpCRmhqQXFvUWRycnpqZlRfTjFqQ3QtRFYxVlVyWmhlR1k1YjlabXlXZTlDVWJCX2I1R2M?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-09-16",
+   "keywords": [
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "bizportal.co.il"
+  },
   {
    "title": "העסקה להצלת ערוץ 13 אושרה סופית, הרוכשים והרגולטור הבטיחו לבצר את העצמאות המערכתית",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5udnlxN0g1UVpBcXhPSFdWeDkxSHpYUlhwV295ODFYT1FMMldLalRkdHlkcWNlWS1YUGNybWRWTkdnU05hb0drVw?oc=5",
