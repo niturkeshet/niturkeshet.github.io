@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T12:45+00:00",
+ "updated": "2026-09-16T13:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -145,16 +145,15 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
    "ok": false,
    "kept": 0,
-   "err": "HTTP 503"
+   "err": "HTTP 404"
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
