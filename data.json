@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T17:45+00:00",
+ "updated": "2026-09-16T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,28 @@
   }
  ],
  "items": [
+  {
+   "title": "אסף רפפורט קיבל את השליטה בערוץ 13, קרעי הגיב: \"הסיכון עליכם\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GbEZBRmtkVmZZTFlkbmstVmZuUkV5WEtCZ0o1ajZ2MUVheHE2RkxZWEpHOUR5dWZqMHp0NWFWeVMzNHZnaC1HczF6RQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [
+    "רפפורט"
+   ],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
+  {
+   "title": "בעקבות קמפיין השקרים של איזנקוט: קרעי דורש התנצלות תוך 48 שעות – \"מי שהופך את 7.10 לעלילת שקר ייתן את הדין\"",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zcDVBLWFWQ3hpbTF2QmZfaHJCcWVyeGtEalRwV1VwdVptb284VHVyT0V4cmJEZ2hPSUc5OXQ2NkY2MnlhZUZvT0Fn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "מועצת הרשות השנייה אישרה את רכישת רשת 13 על ידי אסף רפפורט",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mODIxeU84bG1jV1ZEWlR3WFdaQ3RTMHFvbWdXdnhNSVRDQmsyN1Y1UUtNa0JDYkxsQ0VDTHVqS3paVWZRRU5HemdJRXd5dlZqMk9kQ1g2bTlWR2NSRHd2aHNuNndqRkk?oc=5",
