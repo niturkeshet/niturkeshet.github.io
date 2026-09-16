@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T15:30+00:00",
+ "updated": "2026-09-16T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -146,7 +146,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "גלובס · גלית חתן",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "מועצת הרשות השנייה אישרה: ערוץ רשת 13 יימכר לאסף רפפורט",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001556727",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-09-16",
+   "keywords": [
+    "הרשות השנייה",
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true
+  },
   {
    "title": "יריד הלב עם המילואימניקים של חדשות 12 בכיכר ספרא בירושלים - כל העסקים",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XZi1yeF9Cc2VyeGJEdkhXQmhsLVJ2dmlZWWRYUFZEclRRNnlTUC1wa08tQ3pfaHM2VmZWQmlJTG9UV3IyVWZUeXQzbzdFcFRVdjFSb1gyUS0tNTFFS3VtWkF1NThzYmVHcEZOUzVlTE9rd0dWQlhYZTk5NUM?oc=5",
