@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T16:15+00:00",
+ "updated": "2026-09-16T16:31+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,20 @@
   }
  ],
  "items": [
+  {
+   "title": "הרשות השנייה אישרה את מכירת רשת 13 לאסף רפפורט",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WOTk1Q2dMQUhOYW54LWZSS21OSmp6WDVYVEpNVkVScTZ2Y0U0UHo2QkdCdnFQRWN4NkNrZkZ5d1pfcW1uX0w2eFJqOEkwSXRUSGo2OGw0RmpNcE1JdjcxUHphZmYyVWJu0gFwQVVfeXFMTUVEcWpITTl4RjNnS1dFS0lnZ05YSVhwWnV5Nm5jSlViRFphZHotRG9LYzdmdUpsbkFOT2dMaC1CU2pIel91UTdLNFpKalRTcDFUWE9GVmlQamVEOE51Sm16aFQyaUlxSkE0ekZ1ZldicA?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [
+    "הרשות השנייה",
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "מועצת הרשות השנייה אישרה את מכירת רשת 13 לאסף רפפורט",
    "url": "https://www.themarker.com/news/themedia/2026-09-16/ty-article/.premium/000001a0-aad6-df5b-adf2-fef7641e0000",
