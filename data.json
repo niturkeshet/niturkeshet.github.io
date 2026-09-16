@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T11:45+00:00",
+ "updated": "2026-09-16T12:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -145,16 +145,14 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 502"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 502"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -386,6 +384,17 @@
    "keywords": [],
    "pv": true,
    "publisher": "C14"
+  },
+  {
+   "title": "חוקר מגוגל דייפמיינד מזהיר: \"ל-AI יש פוטנציאל להרוג את כולנו\"",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001555473",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-09-15",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true
   },
   {
    "title": "שרון גל חוגג: מזנק ברייטינג לשיא חדש ועוקף את כאן 11",
