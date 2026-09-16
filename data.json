@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T23:15+00:00",
+ "updated": "2026-09-16T23:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -676,6 +676,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "התפקיד החדש של כתבת חדשות 12: \"באופן רשמי\"",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fbHJLbktMeGRwWC11ZmhmUGE4c0ZIcE1URWR3d2lkVDhCaFVtRklxekhvNUlOVW1fU3JwV1E1OHF0b1JCS3JjRE5rbkdXRWlXRGZhRkJEbjBRb2lnd3NtOUZUQl9pNEZlMTJKeEpB0gF2QVVfeXFMUE4yYzEwQm1pU3k4dmVwdDZlYjBrR1ZycC02ZVZZeUVfUkxQdDlDWTdQZWpCb1EybWxMZi1QQXRrZFppTTl5cW81c0x4SnpLalpodHJXb1Vza2ZaWDFFOUVPY0tmMGExVW9QTUtJSUNaU2xoVlM0Zw?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-09-14",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "הריאיון המיוחד סידר לקשת 12 ערב חזק: 15% בפריים, אברי ושרקי עם 9.7%",
