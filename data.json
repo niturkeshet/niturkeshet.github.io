@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T08:00+00:00",
+ "updated": "2026-09-16T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,36 @@
   }
  ],
  "items": [
+  {
+   "title": "השר קרעי דורש התנצלות מגדי איזנקוט",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9PRW1FZnIxMXhzZnpOQmRqZFhiV18tVDVqeDhCb0VvTkstbm93bno5Q1k5UDNtbE1HZDJVMXVpN0NjYW8?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "המחדש"
+  },
+  {
+   "title": "קרעי מאיים בתביעה נגד מפלגת \"ישר!\": \"הסירו את הפרסום בתוך 48 שעות\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uZFVhblNIU0VnY0xBMkQyR2FNVUpNYkRxeDJlZzNTeGhibUJkOHFFaGlucnd4eXBGajFCdnpNMXBtcUR3TXdPR3J1LVMyd2YySjM3SnVMdkFwaFVBdm81WDZoSDM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "בעקבות הטענה על הבריחה ברכב ביום הטבח: קרעי דורש מאיזנקוט התנצלות",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBndnFvdmRCYmdfV2xUb3VJQzZUM3ZTQlp1cFhvSERxbEhLajlGdHdRbTRvVnFETHJEeHBDTmJZZ1ROR1QyMFJzZDFPWQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
   {
    "title": "תביעה נוספת בדרך? השר שדורש מאיזנקוט להתנצל בתוך 48 שעות",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wdkIzeHJEZEU5RnNsZWtIYlctUFlkdU0zSm04T2lwWHpwZG5ibWpPc2tZNS1pd3NseUNKdDMzQlp6QWVyT2ZUNHpFdHhzdw?oc=5",
