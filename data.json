@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T08:15+00:00",
+ "updated": "2026-09-16T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השר הבכיר בליכוד באולטימטום לאיזנקוט: \"בתוך 48 שעות\"",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PSjgtcDYycjI2OG42dlZiQlJtU0pUb01LMklpbElqWUUzQnhHb2dkOThNLWNMRklqUUFmYUdvdkNXS2xrMk03MWVlZmNfQXN6bWhVOUNOcFh1dUdhMUtzTU5nUnU2MFprRVhkZXFONl9zUdIBekFVX3lxTE00dVdlZnZyemFTOVk5bzNlandSRExCbEFfN2w1S2hYNHExRWhQNTVXWjN0UEZFbU1oYTY0Z1J1X2F5WTFMcHpTcUVOdk9ac21XVktfRmlnR1ZiRGhjSm5MNjRrVnlEaXJGYUtDTndIbTd3SXVqSmFYWFR3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיפה"
+  },
   {
    "title": "השר קרעי דורש התנצלות מגדי איזנקוט",
    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9PRW1FZnIxMXhzZnpOQmRqZFhiV18tVDVqeDhCb0VvTkstbm93bno5Q1k5UDNtbE1HZDJVMXVpN0NjYW8?oc=5",
