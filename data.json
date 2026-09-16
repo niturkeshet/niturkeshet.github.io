@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T16:31+00:00",
+ "updated": "2026-09-16T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -224,19 +224,19 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,20 @@
   }
  ],
  "items": [
+  {
+   "title": "מועצת הרשות השנייה אישרה את רכישת רשת 13 על ידי אסף רפפורט",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mODIxeU84bG1jV1ZEWlR3WFdaQ3RTMHFvbWdXdnhNSVRDQmsyN1Y1UUtNa0JDYkxsQ0VDTHVqS3paVWZRRU5HemdJRXd5dlZqMk9kQ1g2bTlWR2NSRHd2aHNuNndqRkk?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [
+    "הרשות השנייה",
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "הרשות השנייה אישרה את מכירת רשת 13 לאסף רפפורט",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WOTk1Q2dMQUhOYW54LWZSS21OSmp6WDVYVEpNVkVScTZ2Y0U0UHo2QkdCdnFQRWN4NkNrZkZ5d1pfcW1uX0w2eFJqOEkwSXRUSGo2OGw0RmpNcE1JdjcxUHphZmYyVWJu0gFwQVVfeXFMTUVEcWpITTl4RjNnS1dFS0lnZ05YSVhwWnV5Nm5jSlViRFphZHotRG9LYzdmdUpsbkFOT2dMaC1CU2pIel91UTdLNFpKalRTcDFUWE9GVmlQamVEOE51Sm16aFQyaUlxSkE0ekZ1ZldicA?oc=5",
