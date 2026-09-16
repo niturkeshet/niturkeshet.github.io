@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T21:15+00:00",
+ "updated": "2026-09-16T21:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "התנאים לאישור עסקת ערוץ 13 חייבים להתפרסם: יציבות פיננסית חייבת להיות מלווה בעצמאות עיתונאית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VMjlsSXp5b1hOdHhKVDcyRUVuczJ0TEpxNzlLNE5CcmFIUnRkeU5keUR6TG9hclNMVzJrOHI2VHFQVHlMQXhJTg?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "Sale of Channel 13 to government critic approved; comms minister calls decision ‘unlawful’",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmh6OVlpWFpDdW9NOWhMbVFrUGh1TE53S3Exb0ozMkJQY3IxLXItMjVNWlhOTnh4UHFwQXZBZUltTGRtc29RVkpKaEROWmlhREJoZW5WMkEzMmRtVTJLejVJdDVSRW1jVC1fSHo3T1c3eC1CY2hKaGxlczMyNEozbERRdnBmN0lIZ0V5VVZGZHZhU0xsRzh5QVFkLURnNVV5UGt4ODRWd0VLRW91Mk9zSkZzTHRYOWtacEHSAb8BQVVfeXFMTjZkSWJoWW5kS011dF8xUk5BS3AxamhwMFZLYW91T3J3ZkNEUUsyUUpSRVg1LWllb1c1VjRuVm13R3kzeUVkNXRTNEFrWmI1V0tEay0tSnBxa1V5WHo4T1ZNWXZmVTRlRkE3UzBWTXNPanhhbDVhSHIwb0tXTGFPTHVvd2ZvRWNxUlI2NFNMVmlrWF96YlRPWXhUT1FrbU5YSjViQ0x4YXd1dmxsVlBJR3h5RmowUGUxcTdoVlZMckk?oc=5",
