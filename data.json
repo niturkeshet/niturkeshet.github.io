@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T21:00+00:00",
+ "updated": "2026-09-17T21:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -466,6 +466,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "מגזין פורטפוליו -"
+  },
+  {
+   "title": "לידיעת אייל ברקוביץ': הפנייה של משפחתו לקשת 12",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0V2k1Z1A4SEI5cy1DU0FGNWZ4NUw1eEdPM0VSQzVpOFltWlQtdGFqcWU2eDZBQ3UtSnpYcllzdUJhSHN0ZExjSHR3a0VCdXhfRlpfVmlfanhHYTdJenQ5Z3pOcU5MRjNaT2Zsb9IBdEFVX3lxTE41c0ZmLVRkZ2tMd0VPa2NaV1NKWkx6OGRHUWdxeENkRks3MER5eENyblY1MEUzSnVudWNxSDZRVUNJYXpfZGFDVUJYRlpBcjNreVA4cHRhc2dUbk1EVG1uMzEwV0FXTkxBQ0JtbGRYeEpHMS13?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-09-16",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "נתניהו הציע לווינטר ב-2018: תמונה למזכיר הצבאי במקום בלוט",
