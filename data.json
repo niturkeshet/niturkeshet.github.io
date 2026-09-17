@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T12:30+00:00",
+ "updated": "2026-09-17T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "אחרי שנרכשה ב-1.2 מיליארד שקל: הוט מובייל ממנה מנכ\"לית חדשה",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RNXhCQVZXYXNPcUNJU2hsOTYtMm9qcFQ0MWtnYXlld3dTTExVNEZOVngyQldCdC1JZEhMZXVqQWlwRDU5SERyeF9jS3FObGhvSEVYMkV0OC1wRU1zQ3pr?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-17",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "דגנית קרמר מונתה למנכ\"לית הוט מובייל",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wYjFCNDFjOHQ3bzJ6aTItcElVcExrZUlhZWlIN1dBa05TR0xoQlRzMTh1YUI0NEp4c2lib0FBZ0tjQVVUNkJZMTdfSzdBaHY5WUNmbF8xSlZkNTZRWU56NHYtT3BCUzVO?oc=5",
