@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T09:15+00:00",
+ "updated": "2026-09-17T09:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -315,6 +315,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "מגזין פורטפוליו -"
+  },
+  {
+   "title": "אחרי המתקפות: בליכוד שוקלים \"הפסקת אש\" מול וינטר",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzRPa0sxWnpsT1ROSkczakdmbWdnU2FrRmdtSHNxcnBCejY2UnduRXNnWFhpamVEN2VOVmlmZnlablUyeWxUSWEtdDJTZUVrVXVla3F2VTBOQnA0ZFU3NnpZajlabmZJR3BoeVNmUEtrOFFXbXFMNlljYUVOeG9uZldYbkR2bUx0NHZSNQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רשת 13"
   },
   {
    "title": "הדיל שנשקל: \"הפסקת אש\" עם וינטר עבור הסכם עודפים עם בן גביר",
