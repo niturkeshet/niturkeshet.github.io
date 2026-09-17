@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T07:45+00:00",
+ "updated": "2026-09-17T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -259,6 +259,18 @@
  ],
  "items": [
   {
+   "title": "רייטינג: יונית לוי מראה למגי טביבי איך עושים את זה נכון",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoZWRZNFA5c1hqUkJyQWs0Sy1QWE5VSXBBY0xlTmJrQi14bk9BU0lvbTUtd2ZhSldzVkg2NHRnTUFQSVFtY25BeEhMVTVuUVk0VEN1X0Nsc2ExamY3VWNwdWNR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-17",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
    "title": "החוק החדש בארה\"ב: מכה של מיליארדים לגוגל, מטא ומיקרוסופט",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QSGJDbGN5cmRTM2pDRW5HN1haa0tpVERBRV9RWlFveGhYU09ReV9YMFJGaXlfQndFQ1BrN1J3WTBRMzdiUXVRWDViRjBuWjAydFJ0LXpnbjM5TUQyTHpkcHdRdTU?oc=5",
    "source": "ice · תקשורת",
@@ -280,6 +292,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "מגזין פורטפוליו -"
+  },
+  {
+   "title": "חוקר גוגל לשעבר מצטרף לגל האזהרות: \"ה-AI יהרוג את כולנו\"",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkUE9SWGtGSFRtaDB0TXJPZGstUkRTWnlqLWRhUWYyRTJCRTVPeXg0eVdFMEpoa2phbmo2alBRclF2Yno1THZ1MzVGZk9DX0dxU05WR0R1MlhONUxwaUFQRU1QRDNieEdmTFBNaHJR0gF2QVVfeXFMUDJZY2JFOUpDOHNld2FuUVZUa2hKZENFSllmQllzS0lMX0l5MWVJM2l6eDFNYV9mUzRDSDlZVEItMUVKNTF1eVZoMlc4TGJqZ0t3OGlBTWc5U3VPUnpVdVc4Mkw5dExuLTJCalVRRGlGSGh4eDEyUQ?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-09-16",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "גיא פלג: \"הורדתי מינון משום שאני וחברת החדשות לא באותו מקום\"",
