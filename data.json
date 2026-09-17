@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T08:30+00:00",
+ "updated": "2026-09-17T08:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -259,6 +259,16 @@
  ],
  "items": [
   {
+   "title": "\"אנחנו כן מוכנים שיגורו פה אנשים כמו יוסף חדאד\"",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVhYMnNmQTFtOTRNYU1ldl9xMzNCM0NTSkQ1U0xveEp6ckZYeDZMdXlPdVNmRlVTU1NzSHJMRElzWEJMcWRrOHRQWVMtalZPQzZqeldiZDhzb2JKNTQwZUlvbmVFNHF1ODViNGk0QjJBalJ2cEd2UzB5NFNKSTItN19BVXUwSTl1b0JEbXA2WmRCYlJ2ZFlwYjdnQ0ExeWcwYzEwVFByVU55QzZLZGdLOHl0X1pzaHdr?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
    "title": "רייטינג: יונית לוי מראה למגי טביבי איך עושים את זה נכון",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoZWRZNFA5c1hqUkJyQWs0Sy1QWE5VSXBBY0xlTmJrQi14bk9BU0lvbTUtd2ZhSldzVkg2NHRnTUFQSVFtY25BeEhMVTVuUVk0VEN1X0Nsc2ExamY3VWNwdWNR?oc=5",
    "source": "ice · תקשורת",
@@ -292,6 +302,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "מגזין פורטפוליו -"
+  },
+  {
+   "title": "הדיל שנשקל: \"הפסקת אש\" עם וינטר עבור הסכם עודפים עם בן גביר",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVU9kc2RyNXZPWF9WZkhKemp2dkdDMFJjaU12RW53S3ozUW5mU3BKZ2ZwUWFTY1R3S0lpZ3l1Tm4tQ20tN2RkLXhTX0JSdkd5Q0M0VXo2WEZXM0JIdEhUeDlYeU56X0NuMVFuUU1HSC0?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רשת 13"
   },
   {
    "title": "חוקר גוגל לשעבר מצטרף לגל האזהרות: \"ה-AI יהרוג את כולנו\"",
