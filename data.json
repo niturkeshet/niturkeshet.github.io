@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T15:45+00:00",
+ "updated": "2026-09-17T16:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,13 +224,13 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -360,6 +360,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "מגזין פורטפוליו -"
+  },
+  {
+   "title": "מקבלי ההחלטות הצהירו: \"חייבים לפעול לפי משנתו המדינית של הרבי מליובאוויטש\"",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZWHlzYmY3OFd2N0F0NzhxTi1Fc3A2NEc1YnV0X1IzMkQwREJXYms1UTBWeThPc2VPT3Jpd080NVV2NS1ldGJES2YtOC1YNnRJNUFBYlVB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
   },
   {
    "title": "אחרי המהלומות: המהלך החדש שנשקל מול וינטר, נתניהו מתנגד",
