@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T12:00+00:00",
+ "updated": "2026-09-17T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "דגנית קרמר מונתה למנכ\"לית הוט מובייל",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wYjFCNDFjOHQ3bzJ6aTItcElVcExrZUlhZWlIN1dBa05TR0xoQlRzMTh1YUI0NEp4c2lib0FBZ0tjQVVUNkJZMTdfSzdBaHY5WUNmbF8xSlZkNTZRWU56NHYtT3BCUzVO?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-17",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "אחרי העברת השליטה: דגנית קרמר תמונה למנכ\"לית הוט מובייל",
    "url": "https://www.themarker.com/markets/2026-09-17/ty-article/.premium/000001a0-aeee-df5b-adf2-feef01c90000",
