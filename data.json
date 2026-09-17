@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T11:00+00:00",
+ "updated": "2026-09-17T11:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -164,7 +164,7 @@
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -258,6 +258,17 @@
   }
  ],
  "items": [
+  {
+   "title": "אחרי העברת השליטה: דגנית קרמר תמונה למנכ\"לית הוט מובייל",
+   "url": "https://www.themarker.com/markets/2026-09-17/ty-article/.premium/000001a0-aeee-df5b-adf2-feef01c90000",
+   "source": "דה-מרקר · נתי טוקר",
+   "type": "site",
+   "date": "2026-09-17",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true
+  },
   {
    "title": "סופית: אושרה מכירת רשת 13 לאסף רפפורט",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45VjRkZVozT1c2dDAzMnFjUEFGbnJMNEtqTTNMcThnYjdvUTZ5aEVNMnJ6RzJnemQ5djVtdkpiLVFlLTQ1bnRXTHc5MnJpUHlldHBRbFVvYjlLd0N3WmR4OHRZU0hrMGt4OWFIaDh3?oc=5",
