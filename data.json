@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T19:30+00:00",
+ "updated": "2026-09-17T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השר קרעי במתקפה חזיתית על עופר וינטר: \"הוא התקווה של קפלן\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LQVVNTkpGcnVlajNIUXkyN1RCRTRmWWFaNXA4TzkzVEt3Ui1hS2s4WFYtTWJnQkRObFYwdXJqLS0yMTFLcEVnU2UwMEVxdWtJZDJuV1dmVEI?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "אחרי 20 שנה: אחד המגישים הבולטים של רשת 13 מסיים את עבודתו",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kYzdQWmpKWVhDZlNSOF9ib1p0N0MtYnpHQkhveDVQaG54cHFRNGFqaXpMdzBkR2RWRThzbnRqWVFsTVNiQlZYdEozVkpFb3lqTm1NM2JCaVg4LU1jWGtOcUJEV2tndjk00gFwQVVfeXFMUG1LWVNETHUwQ19sOWVNRjN3eDhyaDJscHNxaDRwamFfbnZIdmdVN0doVGhUSU95QzJ0NUk5SnJwdEtIOVMzZG40U0NtanJVV3NuQlhaX0VYU2Q4U3dUWld0dk5pOTR4RDZ4cjYweW5CQw?oc=5",
