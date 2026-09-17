@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T19:45+00:00",
+ "updated": "2026-09-17T20:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השר קרעי במתקפה חזיתית על עופר וינטר: \"הוא התקווה של קפלן\"..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52UnNQc2s5UjBPUlNsZ2xOeFkzS2hQZXp4SmhhZC1XcVg0UjR0ZG5yMUgtSG5OR2VHTU9SNHV0azFaUFpFd2F5anBOcVZ3QjBRNHc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "השר קרעי במתקפה חזיתית על עופר וינטר: \"הוא התקווה של קפלן\" | צפו",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LQVVNTkpGcnVlajNIUXkyN1RCRTRmWWFaNXA4TzkzVEt3Ui1hS2s4WFYtTWJnQkRObFYwdXJqLS0yMTFLcEVnU2UwMEVxdWtJZDJuV1dmVEI?oc=5",
