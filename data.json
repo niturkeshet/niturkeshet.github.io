@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T04:45+00:00",
+ "updated": "2026-09-17T05:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -267,6 +267,20 @@
    "keywords": [],
    "pv": true,
    "publisher": "מגזין פורטפוליו -"
+  },
+  {
+   "title": "הרשות השנייה אישרה: השליטה ברשת 13 תעבור לקרן מריט של רפפורט וקוסטיקה",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HbmxzZzRRWjlRVjNYMGRSdUFFWnZEQnpWd2tWNHRRS0hfMS14R1lZYmRhVy1IWVFZUzczOGhEdWY1ZHNYdG1MS1o5cEszelA1WDRtM2xGMVJrSmZNcFoyeHZVRmIxRkNT?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-09-16",
+   "keywords": [
+    "הרשות השנייה",
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
   },
   {
    "title": "התנאים לאישור עסקת ערוץ 13 חייבים להתפרסם: יציבות פיננסית חייבת להיות מלווה בעצמאות עיתונאית",
