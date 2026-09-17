@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T06:45+00:00",
+ "updated": "2026-09-17T07:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -280,6 +280,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "מגזין פורטפוליו -"
+  },
+  {
+   "title": "גיא פלג: \"הורדתי מינון משום שאני וחברת החדשות לא באותו מקום\"",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BeU1kd3pEeXlwV0lrMWsxcWcwZ1pCV2ZCTGxEdUpmdWZMbldKeXJKLVhnYmx1QVBpQndhbzI3TkRCWC1iMzdpX0RieEhfVEI3bGRCRHo0NmVIelhYbU54QXJPck5xMl85ZUVhZ1F3djlMT20yOEHSAX5BVV95cUxNZzlScFppN3p2VHdiU294c0pDWWVpVmgxeW9iTW1EMUprYml5LVBBRUZhR3pHdm5CcWZNc3BnT0NNREszVUw5eXI2UGFKaW52aldIZ1JiSUxVOHVxaUxYVERGUXo0Nmk3VlZoTnJibDNOTEl6RHdOVjBXbER1Znc?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-09-16",
+   "keywords": [
+    "גיא פלג"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "הרשות השנייה אישרה: השליטה ברשת 13 תעבור לקרן מריט של רפפורט וקוסטיקה",
