@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T16:45+00:00",
+ "updated": "2026-09-17T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מסחרית מטעם איזנקוט הגיעה לאירוע של הליכוד והשוטרים הורו: \"תמשיך ישר\"",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JaVpOamk1THk2Vk1kc3RvcHhUYjE5bVpNbzVCZEdMaHRXVlB5WGxUMzFlZlRBYnZIWHZpU1A5enJteWVKdzVYRjlmUGo5VWxoZFRSTVpycnVHT0JwOVBZeFYyTGYwQUhDQ1JlUA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
   {
    "title": "חיות: תמרור אדום מתריע מפני שינוי משטרי וריסוק הדמוקרטיה הליברלית",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tSFR4V0JVZHlzMnVCZGlUajNqWWtUVlRiMEdmT1BrS19IU01fMk45aWcxMzJtajdLQ19iMkN1b1ZQUnVOXzI1bW5IWUx4c1hLdm5zcHVRaVE5bFQydXA5NnVrbjlIaFE?oc=5",
@@ -370,6 +380,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "מגזין פורטפוליו -"
+  },
+  {
+   "title": "נתניהו הציע לווינטר ב-2018: תמונה למזכיר הצבאי במקום בלוט",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fT1NMdnRWcWVwTkh0LXdObTNBVEg5Wm1vMjl1UERKMG4tNzNCQU9nVlRKMjNnM2Fhb0xoeWtNS2U2QVNUVTh3Z0FGTlJGV01CbHBQR2Z0OWRGTmxvRlh6OUkyX1FHZG00MENoUjNxSG0?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רשת 13"
   },
   {
    "title": "מקבלי ההחלטות הצהירו: \"חייבים לפעול לפי משנתו המדינית של הרבי מליובאוויטש\"",
