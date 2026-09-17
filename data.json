@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T17:15+00:00",
+ "updated": "2026-09-17T17:31+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"החיים דופקים על אותה דלת\": עודד קוטלר משתף על הקריירה והזקנה",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LMnlCZUlQV19iTWhlTW9SeTViUE9LazhxZE5hSXBmanNuemNwY2ozaHRNclBqNXgxUnlnU3lqb2lkcmJJdm9yTHBKR2dzRWtHakJrRnJTOGowTWNXVEJHUkJJak9NOEh0QTU0Vg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "רביב דרוקר נלחם בשיניים מול ינון מגל - אבל ספג הפסד כואב",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0V0xSZFpQOGpwS1lmbnZ1bU52S0d5eHJBMFBZc05ESUM2bGw1V3JTVDBhZHB4eWFIVEl1Mm1Xa2lncDMweVEyZHJCZDdJdW83ZWxFVGtRY1RPZmN6a1BURVNzNlhweDhK0gFwQVVfeXFMTU1saTFOMXptbEphQWRFejN4SVRtQlVPdU4ta1l4MjgzejlPRFBDSVp4WUxNeFIyZFlmNmtNZG9GdHduZzl4dkx0Q3VLbG5xTnhPUkxxSDZSNFM0V2k4UTB0MnhIaGlNcUtraTY2VHU1QQ?oc=5",
