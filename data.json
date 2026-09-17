@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T03:00+00:00",
+ "updated": "2026-09-17T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הרשימה המשותפת // 17.9.26",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KNm9ZSlVPeVZwU3cyNWFXYVRrSVNRUUFfMzJJZFZiZms0OFkxSkhLRlJkRUJObjBUWHR3cXdnR1pmUnlxbEtHelpDTmRJNjd3?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מגזין פורטפוליו -"
+  },
   {
    "title": "התנאים לאישור עסקת ערוץ 13 חייבים להתפרסם: יציבות פיננסית חייבת להיות מלווה בעצמאות עיתונאית",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VMjlsSXp5b1hOdHhKVDcyRUVuczJ0TEpxNzlLNE5CcmFIUnRkeU5keUR6TG9hclNMVzJrOHI2VHFQVHlMQXhJTg?oc=5",
