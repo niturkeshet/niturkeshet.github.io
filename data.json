@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T18:00+00:00",
+ "updated": "2026-09-17T18:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,13 +176,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מכה לישראל: חובבת המטאל שהתפטרה אחרי 7 שעות חוזרת לשלטון בשבדיה",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4td1U3OG01M2JQa1d2Unp4WXpvNUpsV3JqZzZWMW5DN21peUx4ZlFUcnZPWWVrR0psS1JZSGIwV0NWbENic1UtVEFOSkRtWnZYcU0tNW10RVNtbzBPLURyVzhYRVVTcG9EU1lDUnVHeUJKUUp0aXVSc9IBgAFBVV95cUxPQWJZOTZqQlFCaWNOSFRvOFc5T19PaVNPSUxrenF5SEZSUVc3Wkd5VmxETEhsZnNGa29MNzVNMlRzeEpRbTVXd29EMF9aMUtVdmVpWERqam9WOEJSUktPYkwzdWl4TDM3RUVBRW9aay1pMm9HQmdocldkRjdpem1Scg?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-09-17",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "\"החיים דופקים על אותה דלת\": עודד קוטלר משתף על הקריירה והזקנה",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LMnlCZUlQV19iTWhlTW9SeTViUE9LazhxZE5hSXBmanNuemNwY2ozaHRNclBqNXgxUnlnU3lqb2lkcmJJdm9yTHBKR2dzRWtHakJrRnJTOGowTWNXVEJHUkJJak9NOEh0QTU0Vg?oc=5",
