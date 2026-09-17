@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T19:00+00:00",
+ "updated": "2026-09-17T19:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,28 @@
   }
  ],
  "items": [
+  {
+   "title": "אחרי 20 שנה: אחד המגישים הבולטים של רשת 13 מסיים את עבודתו",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kYzdQWmpKWVhDZlNSOF9ib1p0N0MtYnpHQkhveDVQaG54cHFRNGFqaXpMdzBkR2RWRThzbnRqWVFsTVNiQlZYdEozVkpFb3lqTm1NM2JCaVg4LU1jWGtOcUJEV2tndjk00gFwQVVfeXFMUG1LWVNETHUwQ19sOWVNRjN3eDhyaDJscHNxaDRwamFfbnZIdmdVN0doVGhUSU95QzJ0NUk5SnJwdEtIOVMzZG40U0NtanJVV3NuQlhaX0VYU2Q4U3dUWld0dk5pOTR4RDZ4cjYweW5CQw?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-09-17",
+   "keywords": [
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "בג\"ץ אסר על המפלגות לקבל מהקלפיות מידע ביום הבחירות",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfMlhyX3gwSW1wVVZucGRnd0tCRmpULVJSRmt5TW0tNEg4MUFqVFpHVGpaQlZncXBLR0lwbjRINFd1ZHRGMjFrbk1RWQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
   {
    "title": "קרעי מבקש להצדיק בדיעבד את החלטת הממשלה נגד \"הארץ\" באמצעות מאמר דעה מלפני שנתיים",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxeFlzMW1LT0lQZ0k5WUpZNFlIMGVwYnFtOENOdXh3R3JwU3VWQ2I0MUM2RGMtMTF6aWdjbnBaOWVnVHcyM3pBcg?oc=5",
