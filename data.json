@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T17:00+00:00",
+ "updated": "2026-09-17T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רביב דרוקר נלחם בשיניים מול ינון מגל - אבל ספג הפסד כואב",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0V0xSZFpQOGpwS1lmbnZ1bU52S0d5eHJBMFBZc05ESUM2bGw1V3JTVDBhZHB4eWFIVEl1Mm1Xa2lncDMweVEyZHJCZDdJdW83ZWxFVGtRY1RPZmN6a1BURVNzNlhweDhK0gFwQVVfeXFMTU1saTFOMXptbEphQWRFejN4SVRtQlVPdU4ta1l4MjgzejlPRFBDSVp4WUxNeFIyZFlmNmtNZG9GdHduZzl4dkx0Q3VLbG5xTnhPUkxxSDZSNFM0V2k4UTB0MnhIaGlNcUtraTY2VHU1QQ?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-09-17",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "מסחרית מטעם איזנקוט הגיעה לאירוע של הליכוד והשוטרים הורו: \"תמשיך ישר\"",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JaVpOamk1THk2Vk1kc3RvcHhUYjE5bVpNbzVCZEdMaHRXVlB5WGxUMzFlZlRBYnZIWHZpU1A5enJteWVKdzVYRjlmUGo5VWxoZFRSTVpycnVHT0JwOVBZeFYyTGYwQUhDQ1JlUA?oc=5",
