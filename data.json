@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T18:15+00:00",
+ "updated": "2026-09-18T18:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -301,6 +301,16 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "זה הזמן להתחייב / רענן שקד",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pREt3X1d3b1VDUzloVFVfbDdSenI5dVNmNl8wUWJJeHFtcDU3QU5RU1drR3ZUbXI1UHAzaVo5NmV1MXpQLVpnRlc1QnV5eDlMSkQ1cVQxUUZFeEV6a3c?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-09-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
   },
   {
    "title": "אסף רפפורט בגל פיטורים: מגיש חדשות 13 יעזוב אחרי למעלה מ-20 שנה",
