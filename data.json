@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T18:02+00:00",
+ "updated": "2026-09-18T18:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,103 +175,99 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "How Netanyahu’s plans to reshape the courts could affect Israel’s democracy",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWZkbzl5V0U3Rmg4eHJSUzBXUmVlSGFpcEdTbmpNQXJnNHdoT1h6VXZIdlJkckQ0WHZKWVUtRG45ajNkQmg3VWphRHpiOF9BMUJaWUZvZ29LbGdRYTlUdHlHZDZpWGN2MDBIM2dodGE3VE1CMDlNM1JLQkNEeWk1U3JmaGVSbUZZNzJkTnVVTHV4RmZXX0hjLURuOUtkUVc4Ry1lblR5T2FIRks20gGsAUFVX3lxTFB5ZmRvOXlXRTdGaDh4clJTMFdSZWVIYWlwR1Nuak1Bcmc0d2hPWHpVdkh2UmRyRDRYdkpZVS1EbjlqM2RCaDdVamFEemI4X0ExQlpZRm9nb0tsZ1FhOVR0eUdkNmlYY3YwMEgzZ2h0YTdUTUIwOU0zUktCQ0R5aTVTcmZoZVJtRlk3MmROdVVMdXhGZldfSGMtRG45S2RRVzhHLWVuVHlPYUhGSzY?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "הפועל תל אביב התאוששה מהדרבי והביסה את הפועל פתח תקוה 0:3",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGxDdERjcmhDMWwxd3R1MXRMVDlNeDkwLS1OdnNPM2tHVHU5YVZNTHFQc3E0QTFxWEIwOGJSS29oeEtXejFwOEFiOGJ5cHFoTFoxRkU5RlZheERYVkVRdUo0c0RYRnZqTG9sdmk1ajFMREZBcmItQ1JjOUdQSHRhYXhJaEl2TkVTM0M4ak1kOHRXbVRWa1lMMzhPeEpyMmtuX2IxYXlicw?oc=5",
