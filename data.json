@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T00:00+00:00",
+ "updated": "2026-09-18T00:16+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השר מהליכוד מאיים בתביעה נגד איזנקוט: \"יש לך 48 שעות\"",
+   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOUdCRWM5VmxzenpHdGhQRk9tcllsa3FxNmJvTDJKLVpadkcxTnBnUjRrWlJnLXlWWk1HN3R1LUVnLXlOdUUwLXRxLTBib01JUG4xa2lmV3JOMEVDbmZPUU9NZ21FMnBNanJCaU1XbmZuWms4V3NHeF9OZE4tR0xWZzZzcWhXNEFsQllTRExhSHlnc2hrYmx5V1Z2dXZNZTQ3RE9obmozTFZydlhWVmxFLTlDNmNyZnF6Z0Z5ZEhTVFlqaC01UjdacG1VVjh0QlV4YnJwZzQ2OG1kQVowalMyMGlaTzBlVnRHMlpNeEtBN2hfelhYTHo4X3ZOMlBQT09DSjItdTh1N3Q5M0UyZ3VSUG5sWWVKZG5NLVBSRjJlNXQ1dmdOWVVsSU9GUVNFSkxGNWx0cFJUaF94U010MnUySlI4SUZZVThJbV85UVZJRkY2TmlxVjV2TDltSQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "השר קרעי במתקפה חזיתית על עופר וינטר: \"הוא התקווה של קפלן\"..",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52UnNQc2s5UjBPUlNsZ2xOeFkzS2hQZXp4SmhhZC1XcVg0UjR0ZG5yMUgtSG5OR2VHTU9SNHV0azFaUFpFd2F5anBOcVZ3QjBRNHc?oc=5",
@@ -466,6 +476,32 @@
    "keywords": [],
    "pv": true,
    "publisher": "מגזין פורטפוליו -"
+  },
+  {
+   "title": "שלמה קרעי מאיים לתבוע את גדי איזנקוט: \"ביקשתי לצאת להילחם\"",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yclFPWnAxRTJMSnozUnhZczlHYmFiaHJfZUVRbEdmT1NHQl9KN2dNU2J2Nl9HanMxVndwcWMxOHRCU0RRQy1qS1Y1bXhrN25tLUJ2S3F2b1VyZw?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-16",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "מועצת הרשות השנייה אישרה את רכישת רשת 13 על ידי אסף רפפורט",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mODIxeU84bG1jV1ZEWlR3WFdaQ3RTMHFvbWdXdnhNSVRDQmsyN1Y1UUtNa0JDYkxsQ0VDTHVqS3paVWZRRU5HemdJRXd5dlZqMk9kQ1g2bTlWR2NSRHd2aHNuNndqRkk?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-09-16",
+   "keywords": [
+    "הרשות השנייה",
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
   },
   {
    "title": "לידיעת אייל ברקוביץ': הפנייה של משפחתו לקשת 12",
