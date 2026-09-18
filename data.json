@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T01:00+00:00",
+ "updated": "2026-09-18T01:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -638,6 +638,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "פאנליסט ערוץ 14 גילה: \"עליתי לשידור מהמחלקה הפסיכיאטרית\"",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sdHRtX1pIUjJKSWRpbHVJNXFxRHVFTHJiTEhXaV9QSW5UUXpKTG94ZVNNV0daVmxQeWdlcmRYbW45SlFSLXIwWlpHV2RUc1NfMEh4c3M5Zk8yS3J4TFlRZ09KRXZXLXZOVTNDM0Fjeks4Qk44UXfSAX5BVV95cUxPVTBtWFNsb2EyRm5peHhxbEpnTjdEanI3ZHV4MFJ4QjVqZFd6ZFJTcTFscHhHYVNsZk8xUHRiSFNxcVd3ZGhNdWkxTGlHSGpxZVZmNms2N0xKempGV3F2SnBzMUwwVkxYT1dQYkUzRVdJdmdSZjVYaHg3ZGcwLXc?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-09-15",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "חוקר מגוגל דייפמיינד מזהיר: \"ל-AI יש פוטנציאל להרוג את כולנו\"",
