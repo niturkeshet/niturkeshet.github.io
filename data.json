@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T04:45+00:00",
+ "updated": "2026-09-18T05:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,13 +182,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -721,6 +721,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "ערב של הפתעות: הדרבי גונב את ההצגה ורשת 13 מתרסקת",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTcUs1bUFSVElzSlVoWE16MERTMUZpcFdXTkkxbnY3MG9QMDJMZ0dFLU9ROXFOZ1RkTEc0cXZ2MDN0eDVUamd1V0VFMWpKejRTZWJIQWVweFBLcVBWNm9YOEZ0WlhXMGdG0gFwQVVfeXFMTUM4VVhjSloyaU9iZWNJclJDeXk1UkJPVGNDSHBsSXhxOHhXNzY3VHlEc09JcHFrY2plV0hNNnBUOHFHWEkwNU5PY0xGYVJnVkVFN09yOXBGMXZVOVppaU5oMjhzRWJpYkplZlhxMnBlaQ?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-09-14",
+   "keywords": [
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "התפקיד החדש של כתבת חדשות 12: \"באופן רשמי\"",
