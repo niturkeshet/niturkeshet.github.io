@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T03:00+00:00",
+ "updated": "2026-09-19T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ברדוגו הדגיש: \"אני לא עיתונאי\", וישלם כמאה אלף שקל עם ערוץ 14 בשל הוצאת דיבה של יוסי לנגוצקי",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QVXVSSGNWb0cxSWZ6Q1Vvb0RjSVd5TVdYaDVFT1R1cmdWWnZWNl9OMHFFamZPNEhJOUo4c21uOHRGdEtCSXozMg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-18",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "שיטת נתניהו: הח\"כים שהיו נאמנים",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzY4VWgwRloweElXVzZDUlNjR1FZczdVSm1hQzNpZ1BXTVVjVVpPVlhRbkRnSjhpZFZLSWJDek5JUElnNENQLWxnTEotMnp1czF4eFVfT1E3amtQSEN6eVNHZlJONzlrQlpEQjAxSTJyVVVmc0ZTV0FPaXVIZEFfX0NubFN2QQ?oc=5",
