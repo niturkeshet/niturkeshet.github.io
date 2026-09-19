@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T06:45+00:00",
+ "updated": "2026-09-19T07:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Netanyahu’s Likud seeks to block expat fly-and-vote initiative ahead of tight Israeli election",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGFYR2tyX2Z1Q3pvSDZzc0FuSEM3TGxpLXROS0ViYW1Ka3ZIbEptbDYyLXZFTkR3ei1IRktWZGdfVmhIYklDRlJKNTliTzFVQzI2YlhWNU9CTjk3My1DX0FmU0hRYk1jb09ZakpZYkpmc2gwVjZORXBtNU5sTEwyNWlYYWdGOHI0QUNlc29nWEV6czJiZ25xSzNvTlNBUXFCdXkweDVR?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Philenews"
+  },
   {
    "title": "למרות תמיכת שרים וח\"כים: צה\"ל סגר את השטח שבו תוכננה הצעדה לעזה",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkT2F5bkVzSWxaUVlxc2NiTmxNSy14Um5RNVhiLTRiRzh4d2JPWmRpOEZRdmxJdm9mWjNBcGRVRVp2dHpfc3ktWjhEc1p0WTFZb3VaaHJLVm5ySzJuVFdHZkstZFJmOVFwUmc?oc=5",
