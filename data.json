@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T09:15+00:00",
+ "updated": "2026-09-19T09:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "דווקא אמנון אברמוביץ': המשפט שאף אחד לא ציפה לשמוע באולפן שישי | מיקי לוין",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92MXdxNmdhZzczX2txa2VLZE1iaWlfTXlNN01yMW1IUHpqYUQtcEdSaGVsa0U4LUV4QUlFbTZ1Z29CUjAydnpTQUFUeUJfSXRHU01hckNObDRFOVhmVDF2Rg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "Netanyahu’s Likud seeks to block expat fly-and-vote initiative ahead of tight Israeli election",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGFYR2tyX2Z1Q3pvSDZzc0FuSEM3TGxpLXROS0ViYW1Ka3ZIbEptbDYyLXZFTkR3ei1IRktWZGdfVmhIYklDRlJKNTliTzFVQzI2YlhWNU9CTjk3My1DX0FmU0hRYk1jb09ZakpZYkpmc2gwVjZORXBtNU5sTEwyNWlYYWdGOHI0QUNlc29nWEV6czJiZ25xSzNvTlNBUXFCdXkweDVR?oc=5",
