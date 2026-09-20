@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T06:30+00:00",
+ "updated": "2026-09-20T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "\"בייבי בום\" ניצחה את הפריים; אותו רייטינג - פער של 14 אלף צופים בין כאן לרשת",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Zl9QeGFia3poMjQ3TWNfRzVienlicF84MTB2RDJEaGRCblhOd1lHVWFfMnkzelkzVUxCa2k5Q2dIUHRCN09vblpLcms5eWJKYWE5OUttaElKUEtHQWJCVUIwSVViQ2lLeUpjbXJpMGprd2FsR1ZrUVl3OVlSMmc?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-09-20",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "מתקשרת הסלבס בנבואה דרמטית על כוכב ערוץ 14: \"יגיע רחוק\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zZ2dVZHFyQnRaZVBINVBLS0ZteHFiZ2FtZUY1eUpRekxEYzU5NDBSSm9WNFFLTHVucW1TTGR1RnhkeVkxUHV3ckhpampyblJTb1NoN2FpbFJSUkFB?oc=5",
