@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T07:30+00:00",
+ "updated": "2026-09-20T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -295,6 +295,16 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "מכבי ת\"א שמרה על מאזן מושלם, מהפך וניצחון למכבי חיפה מול טבריה",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUtyVE1OZVktUGZtY0ZScFpUWUNzb1dINllQYjRUN09zTVMtVnNhcWRHMmdLSDF3WmdXdTh0aV9tMHZISXFvTHc4SHpNVUdlcXBUeEdXY3dKSnJ1RWQxR3VBLU5kYnU2dHZHd1ZHaHQ1dU9yWGJZbnBkR0k4bzFrRFJ4VkxBdXdlUlFjd1ZUMmg0aEJNUHFYcUpETzBzVTQzLWRXejBmaw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "אלפי ישראלים בחו”ל נערכים לשוב כדי להצביע, והליכוד מבקש למנוע את היוזמה -",
