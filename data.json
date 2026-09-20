@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T07:00+00:00",
+ "updated": "2026-09-20T07:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,20 @@
   }
  ],
  "items": [
+  {
+   "title": "רייטינג: התינוקות של בייבי בום לא ריחמו על ינון מגל וערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Qd1FqRDctQmxuUnBrY3BGOFhkbmI3MmNNSTdzR2c0MHdsUzMyTDg2ZWF5bUVMejlRWm0tRlJ2bmhKS2lTMTJTM29QcGgteWxVSGd5VmNsVmFpaDRkenJLbzBR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-20",
+   "keywords": [
+    "רייטינג",
+    "ינון מגל",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "\"בייבי בום\" ניצחה את הפריים; אותו רייטינג - פער של 14 אלף צופים בין כאן לרשת",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Zl9QeGFia3poMjQ3TWNfRzVienlicF84MTB2RDJEaGRCblhOd1lHVWFfMnkzelkzVUxCa2k5Q2dIUHRCN09vblpLcms5eWJKYWE5OUttaElKUEtHQWJCVUIwSVViQ2lLeUpjbXJpMGprd2FsR1ZrUVl3OVlSMmc?oc=5",
