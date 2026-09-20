@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T00:00+00:00",
+ "updated": "2026-09-20T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "הח\"כ הסרוג בעד עולם התורה ונגד שלמה קרעי: \"החוק שלו יאפשר תועבה\"",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU09yU1pBVnZTaVYtcHZYSEh4dXVqbmw0OHpzQ1ZyME1xaDUzeWpncm1wM19NUG83TE1fS3ZuanhhV3EtVzNhdmxCclJyck5EMkJldjNXNlhtUEZnR2ZXMWJHdGdIbjBtZmtmZ0xkRTczUThuSHZMY3lRWEtDWEVfSGJnX241bW5maURYbWQwQWM?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-09-19",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "Thousands of Israelis Abroad Prepare to Return to Vote as Likud Seeks to Block Initiative",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KMU1nZUdJSHIzaHQ2SFdoNHVoNDh4bFNMcnZQaEdNTEhSbUNXVHAyaHluVl9YWktxNWNTUEpIVlpDSHR1R05Hd2k4Y3lITnhi?oc=5",
