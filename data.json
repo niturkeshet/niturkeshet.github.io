@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T06:15+00:00",
+ "updated": "2026-09-21T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,7 +170,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -258,6 +258,17 @@
   }
  ],
  "items": [
+  {
+   "title": "איש ליכוד מפיק באישור משרד החינוך אירועי בחירות בבי\"ס עם מגישי ערוץ 14",
+   "url": "https://www.haaretz.co.il/news/elections/2026-09-20/ty-article/.premium/000001a0-ba51-de67-a5a3-ff7555780000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-09-20",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
   {
    "title": "ארבע שנים אחרי: מי התרסק, מי זינק ומי שמר על כוחו בפריימריז בליכוד?",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EVG1RbndkZVpWV2c1YXpMNGwxSTNXWVQwZUxFejM0Sno3OWFjakltWXgxMXZpUXR4YUVXbTBVb09yNlcxYkYybVF3dHh4X0FDRS1LczVMZkpQODVqR29rMVVkNHdXRXhkZFE?oc=5",
