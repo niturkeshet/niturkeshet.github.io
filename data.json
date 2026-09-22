@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T19:00+00:00",
+ "updated": "2026-09-22T19:17+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "וואלה תגיות - בג\"ץ",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nQ0c4WGd2cEZSbWEzWG1TQnI0TXNoWXJDQUx0TVJuYVVDalRzd2F4ZnJWU2d4YVNkWEcwQko5M2daMGdzWWRmcHo2TGoxSy1lcTdWMDExS1JaYm5RaGx6aw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
   {
    "title": "רייטינג: \"קופה ראשית\" וכאן 11 לא ריחמו על ינון מגל וערוץ 14",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUejhEb01zZXVOaWprQ1ZFbEJWVFAxQnNWZlR5d04xaW1SbEJmc1lZMkRDNDVqamdpLTUtcEh6bjBYc1VFbFVieXJaTzVZa3M3WjdPQ0FwMEZMdUdPWFIyM29B?oc=5",
