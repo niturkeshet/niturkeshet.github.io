@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T06:00+00:00",
+ "updated": "2026-09-23T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -259,6 +259,26 @@
  ],
  "items": [
   {
+   "title": "מהאולפן לרגולטור? נתניהו שוקל את ברדוגו לתפקיד שר התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tYTg3OFpVV1ZWNFM0MnNfYzExdjl0ckI5TkF4SEMxRVdRTEpBcTg0ay01dU14TXY0elMyZ1RWc3FxU1lsTnhzeQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "HKN חיפה והקריות"
+  },
+  {
+   "title": "כלל ביטוח בדרך להשקעה באחד מבנקי ההשקעות הוותיקים בישראל",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JSTBfaVFTR2pJWWhrMUtRd0xnOXpmQVVja2cyY3BaRUt5Y0NnRHRkX1NmOHdsSGl4U09tLTdEQ3E0TmVXS3hDYWVyYkdDaG1LSFZKa3ZGZ0NKZXotVTZKRVRqNzlfa2VB?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-09-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
+  {
    "title": "עסקה גדולה בפיננסים: כלל ביטוח במו\"מ להשקעה בווליו בייס לפי שווי של 600 מיליון שקל",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbmdWTTVrXzNaelo2aVFudkZET3JDNm5oRnR1aVlOZHdUZ2c4QmlDTzY5cGNqdkhOU0dtek5YeFhEZ1RZRC1Ld01zN3VCX2YtX2xhZjl2aS1UY3J0MnAyV1F3d0hqMVpDZ21ERUdCY05HWXVzMUJ6R1pjNTZScWpoOEVmcVZFOTRNcTZXMDQ3Ui1hRUxkNTA4?oc=5",
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -277,16 +297,6 @@
    "keywords": [
     "הרשות השנייה"
    ],
-   "pv": true,
-   "publisher": "וואלה חדשות"
-  },
-  {
-   "title": "וואלה תגיות - התנועה הקיבוצית",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2U2Q0s0OUhhTFd4TExqbmx3U3dfRlVaVGdKTnkzelh1XzZPYlp1dy1hc1BjTWxnNS0wNlIydkwzYW5DVFVuSElqVWs3cjU3bkFUVlMyOUJBWUhIelcyeTVqRnJkZlBhWmxxSEY4cmtQZTdDVjg0WnVpek5IN2Zmd2lBeFRyLWZ0WEt2WGVXaWJJYzlMSXdaV1BxNXZDZXI1aTVDX0M5dnFGRlpObGd3LXFkNFg2Zw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-22",
-   "keywords": [],
    "pv": true,
    "publisher": "וואלה חדשות"
   },
