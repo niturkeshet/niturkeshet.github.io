@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T10:45+00:00",
+ "updated": "2026-09-23T11:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -330,6 +330,16 @@
    "keywords": [
     "הרשות השנייה"
    ],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
+  {
+   "title": "וואלה תגיות - התנועה הקיבוצית",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2U2Q0s0OUhhTFd4TExqbmx3U3dfRlVaVGdKTnkzelh1XzZPYlp1dy1hc1BjTWxnNS0wNlIydkwzYW5DVFVuSElqVWs3cjU3bkFUVlMyOUJBWUhIelcyeTVqRnJkZlBhWmxxSEY4cmtQZTdDVjg0WnVpek5IN2Zmd2lBeFRyLWZ0WEt2WGVXaWJJYzlMSXdaV1BxNXZDZXI1aTVDX0M5dnFGRlpObGd3LXFkNFg2Zw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-22",
+   "keywords": [],
    "pv": true,
    "publisher": "וואלה חדשות"
   },
