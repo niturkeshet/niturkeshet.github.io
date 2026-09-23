@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T20:15+00:00",
+ "updated": "2026-09-23T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -259,6 +259,28 @@
  ],
  "items": [
   {
+   "title": "איזנקוט בראש, נתניהו בשפל - אך מנדט אחד מפריד בן הגושים | סקר",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wZ1piQWpUMW9lN3NSUUplX2dubWZDNi15b1RkQWgwODlTVkt0QWdDZjdIUDF0d1lxUFJzb25ZeVJhQnpPSVlkZXlON2pHSzhtdjJaLU5KMW9uZnc?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה"
+  },
+  {
+   "title": "וול-סטריט ננעלה בירידות שערים; גוגל וספייסX ירדו ב-4%",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GRlZaVUVZTkVTSWpRdmdGV01NcTFONUhXWXluU2ZtSlZrRTRWWkUybHp2YnE0UWRmelozRU9yQjREc3lsZzgwWUJBTGxCZ0l2YnZoREdYSVRvRnV3RHM1SzRiOHBVQ0RTTVc4cGhfdEs?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-09-23",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
+  {
    "title": "Israel inaugurates W. Bank settlement tied to expulsion of Palestinian community",
    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPR3BpN1Y1QU5LZGZMUGZhVXp1QXhFVW94bHNKdzVvYlRkVDRJTy10b2U3SjI4LXhOVTQ4NUNKdE42aGE0Z0s5WWVmaGQtUXF2Q1RZSGtVMm1wbmVkTURhZGNHVWhuRnNCTFRkSzV3RWs1ZlloUGlWaFYwdTBsTDFJM2lheVI2ekJScl84THJNN3NlUFVRZEtWOFBvY09uUlpjYjdzbWo1WldRcEpZc3V6c3R6TjlGY09WYmF1MjYtUHRsYkQ1dXhIQVBnZGdtYmotc2cyZjVtXzdYNFFtU1FIVmdkNl9YYW1xdmJJOG10T0FYWVFQTWdGZEtYdS01VWVZc09yekc1MTdxUzhCT3c?oc=5",
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -269,7 +291,7 @@
    "publisher": "Haaretz"
   },
   {
-   "title": "וואלה תגיות - בג\"ץ",
+   "title": "וואלה תגיות",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GRFd3QzZ3WVRnNzQ5dmZiUFZTWUdrWGNGRFZFWWFWdUZxSlpHWG1pZ3VfZDlUVm5USEE3RGpiaXY4X2Z4UVJhNDQwNVB5amRTSWdUd1lPV255UzZvRVVr?oc=5",
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "type": "google",
@@ -277,18 +299,6 @@
    "keywords": [],
    "pv": true,
    "publisher": "וואלה"
-  },
-  {
-   "title": "וואלה תגיות",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2lPNTB0NzdPTi1QcU9zVWlvS0s5Y1hCenFQQXFsTkhOWng0WUd0QWdpZnJBWW9ZNlAwaGZsMXRtdENMQW1waWw4MkhXcXZ1ZUZxb0xIdmRnNnRsaG5JdHZ3WEFnZXM0S1R6bC1KSlJYaHlQWjZTZ0diMHpIWVJNMjZBVHY4eGwyY3ZzdENEVU1hV3Z0aTJUSWpfX3lKZw?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-09-23",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "וואלה חדשות"
   },
   {
    "title": "שרים חנכו התנחלות חדשה שהקמתה לוותה בגירוש קהילה פלסטינית",
