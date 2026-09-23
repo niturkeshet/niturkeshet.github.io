@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T12:00+00:00",
+ "updated": "2026-09-23T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ימים ספורים אחרי הפיגוע הקשה: יישוב חדש הוקם בבנימין",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3ViSnhkN0p5ei1naUQ4UGRrT280d1BjbEFVaWFyVG5ldGctVFdfcnRhY0s4bThFbHVZRER0OW1KWkVDTGowazVlVVdyTWtmY21jamJZX0dVQXpRRWFvNHVma2RybHdPVmJuVFhvTnBKRlJLZktwQlBDWjF1cGQ5T1lSdGI0cEp6cmczNXdSM3FiX01iZHAzemxOVmdBdGVvTkFzeHQ1bXpwbUk4akxxM2s2UWZNTFU1Uk5j0gG7AUFVX3lxTE5rdWJKeGQ3Snl6LWdpRDhQZGtPbzR3UGNsQVVpYXJUbmV0Zy1UV19ydGFjSzhtOEVsdVlERHQ5bUpaRUNMajBrNWVVV3JNa2ZjbWNqYllfR1VBelFFYW80dWZrZHJsd09WYm5UWG9OcEpGUktmS3BCUENaMXVwZDlPWVJ0YjRwSnpyZzM1d1IzcWJfTWJkcDN6bE5WZ0F0ZW9OQXN4dDVtenBtSThqTHEzazZRZk1MVTVSTmM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיפה"
+  },
   {
    "title": "\"מסר ברור לתומכי הטבח\": 12 משפחות ראשונות עלו ליישוב מצוקי ארץ שהוקם בבנימין",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XcGVnMHlvTnRBNG1QMTNmQ1hpUUpxUElQM2V0MUllWnB2MVoyMkVtVzRXQ1Ita3FsaWM3clIxWV9QTDluTlBZ?oc=5",
@@ -340,16 +350,6 @@
    "keywords": [
     "הרשות השנייה"
    ],
-   "pv": true,
-   "publisher": "וואלה חדשות"
-  },
-  {
-   "title": "וואלה תגיות - התנועה הקיבוצית",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2U2Q0s0OUhhTFd4TExqbmx3U3dfRlVaVGdKTnkzelh1XzZPYlp1dy1hc1BjTWxnNS0wNlIydkwzYW5DVFVuSElqVWs3cjU3bkFUVlMyOUJBWUhIelcyeTVqRnJkZlBhWmxxSEY4cmtQZTdDVjg0WnVpek5IN2Zmd2lBeFRyLWZ0WEt2WGVXaWJJYzlMSXdaV1BxNXZDZXI1aTVDX0M5dnFGRlpObGd3LXFkNFg2Zw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-22",
-   "keywords": [],
    "pv": true,
    "publisher": "וואלה חדשות"
   },
