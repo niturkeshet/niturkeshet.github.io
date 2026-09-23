@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T12:30+00:00",
+ "updated": "2026-09-23T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ימים אחרי הפיגוע: 12 המשפחות הראשונות עלו ליישוב החדש מצוקי ארץ בבנימין",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zV3hiLUh1Y0pnQzY0Q0NreDc4anYyUmhoV01UbHhXbXRjeS1wUjlKaWNTUDJBS3JDNEtWbV90ZTdkc1NlR3Z5OQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "80 שנה אחרי י\"א הנקודות: יישוב חדש קם במזרח בנימין",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqV3BibnF1SGpWUWt6WEZ6SkRkYmNkRE8wTmZOZGhzNUxLb3UtU3FDb0lCYXJjSFN5S01GOFBwdDlpdlNaOTF4ZE5sZHZNQ2d1amVfZmF1R3NoeDNkVEJaOVFSNnhlNy10V25Vcg?oc=5",
