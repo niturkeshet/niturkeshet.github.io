@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T05:45+00:00",
+ "updated": "2026-09-23T06:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -259,6 +259,16 @@
  ],
  "items": [
   {
+   "title": "עסקה גדולה בפיננסים: כלל ביטוח במו\"מ להשקעה בווליו בייס לפי שווי של 600 מיליון שקל",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbmdWTTVrXzNaelo2aVFudkZET3JDNm5oRnR1aVlOZHdUZ2c4QmlDTzY5cGNqdkhOU0dtek5YeFhEZ1RZRC1Ld01zN3VCX2YtX2xhZjl2aS1UY3J0MnAyV1F3d0hqMVpDZ21ERUdCY05HWXVzMUJ6R1pjNTZScWpoOEVmcVZFOTRNcTZXMDQ3Ui1hRUxkNTA4?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-09-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
    "title": "וואלה תגיות",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2lPNTB0NzdPTi1QcU9zVWlvS0s5Y1hCenFQQXFsTkhOWng0WUd0QWdpZnJBWW9ZNlAwaGZsMXRtdENMQW1waWw4MkhXcXZ1ZUZxb0xIdmRnNnRsaG5JdHZ3WEFnZXM0S1R6bC1KSlJYaHlQWjZTZ0diMHpIWVJNMjZBVHY4eGwyY3ZzdENEVU1hV3Z0aTJUSWpfX3lKZw?oc=5",
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -267,6 +277,16 @@
    "keywords": [
     "הרשות השנייה"
    ],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
+  {
+   "title": "וואלה תגיות - התנועה הקיבוצית",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2U2Q0s0OUhhTFd4TExqbmx3U3dfRlVaVGdKTnkzelh1XzZPYlp1dy1hc1BjTWxnNS0wNlIydkwzYW5DVFVuSElqVWs3cjU3bkFUVlMyOUJBWUhIelcyeTVqRnJkZlBhWmxxSEY4cmtQZTdDVjg0WnVpek5IN2Zmd2lBeFRyLWZ0WEt2WGVXaWJJYzlMSXdaV1BxNXZDZXI1aTVDX0M5dnFGRlpObGd3LXFkNFg2Zw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-22",
+   "keywords": [],
    "pv": true,
    "publisher": "וואלה חדשות"
   },
