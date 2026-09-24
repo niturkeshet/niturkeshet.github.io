@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T12:30+00:00",
+ "updated": "2026-09-24T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -230,13 +230,13 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,36 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ נגד קרעי: כהונת מנכ\"ל התאגיד תוארך זמנית",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBdkpUbzFEamE0UHFFQ05xNE1QVjZzdS1iLVEtVkk1N29XdDBQUVFIME1ublFFWGdreDBHU3g1V2FpSG91UlVWbWp3QUZwa3RQeXJtSE1jRGxlY0Z5Z1E?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "maariv.co.il"
+  },
+  {
+   "title": "\"טיעוני קש\": בג\"ץ מחייב את קרעי לאשר את המינויים לתאגיד",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0ycEdFZ0dUWUJaNVoyZ3VSRXQxVzNRU0VQLXJkWGhuYlBLM2F1RV93QUhJSlplS01zZDBfZS01eG5lOG9oSFRySk5mckZwaDdUMC1SRnVXSQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
+  {
+   "title": "בג\"ץ הורה לקרעי למנות חברים למועצת כאן והאריך את כהונת המנכ\"ל",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZM1ZjZ2d2anMyYmFsRkxJUk1ERllHUWoxX0NuTWlnVXJBNlJwcUNVR0tZRzFHay1qWnRQYXJ0eUJVdXYyRHphMEtSZ0d1d3hsT3Qxcy1hZG9nYXJOSDNoXzUtNWRWU0U?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "עתירה לבג\"ץ נגד חוק הרדיו: הטבות כלכליות לגורמים ריכוזיים על חשבון הציבור",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMzJPM3RkeWtoRFpmUjNneTBnUlVWZHhRLVl2YTNpUWtRMko2TWphLVA0VkRsS2JNYkJUc2N0RzZMejE0U1JxdFRxYW92VVNJNkJycmFQb05LQTZnRWxoSFlGd056WmprWlZZaU8xc3RfeDlCbVJySEl1dWhpcmFlSWdlWUIta0hVQndLZmt6R1JNX1VZMGpvMHAzcUF5M05yQ21vZHRQN1FqZnc?oc=5",
@@ -281,18 +311,8 @@
    "publisher": "סרוגים"
   },
   {
-   "title": "ללי דרעי בראיון: \"לא נתפשר על חוק הגיוס - גם אם לא תהיה ממשלת ימין\"",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80aDA1Q3p3SkVnVGc0R2lOQ0U0TExodHBYVTFHbXRNSzNhaTNrZE91X1VaRzBWaE54c2FlTjd1SXZUTDZWMlNPb3lJMkMyTUhXblU3emlQZ3NFRVdtV1dNY1d5YWd1bWctaWNvVA?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-09-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
    "title": "ללי דרעי בראיון: \"לא נתפשר על חוק הגיוס",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80aDA1Q3p3SkVnVGc0R2lOQ0U0TExodHBYVTFHbXRNSzNhaTNrZE91X1VaRzBWaE54c2FlTjd1SXZUTDZWMlNPb3lJMkMyTUhXblU3emlQZ3NFRVdtV1dNY1d5YWd1bWctaWNvVNIBdEFVX3lxTE44bkZ0Vms1N3Fnc2ttbkhxMFJHczJzNlc3eTkxN1FDNnFLckEwODFEZWJNNlNfcG45dk0yS3N5Y0hsT1k3dnU3dXY4Y2VfcURXTHhFb0hHaTFWQWRjOEp2ODhJb1NKQnZ5TEVSNThEQmtmMUot?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80aDA1Q3p3SkVnVGc0R2lOQ0U0TExodHBYVTFHbXRNSzNhaTNrZE91X1VaRzBWaE54c2FlTjd1SXZUTDZWMlNPb3lJMkMyTUhXblU3emlQZ3NFRVdtV1dNY1d5YWd1bWctaWNvVA?oc=5",
    "source": "חיפוש גוגל · גלית דיסטל",
    "type": "google",
    "date": "2026-09-24",
