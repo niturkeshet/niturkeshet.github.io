@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T15:00+00:00",
+ "updated": "2026-09-24T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ לקרעי: חתום על המינויים שפסלת למועצת התאגיד תוך שבוע",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FZVAybDhPVWtNcWRUUU9MdWtDTlR1S0wzYUdaekxiZDBDZnJqckl0S18yWXMyeTJIdUVjQWs1bVZHVVRzd3V5OUhMdXUyeHdDQmF0akJEY2Vjdnh6OW42XzgzbUpKU25Y?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "בג\"ץ הפך את החלטת קרעי: ארבעה חברים ימונו למועצת תאגיד השידור",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UX21ZcHpIUW8wTUQ0U0diQ2lfUlQ4SElnLWRQTEI4VHdqM0RIVkpVOW1EZWJ5Mk54dUNYNW94ZFM5M0FneUd5RmJwV3VpaGJYSTZ4ZGVfRHo1cUVOSm5TMldhMGdPZw?oc=5",
