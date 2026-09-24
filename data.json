@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T17:45+00:00",
+ "updated": "2026-09-24T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Likud rejects Winter plea, vows to keep up attacks on Amcha",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRmJxS194UEZkZnctdGFZN0JxeXBvZk9yelRqOTNrMVUzZWgwZDlRU1h2al8yV3VEeVkwclBJNW1yd2pCNzNPNXJuYTFsaXRkVVE?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
   {
    "title": "ללי דרעי: \"לא נתפשר על חוק המשרתים",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80aDA1Q3p3SkVnVGc0R2lOQ0U0TExodHBYVTFHbXRNSzNhaTNrZE91X1VaRzBWaE54c2FlTjd1SXZUTDZWMlNPb3lJMkMyTUhXblU3emlQZ3NFRVdtV1dNY1d5YWd1bWctaWNvVNIBdEFVX3lxTE44bkZ0Vms1N3Fnc2ttbkhxMFJHczJzNlc3eTkxN1FDNnFLckEwODFEZWJNNlNfcG45dk0yS3N5Y0hsT1k3dnU3dXY4Y2VfcURXTHhFb0hHaTFWQWRjOEp2ODhJb1NKQnZ5TEVSNThEQmtmMUot?oc=5",
