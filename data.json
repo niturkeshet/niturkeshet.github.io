@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T11:45+00:00",
+ "updated": "2026-09-24T12:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "סוף לחגיגה: מעמד ערוץ 14 משתנה - מזעיר למסחרי רגיל",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KN0Jxc3JqaWlyU3BYNFV3M2djOFpYbk15QjBMRlluamJoWkdJVHRLakh6UVJRdHJEOEtCV0xpS04xR3A5OERRTUtwdHRXVlRiODJDbTRxSW5rdGV4Y3BkbVNPQlhfSms?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "ערוץ 14 כבר לא קטן: ההכנסות חצו 80 מיליון שקל - ההקלות יסתיימו",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KanhobVN2NTgyZkloNFFPbG9wVzE3NWR6eWF1X2J1SXdFRk1ocXA5N0VqNElyOUZWT2xvaWpaX2NCRXduN0NpWHBCS3d4WVhBVGYteGVlVmtEc25SMWxwM2R2ajI4R2dnM09QaTR6VkdNVmJkX0tzS0xhdV82YUE?oc=5",
