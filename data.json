@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T01:00+00:00",
+ "updated": "2026-09-24T01:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "וואלה תגיות - הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUlvQ0NUbmlIMzB2dHRMVl8zbUJQeG1RdWk2bDdsLWxKbGNmcTlBUVVfWTdxNVFtRmNlVlBmeEVfcnRLaVFRTEdKaW5mVG9HTmVOQlhLOWtUODV4b3l6bnNpdVZMSERBWElWT0doYTE5aktTVDlyRnRMWDJLMFcxZ1E4NFBFSGJOTzc4QUxVeFc2QVhwWWdmT2F5WHE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-23",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "וואלה"
+  },
   {
    "title": "וואלה תגיות",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2lPNTB0NzdPTi1QcU9zVWlvS0s5Y1hCenFQQXFsTkhOWng0WUd0QWdpZnJBWW9ZNlAwaGZsMXRtdENMQW1waWw4MkhXcXZ1ZUZxb0xIdmRnNnRsaG5JdHZ3WEFnZXM0S1R6bC1KSlJYaHlQWjZTZ0diMHpIWVJNMjZBVHY4eGwyY3ZzdENEVU1hV3Z0aTJUSWpfX3lKZw?oc=5",
