@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T01:30+00:00",
+ "updated": "2026-09-24T01:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -259,24 +259,12 @@
  ],
  "items": [
   {
-   "title": "וואלה תגיות - בג\"ץ",
+   "title": "וואלה תגיות",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GRFd3QzZ3WVRnNzQ5dmZiUFZTWUdrWGNGRFZFWWFWdUZxSlpHWG1pZ3VfZDlUVm5USEE3RGpiaXY4X2Z4UVJhNDQwNVB5amRTSWdUd1lPV255UzZvRVVr?oc=5",
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "type": "google",
    "date": "2026-09-23",
    "keywords": [],
-   "pv": true,
-   "publisher": "וואלה"
-  },
-  {
-   "title": "וואלה תגיות",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUlvQ0NUbmlIMzB2dHRMVl8zbUJQeG1RdWk2bDdsLWxKbGNmcTlBUVVfWTdxNVFtRmNlVlBmeEVfcnRLaVFRTEdKaW5mVG9HTmVOQlhLOWtUODV4b3l6bnNpdVZMSERBWElWT0doYTE5aktTVDlyRnRMWDJLMFcxZ1E4NFBFSGJOTzc4QUxVeFc2QVhwWWdmT2F5WHE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-23",
-   "keywords": [
-    "הרשות השנייה"
-   ],
    "pv": true,
    "publisher": "וואלה"
   },
