@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T10:15+00:00",
+ "updated": "2026-09-24T10:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "הרשות השנייה הודיעה לערוץ 14 על שינוי מעמדו מרישיון זעיר לרישיון רגיל",
+   "url": "https://www.themarker.com/news/themedia/2026-09-24/ty-article/.premium/000001a0-d2e1-d72e-a7e0-f2fd593a0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-09-24",
+   "keywords": [
+    "הרשות השנייה",
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
   {
    "title": "רגע לפני החג: הטרגדיה המשפחתית של מגישת ערוץ 14",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMVFdtWHYtazJrQ2Y2LXhmck5zSXBzeGlYWmNMREN6V21HYTFxY3NhVUVOYkpqVy1RdElvTk03c0xvYm5CMjVIXy1ycWdfY00teXJnMVh1YVNsWllNTVNOd09R?oc=5",
