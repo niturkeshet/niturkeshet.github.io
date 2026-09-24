@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T13:45+00:00",
+ "updated": "2026-09-24T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בג\"ץ הפך את החלטת קרעי: ארבעה חברים ימונו למועצת תאגיד השידור",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UX21ZcHpIUW8wTUQ0U0diQ2lfUlQ4SElnLWRQTEI4VHdqM0RIVkpVOW1EZWJ5Mk54dUNYNW94ZFM5M0FneUd5RmJwV3VpaGJYSTZ4ZGVfRHo1cUVOSm5TMldhMGdPZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "אחרי המפלה בפרמיימריז בליכוד: שלמה קרעי חוטף גם מול התאגיד",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zajlGT0k3d0FEVjRSVndRZ1hkN29US3VoVFRRbzA3YmZPVmo4dDd2QkJnTmV4ZzM1Z2xjVWM0d2NEdWhvcjBLazNjc3Q5QXhUc1JTcjJuUkhGOE96bUhsZWp3?oc=5",
