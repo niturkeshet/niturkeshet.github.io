@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T20:15+00:00",
+ "updated": "2026-09-24T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,53 @@
   }
  ],
  "items": [
+  {
+   "title": "המדינה מתייצבת נגד חוק השידורים של קרעי ומבקשת מבג\"ץ להקפיאו",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001557614",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true
+  },
+  {
+   "title": "היועמ\"שית לבג\"ץ על חוק קרעי: \"פגיעה קשה בתקשורת החופשית, נדרש צו ביניים\"",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2SE5pS24zVVlFOVpSWHJWXzdjWkI5QUJLV3A1QzZHYjV0VWNnWmZpdGN5cHJMZEU0NkphMXlvV1I3X0xqWXhSV2pqS2xmVUtmM1hndjVOLVBCZWMxcU9fU2VuOA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק קרעי"
+   ],
+   "pv": true,
+   "publisher": "i24NEWS"
+  },
+  {
+   "title": "היועמ\"שית נגד קרעי: \"חוק התקשורת התקבל בהליך משובש\"",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aLWFXSTh6c0JpT1pxUUQ3dzBJYXpDZlV3TUxDdkZyb19TdFViRWZjXzFINXI5blQ3YWlfZno4ckxjcHh4amFoc0stZjFCUHJQNjZCSnoyVmkxU0h2SXEwdDk5NVNsZ2tWQnk4NlJnazhCbnB2Q1RoOWczNGo?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "רשת 13"
+  },
+  {
+   "title": "היועמ\"שית דורשת לדחות את יישום חוק התקשורת: דרישה לצו ביניים נגד יוזמת השר קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UcUttazVRN1NPbFFKT1YtUzlIR1h0RWJSdVpBaUltR2pxOUhpS2tpZmE1bHIyRUx6RVBXQ0I0Mkx2UGhCTjRrbXRPRQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "JDN"
+  },
   {
    "title": "היועמשית לבג\"ץ: חוק השידורים יפגע קשות בשוק התקשורת, נדרש לעצור אותו",
    "url": "https://www.themarker.com/news/themedia/2026-09-24/ty-article/.premium/000001a0-d4f4-d259-a3b4-dcfc0f460000",
