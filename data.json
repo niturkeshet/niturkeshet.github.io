@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T20:01+00:00",
+ "updated": "2026-09-24T20:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -158,7 +158,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,54 @@
   }
  ],
  "items": [
+  {
+   "title": "היועמשית לבג\"ץ: חוק השידורים יפגע קשות בשוק התקשורת, נדרש לעצור אותו",
+   "url": "https://www.themarker.com/news/themedia/2026-09-24/ty-article/.premium/000001a0-d4f4-d259-a3b4-dcfc0f460000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק השידורים",
+    "שוק התקשורת"
+   ],
+   "pv": true
+  },
+  {
+   "title": "מיארה דורשת: לעצור את חוק התקשורת של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42QXlnRzFvZlNpbUhUaWNYU3dVNEY0U2R1X0FmeGU3UE5wYTRON0E4c05Ed2c1SkJGU3FoSFhxRHQ0YlJsYlMyd0VOaUdYdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "אמס"
+  },
+  {
+   "title": "היועמ״שית לבג״ץ: להותיר את צו הביניים נגד חוק השידורים",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HWEJxRVNVTWVHbzNOTGtPZUxtbnl6eGRqVEdXY0JtLW9JejRQYmV6ckpjS0xIS0xWb09YUzI0SEM3dm14M2dwVExqRmh3dGVDTHpfTnZpdzRjZlMwM05XXy1YaEhBeVFvZWc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
+  {
+   "title": "היועמ\"שית דורשת את הקפאת חוק השידורים: \"פגום מיסודו\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEMnJ4U0ZVTnN0R3JPVzdEV0RKcVNmZnJ0YjVHY3dtcHZmQmRMMU5pREJVaTh2My1QbXhxaTduTl92Njc3OWM4VHlLTFRMdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "היועמ\"שית לבג\"ץ: תוציאו צו שיקפיא את חוק התקשורת של קרעי",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3NBckpOV1FVdGtpdldkc2Q5TG9ncnVJS2dhTEVMT0JBUXVXOWw1amRTWklyTzhsaHBIMGg1ZTlKYW9OdXltd3prUFNBTlpoVGdTTkt1eVNKeXdLSVFMTVd2NUEwQXZtVzFxM0g1Nk1pYUt2dUNqQmhwWGRTZXpfemdPa0hXa3M?oc=5",
