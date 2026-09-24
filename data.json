@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T22:30+00:00",
+ "updated": "2026-09-24T22:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "היועמ\"שית לבג\"ץ: \"חוק קרעי יפגע קשות בשוק התקשורת החופשית\"",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yNkdYMmZpNmxSTEEtUFJKVEJzaVh3dDI2N3M0Z2g5Qk5ROVJJSHdwSlZLYWdBa1ZVNUNGUDZfd0xTZzluT1pIZndyYnNNOGNHWFNKYjZ1RDZ1clRNRGtUMjhnblk4MG1ZR3pOLWxGUdIBb0FVX3lxTE1yNkdYMmZpNmxSTEEtUFJKVEJzaVh3dDI2N3M0Z2g5Qk5ROVJJSHdwSlZLYWdBa1ZVNUNGUDZfd0xTZzluT1pIZndyYnNNOGNHWFNKYjZ1RDZ1clRNRGtUMjhnblk4MG1ZR3pOLWxGUQ?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-09-24",
+   "keywords": [
+    "שוק התקשורת",
+    "חוק קרעי"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "היועמ\"שית מבקשת מבג\"ץ להקפיא את חוק התקשורת",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ucDYwbC01d2p3Vm1HNnl6T0p3RzE1allWQklpX0JLLUhzSkY3eEJLMDFzZnNVd0Q4ZWRZLW1mVTZRUGlCUGxTeHVmdVM1dFFRbFJIdmdnWXd5bUdyTk5sc3hKcDU?oc=5",
