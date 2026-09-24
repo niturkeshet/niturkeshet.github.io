@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T20:30+00:00",
+ "updated": "2026-09-24T20:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,44 @@
   }
  ],
  "items": [
+  {
+   "title": "היועמ\"שית נגד חוק קרעי: \"פגיעה קשה בשוק התקשורת החופשית\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SN2JhQzZWck51SDY5elh1RVlyZWNqRnR5THRZZjVpRzhLWTRGXzhJMlpMRlNERmV5Tm9ZMWd1MXIwYXA0UTFvU2c5Uy1VNHgwejROYmpWX0tnWmdIMWpWQ1ZCSWIxZ3RWcXNMSGdBQXTSAXhBVV95cUxOR2t6RDRYbld0SGxEQU1takZ3T2NfUzFOZF8ycUtCMk1MVW5nY0hNeElsZ1ZMVVpYVGthaUtQb2F6TmFvQk1RU2xZdHN1ZUpGYUgtMXl2Mi1Hd2w3NkZIQWl2T1EyU044a2NZZXh0ekMtSVI5WW1hckQ?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-09-24",
+   "keywords": [
+    "שוק התקשורת",
+    "חוק קרעי"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "היועמ\"שית לבג\"ץ: להוציא צו ביניים קבוע נגד חוק התקשורת של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrWTh0cGFrZVZOYkJ0LUhkR0txcGRXOVF3Wlg0R0pSUldnYU8tSnN3YU8xYWVkRWkxVDVRTG5obXIyYTNoNkRjRkdKRHVyWW1xd21mUkVTNzlIZlU?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "ynet.co.il"
+  },
+  {
+   "title": "היועמ\"שית לבג\"ץ: חוק השידורים יפגע קשות בשוק התקשורת, נדרש לעצור אותו",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazlvc2tDYWFoTURFbzdlWklzUzhIMExLbi0wTG5VSnF5SUdqcUQ2dzMtazZGRkdVek1MeUNUQUxfVjZMYlpGX1ZhTUMwTFgySzhjSVRyOFdONnVRa3FLdkw3X0lFOHlpZzdNX1VmOTBpeWo4SlBMTWNNMFVQVWhDN1l0Y2dkZGRhWi1DXzVYWl82amcyR0RnQXc2Mk9TaktVX3FKZEhaR3R2TW8?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק השידורים",
+    "שוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "themarker.com"
+  },
   {
    "title": "המדינה מתייצבת נגד חוק השידורים של קרעי ומבקשת מבג\"ץ להקפיאו",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001557614",
