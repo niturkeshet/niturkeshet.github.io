@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T15:15+00:00",
+ "updated": "2026-09-24T15:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -146,7 +146,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "גלובס · גלית חתן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ללי דרעי: \"לא נתפשר על חוק המשרתים - גם ללא ממשלת ימין\"",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80aDA1Q3p3SkVnVGc0R2lOQ0U0TExodHBYVTFHbXRNSzNhaTNrZE91X1VaRzBWaE54c2FlTjd1SXZUTDZWMlNPb3lJMkMyTUhXblU3emlQZ3NFRVdtV1dNY1d5YWd1bWctaWNvVNIBdEFVX3lxTE44bkZ0Vms1N3Fnc2ttbkhxMFJHczJzNlc3eTkxN1FDNnFLckEwODFEZWJNNlNfcG45dk0yS3N5Y0hsT1k3dnU3dXY4Y2VfcURXTHhFb0hHaTFWQWRjOEp2ODhJb1NKQnZ5TEVSNThEQmtmMUot?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "בג\"ץ לקרעי: חתום על המינויים שפסלת למועצת התאגיד תוך שבוע",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FZVAybDhPVWtNcWRUUU9MdWtDTlR1S0wzYUdaekxiZDBDZnJqckl0S18yWXMyeTJIdUVjQWs1bVZHVVRzd3V5OUhMdXUyeHdDQmF0akJEY2Vjdnh6OW42XzgzbUpKU25Y?oc=5",
