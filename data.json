@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T11:15+00:00",
+ "updated": "2026-09-24T11:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ערוץ 14 כבר לא קטן: ההכנסות חצו 80 מיליון שקל - ההקלות יסתיימו",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KanhobVN2NTgyZkloNFFPbG9wVzE3NWR6eWF1X2J1SXdFRk1ocXA5N0VqNElyOUZWT2xvaWpaX2NCRXduN0NpWHBCS3d4WVhBVGYteGVlVmtEc25SMWxwM2R2ajI4R2dnM09QaTR6VkdNVmJkX0tzS0xhdV82YUE?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-09-24",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "כבר לא \"ערוץ זעיר\": הרשות השנייה הודיעה לערוץ 14 על שינוי מעמדו לרישיון שידור רגיל",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtY0tKREVCRHBmSHkweDVBTlJhY2ZtUE9TWjN3Tmd6LXdod2ZkbjdyUjFMUDdkVU1LaVpjUTY2MzQyVTVhY2lNU01rclVxTllGRnVUUVMxU2p1X1BOaTRERi1OQ1dlOFRw?oc=5",
