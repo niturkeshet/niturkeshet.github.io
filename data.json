@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T10:30+00:00",
+ "updated": "2026-09-24T10:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "כבר לא \"ערוץ זעיר\": הרשות השנייה הודיעה לערוץ 14 על שינוי מעמדו לרישיון שידור רגיל",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtY0tKREVCRHBmSHkweDVBTlJhY2ZtUE9TWjN3Tmd6LXdod2ZkbjdyUjFMUDdkVU1LaVpjUTY2MzQyVTVhY2lNU01rclVxTllGRnVUUVMxU2p1X1BOaTRERi1OQ1dlOFRw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "הרשות השנייה",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "הרשות השנייה הודיעה לערוץ 14 על שינוי מעמדו מרישיון זעיר לרישיון רגיל",
    "url": "https://www.themarker.com/news/themedia/2026-09-24/ty-article/.premium/000001a0-d2e1-d72e-a7e0-f2fd593a0000",
