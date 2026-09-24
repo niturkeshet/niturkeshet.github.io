@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T19:45+00:00",
+ "updated": "2026-09-24T20:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,42 @@
   }
  ],
  "items": [
+  {
+   "title": "היועמ\"שית לבג\"ץ: תוציאו צו שיקפיא את חוק התקשורת של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3NBckpOV1FVdGtpdldkc2Q5TG9ncnVJS2dhTEVMT0JBUXVXOWw1amRTWklyTzhsaHBIMGg1ZTlKYW9OdXltd3prUFNBTlpoVGdTTkt1eVNKeXdLSVFMTVd2NUEwQXZtVzFxM0g1Nk1pYUt2dUNqQmhwWGRTZXpfemdPa0hXa3M?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "mako.co.il"
+  },
+  {
+   "title": "היועמ\"שית נגד הממשלה: דרוש צו ביניים לעצור את חוק השידורים",
+   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcm9IalhOUU04NS1RV3JRcjJNdjNaQW9mSnkwN1NyMHdxZ0gzYW53N3gzeEExa1B4YnFjWl9ZaGl5eXlqdkRPbXBnMjJiSUdta2FMZEplSzJ5TVdIeF83TDgwbDRCRXZqbWMwcWpXenZkYTlSWjNIdlpmbUdSWEZNRzQ3bnItTUlDTDJHNy04TkxEZmdWTU5PajVDeTNlaXBPcnBMaW9ieG95R0tlcURvU2VONnF4MzRReDYxTTFvSHI4MDF5enoyTDNpVFJreHJSY3JEc193RkloVkRPSTY2RFN3VnptbDgtRkhFTTItWno4MDlOSy1xMXNWcFkxZDljQmpoYS1NYmZIbFZKNVFmZnY0VWU4SWpFVlo3SkwtRWdiZHVDb09FS1NveDhieWVKZ2tZalZNNHhmWWNlaE1WS3oydzB3MndTWnNVLV9wNGtKdjY1QkxBOVRqZDVZWHlRZ0ZN?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
+  {
+   "title": "היועמ\"שית לבג\"ץ: לעצור את חוק התקשורת של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LQ1VqUmRZZTFoeVVvWUdfdXpSVlhpTzZ2QTBTZjVPRWxiQ055YTZXSVFhbzhOTjBvYVMtRVljc0VEbm5hcjNiT2dVVVR4dENfVllVSWY2ZE1TTHVMb01Fbm9R?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "וואלה"
+  },
   {
    "title": "Likud rejects Winter plea, vows to keep up attacks on Amcha",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRmJxS194UEZkZnctdGFZN0JxeXBvZk9yelRqOTNrMVUzZWgwZDlRU1h2al8yV3VEeVkwclBJNW1yd2pCNzNPNXJuYTFsaXRkVVE?oc=5",
