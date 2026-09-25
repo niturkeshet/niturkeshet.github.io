@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T07:45+00:00",
+ "updated": "2026-09-25T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "האבסורד של ערוץ 13: כשהרגולטור מאשר מחטף בעיצומה של מערכת בחירות",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85RjJlS2dXTjZia3NPcmhMcjB4dmRYZk91UXhvcnBBTUh0aTNZWkR5VjNBQkpQcnJyLTdhZUJLWlRxZklXT2NJUjNJQXFFTEhLN3VTUUZHWnRuMTJpZC1CcS1iaw?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "ערוץ 14 והפטריוטים משפילים את קשת 12 | רייטינג",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ONGplOFZUMFp0Nk5rOFNtOV9jbkY0RVZJVUVjdUp5bWM3dWpYX2cyTVU5N0NXWXE3ay0tbUpPdWVTeThYYXNKYnM1X2dtZFhPX0ZUTXh5WnBwdERlSlQ5dGVB?oc=5",
