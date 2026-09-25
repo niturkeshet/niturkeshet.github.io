@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T20:00+00:00",
+ "updated": "2026-09-25T20:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "משרד התקשורת: שיפור בייצוג החרדים, תת-ייצוג חריף בשאר קבוצות הגיוון",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE12YmZwcWRJMmZ2OXpXYTJ1Qk5PYlFhQ19RTzdxWlNOUi13cEdfZHhLanVnV3JUTXdUQmdaeEZhOA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "שקוף"
+  },
+  {
+   "title": "אוחנה משתף פעולה עם היועמ\"שית - ותוקע את חוק הכנסת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91MWRCMjU2cU16Mk9wWTN6SWRvNjBBYnhhV1k3bk40MHBWVFhrRnV1N2JMeXVaU2hIWk9wRjQzVXBwX2l0cnYwTUVsZUhyUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "רפורמת התקשורת של קרעי מגיעה למבחן ראשון בבג\"ץ | שידור חי",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aQjdsYVZHYVdaenVhNjVITmthSHRZYVJxYk5IQ3MwWlBJWF9WYUoxN0wta0Q3TWNPb2k5VXRhVWJsWWszemRpMmxORzNCc2VMaXhVTS1xMHh5U29HdV8xSlNibw?oc=5",
