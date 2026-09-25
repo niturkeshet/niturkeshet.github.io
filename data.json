@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T13:00+00:00",
+ "updated": "2026-09-25T13:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רפורמת התקשורת של קרעי מגיעה למבחן ראשון בבג\"ץ | שידור חי",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aQjdsYVZHYVdaenVhNjVITmthSHRZYVJxYk5IQ3MwWlBJWF9WYUoxN0wta0Q3TWNPb2k5VXRhVWJsWWszemRpMmxORzNCc2VMaXhVTS1xMHh5U29HdV8xSlNibw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-25",
+   "keywords": [
+    "רפורמת התקשורת"
+   ],
+   "pv": true,
+   "publisher": "makorrishon.co.il"
+  },
   {
    "title": "השליך שתי מלחיות ונעצר: הוארך מעצר החשוד בתקיפת בנט במסעדה",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xLUE4TDhaVy1xSjRuMDFuUExDczU3UldBQlJhNk0tRXhxTzE3UEVjWXR3enJBdF9QNHV3elFsM2M4ZjExaVFUMkVZd2ExYWdLRHUzNVotWnl3WW9oMVBDV0dyNTY5V1MweHZReVVEclfSAXBBVV95cUxNcS1BOEw4WlctcUo0bjAxblBMQ3M1N1JXQUJSYTZNLUV4cU8xN1BFY1l0d3pyQXRfUDR1d3pRbDNjOGYxMWlRVDJFWXdhMWFnS0R1MzVaLVp5d1lvaDFQQ1dHcjU2OVdTMHh2UXlVRHJX?oc=5",
