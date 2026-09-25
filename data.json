@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T20:30+00:00",
+ "updated": "2026-09-25T20:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -354,6 +354,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "אלמוג כהן: \"ההצהרות של בן גביר מכניסות את המחנה לשאננות\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aNWt0cnlIemsyUGQ3RDZ4RUx3V3p2dTVmZ1BYNnR6SEF2SmNpdDdxNkJaTmp1VXhvdnBHS0ZpRFl1allzcnFYSUIzRjdqRXlDZHhYYnZlOXQzNEdZWmRudVR2Q081R3ZuU051RF9rRmI?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
   },
   {
    "title": "\"פגמים מהותיים\": היועמ\"שית לבג\"ץ - תוציאו צו ביניים שיקפיא את חוק התקשורת של השר קרעי",
