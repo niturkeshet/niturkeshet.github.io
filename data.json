@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T07:30+00:00",
+ "updated": "2026-09-25T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -258,6 +258,20 @@
   }
  ],
  "items": [
+  {
+   "title": "ערוץ 14 והפטריוטים משפילים את קשת 12 | רייטינג",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ONGplOFZUMFp0Nk5rOFNtOV9jbkY0RVZJVUVjdUp5bWM3dWpYX2cyTVU5N0NXWXE3ay0tbUpPdWVTeThYYXNKYnM1X2dtZFhPX0ZUTXh5WnBwdERlSlQ5dGVB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-25",
+   "keywords": [
+    "קשת 12",
+    "רייטינג",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "היועמ\"שית בפנייה לבג\"ץ: סכנה מיידית לשתי מהדורות החדשות הגדולות",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZZTctUnRPdTlTelp2a19UZ1hsNnVycU1rVVFydzl1a0FWaERFQmUtd1o2Qk5NUWJqaWo0MUF5emlIRjVjMjRWZDhnUUlmcTdnRnVGamZUa0Jhdw?oc=5",
