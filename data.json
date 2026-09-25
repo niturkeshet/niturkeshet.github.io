@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T08:45+00:00",
+ "updated": "2026-09-25T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -146,7 +146,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "גלובס · גלית חתן",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -258,6 +258,17 @@
   }
  ],
  "items": [
+  {
+   "title": "מכה לעסקים: מטא מבטלת את הפטור מתשלום על שירות לקוחות בוואצאפ",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001557618",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-09-25",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true
+  },
   {
    "title": "האבסורד של ערוץ 13: כשהרגולטור מאשר מחטף בעיצומה של מערכת בחירות",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85RjJlS2dXTjZia3NPcmhMcjB4dmRYZk91UXhvcnBBTUh0aTNZWkR5VjNBQkpQcnJyLTdhZUJLWlRxZklXT2NJUjNJQXFFTEhLN3VTUUZHWnRuMTJpZC1CcS1iaw?oc=5",
