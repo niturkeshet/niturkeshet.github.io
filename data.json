@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T09:45+00:00",
+ "updated": "2026-09-25T10:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Attorney general asks court to freeze Karhi’s media law, citing serious legal flaws",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUFpa3pzTV94NlktQzZ6UmVKYU5xVnFsTlBwRXZNM3B1ODNWSDVTZHEwaFBkM3RrZHlmYVY5WUFnQWJPUVFDdW5CTkNqa2NfNDZ5SGhnbnFzTGxCdTlyT25PaGRVY2NSQVZlTHVtaWFFQjVmLWtKWVZqY3NXakpHV045UmtLNzhuWmdLQ0hyekI4UTBIc3lRVGtHaTMtNVVkRmRkVUxiU1dUUjlrejhFWFQ1cG53TjTSAbcBQVVfeXFMUGVBaWt6c01feDZZLUM2elJlSmFOcVZxbE5QcEV2TTNwdTgzVkg1U2RxMGhQZDN0a2R5ZmFWOVlBZ0FiT1FRQ3VuQk5DamtjXzQ2eUhoZ25xc0xsQnU5ck9uT2hkVWNjUkFWZUx1bWlhRUI1Zi1rSllWamNzV2pKR1dOOVJrSzc4blpnS0NIcnpCOFEwSHN5UVRrR2kzLTVVZEZkZFVMYlNXVFI5a3o4RVhUNXBud040?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "מכה לעסקים: מטא מבטלת את הפטור מתשלום על שירות לקוחות בוואצאפ",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001557618",
