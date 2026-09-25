@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T04:30+00:00",
+ "updated": "2026-09-25T04:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בלי חסינות ובלי מקלט פוליטי: מה צפוי למאי גולן ביום שאחרי הבחירות?",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05S0Z6MmlhdkNjT0tlWkVsTmd3TEZhdlYtR0wtYzY0TjNlbFZsb0xpcGV1U0FiMjhIbHFEMWRPU090djV0X0dNajdpWlhIUWVQQVRhZGZCbHNzWmM?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-09-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה"
+  },
   {
    "title": "היועמ\"שית לבג\"ץ: תקפיא את חוק השידורים",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UMzI3TWwtbjg2Rk1kcEQ5cUZYX0QyUnVvY2I1ZEg3dHhrbkFaUG1JTGEzY2o1VDI3dXUzS1BOc1M2ZVIxWldzdTBOaDRsQmtMTWVOWldfaEYzeUxCY2tQYTVrZ2x0aUsx?oc=5",
