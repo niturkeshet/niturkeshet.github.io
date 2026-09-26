@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T00:00+00:00",
+ "updated": "2026-09-26T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -354,6 +354,42 @@
    "keywords": [],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "כבר לא \"ערוץ זעיר\": הרשות השנייה הודיעה לערוץ 14 על שינוי מעמדו לרישיון שידור רגיל",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001557477",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-09-24",
+   "keywords": [
+    "הרשות השנייה",
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "היועמ\"שית לבג\"ץ: תוציאו צו שיקפיא את חוק התקשורת של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3NBckpOV1FVdGtpdldkc2Q5TG9ncnVJS2dhTEVMT0JBUXVXOWw1amRTWklyTzhsaHBIMGg1ZTlKYW9OdXltd3prUFNBTlpoVGdTTkt1eVNKeXdLSVFMTVd2NUEwQXZtVzFxM0g1Nk1pYUt2dUNqQmhwWGRTZXpfemdPa0hXa3M?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-09-24",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
+  {
+   "title": "סוף לחגיגה: מעמד ערוץ 14 משתנה - מזעיר למסחרי רגיל",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KN0Jxc3JqaWlyU3BYNFV3M2djOFpYbk15QjBMRlluamJoWkdJVHRLakh6UVJRdHJEOEtCV0xpS04xR3A5OERRTUtwdHRXVlRiODJDbTRxSW5rdGV4Y3BkbVNPQlhfSms?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-09-24",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
   },
   {
    "title": "היועמ\"שית לבג\"ץ: \"חוק קרעי יפגע קשות בשוק התקשורת החופשית\"",
