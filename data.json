@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T06:15+00:00",
+ "updated": "2026-09-27T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "סגירת ערוץ 14 ופוליטיקה בבתי הספר: הבטחות הבחירות לצעירי \"הדמוקרטים\"",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1aUVTa25seGtFaXJ0Wk01WnpBNFY5U2NlLUZvanNGYXUtZjZiQ2hGU0dqXy04VTJuUEpreWJJY1RuUkZEZS1lQk53NkMwNEQ1QVlHUGFzM2hVdXJHT28tRUlhS01ZUWNZbGc?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-09-27",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "אסף רפפורט: \"מי מסרב ל-23 מיליארד דולר?\" - הלילה שבו וויז אמרה לא לגוגל, והמעטפה עם ה-30 מיליארד",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJRENrMHJTRkhYYVc2RHozeE81eGRxSWUwblJZZlQ5dzhpRWRLOGlDNDZ4QmF3Q2tRemtJS3BzbFpicEktVGlKSWhJM1BzamVpdG52WFhkWTZ2WkNZVktOVko1UWZMVU94?oc=5",
