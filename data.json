@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T19:45+00:00",
+ "updated": "2026-09-27T20:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מכבי ת\"א הביסה את אתא 61:109, ותפגוש את ירושלים בחצי גמר גביע ווינר",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOam1abnQ1cy16UDJVNU82QmQ2WUk1UnZuN2JFd2tTWXdUR3kyaHQtMzd6eHpwWjd4VVFzOVF0SHVnQm5wV2t4akVvc3pCM0s0MTdFeTN4R212aU9sVHUyak0wdEd0QmxRWEZhbU5XRllyRTFqVXc0TTAwN0ZxY2xXZTRTUjJNekVKdXg1SXRwemVocWJLWUdRbkEwY0lCcDRpWXYw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "העדויות מנמל התעופה בהולנד על בידוק מחמיר",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DQk0xMnFNaC1OaE5ndTJZLWs2cnYyT1hhbEFsVXJTNkN2ejQ1dVJzbGZqdHdGVl9CX0lYblJ5VUdvVmNTTTFUNHlOQTEzSFJvVEdjRjlFN1lGdw?oc=5",
