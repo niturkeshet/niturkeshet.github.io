@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T12:45+00:00",
+ "updated": "2026-09-27T13:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Attorney General pushes court to freeze new Broadcasting Law",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZOFI2cmNaOXhzeVBpZHVTVXVmNmZlUXBaTEkySHlyVzFzbW5TSkZIcVhabFk5eU1sYjNNaEstaC1LQmRHZWc4Z1FYcm94QTYtcXd0RFJJOGlGTTRM?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-09-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "אדווה דדון ואילה חסון תפסו את ערוץ 14 לא מוכנים | רייטינג",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mb1lkTzNTazEyR3RLdThoLWpFQ2VWRnJCcGxhUUY3VDBEa3o2bWF3ME1oTFFza19WaEZTXzF3RGhaOHdTTHExWGt2RUtFSzlnSWZ6WE9QbkJ5c1FIWm5rdTNR?oc=5",
