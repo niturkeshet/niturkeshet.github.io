@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T10:45+00:00",
+ "updated": "2026-09-28T11:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,7 +170,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -259,6 +259,18 @@
  ],
  "items": [
   {
+   "title": "מגישת ערוץ 14 חושפת: זו האמת מאחורי השידורים",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mSmNyblZJZDNKZG9NaklRS2w5ZGRJRjR5OVd2eFd4ZHM3dFh4WUt3Qk1SYm9WSFhIbE1vMUhmb3c4YUJKUEpMeUhua21FeEV2c1VGd3ozZW4?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-28",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice.co.il"
+  },
+  {
    "title": "\"קופה ראשית\" בפסגת הפריים: 311 אלף צופים, כמו חדשות 12",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43XzZ1cVpLY2tuZ0RQZmtLd0l1MDlLQXFMR3dYa3RwRHgyU1lUVzdRSXhpNEo4aGlCdHFfU0RDWlVTSFgtTlpNcjZzZzlFbnkzV1pSSTdDQXVhMWNjbnlDZlBOYVk3N3kzS3BRRnFIdkZWNGY3ZnoxcHNLUGMxWjg?oc=5",
    "source": "ביזפורטל",
@@ -269,6 +281,17 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
+  },
+  {
+   "title": "שלא תגידו שלא היתה התרעה: ערוץ 14 מזהיר מפני אסון אפוקליפטי",
+   "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-09-27/ty-article/.highlight/000001a0-dee6-d259-a3b4-defe54280000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-09-27",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
   },
   {
    "title": "מכבי אשדוד פתחה עם 70:77 על אליצור חולון, אבי מאיירס הצטיינה",
