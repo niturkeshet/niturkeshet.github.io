@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T22:45+00:00",
+ "updated": "2026-09-28T23:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ארבע שנים אחרי: מי התרסק, מי זינק ומי שמר על כוחו בפריימריז בליכוד?",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EVG1RbndkZVpWV2c1YXpMNGwxSTNXWVQwZUxFejM0Sno3OWFjakltWXgxMXZpUXR4YUVXbTBVb09yNlcxYkYybVF3dHh4X0FDRS1LczVMZkpQODVqR29rMVVkNHdXRXhkZFE?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "\"למצות את הדין עם העבריינים\": קרעי במתקפה על חדשות 12",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZOWFTdXFxbzFBeG9IcUlfeDZMRTB5MXlUS3l2eHVBZlB6bG9uYmtpV05vM1NEejREN0dRVTk3ZE1KWVdaQXgwdDJmZUYyQQ?oc=5",
