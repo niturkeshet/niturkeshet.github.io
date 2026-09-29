@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T19:15+00:00",
+ "updated": "2026-09-29T19:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הקרב על מיליארדי הדולרים: התביעה שמסבכת את פטריק דרהי",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81ZkRMRzVHR0VGS3RibkF5TlpCQjdsdGJrU1FYQzloQzBUTklRVUhVREVidHFVUk53QWlnUXNNOFFBUWNCcFl2UXV0N1BTNXpRUEVYb3dxVDA2cnBiNXh2a0ZVSDY?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "רביב דרוקר זוכה לתמיכה ממגיש ערוץ 12: \"הקריאה לחקור אותו מוגזמת\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sWTdEV3JDRVItYlA3dUMzWkxVTWJudmswbHI4TE01VV9NWkJTT2tGeS16Q3ZOODlYcnFncHdKS3E5b1NfaVl1cVRPT3FUcFVxaDNUZ2lIS0x4Y0lq?oc=5",
