@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T19:30+00:00",
+ "updated": "2026-09-29T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "רומן סורקין חתם על חוזה חדש במכבי תל אביב, וימשיך בקבוצה עד 2030",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVhYN01HdkpBdjd0a21oZC1USm9MN2lNRDVJblBnXzR0Ym9ybG1EVGlwTVhwU0RHZHNGNTUwWUNyUXRfSzM5NGFKNU14Wk1QeVA1Z2dna004MVg0aDBtN1VQNDhkRUlEQjJUb0E0dHotU3EzVFhFRGljT3ltSGUwblZMcWFTMlY1OF9sWWxqSUZjTFNNU2djQzRsak9NZ3VBUWRV?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-09-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "הקרב על מיליארדי הדולרים: התביעה שמסבכת את פטריק דרהי",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81ZkRMRzVHR0VGS3RibkF5TlpCQjdsdGJrU1FYQzloQzBUTklRVUhVREVidHFVUk53QWlnUXNNOFFBUWNCcFl2UXV0N1BTNXpRUEVYb3dxVDA2cnBiNXh2a0ZVSDY?oc=5",
