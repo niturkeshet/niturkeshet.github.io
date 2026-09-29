@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T14:30+00:00",
+ "updated": "2026-09-29T14:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,13 +182,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רונן ברגמן באולטימטום לינון מגל: מחק, התנצל ושלם פיצוי",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nWmhvNm5HTUpRNlpsMk40RHNBRkNuTFNzbkdvbmV3TGRDdXRucVBoX2xCOVY4NzctQ3JBTmpnUzQ2NnBuQkpreEFCOTJ0bmFLM0hheXRfV0Mwd0NtRXdFMllMWDlsUdIBbkFVX3lxTE9VbUs5LUU4c1gySjJIWHZHRXhWRC0zOWV3bTBBV19fT0ZHMXM4eFN3ZUJLQ3phRUlwMzNfaEVNV3BFZi1wdUV1MFJsdmFhaTdnOEw0NGI0YTlRR2N0MVdRUkNfMnNfSjZ4bkJGUVFR?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-09-29",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "ארבע שנים אחרי: מי התרסק, מי זינק ומי שמר על כוחו בפריימריז בליכוד?",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EVG1RbndkZVpWV2c1YXpMNGwxSTNXWVQwZUxFejM0Sno3OWFjakltWXgxMXZpUXR4YUVXbTBVb09yNlcxYkYybVF3dHh4X0FDRS1LczVMZkpQODVqR29rMVVkNHdXRXhkZFE?oc=5",
