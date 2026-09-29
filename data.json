@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T17:45+00:00",
+ "updated": "2026-09-29T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פטריק דרהי חוטף בענק: הנושים תובעים על מהלך של מיליארדים",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56NGdEQkRUTHpGNFpPNnVJME9JNnlpTVVDM3JZWUdlTzBJWXZiNkpKZWtNV0hJOUNNa3c2cVVhMTBMX2ZSN3ZuUDI0WEliTGozcjRUUjEtSzJBNndocGxqTGp4enhyNXdjUWhqVXNsTQ?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "רונן ברגמן באולטימטום לינון מגל: מחק, התנצל ושלם פיצוי",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nWmhvNm5HTUpRNlpsMk40RHNBRkNuTFNzbkdvbmV3TGRDdXRucVBoX2xCOVY4NzctQ3JBTmpnUzQ2NnBuQkpreEFCOTJ0bmFLM0hheXRfV0Mwd0NtRXdFMllMWDlsUdIBbkFVX3lxTE9VbUs5LUU4c1gySjJIWHZHRXhWRC0zOWV3bTBBV19fT0ZHMXM4eFN3ZUJLQ3phRUlwMzNfaEVNV3BFZi1wdUV1MFJsdmFhaTdnOEw0NGI0YTlRR2N0MVdRUkNfMnNfSjZ4bkJGUVFR?oc=5",
