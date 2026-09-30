@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T09:01+00:00",
+ "updated": "2026-09-30T09:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "עידן דוד הודח מתפקידו כדירקטור בנתיבי ישראל",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2SVRJZTdTdW9IV21LLTRnTi1CNHoxeGpkckMteHJNUjRQbUdibTR3YWJUcFM3VkxuRmRVVlRydVFyMmZjUzVn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "davar1.co.il"
+  },
   {
    "title": "חנוך דאום וקשת 12 משפילים את \"הפטריוטים\" וערוץ 14 | רייטינג",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhekZoaDV0NkdTRlIwTGpUTWgtUUtKNEVwU0pLaFZ3OEZpMmlVYWc4cUF3VHduSUtBcGN3NzVsYUxmLXgwSW1Ddy1HQWVLMGVnSk13cnJia0UyQ25jaWI3WlBB?oc=5",
