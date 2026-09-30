@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T23:45+00:00",
+ "updated": "2026-09-30T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,13 +176,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -311,28 +311,6 @@
    ],
    "pv": true,
    "publisher": "היום"
-  },
-  {
-   "title": "ארבע שנים אחרי: מי התרסק, מי זינק ומי שמר על כוחו בפריימריז בליכוד?",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EVG1RbndkZVpWV2c1YXpMNGwxSTNXWVQwZUxFejM0Sno3OWFjakltWXgxMXZpUXR4YUVXbTBVb09yNlcxYkYybVF3dHh4X0FDRS1LczVMZkpQODVqR29rMVVkNHdXRXhkZFE?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-09-28",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "\"למצות את הדין עם העבריינים\": קרעי במתקפה על חדשות 12",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZOWFTdXFxbzFBeG9IcUlfeDZMRTB5MXlUS3l2eHVBZlB6bG9uYmtpV05vM1NEejREN0dRVTk3ZE1KWVdaQXgwdDJmZUYyQQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-28",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "C14"
   },
   {
    "title": "מגישת ערוץ 14 חושפת: זו האמת מאחורי השידורים",
@@ -2318,91 +2296,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "אסף רפפורט ואיל וולדמן מכניסים מיליארדים למדינה, ואקזיט נוסף בישראל",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhdlFvQ1liaUVtMzJORnBoYmN0NzhGV0p0S25zeHd5SUFKWGZpNVlsczZXaEJsY3RqMUE4eWRzME9qU2JyVGtHMGJPbFVaVFhPRXlnWGNWRmZGQVdOZ3BZ?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-07-31",
-   "keywords": [
-    "אסף רפפורט"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "רייטינג: קשת מובילה - וינון מגל במסר חד לאסנהיים",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yenViLV9RODNMSFdDY3huODNQLU92TzN1Q3pqYUlKbkhIRUpPdzhPRk1EdUZpdEJRanI3TTQ5Z1o5aE1PMUthb0Z6cjEzcHBpRW1xY1lMRGpDZy1QQVBKWDVR?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-07-31",
-   "keywords": [
-    "רייטינג",
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "ערוץ 12: כל התגיות והחדשות החמות באתר על ערוץ 12 - אייס",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Kd0NGdFpBUjZHMTJtZS1saWZNVEhvYW1hTmk5a0h2YWxNUmhzU0lHNEtfRm9DU3RlcHVCeVlucTRyVVZIZ2V4QkplWUF5cWgySU5DbWxXZlJyVkh5aGx4RzNTQTF1UFNFMVV4UF9RSXQ?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-07-31",
-   "keywords": [
-    "ערוץ 12"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "\"עובדה\" מועלת בתפקידה, אז שאילנה דיין לא תזהיר מפני חיסול העיתונות",
-   "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-07-31/ty-article/.highlight/0000019f-b6d5-d6b6-afff-fefff7e20000",
-   "source": "הארץ · עידו דוד כהן",
-   "type": "site",
-   "date": "2026-07-31",
-   "keywords": [
-    "עובדה"
-   ],
-   "pv": true
-  },
-  {
-   "title": "תביעת הענק נגד גיא פלג וחדשות 12 נדחתה: \"פסק דין מוקרץ\"",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40TzVUSk53UWhrVjIzWGcxZXZqcUdkVWFsb3RZdnBNT3NObEFKcjdTb3NXeEtTdFl0cXJhaVhLUUhpaE9MLTBiMDJXY1FIUUdMQThzQkVLTF9iZw?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-07-31",
-   "keywords": [
-    "חדשות 12",
-    "גיא פלג"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "יאיר לפיד מגיש תביעת ענק נגד ערוץ 14: \"לפי החוק מגיע דין מוות\"",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51dFhoN0JUZENZZlZnVFp2a3dUcjB4UHk3dmJZbVQyNzdRTVNENnJiZEUxSURfbFVMd1FmenVvdDJfenR1X1BQNFNYOUpuaVVDRHpZV1A0X1JhQQ?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-07-31",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "איתמר מינמר, כתב חדשות 12, מסביר למה עזב: \"רוצה לעשות כסף גדול\"",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMeDNrRDlSWW1HdmtadklGNlF6VFNvdU9Ma0NsUzZOUzl5TmpXS0ExU0lJRzBrNlNBV0JNLUNxN3RBcDRneUxhS0ZxaU9tSTdrMVpBSTUzSGF3OTNKM0lmbnJkZFRyT3FEXzFfeUcyTFV2VTg?oc=5",
-   "source": "n12 / מאקו · חדשות 12",
-   "type": "site",
-   "date": "2026-07-31",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "mako"
   }
  ]
 }
