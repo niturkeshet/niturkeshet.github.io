@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T07:30+00:00",
+ "updated": "2026-09-30T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -316,6 +316,18 @@
    ],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "רונן ברגמן מאיים בתביעת דיבה נגד ינון מגל",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QWEtFOWFCdzVGNlBycU5mLU80LUYyb2pYXzJNdnpjMDFSUmxUTURQRVZtZFdMSWFGRVZWNFA3RTVUR2VZeXZZR2lGS3o3RWk1QnpvNENBT0F0YmkwdkdmTmx2UHA5OFHSAW9BVV95cUxOUnUxY1BMbUxZRFRXa2ExQ19KTDVOZ2NBN2NTSldMOHFXSmFvUkRYQ2xiZm1rVV9GN0E0Z1lXYUVIUjJobnN3WENMZkliZHNDcnB2UEk0OUtkRC0xZkNVMFpwUGxLMkgzRllxdEU0cDA?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-09-29",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "המבצר: ההפיכה המשטרית",
