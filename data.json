@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T03:00+00:00",
+ "updated": "2026-09-30T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "סוף להקלות בעשרות מיליוני שקלים: ערוץ 14 משנה סטטוס ויצטרך לשדר גם בערבית",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYlZJcElueUplUkkwcDNGaGxDcE5qX3Z6eE9PR1JVTTZ2S3FqdWdsYnlCZTlRRndjalMzR0VuS1NLcnp1WGVraG43YlAxYnJwUkVFTVVzempsZG5vbl9xTUo3bjNYODhReTBfWkVPX1JnR0piSzdVYl9OcDFQelRhdENyRzk4MWdGdzdQYkkySEU4OTdXTUtkZF80amlfajluOUtOT3M3dktiWFE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-30",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "רומן סורקין חתם על חוזה חדש במכבי תל אביב, וימשיך בקבוצה עד 2030",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVhYN01HdkpBdjd0a21oZC1USm9MN2lNRDVJblBnXzR0Ym9ybG1EVGlwTVhwU0RHZHNGNTUwWUNyUXRfSzM5NGFKNU14Wk1QeVA1Z2dna004MVg0aDBtN1VQNDhkRUlEQjJUb0E0dHotU3EzVFhFRGljT3ltSGUwblZMcWFTMlY1OF9sWWxqSUZjTFNNU2djQzRsak9NZ3VBUWRV?oc=5",
