@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T14:45+00:00",
+ "updated": "2026-09-30T15:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פטריק דרהי בצרות: 20 מיליארד דולר חובות, חדלות פרעון ותביעת ענק",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1faVZMYWRaSHU0aUF0TVUzZFM2TXUxQnRIMlF5M0FBclVRMGtCbDdCVzgtdk0zOW9kSEU5M096WERsVTJ3OVNDV2ZqVDZveS1fbkFWQ2l2TnVRNTJmeDUw?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "המיליארדרים החדשים: כל אחד מארבעת מייסדי וויז יקבל כ-3 מיליארד דולר",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zdDBVSTFmSmRJdThaV1RVbi1nVy1qM1JOMHdFOEZHbm9TazgyNS1menlPdXhuYWhqaUw5ekM5b2c5R3BsX0h3a1pxcFJPN3paV3hhMEdRUVJvM2JuT3lDMThkQm8zb1ZXRXR3?oc=5",
