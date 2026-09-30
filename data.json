@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T06:00+00:00",
+ "updated": "2026-09-30T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "יעקב ברדוגו חושף את הצעת החוק הדרמטית שבכוונתו לקדם: \"אסור לחקור\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YOWJCTi1MN3lfQTFJTWZXUWE1ZE9zV0Z1Y3NWa1NnSEMwMUFvRFFSeTN3VWhoRUJ2OUdXLUU3U1VoY3k1UmRUckc0OWNBeHYtU0lNWE1rMFg4N29M?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-30",
+   "keywords": [
+    "יעקב ברדוגו"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "חידת מוחמד סעוד: מפריצת הבלוגר ועד ההיעלמות המסתורית",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CZ1dsTkk2SWV1WWl0Tm5NemhCRFQyRFJHaDNqVmthYnZBdWNMVTJBa0UzdUxkUEsyR1JuUnpFVjRQS1o1VjdVLTMwRQ?oc=5",
