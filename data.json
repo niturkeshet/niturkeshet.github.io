@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T03:45+00:00",
+ "updated": "2026-09-30T04:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -280,6 +280,16 @@
    ],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "המבצר: ההפיכה המשטרית",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5JanRLV2pFbmY2U1pzX3o3UGY0T1pBUDB6UExfVVZELWJFNGRVay1waVJoRjhaOVhta3lycmFzcDc5bjdS?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
   },
   {
    "title": "רומן סורקין חתם על חוזה חדש במכבי תל אביב, וימשיך בקבוצה עד 2030",
