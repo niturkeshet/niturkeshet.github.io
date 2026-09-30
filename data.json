@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T06:15+00:00",
+ "updated": "2026-09-30T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,20 @@
   }
  ],
  "items": [
+  {
+   "title": "חנוך דאום וקשת 12 משפילים את \"הפטריוטים\" וערוץ 14 | רייטינג",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhekZoaDV0NkdTRlIwTGpUTWgtUUtKNEVwU0pLaFZ3OEZpMmlVYWc4cUF3VHduSUtBcGN3NzVsYUxmLXgwSW1Ddy1HQWVLMGVnSk13cnJia0UyQ25jaWI3WlBB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-09-30",
+   "keywords": [
+    "קשת 12",
+    "רייטינג",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "יעקב ברדוגו חושף את הצעת החוק הדרמטית שבכוונתו לקדם: \"אסור לחקור\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YOWJCTi1MN3lfQTFJTWZXUWE1ZE9zV0Z1Y3NWa1NnSEMwMUFvRFFSeTN3VWhoRUJ2OUdXLUU3U1VoY3k1UmRUckc0OWNBeHYtU0lNWE1rMFg4N29M?oc=5",
