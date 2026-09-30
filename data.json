@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T13:45+00:00",
+ "updated": "2026-09-30T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "המיליארדרים החדשים: כל אחד מארבעת מייסדי וויז יקבל כ-3 מיליארד דולר",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zdDBVSTFmSmRJdThaV1RVbi1nVy1qM1JOMHdFOEZHbm9TazgyNS1menlPdXhuYWhqaUw5ekM5b2c5R3BsX0h3a1pxcFJPN3paV3hhMEdRUVJvM2JuT3lDMThkQm8zb1ZXRXR3?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-09-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "calcalist"
+  },
   {
    "title": "עידן דוד הודח מתפקידו כדירקטור בנתיבי ישראל",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2SVRJZTdTdW9IV21LLTRnTi1CNHoxeGpkckMteHJNUjRQbUdibTR3YWJUcFM3VkxuRmRVVlRydVFyMmZjUzVn?oc=5",
