@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T04:30+00:00",
+ "updated": "2026-09-30T04:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "חידת מוחמד סעוד: מפריצת הבלוגר ועד ההיעלמות המסתורית",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CZ1dsTkk2SWV1WWl0Tm5NemhCRFQyRFJHaDNqVmthYnZBdWNMVTJBa0UzdUxkUEsyR1JuUnpFVjRQS1o1VjdVLTMwRQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
   {
    "title": "סוף להקלות: ערוץ 14 משנה סטטוס ויצטרך לשדר גם בערבית",
    "url": "https://www.themarker.com/news/themedia/2026-09-30/ty-article/.premium/000001a0-ec6a-d272-adf6-fdee98ff0000",
