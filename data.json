@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T22:45+00:00",
+ "updated": "2026-09-30T23:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נשיא ישראל נגד ממשלת ישראל: \"אי ציות לבג\"ץ הוא קו אדום\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfVURGdDJ5QzVfdkEtczJZUk5Ta3hTSTV1MEpVdzhyR21YUEp6aC1BU1JyZGo4YXpCTlpBQTJxbjc5RzhZSWE4YVYzWQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-09-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "פטריק דרהי בצרות: 20 מיליארד דולר חובות, חדלות פרעון ותביעת ענק",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1faVZMYWRaSHU0aUF0TVUzZFM2TXUxQnRIMlF5M0FBclVRMGtCbDdCVzgtdk0zOW9kSEU5M096WERsVTJ3OVNDV2ZqVDZveS1fbkFWQ2l2TnVRNTJmeDUw?oc=5",
