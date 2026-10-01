@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T10:00+00:00",
+ "updated": "2026-10-01T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פנחס ענברי: נתניהו במבוי סתום",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5kNzRJREx4em14cEtNRkp3VEtrOXFsU3FWN1VzSFFZaWVVbDkyRWsxRkhwbUJScHhQRmZwSlFvcVFsQ25G?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-10-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "רייטינג: יונית לוי הביסה את מגי טביבי וחדשות 14",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81bVFfR0d2RTlKb1l4cGRWLV91MXZtUXpuLXZheW84YlZHOEliRkF6NmlkdDJhcklNOWZJS3BCSmRaX3NIRVJ1R3FZWWd5R053aWhyZEpXQ0FpekQwU1FzTV9B?oc=5",
