@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T15:15+00:00",
+ "updated": "2026-10-01T15:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "טלטלה ברשת 13: טלי בן עובדיה נפרדת במפתיע מאסף רפפורט",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRTnBqQlFtNHdaS0x1S1RSTkFhQUcyZ1FpNFUzVFRCbnZSZkpVOUVsV2tvN1k0eUw0eElKT21MaG8zVGpqS1JXckR3ZHI4VnBRN21KakFyWjE3X2s1?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-10-01",
+   "keywords": [
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "גיא פינס בצומת דרכים: ההחלטה הדרמטית של קשת 12",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtUVptdVpBSWdwZ3ZiQ25mNVFXcDRkamcyTHk0TmZqQ2RPSGVvYURjdmdFUlpLTmJGdF9tWU1CTWEzTHE1SXJOMnBhY0YwZGNsTlZ3VDR1dUs2MXpXM2xr?oc=5",
