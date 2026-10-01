@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T06:45+00:00",
+ "updated": "2026-10-01T07:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רייטינג: יונית לוי הביסה את מגי טביבי וחדשות 14",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81bVFfR0d2RTlKb1l4cGRWLV91MXZtUXpuLXZheW84YlZHOEliRkF6NmlkdDJhcklNOWZJS3BCSmRaX3NIRVJ1R3FZWWd5R053aWhyZEpXQ0FpekQwU1FzTV9B?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-01",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "נשיא ישראל נגד ממשלת ישראל: \"אי ציות לבג\"ץ הוא קו אדום\"",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfVURGdDJ5QzVfdkEtczJZUk5Ta3hTSTV1MEpVdzhyR21YUEp6aC1BU1JyZGo4YXpCTlpBQTJxbjc5RzhZSWE4YVYzWQ?oc=5",
