@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T15:00+00:00",
+ "updated": "2026-10-01T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -158,13 +158,13 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "גיא פינס בצומת דרכים: ההחלטה הדרמטית של קשת 12",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtUVptdVpBSWdwZ3ZiQ25mNVFXcDRkamcyTHk0TmZqQ2RPSGVvYURjdmdFUlpLTmJGdF9tWU1CTWEzTHE1SXJOMnBhY0YwZGNsTlZ3VDR1dUs2MXpXM2xr?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-01",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "פנחס ענברי: נתניהו במבוי סתום",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5kNzRJREx4em14cEtNRkp3VEtrOXFsU3FWN1VzSFFZaWVVbDkyRWsxRkhwbUJScHhQRmZwSlFvcVFsQ25G?oc=5",
@@ -438,6 +450,17 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
+  },
+  {
+   "title": "\"כשאפשר לקבל על אג\"ח של גוגל 7% — אולי אין סיבה לקנות את S&P 500\"",
+   "url": "https://www.themarker.com/markets/2026-09-27/ty-article/.highlight/000001a0-d357-d18d-afbf-f3d717d80000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-09-27",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true
   },
   {
    "title": "שלא תגידו שלא היתה התרעה: ערוץ 14 מזהיר מפני אסון אפוקליפטי",
