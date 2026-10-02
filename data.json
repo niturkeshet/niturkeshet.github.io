@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T13:15+00:00",
+ "updated": "2026-10-02T13:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -282,6 +282,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "המבצר: התיק המלא על גלית דיסטל אטבריאן",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9LcDlQUGQtUWJkcG14aTYxMkxzN25KREtRM29mYW5uV0swT0dLMTQ3ZUVFbm50bDR2UkItZzNUVkduWHNv?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-01",
+   "keywords": [
+    "גלית דיסטל"
+   ],
+   "pv": true,
+   "publisher": "זמן ישראל"
   },
   {
    "title": "טלי בן עובדיה מנכ\"לית חדשות 13 ביקשה לסיים את תפקידה אחרי הבחירות",
