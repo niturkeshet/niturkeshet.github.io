@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T23:45+00:00",
+ "updated": "2026-10-02T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
@@ -326,46 +326,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "נשיא ישראל נגד ממשלת ישראל: \"אי ציות לבג\"ץ הוא קו אדום\"",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfVURGdDJ5QzVfdkEtczJZUk5Ta3hTSTV1MEpVdzhyR21YUEp6aC1BU1JyZGo4YXpCTlpBQTJxbjc5RzhZSWE4YVYzWQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-30",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כיכר השבת"
-  },
-  {
-   "title": "פטריק דרהי בצרות: 20 מיליארד דולר חובות, חדלות פרעון ותביעת ענק",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1faVZMYWRaSHU0aUF0TVUzZFM2TXUxQnRIMlF5M0FBclVRMGtCbDdCVzgtdk0zOW9kSEU5M096WERsVTJ3OVNDV2ZqVDZveS1fbkFWQ2l2TnVRNTJmeDUw?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-09-30",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "המיליארדרים החדשים: כל אחד מארבעת מייסדי וויז יקבל כ-3 מיליארד דולר",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zdDBVSTFmSmRJdThaV1RVbi1nVy1qM1JOMHdFOEZHbm9TazgyNS1menlPdXhuYWhqaUw5ekM5b2c5R3BsX0h3a1pxcFJPN3paV3hhMEdRUVJvM2JuT3lDMThkQm8zb1ZXRXR3?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-09-30",
-   "keywords": [],
-   "pv": true,
-   "publisher": "calcalist"
-  },
-  {
-   "title": "עידן דוד הודח מתפקידו כדירקטור בנתיבי ישראל",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2SVRJZTdTdW9IV21LLTRnTi1CNHoxeGpkckMteHJNUjRQbUdibTR3YWJUcFM3VkxuRmRVVlRydVFyMmZjUzVn?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-30",
-   "keywords": [],
-   "pv": true,
-   "publisher": "davar1.co.il"
-  },
-  {
    "title": "חנוך דאום וקשת 12 משפילים את \"הפטריוטים\" וערוץ 14 | רייטינג",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhekZoaDV0NkdTRlIwTGpUTWgtUUtKNEVwU0pLaFZ3OEZpMmlVYWc4cUF3VHduSUtBcGN3NzVsYUxmLXgwSW1Ddy1HQWVLMGVnSk13cnJia0UyQ25jaWI3WlBB?oc=5",
    "source": "ice · תקשורת",
@@ -392,16 +352,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "חידת מוחמד סעוד: מפריצת הבלוגר ועד ההיעלמות המסתורית",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CZ1dsTkk2SWV1WWl0Tm5NemhCRFQyRFJHaDNqVmthYnZBdWNMVTJBa0UzdUxkUEsyR1JuUnpFVjRQS1o1VjdVLTMwRQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-30",
-   "keywords": [],
-   "pv": true,
-   "publisher": "בחדרי חרדים"
-  },
-  {
    "title": "סוף להקלות: ערוץ 14 משנה סטטוס ויצטרך לשדר גם בערבית",
    "url": "https://www.themarker.com/news/themedia/2026-09-30/ty-article/.premium/000001a0-ec6a-d272-adf6-fdee98ff0000",
    "source": "דה-מרקר · יסמין גואטה",
@@ -411,18 +361,6 @@
     "ערוץ 14"
    ],
    "pv": true
-  },
-  {
-   "title": "סוף להקלות בעשרות מיליוני שקלים: ערוץ 14 משנה סטטוס ויצטרך לשדר גם בערבית",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYlZJcElueUplUkkwcDNGaGxDcE5qX3Z6eE9PR1JVTTZ2S3FqdWdsYnlCZTlRRndjalMzR0VuS1NLcnp1WGVraG43YlAxYnJwUkVFTVVzempsZG5vbl9xTUo3bjNYODhReTBfWkVPX1JnR0piSzdVYl9OcDFQelRhdENyRzk4MWdGdzdQYkkySEU4OTdXTUtkZF80amlfajluOUtOT3M3dktiWFE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-09-30",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "TheMarker"
   },
   {
    "title": "רונן ברגמן מאיים בתביעת דיבה נגד ינון מגל",
