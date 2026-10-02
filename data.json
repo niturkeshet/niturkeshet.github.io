@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T16:00+00:00",
+ "updated": "2026-10-02T16:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -398,6 +398,18 @@
     "ערוץ 14"
    ],
    "pv": true
+  },
+  {
+   "title": "\"הביצוע היה מגושם וכושל\": כך ניסה ניר ברקת להדיח את נתניהו",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFdtcnY4bWcwbG42c1NzcWw5ZDZyZHdOUW9INXBPSTYyQUJlOVA5VENVeW9jVlpGWTVobXJ6M1JSQ1RmVXhoOGtfT0JXSjdvai15S0FtX2tpYk9aak84bnA3VkxXNlpwU3BoeDNuSDdpRkM5aEU1Q1VPZlhMMEowamR0enJ5di1JNU1NT3VfSTBYM3k2WVc3QWdZNFFXNUlDTl9lMTczdWR0RHp0Y0dEVzRIdEV0UQ?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-09-29",
+   "keywords": [
+    "ניר ברקת"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "רונן ברגמן מאיים בתביעת דיבה נגד ינון מגל",
