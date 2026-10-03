@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T21:30+00:00",
+ "updated": "2026-10-03T21:53+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "הוטרדה בידי המרצה ומתה: האוניברסיטה העברית מודה באחריות במכתב חריג",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lLUxWVjg5TlNaZXhDSDhCRHRaRGIwZlV5WFZ1amcxVHBOUGpJYXBVSzdDU3dldmNaZW5RNjFfU1lUSFhOazRaM0U4bEZzb0pRQWY3Y0JLcG04Y0piRFZaajRJOU83UdIBbkFVX3lxTE83VGRPcDlLQmtKMmpHb0dFWmFSTTNjcE1qZzRFeEh2cjRNNWxxUVlfVEc5ZmE5QjZWYV9oM1R1VVpfcVJSeDlSUUEzbFFPOWcydDNQcVgzOGN6M1ZsOVlNbDkxWUZkR0k4TXlaZDNR?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-10-03",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "זכור בלכתך לקלפי את אשר עשו לך לוין, סמוטריץ', בן גביר, קרעי, סטרוק, גולדקנופף ובעיקר",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOM0JwUW5aYXAwWXRHR1JqR3VIUDlXQXZtbEE4WVFRaktIblJBYzk0OXVqMDRpTkxWNFFXakd5aEZucl91TEd0SmhodVRmOEhaT1pYY0FPbkx5ZUxFbGdIX3h2Q1o?oc=5",
