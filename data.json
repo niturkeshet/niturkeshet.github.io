@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T19:45+00:00",
+ "updated": "2026-10-03T20:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "זכור בלכתך לקלפי את אשר עשו לך לוין, סמוטריץ', בן גביר, קרעי, סטרוק, גולדקנופף ובעיקר - נתניהו",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOM0JwUW5aYXAwWXRHR1JqR3VIUDlXQXZtbEE4WVFRaktIblJBYzk0OXVqMDRpTkxWNFFXakd5aEZucl91TEd0SmhodVRmOEhaT1pYY0FPbkx5ZUxFbGdIX3h2Q1o?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "80 שנה אחרי י\"א הנקודות: יישוב חדש קם במזרח בנימין",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqV3BibnF1SGpWUWt6WEZ6SkRkYmNkRE8wTmZOZGhzNUxLb3UtU3FDb0lCYXJjSFN5S01GOFBwdDlpdlNaOTF4ZE5sZHZNQ2d1amVfZmF1R3NoeDNkVEJaOVFSNnhlNy10V25Vcg?oc=5",
