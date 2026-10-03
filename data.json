@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T07:15+00:00",
+ "updated": "2026-10-03T07:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "80 שנה אחרי י\"א הנקודות: יישוב חדש קם במזרח בנימין",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqV3BibnF1SGpWUWt6WEZ6SkRkYmNkRE8wTmZOZGhzNUxLb3UtU3FDb0lCYXJjSFN5S01GOFBwdDlpdlNaOTF4ZE5sZHZNQ2d1amVfZmF1R3NoeDNkVEJaOVFSNnhlNy10V25Vcg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "רייטינג חמישי: מהדורת 12 מעל 320 אלף צופים, \"אזור בחירה\" עקפה את 14 ברצועת שבע",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15OWowbmFyQXZIX051MXRLdWVHbkd4Y0gzRVI2MURwbzRVZlluVmJLam84LVNLbHp4X3BCRTNWRjhhVU5SSHhNWjNBYmRobW5MVjFOZFZlWVJsUzNOTDNwQ0pQWGxMaWI0WU9zYnRrQUJkY1AwX2hRS2twanBzWFk?oc=5",
