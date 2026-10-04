@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T13:30+00:00",
+ "updated": "2026-10-04T13:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -254,10 +254,22 @@
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 0
   }
  ],
  "items": [
+  {
+   "title": "המהפכה השקטה של קוקה קולה: המהלך החדש נחשף",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SMWRuN2hTNDJScFVBWUFwandaallVcjhZemd5amJEMnJBclJZeHlQSGFmMjFPOXVWRmpIX2h4WllnWnBObzVyYTNDRXVVYkgyTVBobFYzSkdWR0w0NTc3Q3hwbGtmazB3WEZN?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-10-04",
+   "keywords": [
+    "קוקה קולה"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "בחתונה אחת: עמוס שוקן, איתמר בן גביר ומנהיגי מחאת קפלן",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kRzctY3VrZGFKZ3lzVnY4cGpjdDUtN0s5cHpxVE1UNW5VN1hlTkFqaGphVzNtYVFFNkVNYXJ6OFpteUVWYzFZOVZMMW5KeUxQa281WG5OaWwwbHB0aTY5VndR?oc=5",
