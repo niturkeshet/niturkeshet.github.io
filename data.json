@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T19:47+00:00",
+ "updated": "2026-10-04T20:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,103 +175,99 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "מכבי תל אביב זכתה לראשונה בגביע פרנקל בטורניר השלישי לנערים י׳ לזכר איציק פרנקל; הפועל ראשון לציון הודחה בחצי הגמר",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVbmN1aWZaU1g4Xzd4Vk1jWGlEQ28zTTdlekNEbVVLT2VRUmpmT1lTUm1HRzQtSVg4UHJ2NkVuVDF4cXBSUVk0?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "BE106"
+  },
   {
    "title": "\"הציונות היא גזענות\": התקדים המסוכן של המפלגה הבריטית",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBweXN5TXdtU2ZjSmJ0ME90SW44eThrWUpYS0x4SnE2XzBrUVBVSjdXR2x3R1ZmbjlfOHllcjRzT1FOT1FqdVZJQmRRcnk5bzNNcW5QS005VmtYTGcxRTV1dkZ1ekowR0c2M2dQZmlTVEhtUUJZd3VDZNIBgAFBVV95cUxOdmVBX1NxNHk3Vy1iaWVjY3JtMTZQN2tSN2tMQmxUTVBFYmlZZDAxWGw2UC1jLUdEa3kybU1BTzFLdldYWGZVaVc2a3NlUEx1YWpoRUlIYnI3OGhBYk1tZXFmaUpWYXg2bTZybm5DWWVCMklRWUtvWU5iZmg3TkxFbA?oc=5",
