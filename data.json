@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T06:00+00:00",
+ "updated": "2026-10-04T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -267,6 +267,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "העין השביעית"
+  },
+  {
+   "title": "החליטה שנמאס: יוטיוב מכריזה מלחמה עם צעד לא צפוי",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16S2FReVVMSzBrNFItMkdqbVJyYkEwZFozai1CN1M0dEVtdWo0Ul80cy1DY2xnQkhFaVFZeFVGOE5pd3lNRWxvdE9IX1RuaTBZSEhBU1JDcXRqVmFINVVGTjBnUnkyNDhCa005SW130gF2QVVfeXFMTUhLVzBKUjg5OThJUjNvblAzeTZMR2dVZHhpbmNSMnNzV0lpdWdkSVBEZ3F6S3pkMUpBVFpNNjB1T1pXSkFoR1NVQXUwY2Nqa2ZZMGxva1MyeGlRRmFXNjZkcW1RNjRzSHFUbVpPUndzcFNGZVNFUQ?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-10-03",
+   "keywords": [
+    "יוטיוב"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "הוטרדה בידי המרצה ומתה: האוניברסיטה העברית מודה באחריות במכתב חריג",
