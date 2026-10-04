@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T10:45+00:00",
+ "updated": "2026-10-04T11:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "איתן מליץ: האם הליכוד היא עדיין מפלגה ליברלית?",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GTFZObDg0RnAzOEJfZGtrRy1TVFlSTDg4U0cxMGczRko0WG9PQ2dkNXB1Z1paNlFVMDAyaVZuay1lU3c1?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "לפני שבוחרים מנכ\"ל לחדשות 13, כדאי לבדוק מי בוחר אותו",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyMmgtb1RrY3MzT0tJb2xWX1U0YVpxUWR3TEh6T3VEam43bmlMeTVqbVRQa0RNSi1GSkpFMDdPN191dHkzRGR0cg?oc=5",
