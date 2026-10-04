@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T01:30+00:00",
+ "updated": "2026-10-04T01:46+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לפני שבוחרים מנכ\"ל לחדשות 13, כדאי לבדוק מי בוחר אותו",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyMmgtb1RrY3MzT0tJb2xWX1U0YVpxUWR3TEh6T3VEam43bmlMeTVqbVRQa0RNSi1GSkpFMDdPN191dHkzRGR0cg?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-10-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "הוטרדה בידי המרצה ומתה: האוניברסיטה העברית מודה באחריות במכתב חריג",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lLUxWVjg5TlNaZXhDSDhCRHRaRGIwZlV5WFZ1amcxVHBOUGpJYXBVSzdDU3dldmNaZW5RNjFfU1lUSFhOazRaM0U4bEZzb0pRQWY3Y0JLcG04Y0piRFZaajRJOU83UdIBbkFVX3lxTE83VGRPcDlLQmtKMmpHb0dFWmFSTTNjcE1qZzRFeEh2cjRNNWxxUVlfVEc5ZmE5QjZWYV9oM1R1VVpfcVJSeDlSUUEzbFFPOWcydDNQcVgzOGN6M1ZsOVlNbDkxWUZkR0k4TXlaZDNR?oc=5",
