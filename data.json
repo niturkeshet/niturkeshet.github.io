@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T17:30+00:00",
+ "updated": "2026-10-04T17:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -259,7 +259,7 @@
  ],
  "items": [
   {
-   "title": "\"הציונות היא גזענות\": התקדים המסוכן של המפלגה הבריטית - והתגובה בישראל",
+   "title": "\"הציונות היא גזענות\": התקדים המסוכן של המפלגה הבריטית",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBweXN5TXdtU2ZjSmJ0ME90SW44eThrWUpYS0x4SnE2XzBrUVBVSjdXR2x3R1ZmbjlfOHllcjRzT1FOT1FqdVZJQmRRcnk5bzNNcW5QS005VmtYTGcxRTV1dkZ1ekowR0c2M2dQZmlTVEhtUUJZd3VDZNIBgAFBVV95cUxOdmVBX1NxNHk3Vy1iaWVjY3JtMTZQN2tSN2tMQmxUTVBFYmlZZDAxWGw2UC1jLUdEa3kybU1BTzFLdldYWGZVaVc2a3NlUEx1YWpoRUlIYnI3OGhBYk1tZXFmaUpWYXg2bTZybm5DWWVCMklRWUtvWU5iZmg3TkxFbA?oc=5",
    "source": "חיפוש גוגל · אבי ניר",
    "type": "google",
@@ -388,6 +388,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "משתלטת על השוק: גוגל שחררה את המודל החזק בהיסטוריה",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BWGRGYXZKaVVialFHYnpwSkxwcjdLaHFadXdDNkF5LS1fb2xfYUdEX256ajJGVi1Ub0NlY2NKSnVheU9kUlJEeGVYdVBtNmt5N29aSVpybm82QmFWbG9yY1MtaVhZQTFkaklyRGZn0gF2QVVfeXFMTldwdDlrT2o1dGlLeUkwTTV1T2k0RmlyMUZ6X3ZuSHV3Qll6RHBEQ0c5NnRScHVHekpwZEIwNnNxb1JoQmNPeGNzLTcwUWNCelFkNlY0ekgyZmczcFQ3aWdoLTBtX2dlR3h5M2szR0Vfei04eFhVUQ?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-10-01",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true,
+   "publisher": "israelhayom.co.il"
   },
   {
    "title": "גיא פינס בצומת דרכים: ההחלטה הדרמטית של קשת 12",
