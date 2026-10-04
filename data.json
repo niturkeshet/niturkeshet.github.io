@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T14:00+00:00",
+ "updated": "2026-10-04T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי נגד דרישת היועמ\"שית: \"אין סמכות להוציא צווים בניגוד לחוק\"",
+   "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPbXk1X3RWdE5wbDFWQ3EzLU5yRWkyanFJQmJuX21NZ1V5NjRlUi1OZkxlNHJuY2p2MnVtRGtwdE81RWRGVXVfaEdPRkVtYjQ4aUpvd3JRMGpWWmxNT282THgxOWtGV09ueDBmQkd1RWNrank1Y2Vaa1JGczhya1ZOaFBwX1lrcDVPdnlpN3B6WEV0N19PVHNSLTJxZVpVZVJneXJJaXlQMWVmUS11eVVtMVh1a01yLWFWcTNrNzNHWjhMY3dtb0pMNU1kYVBYR1VobXlWQkt4a2xOT3Fya0V6LURRNVN1NEFvSEZMTzBHTDd2YlN2QUxSbnp3WE5KRmhKakY3WUlyVXk2NHowU2RHYTNmaElIWGkzdFprM2xQNW9Wclo5N1R0RW1Bd0JYODFBNGp6ZFFwM3pOM3h5eHBTR2RId1NndTg3WWYzTzFVVjV3Z2cxcGlLMHVfMTFjS25CNVE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "המהפכה השקטה של קוקה קולה: המהלך החדש נחשף",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SMWRuN2hTNDJScFVBWUFwandaallVcjhZemd5amJEMnJBclJZeHlQSGFmMjFPOXVWRmpIX2h4WllnWnBObzVyYTNDRXVVYkgyTVBobFYzSkdWR0w0NTc3Q3hwbGtmazB3WEZN?oc=5",
