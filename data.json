@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T20:51+00:00",
+ "updated": "2026-10-05T21:06+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -145,16 +145,14 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -226,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
