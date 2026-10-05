@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T14:00+00:00",
+ "updated": "2026-10-05T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ירידות בבורסה, נאוויטס מאבדת 3%, בית זיקוק אשדוד מוחקת 6%",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLY1hpQWJ6ZVROR3psdVBIc0htd3duOUZ6V3lqY2hCeC1LQjZVemxnalZjQTZNU3drb1NkUmRLODMyZHlZNXhiQm5FdlR2SlM3SUpIOWNZRTl5eWVpTm9tN3NB?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-10-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "תמורת 1.2 מיליארד שקל: הושלמה עסקת מכירת הוט מובייל",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOUmxaRmJUT1p2VFFoVjFKNWFFbnJkN2p3N1VWQWx1aVU2bWtqdTJ2c29Fd1Z1d2RURF9CU1E0OEItSVlDMF9sT3VORkt4RUNPaUZoeDV4WHlvTnRsdlE?oc=5",
