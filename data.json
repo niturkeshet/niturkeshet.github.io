@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T20:25+00:00",
+ "updated": "2026-10-05T20:51+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -145,14 +145,16 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": true,
-   "kept": 5
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -194,7 +196,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +208,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -224,7 +226,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +260,18 @@
   }
  ],
  "items": [
+  {
+   "title": "הושלמה עסקת מכירת הוט מובייל תמורת 1.2 מיליארד שקלים -",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xM1BJeDlKWjVqYjg1TUhvbFF5U3NFaHZYYUNuTHNIZVBxeVUwRmg2bXhXOHBWUGFOeWM1bVpLTG5aa0ZabWhVVHA5eXBEMW8?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-05",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "אנשים ומחשבים"
+  },
   {
    "title": "סקר מנדטים: איזנקוט מגדיל את כוחו ונתניהו נחלש, מה קרה לוינטר?",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1Atbk1TLU9ycTlJWklfYWI0NzFJMmNBMVJONVpCbzZxZkNRaFRuR0hvUkVQcWZQaF9KYzJrVDc4dmlWT1RFUGtnRWxwMV85cU5qaGd6TF9BQ1NrbFJZNTJEM1A4NmltSS1XNlNOVjJObmlrSVo2cnQ2YlZtcHVIWDNhdjNBZkFJeTQwbWdXNVRpdEs3YzFOWEtJMEsybUpVM3VwdUx3b0RmaTNKNHV2QVpORzhyWDZrWU1MZkpDbDhYUXBU?oc=5",
