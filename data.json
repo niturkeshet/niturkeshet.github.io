@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T00:00+00:00",
+ "updated": "2026-10-05T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הירוקים הכריזו מלחמה על הציונות - זה המהלך הנגדי שנקט סער",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0RzZ0MmtvdnNtTnhVR0xTMmdvamNNeTNGNFpJTkxjSkpVdnZSeGU3bV9WUndxWnV2NXJ5WVRUWVJoZjYyMXlBMWdRU050VWgzLWhtR3FWYTFDam93S1VQaTFYd29rdXFIcE1Pcl84Zl9uZ0pKd01xQdIBgAFBVV95cUxQM2FtekRhNzJJVVVQM2FuTzhXT1RKWjQ0X1BKaWFETEtBdWFMVjI5N3FDajdMR01EMG9VRHBmTFlaeHhOeC1xTGt0R0g5dS1LdTJ2WHZ3NEpYd2FLRWdOVUJuRUlxVTJmdmpxMzZXcm84M1Izbm9UdXFTZklWaU5Zbg?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "\"כתם בתולדות בריטניה\": נאסרה לישראל כניסת יו\"ר המפלגה האנטי-ציונית",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GdG1hZ3pzc1AwUzFhZ2lwZjkwRUxldGNOWlBsZTFkZlBPYjc5UkpRdk1PaDBIZEtXMUhfYkZUcjk5cGxqOWpaUVluRWZEejRxeVNpN21vOVZ4UQ?oc=5",
