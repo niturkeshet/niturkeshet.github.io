@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T22:15+00:00",
+ "updated": "2026-10-05T22:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"נזק אדיר, הרס של שנים\" | ההלם בבר אילן, ודברי הסטודנטים: \"פרופ' מוזר ומנוכר\"",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41ZzlzdUxlRTlFdzZtdm1wVVR5UFFZM2w2dXM1VE81NEE2QjdscWpIZzZDdlZLT09EYlAxbE1RT1FwcHc0NUxVV1Vma21aTGgzTks0RzNVVnVYdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet.co.il"
+  },
   {
    "title": "הושלמה עסקת מכירת הוט מובייל תמורת 1.2 מיליארד שקלים -",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xM1BJeDlKWjVqYjg1TUhvbFF5U3NFaHZYYUNuTHNIZVBxeVUwRmg2bXhXOHBWUGFOeWM1bVpLTG5aa0ZabWhVVHA5eXBEMW8?oc=5",
