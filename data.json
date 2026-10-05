@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T07:15+00:00",
+ "updated": "2026-10-05T07:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "מנוע כניסה לישראל: גדעון סער נגד יו\"ר מפלגת הירוקים הבריטית",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nWExlQ1NMRDFjYkNra2NLUWhMbjYtMm1QNWtpMkpab1J4Q2Y2cVZ0UGVxdkxhN1NLZTJwOXcxVVExOE9lazA4SHhiRQ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
+  {
+   "title": "מגיע מקשת: זה מנכ\"ל חדשות 13 החדש",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ScFF1Q3NrbFFDQTI0NmVsX0FMRkhmRjRTV1ltS2hURmJsRm9CcmVxVXR3LVhNLUx6TnJ4cmR4UDhCQzRqS1hNLWNLbDJtamY2dkdWeFV2aVJmLVFuWnBKbG5sbDFwa2Fr?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-10-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "אדוה לוטן: האם ישראל ניצחה במלחמת \"חרבות ברזל\"?",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE12LWpoUUdnNjhoY21XemdVZWFaajlhQTdyZ2dWNUtfT2pUUUFOMnBXYnZiS1ppV0lpcGxWQjZpZThFQUgt?oc=5",
