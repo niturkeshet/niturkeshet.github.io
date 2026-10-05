@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T14:45+00:00",
+ "updated": "2026-10-05T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,30 @@
   }
  ],
  "items": [
+  {
+   "title": "הושלמה עסקת רכישת הוט מובייל תמורת 1.22 מיליארד שקל",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQRldKYUhUY0hIRVRxSGExVEFqc01DUmNuN29hb0Q4bVE3VlRveDVWb3k4RTloclFmeFR2cTFoLTZPN0JDSVR6NU9FUWVTaXc2eWFZenZEbW9YX3J4VFVwcWhxcw?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-10-05",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "calcalist"
+  },
+  {
+   "title": "הוט מובייל נמכרה לפי שווי של 1.88 מיליארד שקל",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlNkJNT1N3YjZGa1F5cm1yM0FoZDBoeDE5amZXQl91SmtFOTFpRlRlRkRzYnhLQ0RET2lYVGNmcFF6elM1MFBoTDl3WQ?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-10-05",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
   {
    "title": "ירידות בבורסה, נאוויטס מאבדת 3%, בית זיקוק אשדוד מוחקת 6%",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLY1hpQWJ6ZVROR3psdVBIc0htd3duOUZ6V3lqY2hCeC1LQjZVemxnalZjQTZNU3drb1NkUmRLODMyZHlZNXhiQm5FdlR2SlM3SUpIOWNZRTl5eWVpTm9tN3NB?oc=5",
