@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T16:15+00:00",
+ "updated": "2026-10-05T16:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "בן כספית: \"ערוץ 14 רוצה שנשכח שהיה טבח, פרשו שם לגמרי מהעם\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51OEZvX1dWR2o3amtfTVY2MGJsNWF4QXpnY2xJS1VSbkFKcFlEMWxxOVFQUU1Tb1diSWQ5eGRyVFY4QjZ0T1FaZ3lvZ2E4U2lRMnpweFpwdzg5d2dL?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-05",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "קצר ולעניין: בישראל בידור ישקיעו מיליוני שקלים בתחום המיקרו-דרמה",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001558475",
