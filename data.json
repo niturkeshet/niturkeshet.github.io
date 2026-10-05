@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T12:30+00:00",
+ "updated": "2026-10-05T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -158,7 +158,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -258,6 +258,17 @@
   }
  ],
  "items": [
+  {
+   "title": "אסף רפפורט נפגש עם עמית סגל — בניסיון לגייס אותו לחדשות 13",
+   "url": "https://www.themarker.com/news/themedia/2026-10-05/ty-article/.premium/000001a1-0c06-da81-abf3-dcc6f3230000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-10-05",
+   "keywords": [
+    "רפפורט"
+   ],
+   "pv": true
+  },
   {
    "title": "היועצת המשפטית לכנסת: אוחנה מחויב לקיים בהקדם האפשרי בחירות חוזרות למבקר המדינה",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ySDdQaDBidlZmZ3J0aUlFYUhWVkV2UGl5eEY1SVFQOE1YZmZfNTRJSS10SXo1ZGNOVjQ1MXpSV1pDYVpzRUo0V0lqSQ?oc=5",
