@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T13:30+00:00",
+ "updated": "2026-10-05T13:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "תמורת 1.2 מיליארד שקל: הושלמה עסקת מכירת הוט מובייל",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOUmxaRmJUT1p2VFFoVjFKNWFFbnJkN2p3N1VWQWx1aVU2bWtqdTJ2c29Fd1Z1d2RURF9CU1E0OEItSVlDMF9sT3VORkt4RUNPaUZoeDV4WHlvTnRsdlE?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-10-05",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "YNET"
+  },
   {
    "title": "ב-1.2 מיליארד שקל: עסקת הענק בתקשורת הישראלית יוצאת לדרך",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6ano5YjZyMk1Qai10Tl9lTHNVQU0yX2RmWmhPa1VRRlJjRTQ5NFNKYzY4ZVhoakY0SzVSYW83OHBwRFF4ZjcxcGxwNHk0aDdfUXBKT2RQZXJEbDVTSm1R?oc=5",
