@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T19:51+00:00",
+ "updated": "2026-10-05T20:06+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,28 @@
   }
  ],
  "items": [
+  {
+   "title": "סקר מנדטים: איזנקוט מגדיל את כוחו ונתניהו נחלש, מה קרה לוינטר?",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1Atbk1TLU9ycTlJWklfYWI0NzFJMmNBMVJONVpCbzZxZkNRaFRuR0hvUkVQcWZQaF9KYzJrVDc4dmlWT1RFUGtnRWxwMV85cU5qaGd6TF9BQ1NrbFJZNTJEM1A4NmltSS1XNlNOVjJObmlrSVo2cnQ2YlZtcHVIWDNhdjNBZkFJeTQwbWdXNVRpdEs3YzFOWEtJMEsybUpVM3VwdUx3b0RmaTNKNHV2QVpORzhyWDZrWU1MZkpDbDhYUXBU?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-10-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "אבינתן אור בריאיון ל\"עובדה\" | פרויקט מיוחד",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXYXJXVlNSanRoTHh1QTZ1bEZxc2ExRmNnYldpWElEMkk2VEJ4bG80em1ueGF2Zm9vTGtndXFEZ1RqMnJUbVV3SHlKRjItcEdrdTgtZlowUUl6NW1LeXBtbzlxRUZtRURIanpkRjBNSDRMeHdmVzJlekZQaHBwUQ?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-10-05",
+   "keywords": [
+    "עובדה"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
   {
    "title": "סמנכ\"ל קשת 12 איתי דנקנר מונה למנכ\"ל חדשות 13",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83QTByLVBQUDZsT0ExSkxGblBEajFnTnRxYjB2ZlhUWm1xeVZ2alBFZWhiNUhaZDFNNDFGeEU1a3o1RUpQanBzWGE4OUJYQXhVWUk4eGVzLVB2ZlloS2QtMlRtQ1hMeHB2d1ViNV9zNW42QmFDNkJ6LXNvbUVSUFU?oc=5",
