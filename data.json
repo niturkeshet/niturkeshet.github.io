@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T06:00+00:00",
+ "updated": "2026-10-06T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "אסף רפפורט במינוי נוסף: זה הסמנכ\"ל החדש ברשת 13",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RS2w0NGVCVHZkWEpUQ1FTOWxISHR1S3pVMGFHYTNtVUY4czBYNVRXRmRELVk2M3lodm13YlVMYlNDREEzSnBhZG5QRE02Q1REakpXOFhxWGk?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-06",
+   "keywords": [
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice.co.il"
+  },
   {
    "title": "רווח של 1.2 מיליארד שקל: בזק בדרך לטלטל את שוק התקשורת ולהתמזג עם yes",
    "url": "https://www.themarker.com/markets/2026-10-06/ty-article/.highlight/000001a1-0c9f-d502-ada5-bddf05750000",
