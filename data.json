@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T21:30+00:00",
+ "updated": "2026-10-06T21:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Israeli minister Ben-Gvir boasts noose-decorated cake on his birthday",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEhKTW1lM0wwSWhBdTAzODNyT2cyQVZ4dTlrVzFueHhUMDVxRDBpekhYRW5DZ2lCc3p1MmtNMUc3djVjc2JFajFaVjZkT01FTzdpZXhxNS1tZWxUS3ZWc2ZNT2hVUERkc3BxUXNUai1HY1djNmo4ZWpWUUxiLUc3VTBSMzh0cjNzV1RnSXNpM1FwdlZMMmM2VGhSalFGYlZ1aVZ6a2lBcGYwaUNNaFVhWFFBUlF2SFpmMXVETHNB?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-10-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "PressTV"
+  },
   {
    "title": "אדווה דדון וערוץ 12 נתבעים על סך 2.65 מיליון שקל: זו הסיבה",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMeVdKMmh4eThsOE03MTl0WFVGTzV1X2pNMG1COFVvX0JKOF9sTWRsa2RvSTJWMXBaOThXSUhGd0NVdUxFdjlmQ1Q1QU85UUlvS3dWdWNLLTBCSlE?oc=5",
