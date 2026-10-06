@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T07:00+00:00",
+ "updated": "2026-10-06T07:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בקרוב: שימוע של משרד התקשורת לביטול ההפרדה המבנית בבזק ו-yes",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Uc1JHazQtSXc5dlBuVFl2dHQ4aHZ0bU1aWS1DX0Y3OEpZQVRYeUlDeW9LNVJIU1lRU2tGR3ZoYTNna0tSUVgwV3FqNmNkdklWZEZaSV9NcWtiSVdVY0RwVzNWWmJxazNm?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "הריאיון עם אבינתן אור סחף את הצופים: \"עובדה\" עם 17.5%",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRnhHdndEcW5DRl9takVJbG43S0QyalRuMGNDQUNERncwcUtlNEdtNXNEOGhnS3RXV3pScFJQZnpYN3lMNURIcC1KOVU0SFJGNi1uUTNYcnA3ekhTVXJlUXdsRlFDN3F2TmVuNWs1MmduLVA2Um5sbVFUajN6cFk?oc=5",
