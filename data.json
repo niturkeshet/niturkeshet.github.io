@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:00+00:00",
+ "updated": "2026-10-06T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי: \"וינטר הוא התקווה של ליברמן ואיזנקוט\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lc2hkZDZLUHduRFBWTlBjOVRmMnhHeWVWRUpOeG9rcVRjZl96ZTNMN01iTmpycFN2c01iUlRBbm5hVS1rREZkbXVELU93UQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
   {
    "title": "איפה הייתם ב-7/10/23? השרים נחשפים",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySGpsSzZLdmgxbjNOVlN4clprV1gyUHNUZVNyZks2aEVUOV9mMDhoOFppaFI3blFwbEtwellMZExaOHhVM1RTZTJqSlVGUFVTNmx3ZjJ2dmVxQQ?oc=5",
