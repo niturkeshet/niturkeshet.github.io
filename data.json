@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T07:30+00:00",
+ "updated": "2026-10-06T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אנחנו לא מדינה של ימי ביניים\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUkyek1ZMG5xMDZubUdKYTlHSklOVk8zOHM0ZVZKeUxjcmVFMVJXWnRCZmdtRzZmU3NKQXljV3g5aXBiV0xNOE5GbWp0LTlHWVFhOWYybm9scXk3NVRfb2ZfOUdoaGlha255V2c0bVV3WXljU1B1akFpZHJWd01EY0ZYdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רדיו צפון 104.5FM"
+  },
   {
    "title": "בקרוב: שימוע של משרד התקשורת לביטול ההפרדה המבנית בבזק ו-yes",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Uc1JHazQtSXc5dlBuVFl2dHQ4aHZ0bU1aWS1DX0Y3OEpZQVRYeUlDeW9LNVJIU1lRU2tGR3ZoYTNna0tSUVgwV3FqNmNkdklWZEZaSV9NcWtiSVdVY0RwVzNWWmJxazNm?oc=5",
