@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T13:45+00:00",
+ "updated": "2026-10-06T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "אדווה דדון וערוץ 12 נתבעים על סך 2.65 מיליון שקל: זו הסיבה",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMeVdKMmh4eThsOE03MTl0WFVGTzV1X2pNMG1COFVvX0JKOF9sTWRsa2RvSTJWMXBaOThXSUhGd0NVdUxFdjlmQ1Q1QU85UUlvS3dWdWNLLTBCSlE?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-06",
+   "keywords": [
+    "ערוץ 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "קרעי: \"השמאל מבין שבקלפי אין לו סיכוי",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yeFM4RS1DUURmYVloNnVtejRkaHhhMG00alhUamVTN3Q4c1hQNDJ5UmVwdkVIRk4wQUo1VllTTHlka3hNb2ZEM0NmOXRZWDVVZVl4UTJaeGl2aDZnd3kxZXk4Vkg?oc=5",
