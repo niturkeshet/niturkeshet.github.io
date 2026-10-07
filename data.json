@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T16:30+00:00",
+ "updated": "2026-10-07T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מכל גיוסי התרומות של המלחמה הזאת, זה המכעיס מכולם",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWTFYUVFGZlJXY1RZczE3UWVzWnY2eUY5UWo5eEQ1S0YzeVI1MzhCUW5oU3ROZ3ZQRGdwM3daOFJPT0xRZ2JvbXFGM0pONjY0TzdoY1F0cURYb0drdTRBRU1LdzV4WEg1TWtiUzZud0RlS2ZTX0F0QWZUb080dU1CZXBDa29rVlQtLWR3bkdmZW1sTDZObkRfYVVmc3JKWUtoejJKSHdSd2ZxYmM?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "ליאורה עופר הציעה למשה לארי את תפקיד מנכ\"ל מליסרון, גם רון אבידן מועמד",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81d2JFaUlpek4xeW1Zcm51cG1PQVRQRzRNcDRPQzZiSjFSLXJEaE01S1hHc09SSV8wVFQ0dGFNZTg2dXMxdVo4eml1ZWZxbjdNNFFrSUozeVFSUE1KLTVSanJ0Zw?oc=5",
