@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T04:00+00:00",
+ "updated": "2026-10-07T04:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ליאורה עופר הציעה למשה לארי את תפקיד מנכ\"ל מליסרון, גם רון אבידן מועמד",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81d2JFaUlpek4xeW1Zcm51cG1PQVRQRzRNcDRPQzZiSjFSLXJEaE01S1hHc09SSV8wVFQ0dGFNZTg2dXMxdVo4eml1ZWZxbjdNNFFrSUozeVFSUE1KLTVSanJ0Zw?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-10-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "calcalist"
+  },
   {
    "title": "בדרך להשתלטות מלאה: הקרב הזה הוא על דמוקרטיה",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LQnVSVEpNa2NQQjZmQlhnMml0eFctcmhLRUhtNXRoV2N1cWxucDRPc3dpSS03UFROWk8yOUlieHRMUDc3dGxWaHZ3VENaNjBPeUJWM1lTbXlqZUpxRi1IMkhtcEw?oc=5",
