@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T10:15+00:00",
+ "updated": "2026-10-08T10:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "טקס האזכרה הממלכתי לטבח ה-7 באוקטובר בהר הרצל, 5.10.26",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUlCeElzeVJnRmdXMjA3Z3ZHc3hIOVFJTVlTRVo0b0p0cFlRel9LUkE2OGJWdWhLREViM1FYX3RNdEJUYlRpeHZFZkdWRi1NSVljYmlPZ3AxYjd1ZjN6R1JnYzZEZUlpb1NNQUZIVnhxMDk2dmtROTVCQVg2T01PektIbkdFc2d2ZVpLNzNTMWttbzU1akF4QkZKSzZoY1NnVTQ2Xzh0aEhkVTNjOVR0cFctZzVzSUMx?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "ההתנצלות של יצחק עמית בפני הציבור החרדי",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRHZYT05MTXJWcUJ6cEduLWhnaThMNnNKc0VpR2VKYlhHTndSVWg5Z1U1dXhnNkh0bl9YVmgyajJvcGUyb2pxanNOZkFkZw?oc=5",
@@ -428,6 +438,26 @@
    ],
    "pv": true,
    "publisher": "mako"
+  },
+  {
+   "title": "מתה בת ה-87 שהפכה לסמל מחאת הדיור בספרד, כשבועיים לאחר שפונתה מביתה",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWJpY2RUdzI0UEhHZzZnQWNVcjNiMF9EeWlfVVpXQXlPRHRMbk9TMFZ1cDhqMXVkVFM5WWZCcXNub2t4ZDdMcnNoU3JFbFA0NnlzWU80VFpNazl1eVF0VmpvQmFvZlo5V2VoNDd2MzNmdEdWdHFJcGxJSVZ2am83M2E4b0JiUy1HdEo0enUtdlpwVldKdlFhZDMxY2I4bThpVU96UFEyX0U5MDZQT0FlQw?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "מקורות: חיזבאללה קיבל מאיראן 200 מיליון דולר לסיוע לעקורים במלחמה",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMGJ1Q3ZTYklxYm9Hc1Fqcnh5MkFTQ1ZrTS1lMXNJdGxkVS0weGcxWWlKTERKOEdqczU0Y2RSVWNqQjRfcjlKZVZrRnBQYWdwZ3NNV2RROGJUTVhuRjNhY1AtYXdMd0lpVVM2OWxYMHlrOXd4NnBsbzVYRnJoTVd4dHNyeWlEWVlfM3ZnNi1xLVZ1clgyS0UybGFXbXAxWmtTT1d0QzJJdXJ1VUJha0JLUlgtMGthTEE?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "לוח קונצרטים: 8.10 עד 14.10",
