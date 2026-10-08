@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T13:15+00:00",
+ "updated": "2026-10-08T13:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "רשת מחזרת אחרי עמית סגל. שווה לתת לו צ'אנס",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWtlWDM4TndJYUI5dnd0TzB5WVVXbTlsZDRSNkpHRXZPb1czcTZJQmdaN01DUE5WSEdVSjJGVTc3dkc3Y3ZWZmt2YmpHS0M3WHdmenR5ZGZBUnIxYTVuc0VCR0pUa2ZhRUJTVXB3VldaOE1DNHdyRDdJRlhMTEVJMzJOS1JacWZ5Z2JQSnNvTWk4NDBFc1doaUVMd3pZQlR6dEJ2eDF0TDVwdFhZMHJwaDFibVpndUZ5NVpJeUs4TElSN3hJN2c?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "טקס הזיכרון הלאומי לטבח ה-7 באוקטובר ריסק את ערוץ 14 | רייטינג",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LQWUteFg1eW13SW8tZDl0UzF2TmNhZkR2WXFId2M0MlNETVFRbFdzMlQtTGlHRmE5MzNTWVA3Nm1WR0xFLWtPUVNZMk9NbU9xVVYydVcyNHFGYkt0Wnc0OU5B?oc=5",
