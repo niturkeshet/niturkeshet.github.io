@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:00+00:00",
+ "updated": "2026-10-08T11:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אן קרסון היא הזוכה בפרס נובל לספרות 2026",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWwwbC1tV1FzLUZqWmpRV0pRSXdQSy14RHNjOXBMNVN5bzhLcEtRWmFMeF8xdXAtQVRHRGotWjd3X0sydE8tT2lvSzRzT21WSlVYU0pjU3VPUGxmN0NZVlgzMnZRUDY3VXNOV0tWQnN4Qm1zTnJLTDYybVpMV0g4TEt6eVNycHhNbVlrbndqTk85NTlBZkJrQ2p0ZXluTF9tR1FqaFhB?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "\"ישראל מרכינה ראש ב־7.10; וגם שחר חיון במסעדה שעושה כבוד למטבח ההודי\"",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWdjWXlSNVJrNGtXVnVfNTN5QlVNdlhlMUlqZU04QjZBRXU4Xy1KUkZBTDRubG9vVGZfV19Ya3dmVGhfSFF4cHk1UGE3R1NPcW5TTlZZdFR1Mzl1eUl4UExYZ0o4R2pSaGVIYmZ4OGl3MkJweTNZQVhwWHNFSlhnSFBoV2ItWm5NRlM3TllJOGtfLURhVGNWa2pYa0VBM2xKY2JEdXVlcC0xRksySzlOSk9wcGRRSTNv?oc=5",
