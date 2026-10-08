@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T08:00+00:00",
+ "updated": "2026-10-08T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "וול סטריט בהלם: הבעלים של ערוץ i24NEWS לא מתכוון להתקפל",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01VEM5c01zS0l4ZzQ2MWZBd21lMHVIRnY5LTV6SmJrdDhEMXpEWWVheWZwRk1pdVdPeG9OUUlZOFZUUVViWk5OZTNIS1FUZm5XSUhDOWpsczBPV0VrWjI2T2U4YzRMcGlyeXVxRGRNTQ?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [
+    "i24"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "בעקבות התבטאויותיו של ינון מגל: הרשות השנייה פתחה בהליך הפרה מול 103FM",
    "url": "https://www.themarker.com/news/themedia/2026-10-08/ty-article/.premium/000001a1-1a47-d70d-a5b9-fbdf33a90000",
