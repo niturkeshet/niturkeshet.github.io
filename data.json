@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:30+00:00",
+ "updated": "2026-10-08T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -478,6 +478,16 @@
    ],
    "pv": true,
    "publisher": "mako"
+  },
+  {
+   "title": "נתניהו לקח פה הימור גדול. זה יכול להיות ההבדל בין ניצחון לתבוסה",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE9OaUZTd3BZQzI2SVc5Z3haU05tbjJmYWdzOFNudGlNVE13QkhfWGFiX2tkYm1YS0luajZBNWVBNTFKTzNaeWw1dS1MOVhwWXZneDJnc3gwbVFrS1BJU0dvNlp5RzdDLUk0dzZodjcydFFVeVNQTXlzRmxrRnVBNHJlVmg4cHhlQXJFOVZVS1ZrUnhGWVhTbEY2NGM4MFMxTGViaXNja09sYnhz?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "מתה בת ה-87 שהפכה לסמל מחאת הדיור בספרד, כשבועיים לאחר שפונתה מביתה",
