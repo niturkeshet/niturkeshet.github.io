@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T09:15+00:00",
+ "updated": "2026-10-08T09:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,46 @@
   }
  ],
  "items": [
+  {
+   "title": "נשיא העליון מתנצל: \"לא התכוונתי לפגוע במגזר החרדי\"",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRUJZb1RDYk5YTzlMTVZYNFJUOEZna19yblZnUFJGWksyd2VSNVlHLW5zcGF4Z1NYWkdzdkhaVWRyUlJlTEpVZHR0dndESmNJR3FmdDd1T1hBTDFydk1aVmJfcFFtUTFKUGM2dGNlOHFTZUQ4YmthMW5OcFBMT2dsVXBwZ3RXQlk?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
+  {
+   "title": "דני אבדיה קלע 23 נקודות, פורטלנד ניצחה את גולדן סטייט בקדם העונה",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ0RiYXlQMkVuRjJBRVVJMHRRT0pjR3dOUy1tWkhxUXNuMGFzWGVBbm1VTk12amlKWUU5enYtNGJoQTM1UGNjcVFQejRNXzN4X0d0bXJXM0xhR3llREFkSWFpeENhVVlMS0NDMDdxUW1LU2pLUWJoejh6MkUwRlRWcW8yWUl4TG9PLWc5ak1CZUhHMHE3bkp2MGpB?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "בעלי קבוצות היורוליג דחו את הצעת המיזוג של ה-NBA",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlhNNEpzQkdjU043M01rSjIxbVowTmI2b1BfLW1yVEUwTV9OYk5DS0tVWXBnWk4tejVYdjUzN2Q1R3NXT0MxRE9mZG1NekJrQmtnaU1pbU1SSFZyM0FxeWkxdU84czJDYlRfUXRISENoaTJDNjJJZHNxLUJpNi12cTZYVzNLMFROckhjX0psWFpMSS10SkhEYVV1SmpRNDhfdUJB?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "בן 18 נעצר בידי סוכני FBI, בחשד שתכן פיגוע בקניון הגדול ביותר בארה\"ב",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGhtVEZFUkExbU5JRURtWmRNMzhrZl9GT3FmVVlsY29IZEhoTDVTdHpWVzFKREVpQjFaUy1yZVlkMm12RjZZZnA2eURISDB0VC1JMjl0blF6b0RhYnQ0S0pYdDlxaDJtTTNWX0d3R2RPTURKUEtPWDh0dVloWTdKZGVkcFZHb0dLUlE3T01BbVhqaVA4LTh0WUs2ckZkSjZlemlWaFJGaWh5NWQ3cWRTM05n?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "העם אפשר לרה\"מ לכוון את נהר ההיסטוריה, לכן נדמה שעברו יותר משלוש שנים",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV1hQV0xqanA0Vmk1aExxWWVTQ3BKRVhBU3RDZGRNRV90ZlJRTmZ1QkVCR3pRZVltbnlpNWh1WXFKSFBZOW9ScXY2d0xKZmdUWjdZemFENzBWa1duWEF5MVZiQ0NzamZ0N0N4Q29CaE9MbGw3a0lVR1YzN2xjTi0yRW8tUW5CX3F4dnNvSmNDemdLWjVjWkc0TlFyb21DNUtDNDd1NlNxUTFLMnowTm1aMEQyaFJONjBXeHk5MHpzdw?oc=5",
@@ -338,6 +378,36 @@
    ],
    "pv": true,
    "publisher": "mako"
+  },
+  {
+   "title": "בן 14 ובן 19 נפצעו קשה ובינוני מירי בערד, הרקע פלילי",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2VwR3NPQTRzNDNOdXh5SEt0Q0VVQWZqZm1iNF9IRkNxTTFlSXhGUGk3c01OeHJGQ0ZwQnRpYWd1OEZ5LWZBQUJxVmVteDFFdGEzQTFWcy1sUFZsV0pMcmNLTzdLa3NGeHJFNXJaQm5HbmdmaTNKVU1TempaZE9kSzB4TzhXNE9mbkxMVVJQZ3RqU2NyQWlCaA?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "מאסר עולם נגזר על ג'ייסון עודה, שרצח את ילנה גרנברג כי דחתה את חיזוריו",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOGlmbTBDaW1VcmxTbldyZlJXWkVFNzd2WmY1VVctMVZUdkhDME5NMGxMWVF4eTFpSGs1YV9pdll6eUZJWWlmd2xhWVlndzBiS1VvSDhWT045RThIMEwwZjNrUkFiWWgtRWotU3BBSmVUQTdOcy1GM2Jhd3Q1QzBXd0ttYnItWExLWi05LWtHUFp3MHNqQzZxTQ?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "שר המורשת: המיגוניות בכביש 232 בעוטף עזה יוכרזו אתרי מורשת לאומיים",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDAzeXBxalJ1dzB4YXB0Uk4xSy1IZUJhVVdNekc2UUJaX1BFN3AxNi0tYS1GNWw0OEpaUzBZdDFxSWROYzZMV0pDeDR6azBNUzhFTU54YW95X3BKM1o5UTF5eFo5a19MUEtrSnJ5QnZFNVNfSE9zckQ0UWs5MXpkUXNsQkpZZ3F1RlhXZGhISDBHR2lGSEc3cVppUkcxS1k?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "קריקטורה יומית | 8 באוקטובר 2026",
