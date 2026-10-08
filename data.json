@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T14:30+00:00",
+ "updated": "2026-10-08T14:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"במקום לשנוא את החרדים, בואו נודה שאנחנו מקנאים בהם\"",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3hxeDVaTU84UEVjc1NFZWdtQ2FNX3hua0o0eWVJYmloSFViQlJHRHE3QUw3ODJLcWVJYlZnTkN4QWNCdlBYRTdxcndoSjF0a0VQcDVIYnZ1NDRBMmNZMzFZNWxEeDZJOWozUm1KX19RR2N5NjIzX0ZPTHk4MGNRYVhWY3FOY21pS1hENnExeW5VYloxNjhPUVg5amZndjNSNTE4RFZXWUJZTTNTQlk4WG81eXdMUjI2SjV4ME1LQzFjUXZ6MkdRajJQNERnNjdFaTdJ?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "האנשים שמאחורי המילים: מי כותב את הנאומים לפוליטיקאים ובכירי המדינה?",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbU1PNGVFVGZGbzRfTWJvTXR5N2hMS09VN0hzenhrbV80bkxTazM0SEZYdzdaaFRIb3FYM2VyU1lYeTZpTDlFdlZfLVQ2bUZXeVE?oc=5",
