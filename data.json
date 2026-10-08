@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T15:30+00:00",
+ "updated": "2026-10-08T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,13 +218,13 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "אסף רפפורט רוצה לנצח, אבל בחר את הקרב הלא נכון",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzB0U3NObFpVZ0FrNEF2MV9sWlh3eWp2T2p3T2hUT0h5LXVWdW5YOWtqSjhlZUhGa1JQSDZLUUc1S0xuV3NSRmlBUnBjOWpBeXRSelFUYVEyVUhHQXE1czFka3h0SjlRYkFXeTRWUDhmT3d2alVGVGR4UUJoMGpXSGhHeWZVYTVIT2FmMEQ1VEdZd0lROXRNeUpXcGhPTjNXMnpNSEhB?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [
+    "רפפורט"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "\"במקום לשנוא את החרדים, בואו נודה שאנחנו מקנאים בהם\"",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3hxeDVaTU84UEVjc1NFZWdtQ2FNX3hua0o0eWVJYmloSFViQlJHRHE3QUw3ODJLcWVJYlZnTkN4QWNCdlBYRTdxcndoSjF0a0VQcDVIYnZ1NDRBMmNZMzFZNWxEeDZJOWozUm1KX19RR2N5NjIzX0ZPTHk4MGNRYVhWY3FOY21pS1hENnExeW5VYloxNjhPUVg5amZndjNSNTE4RFZXWUJZTTNTQlk4WG81eXdMUjI2SjV4ME1LQzFjUXZ6MkdRajJQNERnNjdFaTdJ?oc=5",
