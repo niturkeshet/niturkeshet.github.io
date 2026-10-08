@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T09:45+00:00",
+ "updated": "2026-10-08T10:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "ההתנצלות של יצחק עמית בפני הציבור החרדי",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRHZYT05MTXJWcUJ6cEduLWhnaThMNnNKc0VpR2VKYlhHTndSVWg5Z1U1dXhnNkh0bl9YVmgyajJvcGUyb2pxanNOZkFkZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "אחותו של דוד זיני: צריך לסגור את המחלקה היהודית בשב\"כ",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2pGcWdFaUNIMkM5b2tVZHo1UjgzbkdVOWpJMVFoV3Bfd2dNb2xvejlXVkh4ZGFNbEFmUlRiZzZuYk1RcFJqYlBGVEV6OFVYZXFpblVVazRpem4zQS1hQnhsdEU2RmRlZ3FWb1ZWSnAzVDE3Y3lqTURaY3QtNDVXZUdDd2VlTm9OSlpFTnlCcjFXWGFFeVUzX3pNVVItSEk?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "המהפכה שלא הושלמה: התוכניות של נתניהו ליום שאחרי הבחירות",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBeUl3Ymx6ZUpIVlFHdy1sTzJ3cnYwX3NyV2tKVGlGYmFPZ0FULU90WnJxMVp5ekROTlRkZVBQMGlNMFoxZENpMVlKY29mY0U1Wm45MVpvcmU0Rk0?oc=5",
@@ -408,6 +428,16 @@
    ],
    "pv": true,
    "publisher": "mako"
+  },
+  {
+   "title": "הג'ובים לפעיל הליכוד לפני הבחירות: כץ מינה אותו ליועץ, גמליאל לראש מטה",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTd5Q3NaN244c2FQaEtva2J5d2ZzT0VnR1c1M05SQUZiQUFuc25EMlpHblA3eU1kOFBmQnZsZHBCVVFNdjVHUWthVGNwRV95ZUpNUmdPLVVHckl6dVlhNWNudEFuQWdSeGlnTUNrTmEzZ09VRVdlT2xrRk85UXFPcjhMZU1NZGxKM0xIN01YYm42QXY4djNQXzQxNFNnMHBsUDUzU2VTdVFQNXl4?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "בן 14 ובן 19 נפצעו קשה ובינוני מירי בערד, הרקע פלילי",
