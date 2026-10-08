@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T10:30+00:00",
+ "updated": "2026-10-08T10:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "פינת ליטוף",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2hCTU9nVElSNERmU2ZiajlfQWFma2lZNGlnZ05GUEdOd1NnZTVOUzJtWmUzaUxOSGEyOVFxY3B5Yy1ZYlBGUmh5amN5Mm5ZWG9HRUlrZGk2VXhtTHFwbWxNSmlkd2xOU3VteG1Lc0U4dUVxYUtlZ2t3U1Y3NzFOMFZ1c2xZTy1jdlQxQ1V6dUVMNC1hQW83enRVY1luSHJFdVc5RllwRXJMVjVRWmwweDBHZw?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "טקס האזכרה הממלכתי לטבח ה-7 באוקטובר בהר הרצל, 5.10.26",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUlCeElzeVJnRmdXMjA3Z3ZHc3hIOVFJTVlTRVo0b0p0cFlRel9LUkE2OGJWdWhLREViM1FYX3RNdEJUYlRpeHZFZkdWRi1NSVljYmlPZ3AxYjd1ZjN6R1JnYzZEZUlpb1NNQUZIVnhxMDk2dmtROTVCQVg2T01PektIbkdFc2d2ZVpLNzNTMWttbzU1akF4QkZKSzZoY1NnVTQ2Xzh0aEhkVTNjOVR0cFctZzVzSUMx?oc=5",
