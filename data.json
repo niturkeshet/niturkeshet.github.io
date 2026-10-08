@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T08:15+00:00",
+ "updated": "2026-10-08T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "בעקבות דברי ינון מגל: הרשות השנייה פתחה בהליך הפרה מול 103FM",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1NDY0pVeHZ5Q0g4OGhjVWhFTklERHZvOWJYZzNKTDF1RnYzclhISU9GdFVNZWxwM2RmemZzejFLUHBtRXp6ZXF5NFV3QjExYy0zeTdYY1Z0ZzA1NXZxMlkwbUtkdG5IbDFkcmFnV0lTTFVRUkc2dmlfUDlFYVdudWkyVzVqVW8?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-10-08",
+   "keywords": [
+    "הרשות השנייה",
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
   {
    "title": "וול סטריט בהלם: הבעלים של ערוץ i24NEWS לא מתכוון להתקפל",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01VEM5c01zS0l4ZzQ2MWZBd21lMHVIRnY5LTV6SmJrdDhEMXpEWWVheWZwRk1pdVdPeG9OUUlZOFZUUVViWk5OZTNIS1FUZm5XSUhDOWpsczBPV0VrWjI2T2U4YzRMcGlyeXVxRGRNTQ?oc=5",
