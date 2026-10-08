@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T09:00+00:00",
+ "updated": "2026-10-08T09:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "העם אפשר לרה\"מ לכוון את נהר ההיסטוריה, לכן נדמה שעברו יותר משלוש שנים",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV1hQV0xqanA0Vmk1aExxWWVTQ3BKRVhBU3RDZGRNRV90ZlJRTmZ1QkVCR3pRZVltbnlpNWh1WXFKSFBZOW9ScXY2d0xKZmdUWjdZemFENzBWa1duWEF5MVZiQ0NzamZ0N0N4Q29CaE9MbGw3a0lVR1YzN2xjTi0yRW8tUW5CX3F4dnNvSmNDemdLWjVjWkc0TlFyb21DNUtDNDd1NlNxUTFLMnowTm1aMEQyaFJONjBXeHk5MHpzdw?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "מה הופך את הפעמונית חשופת החזה לצווחנית העוצמתית ביותר בטבע?",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2FES3pJOVF1WFdXLWNqWVZQbDFjRjdjSWlwT3VzcUNKU0tvZDJ4MlFNeHpOWUg4T3lCa3F5VDRJek1HNXVXUEU4QVRubFdaQmoydVZHLUNLaTYtRkN5NTluYXdxRDd3aHlxa3VUakNFZWFrN1JLUk9BUmpWQU1KamJod0d4MFBxa3diQnVyTGZ6M1hPNVo0d2toVnlnV29Tc3c?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "בעקבות דברי ינון מגל: הרשות השנייה פתחה בהליך הפרה מול 103FM",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1NDY0pVeHZ5Q0g4OGhjVWhFTklERHZvOWJYZzNKTDF1RnYzclhISU9GdFVNZWxwM2RmemZzejFLUHBtRXp6ZXF5NFV3QjExYy0zeTdYY1Z0ZzA1NXZxMlkwbUtkdG5IbDFkcmFnV0lTTFVRUkc2dmlfUDlFYVdudWkyVzVqVW8?oc=5",
@@ -318,6 +338,26 @@
    ],
    "pv": true,
    "publisher": "mako"
+  },
+  {
+   "title": "קריקטורה יומית | 8 באוקטובר 2026",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT092ek9MVGI3RDA5QndSWDZxbWxsUm4zVERPcUFuUWRxZjl3UTZSUXFIc21TbXppekFEV0ZySlJyZV9Xa1o1Qm02Y21xbm9Ealo4dENjWUJjSURaZUNra1FESVFFT2NmMVJCX3lBSk55cmVWOExZLVVSQ3RwYlk4a0VKTjR1OWprVncyQnRJdk1KbmRRUmNpNW9HQ3pNUVBSNDd3SG1vanZSTkhKODlvLTQxYw?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "סקר חדשות 13: גוש נתניהו גדול מגוש איזנקוט בחמישה מנדטים",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1Fhd1ZldlI2RDY5RXdLTEYwV1p6US02M3pxc1U1SFNVc0swZ245eV95TVNfWGhFdndGQUdOSUJsTkZiOG5PT0gtNE9qNk5zU2Jpb1RIUTExNHJoSkhCMUVVNDNkTTB6Y2lkQ01oam1rM3ZpSnlwTmJsRm1Ccm15UUpxNWttUUJpVGNSeVlFaFJfYUo4V2F1Q25aakpfOWRl?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "מכל גיוסי התרומות של המלחמה הזאת, זה המכעיס מכולם",
