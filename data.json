@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T06:45+00:00",
+ "updated": "2026-10-09T07:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "חנוך דאום חוזר לרייטינג דו-ספרתי: 320 אלף צופים, ומה קרה בפרק השני?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LOUd2S1hpMjk3M3pCN3JtZ2wwb3lqWTlrS2EwdEZLMkI2eGFwVE9YVVFvTGlXcEY2YlR0aWpQR0R5M2tUMUFORjVYOU5sTDVsMmZDLVV1bjVmOWREOXpMVHhJMkNDaFlGNmhCckZsYWxVLW55bGxfaENobUx2V1E?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-10-09",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "אחרי הפטריוטים: ערוץ 14 משיק תוכנית כלכלית חדשה לקראת הבחירות",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RN1kxckt3eEpNdUlzbEpiZU1rcW9JdlZVelBFZHRwVUs1ZWRmaHd5SmpyVmR4eV9MZU5NWGNLM1RUN3JVUEVhdFFNSUdkRTkxMTd2VWs3S3c?oc=5",
