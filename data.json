@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T10:45+00:00",
+ "updated": "2026-10-09T11:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "חדשות 12 שאלו לאן נעלם ברדוגו – וקיבלו תשובה שלא ציפו לה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNZXJGdGhHR3RFZEtYdFRZTnJpeU81N1FFdjRlbjNhWWpZTklycDZ0dVZtdGhIMlJ2a0xOS0RoSnhjNWRURGg5TGdGc3BOUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-09",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "המבצר: הבידוד המדיני",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1tYnlkYUhESkRnRFBHT043OEctaEQ1alFYSHgzNjByZnB2UGlLWkE4S290aElfSTB2V3lEZThwT0pyOEVW?oc=5",
