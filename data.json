@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T10:00+00:00",
+ "updated": "2026-10-09T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,7 +170,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "המבצר: הבידוד המדיני",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1tYnlkYUhESkRnRFBHT043OEctaEQ1alFYSHgzNjByZnB2UGlLWkE4S290aElfSTB2V3lEZThwT0pyOEVW?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "מכבי תל אביב היתה עקבית, יציבה ומשוחררת. היא סוף סוף הגיעה ליורוליג",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlZIcy11THFHV2JMVXI2cnluY1Y1RVFVaDhkRHlFdUtJN2NSZ0ZZZkZVa0VmSzBlcXgtc01hQ3FsMUFySjdJd1U2V0NIY2F5cDhoVE45M3EzTUpyeC1PdGRoeEpNSmg3TXp2Y202dHBWVG4zbDdXdmFnYjkxS1ExNUk4WVdmbFM5cGdxRDBmQjdxQkhTR3czQlVKdk12QVpQZHRLd1RaRkRLLVdDNGtfSkJZV3l0QUV0V1Rn?oc=5",
@@ -313,6 +323,17 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "הקול קול ינון מגל, אבל המסר למשפחות החטופים הוא של נתניהו",
+   "url": "https://www.haaretz.co.il/opinions/2026-10-08/ty-article-opinion/.highlight/000001a1-160a-dbd6-a5a5-9fff187b0000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-10-08",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true
   },
   {
    "title": "ב-7 באוק' הוא פגש גיהנום. כעת יש לו סטארט-אפ שמכניס מיליוני ד'",
