@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:45+00:00",
+ "updated": "2026-10-09T12:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בניגוד למכבי חיפה: מיטש גולדהאר לא מתרגש מהשכונה",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0dEE3WFdpdUNiN25pMlNEQjNxTUoyYzZ4YnMteGF0bjFPVFhuX3BvYlZ1TXFGaEJMSnN6T25rWGQzNmt0WnpON0h1TGVsTHJnbWxlM2xQb2d1OW1OODY3MTZxTzRhTzUwLWNaVDIwUXBac19maHfSAX5BVV95cUxOMXRjUy1VWVBvNGNUc3k2ZWVvWWxvNml2REhNSGowd1MzeXdnVDVSR2JkOEphcEFOUHBmaWdtdGc0dG5vVVpPNXFlSUF5a3hIazN6aENFSFF4S3FkN2RJRmZVeWhtZGg4RlgyQ295OFgxUlVpMzFwcEJkaThxdVE?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "חדשות 12 שאלו לאן נעלם ברדוגו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNZXJGdGhHR3RFZEtYdFRZTnJpeU81N1FFdjRlbjNhWWpZTklycDZ0dVZtdGhIMlJ2a0xOS0RoSnhjNWRURGg5TGdGc3BOUQ?oc=5",
