@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T06:15+00:00",
+ "updated": "2026-10-09T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -279,6 +279,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "ב-7 באוק' הוא פגש גיהנום. כעת יש לו סטארט-אפ שמכניס מיליוני ד'",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSDF4LVhQaDRJUzVTaGJxSUxSbWVRdkt0VU5GbXBJeE9pWHI5LUhKSVNxNThHd0NhbTdsY0I0dFM1M2FzRWtjR0VSMFVScV96OWZjSVlrcmc2NEIzWDdsYmFYTG1oLXVr?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
   },
   {
    "title": "סערה פוליטית בעקבות החשיפה על אבי גיל: \"נזכר להתעורר עכשיו\"",
