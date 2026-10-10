@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T20:30+00:00",
+ "updated": "2026-10-10T20:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מכבי תל אביב פתחה את ליגת העל עם 93:120 על הפועל גליל עליון",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb25wWFZ0c2NRQzYyTGdMNDRRcExCMkJjVDdRQnJjZ0lzbzloZDhnTWM5eXpYVGlBTzdoSUUtUnJQUHhqbkJJcFEtSDBpWDNWTDBHZmlhZUtMQ3lNbW52Rm5wbm9pNDRXbWlRMld6OEtaWU5hTFhNRkZOT000V1hOeHp4dXNiM1VGSjFmOUxfMTllSmZ4NmNRRHJkMlpjYUsxWFFZ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "שלמה קרעי נגד ערוץ 12: \"ככל שהרייטינג צולל, מפלס השקרים עולה\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MUzNrdDVYUXV6VHYtTnM3TjNJSTU4SV9MQVVRY2hSblRtb2NrcW1SemlZQk9NaHI1LVpfbEJreUlvMkRvY0Jvb2ZxX0NkNC11YWVsX194ejJFTDlX?oc=5",
