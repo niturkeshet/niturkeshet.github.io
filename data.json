@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T19:45+00:00",
+ "updated": "2026-10-10T20:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,20 @@
   }
  ],
  "items": [
+  {
+   "title": "שלמה קרעי נגד ערוץ 12: \"ככל שהרייטינג צולל, מפלס השקרים עולה\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MUzNrdDVYUXV6VHYtTnM3TjNJSTU4SV9MQVVRY2hSblRtb2NrcW1SemlZQk9NaHI1LVpfbEJreUlvMkRvY0Jvb2ZxX0NkNC11YWVsX194ejJFTDlX?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-10",
+   "keywords": [
+    "ערוץ 12",
+    "שלמה קרעי",
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "קמפיין של איש אחד: בכירי הליכוד שסומנו על ידי נתניהו כ\"נטל באולפנים\"",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04SGMyN0NuY1NkYTFrUGFnajZ1NW5JblNTdW5jMkpiTmFleDMyTy1Yd2lYdGt0czY5Yi1KYWk3Q1I3bGhRZDBfbGZYU25MeEt5NWpLbEhnSUZUSFhxd202TktOSTc?oc=5",
