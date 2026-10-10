@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T08:45+00:00",
+ "updated": "2026-10-10T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אולפן שישי חושף: מי מעכב את ההכרעה בפרשה הפלילית של צחי ברוורמן",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1TC0yVnhsZW5RU0NpQl85SEVBREMyM29Id3pmdlZIS1FlOF9HUGdfeHJzVmtEQ2Iyc1BmT25TcmxyR0dQMzAxTFlDd0xaRG1ERVZjYXhCcDk2MUJfa0cwbA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "ב-7 באוק' הוא פגש גיהנום. כעת יש לו סטארט-אפ שמכניס מיליוני ד'",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSDF4LVhQaDRJUzVTaGJxSUxSbWVRdkt0VU5GbXBJeE9pWHI5LUhKSVNxNThHd0NhbTdsY0I0dFM1M2FzRWtjR0VSMFVScV96OWZjSVlrcmc2NEIzWDdsYmFYTG1oLXVr?oc=5",
