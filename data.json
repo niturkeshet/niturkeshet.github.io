@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T08:15+00:00",
+ "updated": "2026-10-10T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ב-7 באוק' הוא פגש גיהנום. כעת יש לו סטארט-אפ שמכניס מיליוני ד'",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSDF4LVhQaDRJUzVTaGJxSUxSbWVRdkt0VU5GbXBJeE9pWHI5LUhKSVNxNThHd0NhbTdsY0I0dFM1M2FzRWtjR0VSMFVScV96OWZjSVlrcmc2NEIzWDdsYmFYTG1oLXVr?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "מכבי ת\"א מתחזקת, הפועל ת\"א נחלשת: דירוג העוצמה לקראת פתיחת ליגת העל",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3MxalpMMGNkdmZHWml6bWVUUl94SVlXT21aT1h4NE5rTVNnNGlLWmEzUV9lSG9ERmc5ay10SFhwNmNHWFc0YWUwRGpUcmFEX3RrcW52TEFyY1FTbGEyV1EwQ3BvUkh4UVR0NEpWLUdzb1kxYmVhYVN1OGN3ZFdWMTBBekprZGZvNmhoMUdydGFDVUNYNENzN29pUHJZaTJhS2oyQ1I1Zkh0X1IwWm5PT1B2cDVWRXdTZzBn?oc=5",
