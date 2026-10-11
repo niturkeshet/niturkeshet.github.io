@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T15:45+00:00",
+ "updated": "2026-10-11T16:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "תלויים בקול שלכם: המועמדים המתנדנדים בדרך לכנסת",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Pa20tQUd0VjMta3JJemRUWTZ1M09Bb2RCWTlURjVMZ3VpZEthZGZ3VU5qU3M5UjhFQjBJUVZNeDVzTENmdzQ2RXp0RW1Ja2I3LTVQRGRhQ2RxVkN2akNMVmdsWkxNVFVLUGFvcTNR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
   {
    "title": "טיימס סקוור בתל אביב: שלט החוצות שגם אתם תוכלו להופיע בו",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TWEZ0S2VJM0Z5ZGhtTkVSaTM5V3RjMUlEWktfdjhpN0tjNDlaaFJJMHVtMTRoVFBwdDJMSi16ZUVwdUNnMlV4emR5eTlKTldBOVktUGZsVUs4Z3l4?oc=5",
