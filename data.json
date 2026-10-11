@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T09:00+00:00",
+ "updated": "2026-10-11T09:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,7 +170,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -355,6 +355,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
+  },
+  {
+   "title": "אבינתן אור, קשת 12 וטקס הזיכרון הלאומי ל-7 באוקטובר עשו את שלהם",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Tb1RMclpFUUhBT2JKbi01alRJT00wTEJfSzNMUkRScVc3OUprT3lMTS1WNGJpXy1ZaGpSMWd2bTVoaHFtS3ZxdUREa2VmZ0pOM3FvUXBYOUtNZGI4Uk9RamJn?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-09",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "רייטינג: חנוך דאום מראה לפטריוטים שהחיים הם תקופה קשה",
