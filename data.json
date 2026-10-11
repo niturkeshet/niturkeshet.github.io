@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T06:15+00:00",
+ "updated": "2026-10-11T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רייטינג צמוד במיוחד: \"דה וויס אולסטארס\" כמעט השיגה את \"הבריחה\"",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zQ3ViM01wYmVmcUJuMEdHVXVVOU5JbWs4NFFIMUtKalBVVGI0X1BIVmhQY1RhQllyLWh0ZGZ6R19oOEFwR0ZwQWJDLXZQdWF3Q0xpSlRrdWlXQjViOXZZaXZuS29jdUdDTE5wU0U2eXV2bkh1SjFwcGtBanhXc0U?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-10-11",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "חוק התקשורת של קרעי אושר סופית בכנסת",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oaUlub3lWTXNLeXN5aHp2blpQNzlIV3dvSnQ4Si1VQVdleXZpVHRLS3Z0R1R4TjZFOUE3R2ZjU0ZBOF80RG5zRkdFSE1adUgxb1gwSkNMZHg2cXZIREtaV09SaUEzUWtlOEE?oc=5",
