@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T13:15+00:00",
+ "updated": "2026-10-11T13:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "טיימס סקוור בתל אביב: שלט החוצות שגם אתם תוכלו להופיע בו",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TWEZ0S2VJM0Z5ZGhtTkVSaTM5V3RjMUlEWktfdjhpN0tjNDlaaFJJMHVtMTRoVFBwdDJMSi16ZUVwdUNnMlV4emR5eTlKTldBOVktUGZsVUs4Z3l4?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "רייטינג צמוד במיוחד: \"דה וויס אולסטארס\" כמעט השיגה את \"הבריחה\"",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zQ3ViM01wYmVmcUJuMEdHVXVVOU5JbWs4NFFIMUtKalBVVGI0X1BIVmhQY1RhQllyLWh0ZGZ6R19oOEFwR0ZwQWJDLXZQdWF3Q0xpSlRrdWlXQjViOXZZaXZuS29jdUdDTE5wU0U2eXV2bkh1SjFwcGtBanhXc0U?oc=5",
