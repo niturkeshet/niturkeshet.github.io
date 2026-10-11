@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T18:30+00:00",
+ "updated": "2026-10-11T18:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "\"המשפט הזה צריך להתבטל, הגיעו מים עד נפש\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93dDhiRVdCSm4zc0FzejY2QWtDNXNzOFRCMWZMaTJoeUxjY1dQdGhpYWx2WVlVSkg4XzVZMFVmSTlDTU1wWUotYW9VRWdzZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
+  {
+   "title": "הפועל תל אביב פתחה את הליגה עם 82:95 על הפועל באר שבע",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0V2UVBmMXNIRzBzdHBFanB3UVdiQ3R3YTJxanNfemJSN3hHV2phYkl5REgwdGl6OWxoV2VHQ0xtM3VrYlNJYzE3N2R0ckdZcWZ1MUMxMjJwRGhDN2stY3VvdjhNRl81VXBjeGlhS3FHZkxCVTh6OG1TQkpPYmhvX3I0NWlqakg5c1lKYW92SXJLQkg5ZVNJdm95Z2tGb2ZnQzFJ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "רני רהב נגד ינון מגל: \"ברור שתצביע למי שלא עשה צבא\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Icm5yRUpMUUlBeFJ1M01pSFNXdG9UcWRzQWtBNzlVejIwRGljQ1duZThyRkFjT3BLdERZcU5oV0dtMjhzQVlMMy02bE5wc3hwckZFcVNUejFKVHd2?oc=5",
