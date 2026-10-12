@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T18:00+00:00",
+ "updated": "2026-10-12T18:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "סקר המנדטים של חדשות 12: וינטר נשאר רחוק מאחוז החסימה",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbElxaTAtVVloOXR5clExd3B0Z0hHVDJfWEN0U2V0ZGdUVUZSVXhzVW1UX05paWljX0RscGd6Y05VcUQwenhVd3FxMTc4ZW1vbjJxZ0lMN2xFbFBQQTVBRGdiOGNyNndacFl5Z3h6VVlKZGhqX0RJM2ZHeWlsNUdFUmZHRmVoQm8?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-10-12",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
   {
    "title": "ינון מגל: \"מדהים כמה עבירות על החוק, זה אמור להוביל לזיכוי\"",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ud3MwWkt0UDMxWWw2cWdJb2tNOG1lbm1pMGJxdHRocDFnTEFnTGhDbkMwMktpRmlRckRfMFA0ZVJENWQtUDVlMHkteW9kTEVLSmVNbkg0VnQ2WUw3Z1dMb25Vaw?oc=5",
