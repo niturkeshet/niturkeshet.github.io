@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T07:45+00:00",
+ "updated": "2026-10-12T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "מחשש לפגיעה בבחירות בישראל: פנייה דחופה לגוגל, מטא וטיקטוק",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50RXl2Z25jMXYxTmdtQjFDNjZPUXpldDlPZXY3QzdVbVRZMHRrblYzTVpsSlctZUtSM1Q0ZW8zOEZvc3Jib01rT0pocjNKMmQtTmNiTmV5NzNXWUF5V2VINWFHZ0F5cjJSdHY2dHV30gF2QVVfeXFMT0g3Qmp0RVlBYjQ4VEdjaHY4Wkd0Q1ZQVzEyLVc3Q2k2VklYTHNjVzJ0akpOU2ZXS2NhSmVZTjZ6OHZoSmRwZmpldjVWYVJKblBaSW9YTmg3YnE3VE1pWWd0WUZkTHdlcVNadm8yNGdVSEdTaFVFZw?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-10-12",
+   "keywords": [
+    "גוגל",
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "ינון מגל ובן כספית בדרך לפרידה: \"אני לא יכול לשדר איתך\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hZFlSVEFKbU1wOHRVOVh6SlhWWlJwWjBJeWpvZHV1LXlCaHg2eVhtbkxFZkdGZ0ptZ01tckp1anZGNFpRWDFyREZUWFhIMk4zQkpGT0dENE1NZXhI?oc=5",
