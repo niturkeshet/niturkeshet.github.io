@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T03:00+00:00",
+ "updated": "2026-10-12T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מאחורי הקפיצה הנחשונית של גולדשמידט לחיק נתניהו | בן כספית",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ldC1WVDcxWFhySExLNXFCUkJmVDF4S1BVWE9oOEFnVnF3ZmlJWGUwZU1qOE1lRk4xSF9fc1RuR3BRbnl2aWdCcFB2MnlwdmdZRzJPWmQyOTFCcXR6dHZoTmlvTkY2VVROVnJCNA?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-10-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "המחווה המרגשת של הרב איתן שנרב להנצחת בתו רנה שנרצחה בפיגוע",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wVWp1ampjM3d5OVllbm1MT25raENXTVVKdTZJNjhQTWpMR1h5UFpIVmFMeTVWMURYUk5OSlY4TmRkR0pYaGRlYmxGSUozZw?oc=5",
