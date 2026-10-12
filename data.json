@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T09:45+00:00",
+ "updated": "2026-10-12T10:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -236,13 +236,13 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 6
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מניית גוגל (אלפבית): האם כדאי להשקיע ומה מזיז את המחיר?",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmhaU0NlMUFUcy0tUE9KNUlQdVMwOUdkNDJnaW9fTlZ4c3huTjhLWU1nRWY2djlfMldWNHhtR0tYUTUyNDUyLW16Qjg1OF83SlVSZkZkdVJ2NFpQdmpnbmMwLVpySlVjODhIdzZXdWJ6Mkt2Qm83SnV6bVA0TUtIYVVXX2xTcEZs?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-10-12",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
   {
    "title": "הדיון התקשורתי על פסילת הייצוג הערבי בבחירות 2026 נעשה כמעט ללא ערבים",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVVjJmUlVzYnZJTHVjREF4NzZ1c0hCMzhmUWwxLTdVYnpiZ2NIZ3UtcGtsU3l0R0l5WlNhSGNSWXZ2NmczVHhEVg?oc=5",
