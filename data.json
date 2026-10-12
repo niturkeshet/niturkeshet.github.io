@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T10:00+00:00",
+ "updated": "2026-10-12T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "איתן מליץ: מה יהיה המצב הביטחוני אחרי הבחירות?",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1RVmJ4Rzg4alJQUWpxdEJVS3BPdHdvU3Q1OHM0YU9UQVBibUxNZVgyZmpSa3B4NTA2bzFXTlc0a05EcXdL?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "מניית גוגל (אלפבית): האם כדאי להשקיע ומה מזיז את המחיר?",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmhaU0NlMUFUcy0tUE9KNUlQdVMwOUdkNDJnaW9fTlZ4c3huTjhLWU1nRWY2djlfMldWNHhtR0tYUTUyNDUyLW16Qjg1OF83SlVSZkZkdVJ2NFpQdmpnbmMwLVpySlVjODhIdzZXdWJ6Mkt2Qm83SnV6bVA0TUtIYVVXX2xTcEZs?oc=5",
