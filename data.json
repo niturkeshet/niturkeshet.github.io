@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T17:30+00:00",
+ "updated": "2026-10-13T17:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -447,6 +447,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "אמא של אבינתן אור חושפת: השיחה של בנה בשבי שנשמטה מ\"עובדה\"",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kOUwwUlZNamo4WHV6WC1MVE9idHFXc0VQTFRCODkwaEJ3MnZaZVVVRWxCTXpNWF95NGZqMVJ5NGFSZlNSd0x4SEFoWjFmSF9RZ2tFTzJqdHVRUnV1Zk54aTBiWVVOUTlR0gFwQVVfeXFMTUZYUkJ4QksySmwtcVh4c3ZPMTNBQnhQMjB2X3d0VXJKT2h6S2pmS29hSXF2WjB0YVFHNlAyMzVUVG1qd1ZjOF80LWlraFRYQXZ4VS1WLWpwZ2Fpc25pdGVuRzItV1VKd201WFJrVnpEMQ?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-10-11",
+   "keywords": [
+    "עובדה"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "רני רהב נגד ינון מגל: \"ברור שתצביע למי שלא עשה צבא\"",
