@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T13:45+00:00",
+ "updated": "2026-10-13T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הפוליטיקאית חושפת באומץ: \"חליתי במחלה\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3RlFmUXRwLW81QXp1MGdfXzlsT3dNdW5ZSG51ODdCdHV1aFJlQzFsZGktOHRIRWZ3VXJ3VFY3YktINkZUU1dPbTRTRENBdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
   {
    "title": "עתירה: לאסור על ערוץ 14 לראיין מועמדים מהליכוד עד הבחירות",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMEFRaU4zcGR1OU1DN1J3aXRkUjJEaWF5clY1UkFZbWlNTnkxM1dwajRYR3NJclR5bVBQck1jTGpTVU9HeUZCRXBnRzh6OF9EZTZQeEJrc1lXOTFyUTQ4R3VpbC1CelpYdjZUd2t0REoxTE5xNlBmSVNSRGJNN2pOYUhMSzNBS0NUdHJGeFhpcHNhUEprQkJYTjZsOFVpRm0yTzhiNFVpeFlUeTA?oc=5",
