@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T12:30+00:00",
+ "updated": "2026-10-13T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "עתירה: לאסור על ערוץ 14 לראיין מועמדים מהליכוד עד הבחירות",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMEFRaU4zcGR1OU1DN1J3aXRkUjJEaWF5clY1UkFZbWlNTnkxM1dwajRYR3NJclR5bVBQck1jTGpTVU9HeUZCRXBnRzh6OF9EZTZQeEJrc1lXOTFyUTQ4R3VpbC1CelpYdjZUd2t0REoxTE5xNlBmSVNSRGJNN2pOYUhMSzNBS0NUdHJGeFhpcHNhUEprQkJYTjZsOFVpRm0yTzhiNFVpeFlUeTA?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-13",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "ינון מגל: \"אם נתניהו חס וחלילה יפסיד, אין שוחד\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16OXhuVmVBVVc4dHBKcEJ4YTFOLWhpU0E0TEI4S21rbUh5aFA1cUlYQV9sLTJLbTVqQ3lDbTE0c2Q5LXBKbVU3Vjh3SEdqS0poLVBoWUF3NVI4ZU1O?oc=5",
