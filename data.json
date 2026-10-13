@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:15+00:00",
+ "updated": "2026-10-13T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל: \"אם נתניהו חס וחלילה יפסיד, אין שוחד\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16OXhuVmVBVVc4dHBKcEJ4YTFOLWhpU0E0TEI4S21rbUh5aFA1cUlYQV9sLTJLbTVqQ3lDbTE0c2Q5LXBKbVU3Vjh3SEdqS0poLVBoWUF3NVI4ZU1O?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-13",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "לפעמים הרצפה באמת עקומה: ייצוג הנשים החרדיות צריך לעניין את כולנו",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaQ29qS19uSmJpNUo2ZDNnQjZmcTFGMDBIU0ZmQUxMWjhrbi1PSHkwQUdMd3BoQ2hSaXlubHF2djFXblRCX0dkcURLVUwxc0pLMmVOZjNoUHVsWHhKUmc?oc=5",
