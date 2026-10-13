@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T21:00+00:00",
+ "updated": "2026-10-13T21:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נעדרות ממוקדי הכוח",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIRmh3OTRKMlZ6cFVxQmY1bnVXcjFKbTBtMEJpSW9qN1NZcUVyZnNXdC1sOUZZc3QzRS14RTlnVDZGMVNQWWJMa1JPb0J0c0FqMjY5MXlkR3NJSGprd1VYYW9R?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
   {
    "title": "הפוליטיקאית חושפת באומץ: \"חליתי במחלה\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3RlFmUXRwLW81QXp1MGdfXzlsT3dNdW5ZSG51ODdCdHV1aFJlQzFsZGktOHRIRWZ3VXJ3VFY3YktINkZUU1dPbTRTRENBdw?oc=5",
