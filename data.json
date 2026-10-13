@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T06:45+00:00",
+ "updated": "2026-10-13T07:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לפעמים הרצפה באמת עקומה: ייצוג הנשים החרדיות צריך לעניין את כולנו",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaQ29qS19uSmJpNUo2ZDNnQjZmcTFGMDBIU0ZmQUxMWjhrbi1PSHkwQUdMd3BoQ2hSaXlubHF2djFXblRCX0dkcURLVUwxc0pLMmVOZjNoUHVsWHhKUmc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
   {
    "title": "סקר המנדטים של חדשות 12: וינטר נשאר רחוק מאחוז החסימה",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbElxaTAtVVloOXR5clExd3B0Z0hHVDJfWEN0U2V0ZGdUVUZSVXhzVW1UX05paWljX0RscGd6Y05VcUQwenhVd3FxMTc4ZW1vbjJxZ0lMN2xFbFBQQTVBRGdiOGNyNndacFl5Z3h6VVlKZGhqX0RJM2ZHeWlsNUdFUmZHRmVoQm8?oc=5",
