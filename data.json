@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T16:15+00:00",
+ "updated": "2026-10-14T16:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -152,7 +152,7 @@
    "source": "גלובס · גלית חתן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "אסף רפפורט פותח את הכיס: רשת 13 בחוזה הגדול ביותר בהיסטוריה",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tY3ctZjVzdDJnbHRCUnZzakg0SE96ZWxsV2ZpUGVCWGJobHJ6Z3Z0RTNheXpjTGtxVEZMc0lhMU1IUW94M3VhaEtIOThQRE9uZ3hyZ2NYcTM?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-14",
+   "keywords": [
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "\"התובע הגיש כתב אישום על שיתוף שחקן שלא כדין, אבל לא ביקש עונש\"",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JcHVxbUJ2cXdCdHZ2bmRydDZVXzVVclFfRzkyS1FXbWpzWmpLdzdtVDhHa0FTbWNRbTNBN19GSkYzeWZGQ3NZT3dGRlR3c0phQVpXN3dyU3ZEaXBTX3JXamJ0d05henlmWGxHdEZWSUtBd0xKdW9ucnNRTWRnX1U?oc=5",
