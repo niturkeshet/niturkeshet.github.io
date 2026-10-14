@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T08:00+00:00",
+ "updated": "2026-10-14T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,19 +182,19 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל: \"יצחק רבין הביא את ה-7 באוקטובר\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6TDNmV3Awblk4UlJXZ0I0TmxHYTdOQmktam1fMGRfcmZQeWo0YXd5Uk5tdEpyby1GQ3l6MFdqUlhxQ1FXZTItdEhpNlJPOERKdU9XdkNuNXdXTUNm?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-14",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "\"ארץ נהדרת\" פתחה עונה עם 16.7% - \"הפטריוטים\" התחזקה ל-10.5%",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnSWdFZnhRdkpUbXZ0M04taFFhbmtrd0p0d1dmNk9qdUVMeElHRWQxV2FpWHdoeHNOSUhyemNQYlFtSEdRcHE2NXcwVEp0NnE3alNDSTRfQWpvWWFndHlVejlWOEltakdyVzFPWTNsaXFtdWhUWE9lc0JNZVREYzQ?oc=5",
