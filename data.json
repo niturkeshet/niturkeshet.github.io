@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T17:30+00:00",
+ "updated": "2026-10-14T17:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו בפאניקה - ומתראיין בכל המקומות שניסה לסגור בקדנציה הנוכחית",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qeFNMczBNTFBiOGxKYXNHVlZOcnZ5a2tPYnpDZ1RqUGRNVkt5c3lJRVhCYzI3NU1Ra2RqUE16S0FJUmJFM1gyTHFpZFByYUUtM3RZbUVGUnBueTFZZy1UVXRZcTBLaWx40gFwQVVfeXFMTy1XRnk4QW5pTC1scTZUamRtZHNDaUpyWGhWZFdYU0czVDZVeXRnUFZYZm4zUDJSRTAwNzhDaWZlUkNMMkJ6dmVpV2ZjcTBMSTNTQTBwZFloSjhQOERHdXBGU2c5bGpKb2o1Z2pBTVR1LQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "אסף רפפורט פותח את הכיס: רשת 13 בחוזה הגדול ביותר בהיסטוריה",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tY3ctZjVzdDJnbHRCUnZzakg0SE96ZWxsV2ZpUGVCWGJobHJ6Z3Z0RTNheXpjTGtxVEZMc0lhMU1IUW94M3VhaEtIOThQRE9uZ3hyZ2NYcTM?oc=5",
