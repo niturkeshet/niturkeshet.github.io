@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T11:45+00:00",
+ "updated": "2026-10-14T12:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לקראת הגשמים הצפויים: כך נערכת תל אביב למנוע הצפות",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kU1ZCczlGQXdsVUFBMnNnWTJDbl9idV83N1BRNkpxSjFESk9xMDNTWHVlcWlZLXRoVUg2ZWNVdXhsbmhBU29HWm41RW1paUJKejFMb1Aydjdwb2sySWdqdVl4MDLSAWxBVV95cUxQMW9WeGtNdmVQcXB6TzBUNmJOQVhaVVBfZkMyYk1ycWl5bnlXSms1b1VsWk9SMnY4STNTRW9iTzZaUC1BQ2pUSTlLdlllWFVLWlFFMkN0X3hJeHF3WGpmTndQX2FrUTFTUVp1aFI?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "ינון מגל: \"יצחק רבין הביא את ה-7 באוקטובר\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6TDNmV3Awblk4UlJXZ0I0TmxHYTdOQmktam1fMGRfcmZQeWo0YXd5Uk5tdEpyby1GQ3l6MFdqUlhxQ1FXZTItdEhpNlJPOERKdU9XdkNuNXdXTUNm?oc=5",
@@ -656,6 +666,18 @@
    ],
    "pv": true,
    "publisher": "mako"
+  },
+  {
+   "title": "מתחזים לגוגל ומזהירים מ\"פריצה מאיראן\": ההונאה החדשה שמסכנת אתכם",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kdEk5azQyNnAxcmlzeTJ1S0xSNG8yRWlrTHJFbk5ITXU0UDkwQUw0VGxWVlRSZUo3TkZ2cG5ITnZ3c1FjUGJiaFplT2FXUEV1UVBoV2dETFU3YWFVM2hDOFBFd0ExSDJG0gFwQVVfeXFMUHd0OVdWaVJkWnVxdy1BYjdOSDlTTXVRcXladjdJeG1Xb0VWWGhXLWJYWDlwOWEwd1NPaXBMMFdvb2d6VUZlb1djVi0xa2pyVWRBNjM3aWtYcnNENVZKaGlDaHdzTEI1OXoxYTM4ZzJrLQ?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-10-07",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "הריאיון עם אבינתן אור סחף את הצופים: \"עובדה\" עם 17.5%",
