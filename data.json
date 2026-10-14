@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T06:00+00:00",
+ "updated": "2026-10-14T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "\"ארץ נהדרת\" פתחה עונה עם 16.7% - \"הפטריוטים\" התחזקה ל-10.5%",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnSWdFZnhRdkpUbXZ0M04taFFhbmtrd0p0d1dmNk9qdUVMeElHRWQxV2FpWHdoeHNOSUhyemNQYlFtSEdRcHE2NXcwVEp0NnE3alNDSTRfQWpvWWFndHlVejlWOEltakdyVzFPWTNsaXFtdWhUWE9lc0JNZVREYzQ?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-10-14",
+   "keywords": [
+    "ארץ נהדרת"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "31 משרדים, רק מנכ\"לית אחת: השפל בייצוג הנשים בממשלה",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10aGtiWE9rZDRzX2hMNnlfb0g0ZGZmNkNjaGtLM3V1WHpOTGNmTUs4b3l5Um0yeEZNVjFERFBXeGdpZ0pyQkJtYXF4aU51NzN3WWVxVEpfTERRRDlRdHltbjVqb3NVR1Q2WFBHbndzS1I?oc=5",
