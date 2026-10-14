@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T01:45+00:00",
+ "updated": "2026-10-14T02:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "הח\"כ הסרוג בעד עולם התורה ונגד שלמה קרעי: \"החוק שלו יאפשר תועבה\"",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU09yU1pBVnZTaVYtcHZYSEh4dXVqbmw0OHpzQ1ZyME1xaDUzeWpncm1wM19NUG83TE1fS3ZuanhhV3EtVzNhdmxCclJyck5EMkJldjNXNlhtUEZnR2ZXMWJHdGdIbjBtZmtmZ0xkRTczUThuSHZMY3lRWEtDWEVfSGJnX241bW5maURYbWQwQWM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-13",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "31 משרדים, מנכ\"לית אחת: נשים נדחקות ממוקדי קבלת ההחלטות, והחקיקה בהתאם",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRS00yTW13V2ltR2JTbS1rVU9TQ3dxR0I4QkZTbW9jbFJXamlyMVNZdGs1VTEwd3E0czZyR3NyaEdOLWYxM2F5RzJZLXhYZ2pFN1hfR09vWnIyTjZHcXc?oc=5",
