@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T15:45+00:00",
+ "updated": "2026-10-14T16:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"התובע הגיש כתב אישום על שיתוף שחקן שלא כדין, אבל לא ביקש עונש\"",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JcHVxbUJ2cXdCdHZ2bmRydDZVXzVVclFfRzkyS1FXbWpzWmpLdzdtVDhHa0FTbWNRbTNBN19GSkYzeWZGQ3NZT3dGRlR3c0phQVpXN3dyU3ZEaXBTX3JXamJ0d05henlmWGxHdEZWSUtBd0xKdW9ucnNRTWRnX1U?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "ממשלת ישראל הצליחה במה שאויבינו לא הצליחו: להבריח ישראלים",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hajZlWEtkZWVfRnJobXFxNXZVNG90dDdUSE52TW50VkVJUUVYdXN1d0JMNHpudi1YU0tnYm1JRHQ0bjZUVERFTUFCc2RxV29YaHZLenV0MzFmRGhVb2pnZA?oc=5",
