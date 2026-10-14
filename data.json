@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T20:15+00:00",
+ "updated": "2026-10-14T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "המחנה \"הנקי והבריא\" ירשה לכם להצביע. ויש מי שיסכלו אפילו את זה",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52WndZTi1ZTVBCdHZvNVVVRXFaOEd4czVmcV9zZ2hveGc0QVJHZ3BqSmJ2UndqUXI0MDQzUWZsSlNGN25nYWVnUEdPdkM0R25EUmk2QXlla2JBdDRhbHRHMHc4TzNQQmZaQklmT3BVTGxwMlgyWW92MmZB0gF6QVVfeXFMTnZad1lOLVlNUEJ0dm81VVVFcVo4R3hzNWZxX3NnaG94ZzRBUkdncGpKYnZSd2pRcjQwNDNRZmxKU0Y3bmdhZWdQR092QzRHbkRSaTZBeWVrYkF0NGFsdEcwdzhPM1BCZlpCSWZPcFVMbHAyWDJZb3YyZkE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-14",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "גיא פלג בתביעת ענק: דורש כחצי מיליון שקל מפעיל הימין",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wMWczUEphMGFHdHlqazRHVlAtUTNmVUNrWFFtUUFTMEtKU2pvTElnLTdZN01qZHpDQ0ZIS1hyWlAyNnRFMHRGY1B0SnAtSWp2STRSWTdmWm9XdnpN?oc=5",
