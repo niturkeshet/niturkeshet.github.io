@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T23:45+00:00",
+ "updated": "2026-10-14T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "ice · תקשורת",
@@ -360,26 +360,6 @@
    "pv": true
   },
   {
-   "title": "אשת העסקים גליה אלבין: הביביסטים הם מזרחים, אין קשר בין היד ששמה פתק למוח?",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaUXF5bk43TVV2cUI2SHFoOTJFenFFMUE2RmJnTkU2RTN0cTFOSUtwNTVRUjh5dW9SNGtvNkZveTRJRkVKTjl3Zm9GSDVvSDJTLVFZZ2tRakdkbWdKeTM4dHB0UXl5UlZwN3psTEt4RGZRSDJ1?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-10-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "i24NEWS"
-  },
-  {
-   "title": "איתן מליץ: מה יהיה המצב הביטחוני אחרי הבחירות?",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1RVmJ4Rzg4alJQUWpxdEJVS3BPdHdvU3Q1OHM0YU9UQVBibUxNZVgyZmpSa3B4NTA2bzFXTlc0a05EcXdL?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
    "title": "מניית גוגל (אלפבית): האם כדאי להשקיע ומה מזיז את המחיר?",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmhaU0NlMUFUcy0tUE9KNUlQdVMwOUdkNDJnaW9fTlZ4c3huTjhLWU1nRWY2djlfMldWNHhtR0tYUTUyNDUyLW16Qjg1OF83SlVSZkZkdVJ2NFpQdmpnbmMwLVpySlVjODhIdzZXdWJ6Mkt2Qm83SnV6bVA0TUtIYVVXX2xTcEZs?oc=5",
    "source": "n12 / מאקו · חדשות 12",
@@ -390,16 +370,6 @@
    ],
    "pv": true,
    "publisher": "mako"
-  },
-  {
-   "title": "הדיון התקשורתי על פסילת הייצוג הערבי בבחירות 2026 נעשה כמעט ללא ערבים",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVVjJmUlVzYnZJTHVjREF4NzZ1c0hCMzhmUWwxLTdVYnpiZ2NIZ3UtcGtsU3l0R0l5WlNhSGNSWXZ2NmczVHhEVg?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-10-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "העין השביעית"
   },
   {
    "title": "מחשש לפגיעה בבחירות בישראל: פנייה דחופה לגוגל, מטא וטיקטוק",
@@ -437,26 +407,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "הדרך של אלי גולדשמידט לשריון בליכוד",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MTzl3QkhzWTFtUm9YMUNGSG5HZWhSSkhlNGhQY1FUaW9OQVNEelp4NTNucE1LVmtFYU1Td0RmNDhuZ0JjZ09VZy1iSkI3NG5lc0c2RER1b3gxQnpJVEFXY2FKZW4?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-10-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "מאחורי הקפיצה הנחשונית של גולדשמידט לחיק נתניהו | בן כספית",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ldC1WVDcxWFhySExLNXFCUkJmVDF4S1BVWE9oOEFnVnF3ZmlJWGUwZU1qOE1lRk4xSF9fc1RuR3BRbnl2aWdCcFB2MnlwdmdZRzJPWmQyOTFCcXR6dHZoTmlvTkY2VVROVnJCNA?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-10-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
   },
   {
    "title": "אמא של אבינתן אור חושפת: השיחה של בנה בשבי שנשמטה מ\"עובדה\"",
@@ -2602,30 +2552,6 @@
    "date": "2026-08-16",
    "keywords": [
     "רייטינג"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "מטא תשלם כמיליארד ד' לטיפול בנזקים שנגרמו לילדים מהרשתות",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001552316",
-   "source": "גלובס · נבו טרבלסי",
-   "type": "site",
-   "date": "2026-08-14",
-   "keywords": [
-    "מטא"
-   ],
-   "pv": true
-  },
-  {
-   "title": "רייטינג: עמרי אסנהיים מצליח להביך את ערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YZmxrSVo4bVJtY0dOaDNvTFJLbENuZndXRnpDaGw5Ql9wMmozcHUtWXRmdXNWRUhhbmJNUUFfUnhkX1EyOEYzTDFUX2RtdjZIZFFUTmp6U2xoaXlzdjJBYXdB?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-08-14",
-   "keywords": [
-    "רייטינג",
-    "ערוץ 14"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
