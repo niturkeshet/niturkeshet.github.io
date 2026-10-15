@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T00:01+00:00",
+ "updated": "2026-10-15T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,9 +163,8 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.themarker.com', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -377,6 +376,17 @@
    "keywords": [],
    "pv": true,
    "publisher": "YNET"
+  },
+  {
+   "title": "עתירה: לאסור על ערוץ 14 לראיין מועמדים מהליכוד עד הבחירות",
+   "url": "https://www.themarker.com/news/themedia/2026-10-13/ty-article/.premium/000001a1-350a-d0e6-abed-b76fa01f0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-10-13",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
   },
   {
    "title": "ינון מגל: \"אם נתניהו חס וחלילה יפסיד, אין שוחד\"",
