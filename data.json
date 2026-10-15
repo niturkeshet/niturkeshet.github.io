@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T23:45+00:00",
+ "updated": "2026-10-15T00:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.themarker.com', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -378,70 +379,6 @@
    "publisher": "YNET"
   },
   {
-   "title": "הח\"כ הסרוג בעד עולם התורה ונגד שלמה קרעי: \"החוק שלו יאפשר תועבה\"",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU09yU1pBVnZTaVYtcHZYSEh4dXVqbmw0OHpzQ1ZyME1xaDUzeWpncm1wM19NUG83TE1fS3ZuanhhV3EtVzNhdmxCclJyck5EMkJldjNXNlhtUEZnR2ZXMWJHdGdIbjBtZmtmZ0xkRTczUThuSHZMY3lRWEtDWEVfSGJnX241bW5maURYbWQwQWM?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-13",
-   "keywords": [
-    "שלמה קרעי"
-   ],
-   "pv": true,
-   "publisher": "כיכר השבת"
-  },
-  {
-   "title": "31 משרדים, מנכ\"לית אחת: נשים נדחקות ממוקדי קבלת ההחלטות, והחקיקה בהתאם",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRS00yTW13V2ltR2JTbS1rVU9TQ3dxR0I4QkZTbW9jbFJXamlyMVNZdGs1VTEwd3E0czZyR3NyaEdOLWYxM2F5RzJZLXhYZ2pFN1hfR09vWnIyTjZHcXc?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-10-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "איתן מליץ: מה יהיה המצב הביטחוני אחרי הבחירות?",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1RVmJ4Rzg4alJQUWpxdEJVS3BPdHdvU3Q1OHM0YU9UQVBibUxNZVgyZmpSa3B4NTA2bzFXTlc0a05EcXdL?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "נעדרות ממוקדי הכוח",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIRmh3OTRKMlZ6cFVxQmY1bnVXcjFKbTBtMEJpSW9qN1NZcUVyZnNXdC1sOUZZc3QzRS14RTlnVDZGMVNQWWJMa1JPb0J0c0FqMjY5MXlkR3NJSGprd1VYYW9R?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-10-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "הפוליטיקאית חושפת באומץ: \"חליתי במחלה\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3RlFmUXRwLW81QXp1MGdfXzlsT3dNdW5ZSG51ODdCdHV1aFJlQzFsZGktOHRIRWZ3VXJ3VFY3YktINkZUU1dPbTRTRENBdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "אמס"
-  },
-  {
-   "title": "עתירה: לאסור על ערוץ 14 לראיין מועמדים מהליכוד עד הבחירות",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMEFRaU4zcGR1OU1DN1J3aXRkUjJEaWF5clY1UkFZbWlNTnkxM1dwajRYR3NJclR5bVBQck1jTGpTVU9HeUZCRXBnRzh6OF9EZTZQeEJrc1lXOTFyUTQ4R3VpbC1CelpYdjZUd2t0REoxTE5xNlBmSVNSRGJNN2pOYUhMSzNBS0NUdHJGeFhpcHNhUEprQkJYTjZsOFVpRm0yTzhiNFVpeFlUeTA?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-10-13",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
    "title": "ינון מגל: \"אם נתניהו חס וחלילה יפסיד, אין שוחד\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16OXhuVmVBVVc4dHBKcEJ4YTFOLWhpU0E0TEI4S21rbUh5aFA1cUlYQV9sLTJLbTVqQ3lDbTE0c2Q5LXBKbVU3Vjh3SEdqS0poLVBoWUF3NVI4ZU1O?oc=5",
    "source": "ice · תקשורת",
@@ -452,16 +389,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "לפעמים הרצפה באמת עקומה: ייצוג הנשים החרדיות צריך לעניין את כולנו",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaQ29qS19uSmJpNUo2ZDNnQjZmcTFGMDBIU0ZmQUxMWjhrbi1PSHkwQUdMd3BoQ2hSaXlubHF2djFXblRCX0dkcURLVUwxc0pLMmVOZjNoUHVsWHhKUmc?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
   },
   {
    "title": "סקר המנדטים של חדשות 12: וינטר נשאר רחוק מאחוז החסימה",
