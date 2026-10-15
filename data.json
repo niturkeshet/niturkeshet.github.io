@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T13:15+00:00",
+ "updated": "2026-10-15T13:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ד\"ר יפעת בן חי שגב לפתחי וזמרי בעם: \"בפה הם משדרים כמה נאורים וכמה הם ליברלים, במוח ובלב מתעבים את הביביסטים\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPYXlGT19ZOWs0TDFOaGxiTHptUVF3Zy12eVlTT3N2UHJTM0tkNTdzSHBSNUlmUnlDRko5RE5aTnQzeHJlclFmSlNDQQ?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-10-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רדיו גלי ישראל"
+  },
   {
    "title": "אסף רפפורט בדרך למקדונלד'ס ישראל: מייסד וויז מוביל במרוץ על הזיכיון",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CMmN5ZVRIS1ZqOUFIQk41NnJWdldsbW83bU8yeHNCbmpiN3VQLTJORC13bmY2V2R4V2o2WGlhUlJ1QnpPZWRCRzM0NlZJUW11RXVEbVNyajM2SUF0d3JsdnNQVDBISHVP?oc=5",
