@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T09:15+00:00",
+ "updated": "2026-10-15T09:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נחומי יפה: \"נלך עם גוש הימין. לא נשב עם המפלגות החרדיות\"",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sdG5HcTVFSnNsV0wxVDBvWHpUTk5HbFVrSGtjaXRaeFY3ZXJaeVQxVlJhb254OTMtVEFMSmxISTdqVG1ocUVjbmJYbmh1VDktOF82WlhDWnc0VE1wT2NTQzVLS3IzdWZiRHc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "\"ש\"ס ויהדות התורה לא שואלים אם הם ראויים לקול שלנו\"",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOGpRU3FESTZYOVFyNU5LUW1OUHFXRkVrS0lBTC1mRkl1X3FnOUVNWEVCX2ZmbHdpLUpJTzNkN1ZNNGJIeV82ekVBM3pVV1hUU3ZsbkdZNld3bjlFSWREUHNTRU8?oc=5",
