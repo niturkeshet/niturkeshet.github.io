@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T06:30+00:00",
+ "updated": "2026-10-15T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "למה רצו למנות אותך לקונסול כבוד של פרגוואי בישראל? \"הייתי מייבא משם בשר\"",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSDRySmZnY3pZWFdIT2VsZWlyQ0tDUUxia1pPd3JuWkNiMWpoWXJRZGhfTFBHX29WbjYyRWlHcVpIRi01ZHplZnhuVjg5S2s2N21hTHlEeXNWZHA5U1BNVHdDZkM0MlB2eTQwWWl2dk0zZWNfZU5iSkphRDNvSUt2MnRGREswS3VkYmZ3RWRMb295dG1wY3M5WHlFRktabzUwdm5FcXJPV0VJak1xODNjbTN1Z0xfaGc?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "הפטריוטים ודה וויס ראש בראש: 8.1% לכל אחת, ערוץ 14 מוביל במספר הצופים",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VSzJNZGJQeVhpcE5BSUV3ZVhMdmZiRXV4M2tWTFN0WjctUmprc1lkOWhpenZIazB4VTg2OEpzbmJCQ3labmVLS0JnNnpMUGVPckZsVVg0RnJBS2tTaEozTkNaSjdQREFtTUtGdVJTMHRVS0wwa1gwaVhKQVpfVlU?oc=5",
