@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:00+00:00",
+ "updated": "2026-10-16T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "המהלכים הראשונים שמתכנן גוש השינוי במקרה של ניצחון",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nSFhUd2kyWk1vN2IzTG1lWUtLRlhzaGJ5Smc4em5HbU9qNXdraWlkSmt1eEdWM1FVajFscFJZd1lKUFd1ejhISXpyVVFlN3I3X1R1dUdsbld0a3NXUzE4YmlacmVOdlpDRUVCS0d5d3o?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
+  {
+   "title": "רונן בר תבע את נתניהו: האם לרה\"מ תעמוד זכות החסינות? | עושים סדר",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QaWJRVXNyT05kb3hHM0d3UllVbDJweDBZTlNWTnJFM3V6VnhGT0p1RHVMSjd6VmlSQ2RsYUNDT3JmQmplZVVDUkh0RXV0UThRTEpUWlFIR0tBc0dMeU1pT0dzekNoR0dXc1Z6TnQ4UDB6ejd6bWN3VG1nZw?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "המהלכים הראשונים במקרה של ניצחון",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iY2dveTdYWFJVSHJISU9aSXBiZmQ5RXBFcld4SE1xVGhSZ2IyRmx3T1J6c2Y5Tjc3MXEyQkZTeVhuRE9pRVF2YmU5ankxbVVmdVYyR0tZc213NHpsVDFWcHlR?oc=5",
