@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T18:30+00:00",
+ "updated": "2026-10-16T18:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מטא יורדת 4.2% והנאסד\"ק מאבד 2.2%; טוויליו צונחת 11.9%, טאואר 5%",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JU1ByWGF3OWc2VlhtQnJiSE16TG91NE1hME5QclNaRjl4OTBoeDZYWDFWYjU2Ul92Q212TE5OUjVDd21DZkROQXpuczlSN09VZ2RPMHpJZ0ViQ2htNGNiWTVqTUdkdDlJNGdTV3VvbUs?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-10-16",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "Israeli settlers attempt to establish outpost in Gaza",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON2p3ZHZSMWhrWi0zT0J5QUtOTjJlcHVmMHRPbXhxX3QyMzJYOFQ0TWNhR3RRMHd6SmlUNEJpOWpiaGEzNkZ5NzlraXlWTXZmQXpTQ084NVNHbUV5bHU4Y0RIZVBSWlNQR2tqOENHYkZVaHE3aFI0TTJoejAyQUhGZmJR?oc=5",
