@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T13:15+00:00",
+ "updated": "2026-10-16T13:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Israeli Resettlement Activists Set up Outpost Near Gaza Border",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTlFnMmZjQWlBNUNqSmJiTFktc09IUDNqTHVlci05d05HV3pIWHEwZGdyNklKcVgxZmxHUnhmRm9SY2VYTFU4eXBkTTEtUUlIcGEyeTZqNHFsWTBjMVQ2djNKZUtrZU55cHBseUlnbUQ5WWF1S0l3RTczVVFSRXFCUDBDQkVQd1R3RHFJXzJSSnhKa3R6anJXSjhUZ3BhcTAyUmVNQ1RnbEhsY1ExdzZxM2hneG5NTGNCX0syYW1hT280NnBIdmQyUUdyTjFyV0VpMXlaSjJNdU1NMUFGZ3cwMGJPSEJnTmk0NWRFN3I1STM?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-10-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haaretz"
+  },
   {
    "title": "תנועת נחלה הקימה מאחז בעוטף עזה, השר קרעי הגיע לתמוך: \"צעד מבורך\"",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdlJ1X3NEVjN4WmFoWnYtelY4bm82VlhzdklYVmpwT2laeUVhb1owaFM5aTc0SEhkWHF3RGlfVHZHV0hWQ0xyVEJzazBuV3Zjd3Jmc0x4OER6eEswRVNFbGpyRzJkRVA2eU1PWUpoRll0NGpEaktXVENyYUJUd0RkOTZtZC0zVU42Q05NSjJpMGJIbzktdUhSY3BIZi1VZDh2a3VSWEVpQnVNWG8?oc=5",
