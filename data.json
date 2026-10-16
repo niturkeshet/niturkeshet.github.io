@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T03:15+00:00",
+ "updated": "2026-10-16T03:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,13 +206,13 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "עמית סגל צריך רק אחד לטנגו — את עצמו. בני הזוג מתחלפים בהתאם לאינטרסים",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlRUZlpQNVpzeXRWNlBCNUtmNXVxMHBJUzMzSy14ZmttSlhWNDRSd3V3TWszOTM3dXNWVnBzaXJYX1lXZFpYalB0ZHFvbElleVp5OGk0VHhTRDdQWi1ZTnBndHRaNzB0eW1xYzN4d3NLRWRqRXlqVGxlZEFRQmNXYWw0cTZyQTVfc2JzNllfeUhWaFZwLV9SZTA3YVhPVnhUaF9UdzFjODdSU0Q4OVlyZUdR?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "המהלכים הראשונים שמתכנן גוש השינוי במקרה של ניצחון",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nSFhUd2kyWk1vN2IzTG1lWUtLRlhzaGJ5Smc4em5HbU9qNXdraWlkSmt1eEdWM1FVajFscFJZd1lKUFd1ejhISXpyVVFlN3I3X1R1dUdsbld0a3NXUzE4YmlacmVOdlpDRUVCS0d5d3o?oc=5",
