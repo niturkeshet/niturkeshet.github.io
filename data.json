@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T08:15+00:00",
+ "updated": "2026-10-17T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Right-wing group sets up settlement near Gaza, demands government move it into Strip",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNk1OdGJCTWlQVmVoQUNYT3FZZ0pTTjVCVkpxV196aThtclk3SFB6TlpoWXhhV0Z0aXRGZy1TcndoV3o2bm1RRVVaOXlZOEJWZEdpRXE3blNpX2VmNzRCclNXN2k2OXhBX0kzVEFVSTlFdkdjc0hjb2p5bmh1UVBvZ0hnQnF4dkVqV3lrMzJsTnR2aFI5YUptTGgwc2RfMnk5ZlZuNF9RbXk4TktfclN0QjA4YlZMZWtQV3fSAboBQVVfeXFMTTZNTnRiQk1pUFZlaEFDWE9xWWdKU041QlZKcVdfemk4bXJZN0hQek5aaFl4YVdGdGl0RmctU3J3aFd6Nm5tUUVVWjl5WThCVmRHaUVxN25TaV9lZjc0QnJTVzdpNjl4QV9JM1RBVUk5RXZHY3NIY29qeW5odVFQb2dIZ0JxeHZFald5azMybE50dmhSOWFKbUxoMHNkXzJ5OWZWbjRfUW15OE5LX3JTdEIwOGJWTGVrUFd3?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-10-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "המהלכים הראשונים שמתכנן גוש השינוי במקרה של ניצחון",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nSFhUd2kyWk1vN2IzTG1lWUtLRlhzaGJ5Smc4em5HbU9qNXdraWlkSmt1eEdWM1FVajFscFJZd1lKUFd1ejhISXpyVVFlN3I3X1R1dUdsbld0a3NXUzE4YmlacmVOdlpDRUVCS0d5d3o?oc=5",
