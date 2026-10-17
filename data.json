@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:45+00:00",
+ "updated": "2026-10-17T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "עם 10 שחקנים מהדקה הרביעית: הפועל תל אביב ניצחה את עירוני טבריה 0:1",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkNtek15dEFHMXNNSzkwLWJIWjd3MENzeFlvSlZJSG1CZl9vT2dnbmVqNi1UU0djTkRZTW5tbmxnVTQ0bWlLQl9DZW5DVnJmaEdDZTBfRDJ3YmdVa0tESDViNzNJckF2aXlyd1Jkcmc2MXU2NDVSODZjWE1ObGRMY1NmdktteTVidnJ6eEthemRCcmJQLXFJd2RkanhOQkk0akVLZUUxOA?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "רפפורט קנה את מקדונלד'ס, מה זה אומר על חדשות 13?",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41QjlTaDFVZFNJRXBDNzc4SG5McVpBNklIakdDVmtNOFJSR1ZkbjY4WVlTQ3NMV1VKN0FmWjNaRzhPZEl0YjRzYg?oc=5",
