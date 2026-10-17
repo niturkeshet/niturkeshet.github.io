@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:00+00:00",
+ "updated": "2026-10-17T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "המהלכים הראשונים שמתכנן גוש השינוי במקרה של ניצחון",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nSFhUd2kyWk1vN2IzTG1lWUtLRlhzaGJ5Smc4em5HbU9qNXdraWlkSmt1eEdWM1FVajFscFJZd1lKUFd1ejhISXpyVVFlN3I3X1R1dUdsbld0a3NXUzE4YmlacmVOdlpDRUVCS0d5d3o?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
   {
    "title": "תוך שנתיים: פריסת הסיבים בישראל תגיע ל־99.9%",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzQU0wM3R1RW55RkUxTnZJWm9pUTF5MzBZODRTNnpPdGZXbDVwcXJvcThJNVVXSUgzQjJEU1pWbGR5R2F2eDE2SkhKNFFfa3FCYWFBSDJoUm1NWHNtRUVYUmpVSnk?oc=5",
