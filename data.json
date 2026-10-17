@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T21:00+00:00",
+ "updated": "2026-10-17T21:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו טוען כי זוהו סימנים לניסיונות התערבות בבחירות באמצעות \"יצירת אירועים ביטחוניים\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Qcl9YRW5WOGc0TDR3SXFrNlJjcXc2WkxSeGxOUVhqaWtNUnJmbU5GN2xxVElKdG9Pc09yQ3prRlI3Y1BrVFFkZzNfdw?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-10-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "ינון מגל: \"הוא קוף. כל האשכנזים האליטיסטיים מנהלים אותו\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zY2hoMlBKSm5JcHZIRE5tbEx5MDhGTVJrNVdBdG13MVpYWmIxT1I3bWIyVW1hUXotcmJSTml2bmlVNldYRXBEaERObUI5Zm1RbGJJMEF5S2dvTkdM?oc=5",
