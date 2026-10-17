@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T14:15+00:00",
+ "updated": "2026-10-17T14:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רפפורט קנה את מקדונלד'ס, מה זה אומר על חדשות 13?",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41QjlTaDFVZFNJRXBDNzc4SG5McVpBNklIakdDVmtNOFJSR1ZkbjY4WVlTQ3NMV1VKN0FmWjNaRzhPZEl0YjRzYg?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-10-17",
+   "keywords": [
+    "רפפורט"
+   ],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "Right-wing group sets up settlement near Gaza, demands government move it into Strip",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNk1OdGJCTWlQVmVoQUNYT3FZZ0pTTjVCVkpxV196aThtclk3SFB6TlpoWXhhV0Z0aXRGZy1TcndoV3o2bm1RRVVaOXlZOEJWZEdpRXE3blNpX2VmNzRCclNXN2k2OXhBX0kzVEFVSTlFdkdjc0hjb2p5bmh1UVBvZ0hnQnF4dkVqV3lrMzJsTnR2aFI5YUptTGgwc2RfMnk5ZlZuNF9RbXk4TktfclN0QjA4YlZMZWtQV3fSAboBQVVfeXFMTTZNTnRiQk1pUFZlaEFDWE9xWWdKU041QlZKcVdfemk4bXJZN0hQek5aaFl4YVdGdGl0RmctU3J3aFd6Nm5tUUVVWjl5WThCVmRHaUVxN25TaV9lZjc0QnJTVzdpNjl4QV9JM1RBVUk5RXZHY3NIY29qeW5odVFQb2dIZ0JxeHZFald5azMybE50dmhSOWFKbUxoMHNkXzJ5OWZWbjRfUW15OE5LX3JTdEIwOGJWTGVrUFd3?oc=5",
