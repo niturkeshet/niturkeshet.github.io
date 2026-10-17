@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:45+00:00",
+ "updated": "2026-10-17T20:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,13 +182,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל: \"הוא קוף. כל האשכנזים האליטיסטיים מנהלים אותו\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zY2hoMlBKSm5JcHZIRE5tbEx5MDhGTVJrNVdBdG13MVpYWmIxT1I3bWIyVW1hUXotcmJSTml2bmlVNldYRXBEaERObUI5Zm1RbGJJMEF5S2dvTkdM?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-17",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "Israeli settlers establish outpost near Gaza, demand relocation into enclave",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3RnbktRVE40bWVYSVNiY05PWFlKclVmbThBenNXOHlJb29TU2Y0Q2tnMU9ZTWxVZ2pEMlFTSnUxdko4azFDS25faF9NczB5eGVfZk9yOXBqQi1pQlJ4RFZZQld3XzlXeld0LVdmdUlYNktLb2prWEJiakJtWjRJYWRHWkJvZDk4eHJrVnZuTTlPRkp6bk9PZjRjanZuOW5nTEpJRkhLb1NkS2hSNUdkVjFUS1B6S2pJTFpR?oc=5",
