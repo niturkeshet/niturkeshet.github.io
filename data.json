@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:00+00:00",
+ "updated": "2026-10-18T13:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,13 +176,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "במיקום סודי: ההחלטה האחרונה של הממשלה לפני הבחירות",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Yd1lHazlkODhMWDhIX3ZmSWQ0N0FHVENhYVhsbnNlOFZWV2N4c0FzZ21WSXBUdHBva3NNVHhSalpRN0dCdkNOU0Y1c2dKZ3RSblBNeGVyOU1vTGNDQlk4QUFCTWNFVGNpcHNLVnk1Rk9oLXAzdUVVZURR0gF6QVVfeXFMTVh3WUdrOWQ4OExYOEhfdmZJZDQ3QUdUQ2FhWGxuc2U4VlZXY3hzQXNnbVZJcFR0cG9rc01UeFJqWlE3R0J2Q05TRjVzZ0pndFJuUE14ZXI5TW9MY0NCWThBQUJNY0VUY2lwc0tWeTVGT2gtcDN1RVVlRFE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיפה"
+  },
   {
    "title": "'We will build palaces for Jews in Gaza': Right-wing activists establish new outpost near border",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00N09oUnJRQzB6dFNVSndORHVqWEZRYk1vZ3JZQVZhWml6Qi1JZ0RhT3Y5ejkxc2pYT1JPOXpqZ3FCb1FXTkJJVDJGRU9kSW1KblZrT19R?oc=5",
