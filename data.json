@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T12:15+00:00",
+ "updated": "2026-10-18T12:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל מובך לאחר ההערה השנויה במחלוקת, \"הזמר במסכה\" כיכבה בבכורה",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42dXZvc0p5QWZ1VVVWZ01Zanh1S21zclBXMHREa2F0NXM1WlU5VnVkQVlyS0JOajgycUd1aXo0N2xPMXBrZlVsM0V1ZGQ3d2RSTGJMQVp1cXZ2X1dBMC1CTDhR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-18",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "פעילי ימין הקימו מאחז לפני \"מעבר לעזה\", השר גיבה",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTNVR0ajcwZXVqbW5KZEVRVWFYcVRTNmdsVGVTTC1MR210SjNPZXlCOERDWFE3TE5kYmZ3UFFtOTBIbVQzQmRFOGc1T1lGaEZoa2ItOGc4THdCQQ?oc=5",
