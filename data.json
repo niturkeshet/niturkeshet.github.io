@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T06:30+00:00",
+ "updated": "2026-10-18T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בדיקה: הליכוד אכן החביא מועמדים מביכים. ברדוגו, קרעי, רגב ואמסלם לא התראיינו בספטמבר",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56RFhPQmJ0NUEybGFZcTZTUlZua1VkdGVSNERJNVVJdWdOckRkZHVCbWhPQWhJT3Qzc0lpSjZHeG5MZjVLSVhMRg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "נתניהו טוען כי זוהו סימנים לניסיונות התערבות בבחירות באמצעות \"יצירת אירועים ביטחוניים\"",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Qcl9YRW5WOGc0TDR3SXFrNlJjcXc2WkxSeGxOUVhqaWtNUnJmbU5GN2xxVElKdG9Pc09yQ3prRlI3Y1BrVFFkZzNfdw?oc=5",
