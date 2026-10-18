@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T08:30+00:00",
+ "updated": "2026-10-18T08:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "\"ב'ארץ נהדרת' עשו אותי מפגרת, סתומה, דבילית וטיפשה\"",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OLVV3MnNsRmNuT0FLa1NUd1JUSWl3eGhqRVB4M1lic0dKdUhBTzF2RDJwamR4VTA1X3BzZnI3RDF3d0t6VlVNQTgwVWhuUjhEbzVTTjB2YzJ6clNKU1A3ZHRLVzlKRWtHOVVkNEFmZTZXWkFfQ2c?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-10-18",
+   "keywords": [
+    "ארץ נהדרת"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
   {
    "title": "בדיקה: הליכוד אכן החביא מועמדים מביכים. ברדוגו, קרעי, רגב ואמסלם לא התראיינו בספטמבר",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56RFhPQmJ0NUEybGFZcTZTUlZua1VkdGVSNERJNVVJdWdOckRkZHVCbWhPQWhJT3Qzc0lpSjZHeG5MZjVLSVhMRg?oc=5",
