@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:45+00:00",
+ "updated": "2026-10-18T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "The government approved the Minister of Communications' proposal to remove barriers to mobile infrastructure deployment in Israel",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4MW9BSmF1WHpIX3pJU2FRN2t1T1RSRlZobzB0YjI2NDR5M3NjZEpqdzk5dk4xQklZOG5mZ3VXTnRXYXllQlk3cHF1WHY?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-10-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Gov.il"
+  },
   {
    "title": "כמה רייטינג השיגה מהדורת חדשות 12? בוועדת המדרוג ידונו בנושא",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001559942",
