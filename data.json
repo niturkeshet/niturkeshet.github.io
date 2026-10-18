@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:00+00:00",
+ "updated": "2026-10-18T18:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו חשש שדברי מגל יזיקו לו. ספק אם תמיכת טראמפ תסייע לו משמעותית",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnQwdFZBYmV5ejIyQ19BcmdISDBIVGtYTXdndUZKQnhnVnY3MWVwUnQ1MHVybXo2amlfVXg3cmVJOFhSamdPa080WDhHSTdWV0d4QU9CY3VyOXFrblZnd1VlR3hoYkJaeEpsUDlGZzVEcXQ3OUlmczVqczExR2k1dGpsOWVqNjJReGVaZE04YW5CTEkzOG5uZWNUZkh3MnBSLVJpdGl3aFFVejhqNmc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "הפועל תל אביב חזרה לדרייב אין עם ניצחון על מכבי אשדוד, 67:81",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSjhiYVRsaS1hR2hjNC1FNjZTUDBaU1BjTG5rZG5xQ1ItQ2JlWUx4dUZWQmhZbzZaVU01Mkl6cF9uOGNPZWJPNVZHMmlVRXhvNnlpa05weUFlZ3Z0R0ZDcjVmQzJVNGdoNXpFYVlzRnRFWTJFQV9rY1FrSHIxblhfMXZyUHFSTmlubkhVUkFnSXRtS2FlSWE5eWY5cm10dzFqS3M4?oc=5",
