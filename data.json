@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:45+00:00",
+ "updated": "2026-10-18T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הפועל תל אביב חזרה לדרייב אין עם ניצחון על מכבי אשדוד, 67:81",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSjhiYVRsaS1hR2hjNC1FNjZTUDBaU1BjTG5rZG5xQ1ItQ2JlWUx4dUZWQmhZbzZaVU01Mkl6cF9uOGNPZWJPNVZHMmlVRXhvNnlpa05weUFlZ3Z0R0ZDcjVmQzJVNGdoNXpFYVlzRnRFWTJFQV9rY1FrSHIxblhfMXZyUHFSTmlubkhVUkFnSXRtS2FlSWE5eWY5cm10dzFqS3M4?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "The government approved the Minister of Communications' proposal to remove barriers to mobile infrastructure deployment in Israel",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4MW9BSmF1WHpIX3pJU2FRN2t1T1RSRlZobzB0YjI2NDR5M3NjZEpqdzk5dk4xQklZOG5mZ3VXTnRXYXllQlk3cHF1WHY?oc=5",
