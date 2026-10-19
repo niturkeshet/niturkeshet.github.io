@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T11:30+00:00",
+ "updated": "2026-10-19T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,19 +188,19 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Likud minister attacks Ofer Winter: \"On Palestine's side\"",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjVlByZ2dndFBwOEtzUGVsVWZCQ1BBdE5OaU1Eb0VjR0JKaExsSXdkU3A0ZkFaN0hzbFI4aUtDUEdGQ3c5TGkxZUJHUEZxZDFoeHc?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
   {
    "title": "השר מהליכוד במתקפה חסרת מעצורים: ״וינטר בצד של פלסטין״",
    "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOVTlDYW9SbzM3S3ZSaW9GZ2FVVUNxbkhFVmEtTkhQdllzcTZ4eFJwNW9aT19QekdIV0d3eVl0S3hhaEhYaGtQQWtCQWlOX0ItVkJWeEs5QmEwcnh1SlJGOWtNVzhDak0wT0lsNE9rNWxaWl9hZkhYbDl2RVIxeHhWcndVOWZwRmJtckZETHl6SGpjSUl4aW8tTlVNMS1TUUdaOWZRNGJNdmpkLUpNbk93NTk2VHZwS0tiTTBQUmt0MEVKYmJVczU5Mm9OV09XeTE2aGxrNUUzMTZJZURtVUJ3Q29VN2Z4M25HSUZIMVM2M3ZFSTljbF91cjI4NWdwVVpfTU8ycm5ISWtVOGVFYURtOXR5bk9zTTdXZFlSczZEMjBObmVPMHEyWm5UWGVmMXc2c3NUTzFreWlBdThxVnBidzhJQQ?oc=5",
