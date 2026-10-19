@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T12:45+00:00",
+ "updated": "2026-10-19T13:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -146,7 +146,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "גלובס · גלית חתן",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השר קרעי: “וינטר בצד של פלסטין” | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1yWFRyem5ZaHNyOTMyMVFRaEI2TTJFWTVaV3Q1bFJnSmpxQUNCb09iV3YzTjdxS2tQbTdnbFgzZk9jYUNNZjliWDFR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "Likud minister attacks Ofer Winter: \"On Palestine's side\"",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjVlByZ2dndFBwOEtzUGVsVWZCQ1BBdE5OaU1Eb0VjR0JKaExsSXdkU3A0ZkFaN0hzbFI4aUtDUEdGQ3c5TGkxZUJHUEZxZDFoeHc?oc=5",
