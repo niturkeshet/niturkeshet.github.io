@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T16:15+00:00",
+ "updated": "2026-10-19T16:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Palestinians attack pro-settlement group including right-wing politician, her party says",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3lYV2tNQWxBVDRCeWduSC0zWUhvTV9zM3d2cUFRZzJQRERXd3d3VGtUMWtUc05fUzhzNjd2LTBsMVM1SzBsZk9xbXowTlItVHEzYXVyYkx3b0E4MUxoTG9xSWFfR1c1VlVvaEtiWUduWldjekRBQ2FQQ3NwOTBfazRsTjZmTWFWMWZncV9fNkdCVkVLcE9fdmkzS1dRcjBtbEJRdDVnSXdpclkzWUgwYzNWNWgyWWQzNzZLdFd5VdIBvwFBVV95cUxPU3lYV2tNQWxBVDRCeWduSC0zWUhvTV9zM3d2cUFRZzJQRERXd3d3VGtUMWtUc05fUzhzNjd2LTBsMVM1SzBsZk9xbXowTlItVHEzYXVyYkx3b0E4MUxoTG9xSWFfR1c1VlVvaEtiWUduWldjekRBQ2FQQ3NwOTBfazRsTjZmTWFWMWZncV9fNkdCVkVLcE9fdmkzS1dRcjBtbEJRdDVnSXdpclkzWUgwYzNWNWgyWWQzNzZLdFd5VQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "גנץ פורש מהבחירות: ''המסע שלנו לא נגמר''",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55YjFfX3dacF9PRHQwS1VkbEFkaUlTeW5Ya211SFQ0RHpFcWgtaW1IQ2xDQkdha3k3aWhuZzhxQmpIMThWS3RTREF1N3JMX1kxanZQUFRWMEo?oc=5",
