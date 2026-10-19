@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T10:45+00:00",
+ "updated": "2026-10-19T11:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,28 @@
   }
  ],
  "items": [
+  {
+   "title": "\"וינטר בצד של פלסטין\": שלמה קרעי תקף - ב'עמך ישראל' לא נשארו חייבים",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SNFFRQ0U4UGdTM2s2S19VTmtNcDQ5aktPb2RRVWJnNkptQTNpUWx1c0JLYmxEaUx1Y2dfbmM5ZEpQZXEyNHo2ejNZSlg1UEpjZlg5bGNvc185NXhLYWVtSzAza2doX1lNTTR1OA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "שר התקשורת קרעי במתקפה חריפה על וינטר: \"פוגע בימין ומסכן את השלטון\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ETGhfREFqWkdWWUlCMEg5eVFTMXVpbXE0Yk9CWUlSN1RGN0JQMmtLU2FScnBGN1lSREd1cGdrb01OQ2pJQ2taMXMtWQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JDN"
+  },
   {
    "title": "עימות חריף בימין | קרעי נגד וינטר: \"הוא בצד של פלסטין\"",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Lem1CZkJzT0liOFA0Smg5WFBuV1psa0c4enNjRm56QUEtblB4UGhkMFN6UDAxWXpJbnNfWmw5dGZSYTM5Y2xScw?oc=5",
