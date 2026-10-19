@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T16:30+00:00",
+ "updated": "2026-10-19T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,28 @@
   }
  ],
  "items": [
+  {
+   "title": "וינטר במתקפה על קרעי והליכוד: \"הימין אינו רכושכם\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwOWxQeWlQUEhfOFNKZkJtemFZWTFzTTBkQ012emhuYk5lODlTTXhfZWFNYjFaR29acTg0Y3VtS0UyQVJhb1RfUkZELXpBZXhMbFFOTWM4alFUYzQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה"
+  },
+  {
+   "title": "רייטינג: לראשונה מזה 11 שנה, ועדת המדרוג בשינויים - זו ההחלטה",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IcVlZSHdQQ2dadGhHM3Nudm4xUm42aHhCX3d3S2Q2bHFFc1VGSlJQWlVJTzBUd0VHUE9idkhxbE1FWTAtYThmZGUyRjJFNW9YLXBQRHhRLVNPLTNxNG1lV3Zn?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-19",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "Palestinians attack pro-settlement group including right-wing politician, her party says",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3lYV2tNQWxBVDRCeWduSC0zWUhvTV9zM3d2cUFRZzJQRERXd3d3VGtUMWtUc05fUzhzNjd2LTBsMVM1SzBsZk9xbXowTlItVHEzYXVyYkx3b0E4MUxoTG9xSWFfR1c1VlVvaEtiWUduWldjekRBQ2FQQ3NwOTBfazRsTjZmTWFWMWZncV9fNkdCVkVLcE9fdmkzS1dRcjBtbEJRdDVnSXdpclkzWUgwYzNWNWgyWWQzNzZLdFd5VdIBvwFBVV95cUxPU3lYV2tNQWxBVDRCeWduSC0zWUhvTV9zM3d2cUFRZzJQRERXd3d3VGtUMWtUc05fUzhzNjd2LTBsMVM1SzBsZk9xbXowTlItVHEzYXVyYkx3b0E4MUxoTG9xSWFfR1c1VlVvaEtiWUduWldjekRBQ2FQQ3NwOTBfazRsTjZmTWFWMWZncV9fNkdCVkVLcE9fdmkzS1dRcjBtbEJRdDVnSXdpclkzWUgwYzNWNWgyWWQzNzZLdFd5VQ?oc=5",
