@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T06:15+00:00",
+ "updated": "2026-10-19T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "דה וויס נצמדת לקופה ראשית: 7.5% לרשת 13 מול 7.3% לכאן 11",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wSTloX0FEQkkyQk5lY09tSlc2U2Y5M1JYVVRMRC02QjJYQ0E4NzFIb3pRbjdzQTBXX0hNeDFFajZUTThoMVk2MkZqM3pldU1uY05WdV8xMzJ6V1ozSkRudmNyanBSVkdWZXdWWjJTSDl0am5PZ1d2azJEWnh6emM?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-10-19",
+   "keywords": [
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "Israeli settlers establish outpost near Gaza, demand relocation into enclave",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXllLV9oVzNZTFZDOXBLUFZOekYzY29lTnZXYXBZMlVqWnFZaFlyX1ktU01iVk1OZ3pzTEc4X2dXUmZzTVUtRmE0bDZsWnhKS3ZRWkwxajZ4QkYwaEJhcldGM21lZTlYM3VWSEhqOXFNTU8wYnBRQkNpWW53anZOOGRvRGpDNldYOC11VVh4bWloWWNnVjYtV2ZEY3JHcFJXOWZRSFVETm9scG9Xdkl4bV9LX0JNWmJZQU9yUw?oc=5",
