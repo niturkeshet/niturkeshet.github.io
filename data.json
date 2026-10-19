@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:15+00:00",
+ "updated": "2026-10-19T23:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Following Gantz's withdrawal: Right-wing leaders step up pressure on Ofer Winter",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pOTVkUktnNlYxeHdsTFUyVzlXZXlUMmFGY19ic0ZUZjMxMVNiX2MydE1zZXcySG1Qc3cwc09ydm1yZ09DMkdtUXZnTFZyX3dpMDc4QTV4N0kxdw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Israel National News"
+  },
   {
    "title": "וינטר במתקפה על קרעי והליכוד: \"הימין אינו רכושכם\"",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwOWxQeWlQUEhfOFNKZkJtemFZWTFzTTBkQ012emhuYk5lODlTTXhfZWFNYjFaR29acTg0Y3VtS0UyQVJhb1RfUkZELXpBZXhMbFFOTWM4alFUYzQ?oc=5",
