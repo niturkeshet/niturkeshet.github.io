@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:45+00:00",
+ "updated": "2026-10-19T16:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "גנץ פורש מהבחירות: ''המסע שלנו לא נגמר''",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55YjFfX3dacF9PRHQwS1VkbEFkaUlTeW5Ya211SFQ0RHpFcWgtaW1IQ2xDQkdha3k3aWhuZzhxQmpIMThWS3RTREF1N3JMX1kxanZQUFRWMEo?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות באר שבע והנגב"
+  },
   {
    "title": "Benny Gantz bows out of Israeli race as polls keep him below threshold",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkFkOGNvMERNVlJCVDZoeTR6LU5XaFplYlg4UVlSNzVfbHB3a0EtU01sY2RRU2tKMjl6UFMycUpwUVpHZ0hBZ042anN2WTFxYjlOWHlxdVpRemFqM1pjU1g5SFdlbWlDVjZvbTVsbUc1UEkzVk8tcjA0T19zREdTYlIxY2Fhd0FmeEdtWWZycW13Q1c5SDFZQTRzSldQVzdSQUdpSnpxMnhiUHNQQ1lacEs5aHY?oc=5",
