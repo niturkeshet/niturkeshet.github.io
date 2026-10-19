@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T09:30+00:00",
+ "updated": "2026-10-19T09:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השר מהליכוד חסר מעצורים: ״וינטר בצד של פלסטין״",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNYUl2N3NaQnFpbEFrWXNoQWJxcHV1eUFvQTk5UHFKS2JPV1hfODVYN25seWh4T0phUHVMVkIzQW9rWXhzd2g2TUpRZ00tY1libEh2UUdVMmxNUk9kSkNTRVRJYjNjTi1XUnIyZC1tM21YZlBhZ2RtRUhxV3pWWWQxRFV1cy1HQ1BYM194c3VZSDFXYkFud2NzZUUwQ0ktTDE4WXFMei1zVEZSRzI4X2dxNnhwM3BwTWdFUmxCZml1aEd2YzNDUXJ3TEJQRUpjWVZUQWwxRFJRZXpVcnBJYW9GdjRjU2tBVThsR0N0a1c5WllPZ3VpYlJLeV9DS2l0MHpNamYtRFVwcGlQU09UbFJ5ZDYzVExkSXRzdkFrTlBQc2w3ZlV5YWQ1OUtSVDdUMzkyNS1SV000LVdaZzBwenBuVEZB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "וינטר עולה למתקפה חסרת תקדים על קרעי: \"איבד כל רסן\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xa2ZSRl9naURKdERoWE13ckNGTjd4UHhxcG9fRlFfaHg4SHFtY3dxN1J0OThwRFRMdG1EdDBKYVBIUVVoOWU1REFvMVpxdw?oc=5",
