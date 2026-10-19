@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:00+00:00",
+ "updated": "2026-10-19T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לא רק גנץ: חברי הכנסת שלא יכהנו בכנסת הבאה",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1veXJjLWJQNHBOaHRFN09nckVNRmFxT2hLUEZKcloxbmdjWllFNmRkNjBXWE44YTd4MzNsNXFEQlBCN0tEelZHZzZNU0xlemQ4LU1Ic3hPcEZKaWRaUFpxUlliMjljazByODBHa2J0RjNvUdIBekFVX3lxTE0wWVlRTm5aV2pkdzU2c1NfS3NSd1BVVy0ybnZkZ0MySHdUTWJ4S2Fqc2J4Z1EwUmVzMkViaDljZnJfbkJYQkdvWnlhTXl0V205d1JEZTcyeWJkclBUa3YySFI2aWdQbDNsbVkxZ2xvRUJzcHBrbHkzTXlB?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיפה"
+  },
   {
    "title": "לאחר פרישת גנץ | בימין מגבירים את הלחץ על עופר וינטר",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ydDJ0Q1F3S0htTWZLLUpWY0VrVDdhV045dkl1ZmFyUy13bGhzcUhsbFBrVnZOZE1lMkpwRWE2aE9OOXpadVNzeg?oc=5",
