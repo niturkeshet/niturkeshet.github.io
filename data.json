@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T09:15+00:00",
+ "updated": "2026-10-19T09:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "וינטר עולה למתקפה חסרת תקדים על קרעי: \"איבד כל רסן\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xa2ZSRl9naURKdERoWE13ckNGTjd4UHhxcG9fRlFfaHg4SHFtY3dxN1J0OThwRFRMdG1EdDBKYVBIUVVoOWU1REFvMVpxdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "מזגנים, מקררים ומערכות לרכב: הפטור החדש מיבוא",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HQXdHSE1OZVR5NU5fdi1iR0FhdnpLeW1oRDFqRUVmZTlzWUxscnJ4UjJ1V3lEMWxwRnBRRmkzSHZiSVhWU3FhZDlxR0Ewdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
   {
    "title": "אייל ברקוביץ': \"גיא פלג מטריף לי את המוח, רד לי מהחיים כבר\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03SVhaQXlKVHZSNVFUVG5HWl93WndobWxyd2dEVmNUVG4xYlFDNjVreWg0V1czUTlqUVNSNWRzNEJDTGprNUJkdV95WW5HdDBrQTE4ZXo5dDJHZGsy?oc=5",
