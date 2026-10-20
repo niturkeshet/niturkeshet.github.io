@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T08:45+00:00",
+ "updated": "2026-10-20T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "פיצוץ בשידור: בן כספית עזב את האולפן לאחר עימות עם ינון מגל",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QQ3N6U094MU1VMjdNWlhpNUpvRTdWYkhPRm9SOXRDZENTYlRQZjBoaldlampqNzJXMkNfUElHd202c0F2VmJJemZvMVhwUVlnWUZXalR3SzB0R0VQ?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-20",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "רייטינג: אופירה אסייג ובר רפאלי הכניעו את המתחרים",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1waW9GYnJFRnhNaGZCZnVzbS1UNDlFZDFnMmZ6OGdCU3h4bmxWdE9LOVp0OWhfeEVSczcxQ1pCUUV3SEE2TFdoSm91MHJvUzJheEpVYU9IRkhsbWEtV0xqVjRn?oc=5",
@@ -583,6 +595,18 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
+  },
+  {
+   "title": "גוגל הודיעה על פריצת דרך: האם הביטקוין נמצא בסכנה?",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5c2ZEamFTV0h3MlUzVkNtbnBBaTM3UzRFdmVlRkFKbXFGcE9TQnRKUlRtWGlNNFplYUdiMWc1ejFrRHRXcnVEWVFNNnh6OWZHaTJfWjRKYTloVG1Wa1E?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-18",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "בפעם השנייה ביממה: בערוץ 14 ממשיכים לכנות את איזנקוט \"קוף\"",
