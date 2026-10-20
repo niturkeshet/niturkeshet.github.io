@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T10:45+00:00",
+ "updated": "2026-10-20T11:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ice · תקשורת",
@@ -315,6 +315,26 @@
    ],
    "pv": true,
    "publisher": "העין השביעית"
+  },
+  {
+   "title": "פחות בירוקרטיה, יותר תחרות: משרד התקשורת מרחיב את הפטור מרישוי למוצרי חשמל ביתיים ולמערכות מולטימדיה לרכב",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vQXpsWjhrSFo5YVJoVzRMemVSYlNkYUhLT2R1UG1lc25ua19feUE5Q3oxeUYxSEJXeC1jNmpvUFRGelZDXzh1WHJsbUp2OEE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "gov.il"
+  },
+  {
+   "title": "צפו: כך הגיב רה\"מ נתניהו מיד כששמע על הפרישה של בני גנץ",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EbGl3U2VERFFXZnhyMEVHRFQwODFtandMYjVQR2U3eF80bG16cld6WnZrMWJNSWhIWmNhaUgwZS1JWFJxbE1aNlF3LUZuQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
   },
   {
    "title": "גם אחרי פרישת גנץ: וינטר מתעקש לרוץ עד הסוף",
