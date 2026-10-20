@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:45+00:00",
+ "updated": "2026-10-20T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
@@ -561,16 +561,6 @@
    "publisher": "ביזפורטל"
   },
   {
-   "title": "Israeli settlers establish outpost near Gaza, demand relocation into enclave",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXllLV9oVzNZTFZDOXBLUFZOekYzY29lTnZXYXBZMlVqWnFZaFlyX1ktU01iVk1OZ3pzTEc4X2dXUmZzTVUtRmE0bDZsWnhKS3ZRWkwxajZ4QkYwaEJhcldGM21lZTlYM3VWSEhqOXFNTU8wYnBRQkNpWW53anZOOGRvRGpDNldYOC11VVh4bWloWWNnVjYtV2ZEY3JHcFJXOWZRSFVETm9scG9Xdkl4bV9LX0JNWmJZQU9yUw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-18",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Arab News"
-  },
-  {
    "title": "בפעם השנייה ביממה: בערוץ 14 ממשיכים לכנות את איזנקוט \"קוף\"",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFc1V01ZOTlBT1JGelJJbzVTbmx4VlpMMkZpdXItVzU3d2xuVm4wd3dNaWw0QXFuMG1DcHl2WGh1Q1JkR2gxVVBMcUJPWVhaQ2tMSU9uU05GSEhieTZ4VlRONy03REpCYXFaOXozRFRMOHBZZ0hCd2VHOVFNdlZIQXZoaXNrMlE?oc=5",
    "source": "n12 / מאקו · חדשות 12",
@@ -581,36 +571,6 @@
    ],
    "pv": true,
    "publisher": "mako"
-  },
-  {
-   "title": "נתניהו חשש שדברי מגל יזיקו לו. ספק אם תמיכת טראמפ תסייע לו משמעותית",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnQwdFZBYmV5ejIyQ19BcmdISDBIVGtYTXdndUZKQnhnVnY3MWVwUnQ1MHVybXo2amlfVXg3cmVJOFhSamdPa080WDhHSTdWV0d4QU9CY3VyOXFrblZnd1VlR3hoYkJaeEpsUDlGZzVEcXQ3OUlmczVqczExR2k1dGpsOWVqNjJReGVaZE04YW5CTEkzOG5uZWNUZkh3MnBSLVJpdGl3aFFVejhqNmc?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-18",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "הפועל תל אביב חזרה לדרייב אין עם ניצחון על מכבי אשדוד, 67:81",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSjhiYVRsaS1hR2hjNC1FNjZTUDBaU1BjTG5rZG5xQ1ItQ2JlWUx4dUZWQmhZbzZaVU01Mkl6cF9uOGNPZWJPNVZHMmlVRXhvNnlpa05weUFlZ3Z0R0ZDcjVmQzJVNGdoNXpFYVlzRnRFWTJFQV9rY1FrSHIxblhfMXZyUHFSTmlubkhVUkFnSXRtS2FlSWE5eWY5cm10dzFqS3M4?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-10-18",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "The government approved the Minister of Communications' proposal to remove barriers to mobile infrastructure deployment in Israel",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4MW9BSmF1WHpIX3pJU2FRN2t1T1RSRlZobzB0YjI2NDR5M3NjZEpqdzk5dk4xQklZOG5mZ3VXTnRXYXllQlk3cHF1WHY?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-18",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Gov.il"
   },
   {
    "title": "כמה רייטינג השיגה מהדורת חדשות 12? בוועדת המדרוג ידונו בנושא",
@@ -625,16 +585,6 @@
    "pv": true
   },
   {
-   "title": "Activists set up outpost community next to Gaza, call for resettlement of the Strip",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2ZvN3hQODhKNkdHeEtpOWZxa2hEbi1GOGVrTUhjZ2pSeXF5aU1RSkFrZWQ1TG5RdVZiTmJXbGU4SVUxZFN3YXM2ZHBsVzVnSXhCZlVQV2pWR29QYzNONTVyTXVKRGhaczgtRGNtT0c0RHJFdGRUWDF4YmdmOWpDNFFPVlZvYmdNWlpwNlBSOFlxYWs4dENkSVpaaDU4bF9YQzJFQUNPQ3hvTXpHcDBOc9IBtgFBVV95cUxOVDQ1NWxQTVRjcXZVX1Rvb2ZEXzFtTHdjdW1pQnNUbWFjZXFwbmY0U3M0M2lsYWNCbEhqejlBN2U4bEJKOGRPRDNPc0J5cFFlV3Rmck1tWXBvWlpha2Z1WnJRc1J4anBITE1OY2lBY1k4aFNzUWw4clNabzlQNFVpSVhaT0pObUhvcTVlNmN5MnVobW9oY0N3V0xsckJFNFl5TFhNbDVvdktmWHdKVDU5OHJCbnpNdw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-18",
-   "keywords": [],
-   "pv": true,
-   "publisher": "World Israel News"
-  },
-  {
    "title": "החברה שייעצה למשרד התקשורת הובילה במקביל עסקת ענק של הוט",
    "url": "https://www.themarker.com/news/themedia/2026-10-18/ty-article/.premium/000001a1-4f40-d1de-a3a5-7f7c106d0000",
    "source": "דה-מרקר · יסמין גואטה",
@@ -644,39 +594,6 @@
     "הוט"
    ],
    "pv": true
-  },
-  {
-   "title": "חברה ייעצה למשרד התקשורת על חוק השידורים בזמן שהובילה עסקת ענק של הוט",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZldNbzhPMUdKVkVmQlVmbjJRbGJuOF9lOGRMQ2NZSV9Fd2hDdjFhbURMTGV2YUs3NGxFMmwyODJCc0tPeEZDeVJrcXNDZ2JLeVNKM1JCSDRuQUE5Q3BzUUU3amtId19JUHdiLU1sbDNueGFhV0NhTEpvSXlEOGhRcVhHWXhvaEdhTUNmcS02MXJKVUdtRG5iXy0xZUNIUnplNDd5UEhGbS1BYm8?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-18",
-   "keywords": [
-    "חוק השידורים",
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "במיקום סודי: ההחלטה האחרונה של הממשלה לפני הבחירות",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Yd1lHazlkODhMWDhIX3ZmSWQ0N0FHVENhYVhsbnNlOFZWV2N4c0FzZ21WSXBUdHBva3NNVHhSalpRN0dCdkNOU0Y1c2dKZ3RSblBNeGVyOU1vTGNDQlk4QUFCTWNFVGNpcHNLVnk1Rk9oLXAzdUVVZURR0gF6QVVfeXFMTVh3WUdrOWQ4OExYOEhfdmZJZDQ3QUdUQ2FhWGxuc2U4VlZXY3hzQXNnbVZJcFR0cG9rc01UeFJqWlE3R0J2Q05TRjVzZ0pndFJuUE14ZXI5TW9MY0NCWThBQUJNY0VUY2lwc0tWeTVGT2gtcDN1RVVlRFE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-18",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כיפה"
-  },
-  {
-   "title": "'We will build palaces for Jews in Gaza': Right-wing activists establish new outpost near border",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00N09oUnJRQzB6dFNVSndORHVqWEZRYk1vZ3JZQVZhWml6Qi1JZ0RhT3Y5ejkxc2pYT1JPOXpqZ3FCb1FXTkJJVDJGRU9kSW1KblZrT19R?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-18",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Ynetnews"
   },
   {
    "title": "ינון מגל מובך לאחר ההערה השנויה במחלוקת, \"הזמר במסכה\" כיכבה בבכורה",
@@ -691,16 +608,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "פעילי ימין הקימו מאחז לפני \"מעבר לעזה\", השר גיבה",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTNVR0ajcwZXVqbW5KZEVRVWFYcVRTNmdsVGVTTC1MR210SjNPZXlCOERDWFE3TE5kYmZ3UFFtOTBIbVQzQmRFOGc1T1lGaEZoa2ItOGc4THdCQQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-18",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
    "title": "\"ב'ארץ נהדרת' עשו אותי מפגרת, סתומה, דבילית וטיפשה\"",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OLVV3MnNsRmNuT0FLa1NUd1JUSWl3eGhqRVB4M1lic0dKdUhBTzF2RDJwamR4VTA1X3BzZnI3RDF3d0t6VlVNQTgwVWhuUjhEbzVTTjB2YzJ6clNKU1A3ZHRLVzlKRWtHOVVkNEFmZTZXWkFfQ2c?oc=5",
    "source": "n12 / מאקו · חדשות 12",
@@ -711,16 +618,6 @@
    ],
    "pv": true,
    "publisher": "mako"
-  },
-  {
-   "title": "בדיקה: הליכוד אכן החביא מועמדים מביכים. ברדוגו, קרעי, רגב ואמסלם לא התראיינו בספטמבר",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56RFhPQmJ0NUEybGFZcTZTUlZua1VkdGVSNERJNVVJdWdOckRkZHVCbWhPQWhJT3Qzc0lpSjZHeG5MZjVLSVhMRg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-18",
-   "keywords": [],
-   "pv": true,
-   "publisher": "העין השביעית"
   },
   {
    "title": "ינון מגל: \"הוא קוף. כל האשכנזים האליטיסטיים מנהלים אותו\"",
