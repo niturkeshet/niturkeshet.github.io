@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:00+00:00",
+ "updated": "2026-10-20T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "קיש מנסה לשבור את המראה של ראמ\"ה המשקפת את כישלונו",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yanI0TjFpRUlSLUh2RlNDNkxHcGRVUzVVVHFYcllUb2V0dmV5UktoTzFUN080c1FTak9sRUlxa3ZYVEp0dXhHaC1GUmlDYmFxOVBORXhSMzVYeE5rbVlMbGRqbWRRTEdZ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "calcalist"
+  },
+  {
+   "title": "Gantz's withdrawl could push Winter over Israel's electoral threshold",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SVHNTdEFWZUNoaW11RzJPYmhoRVdhZjRKaHJ3NFByOWRCUEJsY3hhUVhNajFReUYzNzRzdzBrSWJVWTFPdUtleUFKRXhlbmlweXNNNTZjdEUxRHRYWUs5bzdibmFNN2hX?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-10-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "Netanyahu, Smotrich Meet Rav Sadan Over Ofer Winter Run",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53eXhGbkhzX0ZtRjVpZmVnM19IOGhQTFJvSFVpRjYxdGxveERvNGduUTZkZTVxWlBveW9QREQzNFczTE43MFdKV3JIWmdldS1xVEhBV0VDZVIwejBUUnFtcFcyM0NWbVhQYXpnU29lbW1CRXFtSElzLQ?oc=5",
