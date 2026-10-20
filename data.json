@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T14:00+00:00",
+ "updated": "2026-10-20T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -259,7 +259,7 @@
  ],
  "items": [
   {
-   "title": "הדיפ-סטייט בישראל – מבט מבפנים",
+   "title": "הדיפ-סטייט בישראל",
    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYkhBaWYxenhnWEpjNkJyR3JSNWN0dWd6ZzNKVF9tVkh0VTVqd3JER1FXYlNrbHEtbWxjVFg4UzZTSFdYaDZOeHhPaFdDZUZRSUEzYllfdlF4ZTZwVmxJSWxHeFJJV2Jtb0VzV2FqcE1sRVdnLXNWQnZPRkRBMlkyM1VQY09scjJRclZoQUNnNXhCcVcyV3JTV0tfSWNYelViYVBqYVNzdzF1eGN1THY4cHNpcFJYRjdxUDRnN1RxWEJwUms1ZHRRTzRxdnpTQVVBbWdSVG90NVI1VEk4MmxfNGJVRGpDTWJaZlU2TTJtTkxQMEhhOHM1bVM2YzZyWmNvUDZHWHJkQW5IUjVh?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
