@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:45+00:00",
+ "updated": "2026-10-20T22:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"מנותק\": אבי שושן דיבר על המחיר ששילם על 7 באוקטובר, וחטף",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5RkhNbk1vSnBJMGRuTlVvdzI2eUhwS0xqOXphQUR5dGt0N2RGblZLaEZURUd0QzhEQnN5ZGVVMEZWNzlNQVhJbl8xQ0JuZ093X3BTdVd0N0pzX3ViZkxmTk4zZmtGSFU4T2NKYUpB0gF2QVVfeXFMTkczbFpsUkdPVnRyaFFJR0hfWFZHdGd0Z2tlNHVXeWV4ckdVcEppNVN6OHdYSS1FdE9obXg4V01ZZnlDWUl5NGpBRTB3cVRNT2VLSS1EdkFLUU1yMWVVT2pENnd3OXJ6a01QQkxMNE1xVm5oc1pVQQ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "\"המבצר\": לתעד את ההפיכה המשטרית",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxbHZxSTVWcHZZT2dwVnhaVVpld1FDR3ZURldMTVBEVEZFVTFrZy1vdl90YzVVeThQNjNBWkliMHNnbG1zMHNkWA?oc=5",
