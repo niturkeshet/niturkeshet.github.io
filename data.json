@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T15:00+00:00",
+ "updated": "2026-10-20T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -345,6 +345,16 @@
    ],
    "pv": true,
    "publisher": "העין השביעית"
+  },
+  {
+   "title": "מיכאל שמש: \"הדמעות זלגו מיד מהעיניים. הלב מתפוצץ מהתרגשות\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xRnR5a1FpVG5NM2NlTmVmQ1NtQkwycmE0Vm5qQVMyOGViNDBzc1RRaFRVTGNtLXVUNUdEYWowTjM3RldUaW8wajNKTFVnLXFlSnZpU05fUjRrU2o5?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "נתניהו על עופר וינטר: \"אין סיכוי שיעבור את אחוז החסימה\"",
