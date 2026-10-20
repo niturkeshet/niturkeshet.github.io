@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:30+00:00",
+ "updated": "2026-10-20T17:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Pressure mounts on Winter: Netanyahu and Smotrich meet with Rabbi Sadan",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yc3NnbmZvNHZPbmMyeWVHWU1VSGJqTlVHcUJvSTNhd0plNk1va3ZRX1pUWUdLNW5DQzdsNDhIMTBoVl9vRVM2d0NMYlFscnl4YVg5bS1CLTNTUQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-10-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Israel National News"
+  },
   {
    "title": "קיש מנסה לשבור את המראה של ראמ\"ה המשקפת את כישלונו",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yanI0TjFpRUlSLUh2RlNDNkxHcGRVUzVVVHFYcllUb2V0dmV5UktoTzFUN080c1FTak9sRUlxa3ZYVEp0dXhHaC1GUmlDYmFxOVBORXhSMzVYeE5rbVlMbGRqbWRRTEdZ?oc=5",
