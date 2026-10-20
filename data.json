@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:45+00:00",
+ "updated": "2026-10-20T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הדיפ-סטייט בישראל – מבט מבפנים",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYkhBaWYxenhnWEpjNkJyR3JSNWN0dWd6ZzNKVF9tVkh0VTVqd3JER1FXYlNrbHEtbWxjVFg4UzZTSFdYaDZOeHhPaFdDZUZRSUEzYllfdlF4ZTZwVmxJSWxHeFJJV2Jtb0VzV2FqcE1sRVdnLXNWQnZPRkRBMlkyM1VQY09scjJRclZoQUNnNXhCcVcyV3JTV0tfSWNYelViYVBqYVNzdzF1eGN1THY4cHNpcFJYRjdxUDRnN1RxWEJwUms1ZHRRTzRxdnpTQVVBbWdSVG90NVI1VEk4MmxfNGJVRGpDTWJaZlU2TTJtTkxQMEhhOHM1bVM2YzZyWmNvUDZHWHJkQW5IUjVh?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מידה"
+  },
   {
    "title": "הלחץ על וינטר גובר: נתניהו הגיע לעלי",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvSVFiZU9oMXowc0dmdXF0NXExR2NZSVY3VGhwSXVNQk8wQTVlNGZlUVJqcUZoX0Juajc2M0pxcnA5a0JnNG5rWQ?oc=5",
