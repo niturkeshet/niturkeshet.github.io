@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:00+00:00",
+ "updated": "2026-10-20T18:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו וסמוטריץ נפגשו עם \"הרב של וינטר\", שתקף: \"קמפיין מכוער\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFOWZteGt0WGEwV0p4VEN6bWpJLVFlMHdSb2JDakNXVDd5S1hkT1VlSTlSMUZ6Z0FfZ3lCd1FJampmTFNSMS1XcTNGcW1xVUZrR1lrTTM0MnNmTDg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה"
+  },
   {
    "title": "קרעי מאשים: \"מיארה מנסה לדכא הצבעה בימין\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4aWNQOHA4c3ppMW5MVjhVY25mdHJEZklkR2RJZkpMZzd3OVpPcW1qUGk1RTlKS3YyU18wMWM2OHk3d1Vtd1FndWlKVHVGUQ?oc=5",
