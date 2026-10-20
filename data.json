@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T09:45+00:00",
+ "updated": "2026-10-20T10:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מפתיע: העיתונאי הצעיר מצטרף לערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVBUVTFBZkMzUUpoNzdsVU9XVHk5Q1RfQnRlYUN4Y0xTb0ZmdDJkQ2t2WVI2QUp4WUNLd3lIck05RF96SVBZVEZteFJQZWFaT0VhR2t5aXVvRUJkN3RhRjdOMmFWMWJSNThfeG1GUE1LYl9wVTl2cGlDZ0gtRUNtNmJLcldvZFNuZDdlYVROa1NmSFlHT0wxR21yS2p1ZDl1c0x3WlRscWM0ekEwaG1mVEs4V0xoZVhVZlFN0gG7AUFVX3lxTE85UFRVMUFmQzNRSmg3N2xVT1dUeTlDVF9CdGVhQ3hjTFNvRmZ0MmRDa3ZZUjZBSnhZQ0t3eUhyTTlEX3pJUFlURm14UlBlYVpPRWFHa3lpdW9FQmQ3dGFGN04yYVYxYlI1OF94bUZQTUtiX3BVOXZwaUNnSC1FQ202YktyV29kU25kN2VhVE5rU2ZIWUdPTDFHbXJLanVkOXVzTHdaVGxxYzR6QTBobWZUSzhXTGhlWFVmUU0?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-20",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "כיפה"
+  },
   {
    "title": "What Could Swing Israel’s Election? Thousands Living in the U.S.",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGJOOUpEX3VuMEZHa3pkc3Y4elJ4b0tUUnk2SldVT2pVdUZmelUwNDZtRDVZMk9TSzNyTmJYb0hReEJPUnZiRDR6T0JTRU93eUt5ekxjbkh5cXZtNnZvWWZvblpsUEREdldCc2EwZXNWVGFXNXNUbGNXbDBpX015Qg?oc=5",
