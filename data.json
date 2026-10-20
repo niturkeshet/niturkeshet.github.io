@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T11:30+00:00",
+ "updated": "2026-10-20T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -315,6 +315,16 @@
    ],
    "pv": true,
    "publisher": "העין השביעית"
+  },
+  {
+   "title": "\"כל הגבולות נחצו\": הוועד המנהל של ארגון העיתונאים במסמך נגד היו\"ר",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFlnLVlrZW9sbmFnQjctOXBLWkJQV3NVdlBORFFnR1hKUlJ0LU4yU1JDbHliM0tPbzVXY1hrSy1zQjJhaGpVSnQyTnNBaDRBQnVjR3lwbTdqbENROThkSVE2X3NsSHRwQzZ5WWlxd2tFLUwtcGZWM09YSUtEMkZSSDNGTElZRGhoOVRzYWRESnkyZ05lYTRjY1k5VEFha0dZeHhpeXJFVEMyUHc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
   },
   {
    "title": "פחות בירוקרטיה, יותר תחרות: משרד התקשורת מרחיב את הפטור מרישוי למוצרי חשמל ביתיים ולמערכות מולטימדיה לרכב",
