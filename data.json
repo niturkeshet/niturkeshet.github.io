@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:30+00:00",
+ "updated": "2026-10-20T18:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "עורך סקרי המנדטים של ערוץ 14, שלמה פילבר: \"אין שכל אין דאגות\"",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONkdoQll1cEUzWWl5Z2toZ1M1VlZBT1pBSUZEWHRKTVZfQk1EVGwtODFRcGlONXd4cXM3WWs5MFRVYnBPeUhHMkxRenVGbFRJOUg2ZnA2S1hFc185U29V?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-20",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "נתניהו וסמוטריץ נפגשו עם \"הרב של וינטר\", שתקף: \"קמפיין מכוער\"",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFOWZteGt0WGEwV0p4VEN6bWpJLVFlMHdSb2JDakNXVDd5S1hkT1VlSTlSMUZ6Z0FfZ3lCd1FJampmTFNSMS1XcTNGcW1xVUZrR1lrTTM0MnNmTDg?oc=5",
