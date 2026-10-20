@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:30+00:00",
+ "updated": "2026-10-20T04:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -224,19 +224,19 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "תעמולה שקרית ופסולה: ערוץ 14 מוביל, גם ערוצי החדשות לא נקיים",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKdllMcnljZnhzSXhlenl0clE3VFFEcG02NEhoTk5NWjNyRE8wNHdJLUxFOUVSWjFEVWJnaE02U3Z1TURxRlVmWA?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-20",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "Following Gantz's withdrawal: Right-wing leaders step up pressure on Ofer Winter",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pOTVkUktnNlYxeHdsTFUyVzlXZXlUMmFGY19ic0ZUZjMxMVNiX2MydE1zZXcySG1Qc3cwc09ydm1yZ09DMkdtUXZnTFZyX3dpMDc4QTV4N0kxdw?oc=5",
