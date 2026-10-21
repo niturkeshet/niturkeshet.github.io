@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T10:45+00:00",
+ "updated": "2026-10-21T11:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הבחירות והתקשורת: מה מבטיחות המפלגות ומה הן אינן מגלות",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBabm4xX1kxdkdXZnRFTWRGU3ZjcXVneGszdlJkNWk4RWEwdG9qdkgzX3lhTU5uSTZEamQ0a0tVTUdIRzJsNGhCNg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "החשד לניגוד עניינים",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tZm96dGlXWGMxZG1wcmdkT3lyN21RTTRPQ3UwMjhxZjh3ZHlnbnJnVHN1WWczOV9PNlNnYlRnT2JJd1NEMXBMbWZTX2lSQQ?oc=5",
