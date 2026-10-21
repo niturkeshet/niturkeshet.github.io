@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T23:45+00:00",
+ "updated": "2026-10-21T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -429,96 +429,6 @@
    "publisher": "העין השביעית"
   },
   {
-   "title": "מיכאל שמש: \"הדמעות זלגו מיד מהעיניים. הלב מתפוצץ מהתרגשות\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xRnR5a1FpVG5NM2NlTmVmQ1NtQkwycmE0Vm5qQVMyOGViNDBzc1RRaFRVTGNtLXVUNUdEYWowTjM3RldUaW8wajNKTFVnLXFlSnZpU05fUjRrU2o5?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "נתניהו על עופר וינטר: \"אין סיכוי שיעבור את אחוז החסימה\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrbzVlcjJkR3FPV3BQd05NaU9pX2lYY210NXBwVDFiQXpmVHhxX3V2OTZ3aHloN0kwbnhmTWVqME5nRFE2WXhSVGdORDRuZw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "\"כל הגבולות נחצו\": הוועד המנהל של ארגון העיתונאים במסמך נגד היו\"ר",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFlnLVlrZW9sbmFnQjctOXBLWkJQV3NVdlBORFFnR1hKUlJ0LU4yU1JDbHliM0tPbzVXY1hrSy1zQjJhaGpVSnQyTnNBaDRBQnVjR3lwbTdqbENROThkSVE2X3NsSHRwQzZ5WWlxd2tFLUwtcGZWM09YSUtEMkZSSDNGTElZRGhoOVRzYWRESnkyZ05lYTRjY1k5VEFha0dZeHhpeXJFVEMyUHc?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "פחות בירוקרטיה, יותר תחרות: משרד התקשורת מרחיב את הפטור מרישוי למוצרי חשמל ביתיים ולמערכות מולטימדיה לרכב",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vQXpsWjhrSFo5YVJoVzRMemVSYlNkYUhLT2R1UG1lc25ua19feUE5Q3oxeUYxSEJXeC1jNmpvUFRGelZDXzh1WHJsbUp2OEE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "gov.il"
-  },
-  {
-   "title": "צפו: כך הגיב רה\"מ נתניהו מיד כששמע על הפרישה של בני גנץ",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EbGl3U2VERFFXZnhyMEVHRFQwODFtandMYjVQR2U3eF80bG16cld6WnZrMWJNSWhIWmNhaUgwZS1JWFJxbE1aNlF3LUZuQQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "גם אחרי פרישת גנץ: וינטר מתעקש לרוץ עד הסוף",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tUmZHSGxqOXlNMm9yUzE3QkRmekIyWEVPVjdkdjNsZC1Da2l3b0o0blg4RVg3TlpyWEZHdU9Xb3dYcmQ4Ymw4eEFXcGRRdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "\"אנחנו פלסטין?\" • וינטר יוצא למתקפה ומסרב לפרוש",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QV2wwLXFXTEVDLVZyXzVOdjBGRkVDRTJPVkpyWExDQVlZczVpWkdtRlFROHNoWl82enRCdmRDWVNaa1o2aUNQaUFQbXp6UQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "אמס"
-  },
-  {
-   "title": "Following Gantz's withdrawal: Right-wing leaders step up pressure on Ofer Winter",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pOTVkUktnNlYxeHdsTFUyVzlXZXlUMmFGY19ic0ZUZjMxMVNiX2MydE1zZXcySG1Qc3cwc09ydm1yZ09DMkdtUXZnTFZyX3dpMDc4QTV4N0kxdw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Israel National News"
-  },
-  {
-   "title": "וינטר במתקפה על קרעי והליכוד: \"הימין אינו רכושכם\"",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwOWxQeWlQUEhfOFNKZkJtemFZWTFzTTBkQ012emhuYk5lODlTTXhfZWFNYjFaR29acTg0Y3VtS0UyQVJhb1RfUkZELXpBZXhMbFFOTWM4alFUYzQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "וואלה"
-  },
-  {
    "title": "רייטינג: לראשונה מזה 11 שנה, ועדת המדרוג בשינויים - זו ההחלטה",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IcVlZSHdQQ2dadGhHM3Nudm4xUm42aHhCX3d3S2Q2bHFFc1VGSlJQWlVJTzBUd0VHUE9idkhxbE1FWTAtYThmZGUyRjJFNW9YLXBQRHhRLVNPLTNxNG1lV3Zn?oc=5",
    "source": "ice · תקשורת",
@@ -529,188 +439,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "Palestinians attack pro-settlement group including right-wing politician, her party says",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3lYV2tNQWxBVDRCeWduSC0zWUhvTV9zM3d2cUFRZzJQRERXd3d3VGtUMWtUc05fUzhzNjd2LTBsMVM1SzBsZk9xbXowTlItVHEzYXVyYkx3b0E4MUxoTG9xSWFfR1c1VlVvaEtiWUduWldjekRBQ2FQQ3NwOTBfazRsTjZmTWFWMWZncV9fNkdCVkVLcE9fdmkzS1dRcjBtbEJRdDVnSXdpclkzWUgwYzNWNWgyWWQzNzZLdFd5VdIBvwFBVV95cUxPU3lYV2tNQWxBVDRCeWduSC0zWUhvTV9zM3d2cUFRZzJQRERXd3d3VGtUMWtUc05fUzhzNjd2LTBsMVM1SzBsZk9xbXowTlItVHEzYXVyYkx3b0E4MUxoTG9xSWFfR1c1VlVvaEtiWUduWldjekRBQ2FQQ3NwOTBfazRsTjZmTWFWMWZncV9fNkdCVkVLcE9fdmkzS1dRcjBtbEJRdDVnSXdpclkzWUgwYzNWNWgyWWQzNzZLdFd5VQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Times of Israel"
-  },
-  {
-   "title": "גנץ פורש מהבחירות: ''המסע שלנו לא נגמר''",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55YjFfX3dacF9PRHQwS1VkbEFkaUlTeW5Ya211SFQ0RHpFcWgtaW1IQ2xDQkdha3k3aWhuZzhxQmpIMThWS3RTREF1N3JMX1kxanZQUFRWMEo?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות באר שבע והנגב"
-  },
-  {
-   "title": "Benny Gantz bows out of Israeli race as polls keep him below threshold",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkFkOGNvMERNVlJCVDZoeTR6LU5XaFplYlg4UVlSNzVfbHB3a0EtU01sY2RRU2tKMjl6UFMycUpwUVpHZ0hBZ042anN2WTFxYjlOWHlxdVpRemFqM1pjU1g5SFdlbWlDVjZvbTVsbUc1UEkzVk8tcjA0T19zREdTYlIxY2Fhd0FmeEdtWWZycW13Q1c5SDFZQTRzSldQVzdSQUdpSnpxMnhiUHNQQ1lacEs5aHY?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Türkiye Today"
-  },
-  {
-   "title": "Benny Gantz Withdraws from Upcoming Israeli Elections, Saying: “I Will Not Run”",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50eFlTcU9qWUFsakRkM1g3RnpuSGlucXFmRFlPWi1EUFktZkdQTDZJQ3ZNTHRoVFVkajY0bzF3a3VYWFdiamJFdGRqelpUYUdu?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "شبكة يافا الإخبارية"
-  },
-  {
-   "title": "Israeli Minister Karhi says \"Winter is on Palestine's side\"",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZHhmb2JZWVZ3VlZyeWNjMHhaT0JpeExRWXc4V0lSMGpnc0tIdlRKN1IwS0ZUVUdxbC04QzNLVUJiQVFNbk15bU9kajZQTXl0NDdYbWxkYUtuLVVXYk5QN041eE92c2dubjFrWktDU1p0WktuTTRQV3kzNDJBY2hlYUVFOFNOemRyLVFHV2l3bXJRUE5iclZtUjNsUjh3Zw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "JFeed"
-  },
-  {
-   "title": "לא רק גנץ: חברי הכנסת שלא יכהנו בכנסת הבאה",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1veXJjLWJQNHBOaHRFN09nckVNRmFxT2hLUEZKcloxbmdjWllFNmRkNjBXWE44YTd4MzNsNXFEQlBCN0tEelZHZzZNU0xlemQ4LU1Ic3hPcEZKaWRaUFpxUlliMjljazByODBHa2J0RjNvUdIBekFVX3lxTE0wWVlRTm5aV2pkdzU2c1NfS3NSd1BVVy0ybnZkZ0MySHdUTWJ4S2Fqc2J4Z1EwUmVzMkViaDljZnJfbkJYQkdvWnlhTXl0V205d1JEZTcyeWJkclBUa3YySFI2aWdQbDNsbVkxZ2xvRUJzcHBrbHkzTXlB?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כיפה"
-  },
-  {
-   "title": "לאחר פרישת גנץ | בימין מגבירים את הלחץ על עופר וינטר",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ydDJ0Q1F3S0htTWZLLUpWY0VrVDdhV045dkl1ZmFyUy13bGhzcUhsbFBrVnZOZE1lMkpwRWE2aE9OOXpadVNzeg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ערוץ 7"
-  },
-  {
-   "title": "בימין מגיבים לדרמה הפוליטית: \"זוהי אזעקת אמת\"",
-   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPLVBnMkdfN1BjX1g4Q1QtVUVIWG00cXpwd21DUjhmajhPMG42RnF1MndIVlB0Rm9icUJlbHZ2X3p2cXNJdUhXeTNPc0JuMmxxeUxPcVBuWFg3SGJGZU9mRENJRmJRejBtcUp3c0tTaS0zLVVXMVlBTDVaTnFwMDJ4M3ZYVkFTUVRyVndMZ0lDeERWWndrRjVLX1hrQURTX3hsMTd2SjlCRHZqano4d3RqOTVzaS1OcWxueEZMTEVzMTE5eFZMMWNZUUhXd2xZYnlqUkExTUdoMEEwNlc2bWhsTnFCUmEyVUs2VE5PRy1Bczl2aVJaVDh0R3NLY2c0eDZCYW5NaHJwcmxkM0dxZHdOTkluVDdIOEtHNTBJQjktVHBMMGZucmVtWFFKaThVRUJuRUlyTjZuLXdDY1c1QThleVV2dFY0ZG5Wdm9yakVRajZmUE1oSnNtaA?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
-  },
-  {
-   "title": "השר קרעי: “וינטר בצד של פלסטין” | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1yWFRyem5ZaHNyOTMyMVFRaEI2TTJFWTVaV3Q1bFJnSmpxQUNCb09iV3YzTjdxS2tQbTdnbFgzZk9jYUNNZjliWDFR?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "Likud minister attacks Ofer Winter: \"On Palestine's side\"",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjVlByZ2dndFBwOEtzUGVsVWZCQ1BBdE5OaU1Eb0VjR0JKaExsSXdkU3A0ZkFaN0hzbFI4aUtDUEdGQ3c5TGkxZUJHUEZxZDFoeHc?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "JFeed"
-  },
-  {
-   "title": "השר מהליכוד במתקפה חסרת מעצורים: ״וינטר בצד של פלסטין״",
-   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOVTlDYW9SbzM3S3ZSaW9GZ2FVVUNxbkhFVmEtTkhQdllzcTZ4eFJwNW9aT19QekdIV0d3eVl0S3hhaEhYaGtQQWtCQWlOX0ItVkJWeEs5QmEwcnh1SlJGOWtNVzhDak0wT0lsNE9rNWxaWl9hZkhYbDl2RVIxeHhWcndVOWZwRmJtckZETHl6SGpjSUl4aW8tTlVNMS1TUUdaOWZRNGJNdmpkLUpNbk93NTk2VHZwS0tiTTBQUmt0MEVKYmJVczU5Mm9OV09XeTE2aGxrNUUzMTZJZURtVUJ3Q29VN2Z4M25HSUZIMVM2M3ZFSTljbF91cjI4NWdwVVpfTU8ycm5ISWtVOGVFYURtOXR5bk9zTTdXZFlSczZEMjBObmVPMHEyWm5UWGVmMXc2c3NUTzFreWlBdThxVnBidzhJQQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
-  },
-  {
-   "title": "\"וינטר בצד של פלסטין\": שלמה קרעי תקף",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SNFFRQ0U4UGdTM2s2S19VTmtNcDQ5aktPb2RRVWJnNkptQTNpUWx1c0JLYmxEaUx1Y2dfbmM5ZEpQZXEyNHo2ejNZSlg1UEpjZlg5bGNvc185NXhLYWVtSzAza2doX1lNTTR1OA?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [
-    "שלמה קרעי"
-   ],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "שר התקשורת קרעי במתקפה חריפה על וינטר: \"פוגע בימין ומסכן את השלטון\"",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ETGhfREFqWkdWWUlCMEg5eVFTMXVpbXE0Yk9CWUlSN1RGN0JQMmtLU2FScnBGN1lSREd1cGdrb01OQ2pJQ2taMXMtWQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "JDN"
-  },
-  {
-   "title": "עימות חריף בימין | קרעי נגד וינטר: \"הוא בצד של פלסטין\"",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Lem1CZkJzT0liOFA0Smg5WFBuV1psa0c4enNjRm56QUEtblB4UGhkMFN6UDAxWXpJbnNfWmw5dGZSYTM5Y2xScw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ערוץ 7"
-  },
-  {
-   "title": "אחרי שקרעי האשים אותו בתמיכה ב\"פלסטין\": עופר וינטר עולה להתקפה",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14NHBrQl9aZ1NGeHNiUXVlR094a2xqOWdCT0FrbmVENmx2QS1CRHBFRG8wdUs5WmhyNkd0QlUzTmZGQVI3TDlQd1ZkMFNpcHkxekktS200eUp5UkpueThqX09qLUVOaXNscExsN1Bra2drUdIBekFVX3lxTE81a0VhUFhSRnVhNU9kc2x4ZFp4S1JRbHJOU1l0Q0dTV1F3Q3RLU0ZXYlR1cTJKZ25vTnJHdm1UVHoxSHBYMXpkTnRSODJJUUViUlFfN3FyV3dBZWRxR0Fud0paOTdydktZdl9JY2d0TU8yYk4ydkxQWEd3?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כיפה"
-  },
-  {
-   "title": "השר מהליכוד חסר מעצורים: ״וינטר בצד של פלסטין״",
-   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNYUl2N3NaQnFpbEFrWXNoQWJxcHV1eUFvQTk5UHFKS2JPV1hfODVYN25seWh4T0phUHVMVkIzQW9rWXhzd2g2TUpRZ00tY1libEh2UUdVMmxNUk9kSkNTRVRJYjNjTi1XUnIyZC1tM21YZlBhZ2RtRUhxV3pWWWQxRFV1cy1HQ1BYM194c3VZSDFXYkFud2NzZUUwQ0ktTDE4WXFMei1zVEZSRzI4X2dxNnhwM3BwTWdFUmxCZml1aEd2YzNDUXJ3TEJQRUpjWVZUQWwxRFJRZXpVcnBJYW9GdjRjU2tBVThsR0N0a1c5WllPZ3VpYlJLeV9DS2l0MHpNamYtRFVwcGlQU09UbFJ5ZDYzVExkSXRzdkFrTlBQc2w3ZlV5YWQ1OUtSVDdUMzkyNS1SV000LVdaZzBwenBuVEZB?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
-  },
-  {
-   "title": "וינטר עולה למתקפה חסרת תקדים על קרעי: \"איבד כל רסן\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xa2ZSRl9naURKdERoWE13ckNGTjd4UHhxcG9fRlFfaHg4SHFtY3dxN1J0OThwRFRMdG1EdDBKYVBIUVVoOWU1REFvMVpxdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "מזגנים, מקררים ומערכות לרכב: הפטור החדש מיבוא",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HQXdHSE1OZVR5NU5fdi1iR0FhdnpLeW1oRDFqRUVmZTlzWUxscnJ4UjJ1V3lEMWxwRnBRRmkzSHZiSVhWU3FhZDlxR0Ewdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "אמס"
   },
   {
    "title": "אייל ברקוביץ': \"גיא פלג מטריף לי את המוח, רד לי מהחיים כבר\"",
@@ -725,16 +453,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "משרד התקשורת מרחיב את הפטור מרישוי למוצרי חשמל ביתיים ולמערכות מולטימדיה לרכב",
-   "url": "https://news.google.com/rss/articles/CBMiggZBVV95cUxOTmlZWmV5ODdObmhycmF0QnlPQXNrLVpyVkluYXkwVVVmRnlXUnVHSHRXYnhIeml0aHV4cDNGeE5Sd3h5MUlIMXBYSHo5eWFTTllkQ19hWW4wZThhNXdXSmRpQzB0cklEa1NQcjFQRmw4SGptLTkyb1JKa0ZjdkdGTVFLSVBNV3lHdGNndHRvWXhWMEVONmtHMW9NMGxNR2tieGdzcWxuRjBkMHo3clVfZmtfdHVJX0Y3M2hPUVhKeS1RcDNzdW9NSGpEbnB0QThhSjFCbGZMZXZYVnVZSkN1aGJlcFJLcmoyRF83MW9EVDhZd0VuZzc3NDFmeWtzUnRuN0VyZWtSTmpkc1BWbWo5RzlfODBmTTJGTkU1TkJ0czJZbG1WTzB3QmJsS3AtbnY3dkZJWTEyVW13TWd6Rk1lX1pJaW9mNHRUSW9LNXd1Zlc3TWNveDg4M3FYVEtUd0ZzOVdKeEF1NGZKQ0VqUS1fdktkemV5SzhWUTc3ZzBJRlZFV2VnYlBOTl9fVkVIVWxMV3VWWFZSMGFYeXhEODhGQ2JodC03MlI3ZEVaWWtCRjU5dVYxOUwycXEweGtZN3JwTjVwd2JvZEJJUzdmZ2dORW5vVWQ3X1g5Z1dsbFNzR3hFYloybUtvWTFNckJNMVp0Z3ZoS3F5QTY1N2FlYVBQNXZCaHZfdUZZd3EycmNhWGJYMGowajhvMWlSYndxYUt0Z19zakxsYTFUSnlmN2RpcVZidHAtTDNxSnp3UFg3VDA2QnVYeFJLd2VaX1pnZFBfZlpmSVJBYVR2NkZpVk9reHh6UEFOZmRULUdKNlc2N3I0NUNpSng3bWF4eG5OZUFDS3ZnNGV3dVE4ajU2MjA1Uy1DeTR1RG5fSDZ2c2xnaHp0aV9tTzY4RWVFSXczUGM1YWFaX2g1QklqVHRFX1V1eTVWSTFnVEo4ZXR3UkdmTi0xTDJhN3MxMHVwSlU1TjM3bkNoeVMyZlFmVTJuT2xuZTBscFdiVGRzamh6dGlxbTRZUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "PORT2PORT"
-  },
-  {
    "title": "אסף רפפורט בגל עזיבות: הדובר נדב גזונדהייט עובר לערוץ 16",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5R2xEOHhxZ2tJZVJYRnZBVm91bzJqaTlRSGlGSVNtMGVSR2Vld2F2M055bkd3R2lHM2NjdDMyTVFQSjBoTDBaeHI2RjVvYkdmQlBSdWRXSnQ?oc=5",
    "source": "ice · תקשורת",
@@ -745,48 +463,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "מזגנים, מקררים ומערכות CarPlay: השינוי שיקל על יבוא מוצרי חשמל לישראל",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hQ3N4SWh0UXlGSW5aYkduNHZvN0VMWm5kUDk1VFRvYlJJNXZ1UHBpbjJUTDAtSFBINTYtZnZQMjNtRWh1ZDhGWmRyeWl0WVhuOXAxaTlvdG5jemhibUdEWl9HNXlZU3dndnhSZEhyaG50NmPSAXtBVV95cUxPTS1VTTQwQlo4THhFV3J5RDRWR2xaMDlTMUFuZlZzMGkzb0NFQTNrRXd4b0duWVBtREdvUjEzaGJzVXBta0U1bDlvODFnZFFwUXNUaU9BYnNjYTVLaVMzdzk5eDRHRjNmenNTeVhMNU9Ybk1WVXVjQlllU0U?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "פחות אישורים בדרך למכונת הכביסה: ההקלה שנועדה להוזיל מוצרי חשמל",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyU2ZYcHNyNTQ4c1ZtUHUwUFJsS0R2WWY4QkxFR19GaEk1Q1NmQ2k0ZlRDbW9jWnZyc2Zjc1ZuZ0tvN0JBM0VxZThCT1BTeG9VY3duMHRLSGt4a2dBVDc0bHlLZDNRUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "שלמה קרעי על וינטר: \"הוא בצד של פלשתין, מאבד קולות לימין\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tMXpNQnA2ZUh1ZExna3hZQXY5SFRieDF3SVJzMm1ueUo5OTZpcnNyOXZKQXNVbmpYTkphYTdCQ2VBTmJPWjlMWm1OVDEwdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [
-    "שלמה קרעי"
-   ],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "משרד התקשורת מקל על הייבוא של מוצרי חשמל",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tUFhLN1piNEhJZmtLaUtWcDJhbHhqRDVaN05md2xNZER3SEl2MXZtY3czV09VRXJBb3puZ2ZiMDFaTzBzQlAwcnEzZWE3VHh4dTJVZnVTTHBzWDdvOTB6aHczbXpyelVz?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-19",
-   "keywords": [],
-   "pv": true,
-   "publisher": "גלובס"
   },
   {
    "title": "דה וויס נצמדת לקופה ראשית: 7.5% לרשת 13 מול 7.3% לכאן 11",
