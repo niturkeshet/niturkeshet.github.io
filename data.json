@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T23:15+00:00",
+ "updated": "2026-10-21T23:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -480,6 +480,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "YNET"
+  },
+  {
+   "title": "ברזיל הכפילה את הקנס היומי על מטא ל-200 אלף דולר בשל טענות להטיה בבחירות",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YOFdNZ2FyZHYyZ2FqVDZ1b1VHSldpWGhCd3hDMFZOYjQtRk0ycWF1TXZvMV9PRDRnZ2tDSmYzTjRmc1R5TzREZEFJbTdDSnpCcGdpckZ0N2ZwTnkyeDAyaVNwRndubVVyUkhhXzMyWmU?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-10-20",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
   },
   {
    "title": "מטא מכה את התחזיות: ההכנסות זינקו ל-64.6 מיליארד דולר, המניה מטפסת במסחר המאוחר",
