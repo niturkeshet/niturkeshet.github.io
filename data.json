@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T08:00+00:00",
+ "updated": "2026-10-21T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "הלחץ על מפלגות הימין הקטנות גובר: בליכוד קוראים לשנות אסטרטגיה מול וינטר",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwQmdGT0RHc0prcVRWVzJUc0FHNGM3a1BWV3JONTZ1SncySHk0aUI3ZEw5TGJ2VkVrbDdzbVBUNU1DNWdzc1M1d3pTdzlSZ1FOaEZmeHk1Sk15UG8?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה"
+  },
+  {
+   "title": "בג\"ץ מעניק לכנסת פטור מהחוק כי הח\"כים עסוקים בקמפיינים",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9MeFQxTWRmblZtRFpac0EtS2VROUVpX0piQldXbnVFV2F0Yll1dFJydk5BWEt6TlVwenppWFZlaUUzaC1B?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "רגע לפני הבחירות: \"ארץ נהדרת\" מעל \"הפטריוטים\" - והפער ענק",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tdmtqNk4xMkJMTEpOeExvVTMtLWpkeDFoM296N1kxcXZTMkozTkVkMlFpRjZZd1kwZTN3MVFjam1lOG9uWE1KcjBkMENIS3lPY2Q0M0ZDS1dSd2ZTWTRjQWRB?oc=5",
