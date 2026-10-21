@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T13:45+00:00",
+ "updated": "2026-10-21T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,28 @@
   }
  ],
  "items": [
+  {
+   "title": "אחרי הפיצוץ עם בן כספית: השותף המפתיע של ינון מגל",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3bU1EN0hqSTJMVUJjaVZiZjFTNVZRZGZ1TVNvY2Itc2t3N3JQcmh0YjBvZ0hhakJfRzRGcVRKZjUzZGo0Mk9EN0xFMXZnUUZBX3g1NGpkZHBoNzhZVk1reWdHQ1JuOW1ZMVBKc9IBdEFVX3lxTE1NdnhDWmo4ZGdzTjM0VFhWV2g5aEZGdGFQZ3dFRE0wMnprR0ZnRlQ2eXhhR3hvSmdDWWo3UFBfWHBxQ3NJVXQ3endrMjI3bEFzVGRrbTQ1SHVtX1ZpTFlUdENldkV0SnkzRThpVVVaYUh2dlF3?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-10-21",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "עדות מנדלבליט מסעירה את עדת התביעה לשעבר בתיק 4000",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Oc2tfY1UtVndGV2thLWRZLVNKQTlkQ2xrUUVNd1pnQXQ3YVB2Z3gtUXRJeVdlQTdSZGRvQVBWWXdpZ0dORnZkTw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-10-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "מבנט ולפיד ועד עופר וינטר: כל המועמדים בבחירות 2026",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhajU0Vm5aUWZQR1phVTU4TmN5em9DWU16ZThScHltbDAzRkRHWGtWR3RadF9BV0lYMGxzcjR6Q3VVSnhocFdNRFRwLWF0LXNvaDFMd25YY2RneXhUU2VPT0ttQ3FkeU1MRURYeUIyZlhIZ9IBekFVX3lxTE54ZVlVcUs1bGV6OGZ0STZXLTJtQ3pHU2RuVGNMM0lDSlBtODBfSzVtV1NfQl9mTnpjdjhMdHlLQ185c09kRUNzUTdzb1BEQktrQzhFUlRra2ZuQVdvejBfU1lFYzN2b0dhQVpvSFUwTF9Ubkx3NU5BMWZR?oc=5",
