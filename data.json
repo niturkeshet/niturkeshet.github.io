@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:45+00:00",
+ "updated": "2026-10-21T23:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השר קרעי במתקפה חזיתית על עופר וינטר: \"הוא התקווה של קפלן\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LQVVNTkpGcnVlajNIUXkyN1RCRTRmWWFaNXA4TzkzVEt3Ui1hS2s4WFYtTWJnQkRObFYwdXJqLS0yMTFLcEVnU2UwMEVxdWtJZDJuV1dmVEI?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "Mark Levin lashes out at Ofer Winter: 'Kamikaze candidate. A plant by the left'",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3dUxYN3pFbXdiMFpkRUFDUENOUUthbEl5Mnp5TWtVR3Q3b2p4RVpPbUNLMWcxNmMzRnZibE5NNWdLdF9aZE56LTMxME9rWVpwUVgxdThTbXdxQQ?oc=5",
