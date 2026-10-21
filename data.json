@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T16:32+00:00",
+ "updated": "2026-10-21T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,103 +175,99 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "\"אני התחלתי ברעידת אדמה במשפט נתניהו - השופטים היו המומים\"",
+   "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPM0NUNjdKdjFyeXA2ZGdOMlo5dnZteDNKQ2FDR1ZuTzV4UDBSUnBZRVZZRVB1dEV2RFhZbm8yaXFCS0djUldyQ0NBRGNmNlk4VVQtZjVfYTc2VDJKbWtwRU1KQU5RSG1BTzg0dkxPVmRqWWpJTm5xcnlLdHhoenFTa3FHSlhRVC03NndJZjVOT1hEOUFKOWVpdXgtbVpYdUc3ME4wMGFSRVJNN0lSR19UcHdvVWpyNnhzRFFaWFFmU2NYcm1sd2N4OFBQNWFjWUp0Y3Z2OXZaVmFEMFpEX2lDVjJHSnBMODRJNjZhRURHSXB5NjhRYVVIcEZubmRqNWkzU1l1SHllR1NiMW8wN2pvalM0Y3V6MEJLaWJxdXllNTMyUlhCMUppNE1HZlZZNzdsajAzNDBrNUxBSEJkaDdmQnRsVnl1cUQxcVZCWkpObDMwR1FCUW40OTZUcFUtRDQ1cDNRMDRwdmJDWTdHLXdvRHR6ZXJTUUtXQ0pFb3FVME9EWl9ES05MbzB0WXVHek1Ybl8wTHJ1UnppekZs?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-10-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "סמוטריץ' מציע לווינטר תפקיד שר תמורת פרישה מהבחירות: \"אל תסכן את הימין\"",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uOFNOYjZCNEtfaHZFeE1vaW1nN1F6dm9DdjB3cWsxVWU0X1M2NktyVlU5SDJsYlBxZEoyZ3Y2SGNrT2RXQWdmd19DV0xCVGtINHQ4TTFhVWdXUGc?oc=5",
