@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T19:30+00:00",
+ "updated": "2026-10-21T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "חודש אחרי הפיגוע בו נרצח נתנאל שקרון - נחנך יישוב חדש סמוך למקום הרצח",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wdGo3eHlNcUwwT3VjWi13a3IxQV8tNkF4UDNkSGNTQmlkLTRrd2Z2MF9IR0VTb2w0WXdhckhEdERqRE9GS1pDZVV4aHNBVlBuZWhPVTRjaGdIS2YzRnRGMmVvVTlSQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "i24NEWS"
+  },
   {
    "title": "25 מיליארד דולר: הקנס העצום שקיבלה מטא",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xNDZWWlM3SXk2X3VXektnYjNNMjl5ZUxfY1lienRQSVJUWEw1d0JMb0FDNVlFOFJaLTVlU09LTEhEVVEzZ0p5dGd3bjVIUGtKc3c3M0ZaRGFJQS1fZFJMT2swQXNVUTZoVmpSdDdNeFpuR2M?oc=5",
