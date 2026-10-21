@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T20:15+00:00",
+ "updated": "2026-10-21T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -146,7 +146,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "גלובס · גלית חתן",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -460,6 +460,17 @@
    "keywords": [],
    "pv": true,
    "publisher": "YNET"
+  },
+  {
+   "title": "מטא מכה את התחזיות: ההכנסות זינקו ל-64.6 מיליארד דולר, המניה מטפסת במסחר המאוחר",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001560146",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-10-20",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true
   },
   {
    "title": "The overseas X factor that could swing Israel's election",
