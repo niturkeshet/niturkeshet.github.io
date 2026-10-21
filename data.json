@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T09:00+00:00",
+ "updated": "2026-10-21T09:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "החשד לניגוד עניינים – וההוראה לכאורה לבלום את מח\"ש",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tZm96dGlXWGMxZG1wcmdkT3lyN21RTTRPQ3UwMjhxZjh3ZHlnbnJnVHN1WWczOV9PNlNnYlRnT2JJd1NEMXBMbWZTX2lSQQ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-10-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "בן כספית: \"הפסקתי לשדר את התכנית עם ינון מגל, הוא עבד של נתניהו\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UNXhzMTM3cmRDNmJ1RFFYYU1rcG9XNFB0QmtPVDhyb0F0VG82Ym5vWnhRckxwLWVrZ0traG9HSWN4el9MLTNFN2Q0bmxMQkx3S2FTekVSYXVDUFkt?oc=5",
