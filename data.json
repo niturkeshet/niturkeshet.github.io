@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:30+00:00",
+ "updated": "2026-10-21T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,13 +182,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -259,7 +259,7 @@
  ],
  "items": [
   {
-   "title": "\"אני התחלתי ברעידת אדמה במשפט נתניהו - השופטים היו המומים\"",
+   "title": "\"אני התחלתי ברעידת אדמה במשפט נתניהו",
    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOa25XcmtLandCbmtSNlNBazk0aE40MEJ0TW1sQ3ZzTnl6N1FwQ3JGbFFhQXJIRDJsU1ZHell6NW94YlhJT1dhQTFaWEEwNnRScmZmNXVVZk16U2RnSzZKTTRFZXlmX01HRXZUdjN5dVlaODFVZzRkZU1kUjd5MFBWS25pSVdXRmtZalNvWEFNZ09rUzdzNTdYNUZkMUtwcGFrUXhhNEZ4WVBQMUU1NDhhbm1Pa0ZabjVIbk1ZMmM0LWhOU0ZzOWpiMVB3eUp0X3VwektUaDZCN1hETlpaTDhBN0F6YXpvNHBGTU1DY0g5R21DY2tXUUxfaWlTOVUzclhNS2JwSWRWNl9Zc0VZSUJNbFZDcDNDdkdWYjlmLW54WFl3VnY5VW4zeGFQTjVPbjJTSUdvb3gwNW9OeHRYLTlIVVJn?oc=5",
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "type": "google",
