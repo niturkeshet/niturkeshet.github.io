@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T08:15+00:00",
+ "updated": "2026-10-21T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "בן כספית: \"הפסקתי לשדר את התכנית עם ינון מגל, הוא עבד של נתניהו\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UNXhzMTM3cmRDNmJ1RFFYYU1rcG9XNFB0QmtPVDhyb0F0VG82Ym5vWnhRckxwLWVrZ0traG9HSWN4el9MLTNFN2Q0bmxMQkx3S2FTekVSYXVDUFkt?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-21",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "הלחץ על מפלגות הימין הקטנות גובר: בליכוד קוראים לשנות אסטרטגיה מול וינטר",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwQmdGT0RHc0prcVRWVzJUc0FHNGM3a1BWV3JONTZ1SncySHk0aUI3ZEw5TGJ2VkVrbDdzbVBUNU1DNWdzc1M1d3pTdzlSZ1FOaEZmeHk1Sk15UG8?oc=5",
