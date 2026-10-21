@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:45+00:00",
+ "updated": "2026-10-21T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "סמוטריץ' מציע לווינטר תפקיד שר תמורת פרישה מהבחירות: \"אל תסכן את הימין\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uOFNOYjZCNEtfaHZFeE1vaW1nN1F6dm9DdjB3cWsxVWU0X1M2NktyVlU5SDJsYlBxZEoyZ3Y2SGNrT2RXQWdmd19DV0xCVGtINHQ4TTFhVWdXUGc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה"
+  },
   {
    "title": "עתירה לבג\"ץ: לחקור פלילית את ערוץ 14 ומגישיו על הפרות צנזורה במלחמה",
    "url": "https://www.themarker.com/law/2026-10-21/ty-article/.premium/000001a1-5e73-d05a-abe9-7f7b20bb0000",
