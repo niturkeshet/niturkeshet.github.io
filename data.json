@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T09:15+00:00",
+ "updated": "2026-10-21T09:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,7 +170,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
@@ -259,7 +259,7 @@
  ],
  "items": [
   {
-   "title": "החשד לניגוד עניינים – וההוראה לכאורה לבלום את מח\"ש",
+   "title": "החשד לניגוד עניינים",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tZm96dGlXWGMxZG1wcmdkT3lyN21RTTRPQ3UwMjhxZjh3ZHlnbnJnVHN1WWczOV9PNlNnYlRnT2JJd1NEMXBMbWZTX2lSQQ?oc=5",
    "source": "חיפוש גוגל · אבי ניר",
    "type": "google",
