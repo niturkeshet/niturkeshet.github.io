@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T06:15+00:00",
+ "updated": "2026-10-21T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,6 +258,30 @@
   }
  ],
  "items": [
+  {
+   "title": "רגע לפני הבחירות: \"ארץ נהדרת\" מעל \"הפטריוטים\" - והפער ענק",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tdmtqNk4xMkJMTEpOeExvVTMtLWpkeDFoM296N1kxcXZTMkozTkVkMlFpRjZZd1kwZTN3MVFjam1lOG9uWE1KcjBkMENIS3lPY2Q0M0ZDS1dSd2ZTWTRjQWRB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-21",
+   "keywords": [
+    "ארץ נהדרת"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "\"ארץ נהדרת\" פותחת פער, \"הפטריוטים\" במקום השני",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GM01TSDVqMktJckJzcFZ4cjh4RnpnQXdnVUhZdkhFcXB3Y1VDelZlYzNXTXNFYnhhS21zZlcxQmlxeFVmUEl6LThPamlXNV9HWk9xRXMwb0JZVUs5T3hjdGlPT2hmVEEtOEZsbmxHeTFFYjd4cmxHaXFhVGxmdHM?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-10-21",
+   "keywords": [
+    "ארץ נהדרת"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "בחיסול הנרטיבי של דמותו של דוד לוי שתקתם",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lRWN3OEZjMTF4bHpfdjVIa2ljWkVIU29rMGZlTURjeV9BWHBzS2NoeXd6MGltYm9NRG9LREJ2N1AtbzJOak52U0U0RXFMQldjczFPOGV6VmctRlZQOUE?oc=5",
