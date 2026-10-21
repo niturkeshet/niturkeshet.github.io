@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:15+00:00",
+ "updated": "2026-10-21T14:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,27 @@
   }
  ],
  "items": [
+  {
+   "title": "עתירה לבג\"ץ: לחקור פלילית את ערוץ 14 ומגישיו על הפרות צנזורה במלחמה",
+   "url": "https://www.themarker.com/law/2026-10-21/ty-article/.premium/000001a1-5e73-d05a-abe9-7f7b20bb0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-10-21",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "Netanyahu Calls on Ofer Winter to Withdraw From Election",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1WXFCOExRUkVHa3YxcjZvWFppb21VTzVveFhaeENheVdCd1J3Uk5oSkhsTkx5am1DS2daUllvYnBvSm10TXB3cklQME1NR0lDOGFKVThPVFhNb1N5eWFCeS1uQUw2QWxNZ3lwbll3UEVyS1I0elhMMERn?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-10-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
   {
    "title": "אולטימטום וטענות לדיבה: הסערה בארגון העיתונאים שהובילה למהלך החריג",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVEhTSUhweDlqcnRyRHhkcm1aQXNHOXVYUV96WWxBX0g0Yjd0Mkc3bnl6a3dLeTFfYm1ZTzQ0UEM1N1lmMmZ2SWxHaERMOE5jWDRULVNIWXJJNFRISmhSQnNlTVduOEs4?oc=5",
