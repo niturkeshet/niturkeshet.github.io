@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T11:15+00:00",
+ "updated": "2026-10-22T11:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,13 +230,13 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ice · תקשורת",
@@ -293,6 +293,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "בנט ממשיך להתחזק, וינטר עובר את אחוז החסימה | סקר חדשות 12",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenNPWkM1UG1XaDJFTjMxemh0S3pKRHo3YWZia01SVjg2YkFYWmNTbW9TMmJZd3ZCWjdNcm9FT0d5QTJlZ3MydkNDdW5GT3VJQlpsVWJYN3BlZkhGUUdSMHNCS3JpcEcxckZDRk5KNDhIdnJZdWh6aFlkOVhYQU1pV2RBTGpQU3c?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-10-21",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "Mako"
   },
   {
    "title": "\"אני התחלתי ברעידת אדמה במשפט נתניהו",
