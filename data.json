@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:45+00:00",
+ "updated": "2026-10-22T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,19 @@
   }
  ],
  "items": [
+  {
+   "title": "בן כספית תובע את ערוץ 14: דורש 200 אלף שקל, ינון מגל על המוקד",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxcjBFQ0NBbmFuUjB6NXc5dlFjZm9QYjVBbE5uMXlGMWlfSldVRllwcEtEU1l2bXdQQXNiV3BjWWx2Q0oxLXNRTEFuck5VaS1sU3VPRnZZLXAyZw?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-22",
+   "keywords": [
+    "ינון מגל",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "\"הפטריוטים\" של ערוץ 14 ישדרו ביום הבחירות פאנל מתוך מטה הליכוד",
    "url": "https://www.themarker.com/news/themedia/2026-10-22/ty-article/.premium/000001a1-6285-d05a-abe9-679d1a3c0000",
