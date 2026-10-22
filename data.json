@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:00+00:00",
+ "updated": "2026-10-22T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -158,7 +158,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -259,6 +259,17 @@
  ],
  "items": [
   {
+   "title": "\"הפטריוטים\" של ערוץ 14 ישדרו ביום הבחירות פאנל מתוך מטה הליכוד",
+   "url": "https://www.themarker.com/news/themedia/2026-10-22/ty-article/.premium/000001a1-6285-d05a-abe9-679d1a3c0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-10-22",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
    "title": "תביעת ענק נגד מטא באוסטרליה: \"גרמה להתמכרות ולפגיעה בקטינים\"",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51MnYyWmNpS3ZLcG5JbDdiMVR1Qk9pb0djV3F4YlJabmVWQTFOc3VVSFZDU3VDVmV5RndWMFVtVTVmcFR4ZkJtaVFJcUhNXzV5UkVCeU5wSVNNZw?oc=5",
    "source": "ice · תקשורת",
@@ -271,7 +282,7 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "\"אני התחלתי ברעידת אדמה במשפט נתניהו - השופטים היו המומים\"",
+   "title": "\"אני התחלתי ברעידת אדמה במשפט נתניהו",
    "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPM0NUNjdKdjFyeXA2ZGdOMlo5dnZteDNKQ2FDR1ZuTzV4UDBSUnBZRVZZRVB1dEV2RFhZbm8yaXFCS0djUldyQ0NBRGNmNlk4VVQtZjVfYTc2VDJKbWtwRU1KQU5RSG1BTzg0dkxPVmRqWWpJTm5xcnlLdHhoenFTa3FHSlhRVC03NndJZjVOT1hEOUFKOWVpdXgtbVpYdUc3ME4wMGFSRVJNN0lSR19UcHdvVWpyNnhzRFFaWFFmU2NYcm1sd2N4OFBQNWFjWUp0Y3Z2OXZaVmFEMFpEX2lDVjJHSnBMODRJNjZhRURHSXB5NjhRYVVIcEZubmRqNWkzU1l1SHllR1NiMW8wN2pvalM0Y3V6MEJLaWJxdXllNTMyUlhCMUppNE1HZlZZNzdsajAzNDBrNUxBSEJkaDdmQnRsVnl1cUQxcVZCWkpObDMwR1FCUW40OTZUcFUtRDQ1cDNRMDRwdmJDWTdHLXdvRHR6ZXJTUUtXQ0pFb3FVME9EWl9ES05MbzB0WXVHek1Ybl8wTHJ1UnppekZs?oc=5",
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "type": "google",
@@ -331,16 +342,6 @@
    ],
    "pv": true,
    "publisher": "mako"
-  },
-  {
-   "title": "\"אני התחלתי ברעידת אדמה במשפט נתניהו",
-   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOa25XcmtLandCbmtSNlNBazk0aE40MEJ0TW1sQ3ZzTnl6N1FwQ3JGbFFhQXJIRDJsU1ZHell6NW94YlhJT1dhQTFaWEEwNnRScmZmNXVVZk16U2RnSzZKTTRFZXlmX01HRXZUdjN5dVlaODFVZzRkZU1kUjd5MFBWS25pSVdXRmtZalNvWEFNZ09rUzdzNTdYNUZkMUtwcGFrUXhhNEZ4WVBQMUU1NDhhbm1Pa0ZabjVIbk1ZMmM0LWhOU0ZzOWpiMVB3eUp0X3VwektUaDZCN1hETlpaTDhBN0F6YXpvNHBGTU1DY0g5R21DY2tXUUxfaWlTOVUzclhNS2JwSWRWNl9Zc0VZSUJNbFZDcDNDdkdWYjlmLW54WFl3VnY5VW4zeGFQTjVPbjJTSUdvb3gwNW9OeHRYLTlIVVJn?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-10-21",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
   },
   {
    "title": "סמוטריץ' מציע לווינטר תפקיד שר תמורת פרישה מהבחירות: \"אל תסכן את הימין\"",
