@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:15+00:00",
+ "updated": "2026-10-22T17:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "יאיר גולן בהקלטה: \"אסור להקים ממשלה עם הליכוד - גם בלי נתניהו\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85dEVVLS1RQUVHM0lsTFpneXdLRmtvZzB4c0xxOVB4dEdJcnlPVGNWblplUDRkdmRlOHp2N0FSOFhQazVPTTg4dmdqc09tMGRuS0pqMm53X1FCWkdiV3ZWTG8yMDlLZlE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כאן 11"
+  },
   {
    "title": "סתימת פיות: המהלך של ארגון השמאל נגד ערוץ 14",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wRnI4THB3cThMaWdvYmV2eTVBR2hxRGRTOU9zdWJ3LWQtWWItNXhHOEQwU21Rck5xb1lyQ2RmMzZ5MkZSTEZDVmN1ZWc1Zw?oc=5",
