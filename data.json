@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T12:30+00:00",
+ "updated": "2026-10-22T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"תזכור שויתרתי לך על זה שאמרת 67-66 מנדטים לימין\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2wzT3BGbU1MZzFPSkFRSTgxY1AxdFFBQTNvNGRrRmoySm02NXNUT0dmRXpCdWZkXzViR3RCNG1MZjJrY1FWdnBXWjVoN05yeVdsT2ZzVXZQOVV6SW1nVjhHcWkwbF9qVndkZU1ER2VBNm1INmRqTXVsT3dNQ2xwbg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "אלי אוחנה מודה רגע לפני הבחירות: \"נראה לי שאני אפסיד\"",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GUWczbXVJam9JNUVJNld5M0JYRkNKRWNsTXJ1eVVzWjY5bFBsQ3Fickk1UFZISlhYNXFsNU1rUGk0Z2ZMYW9hZEtMUWpCd0VqXzVPQTl0Zkd1SDJYVEpfbEFQSDR2NkQzR2Y4aQ?oc=5",
