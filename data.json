@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:15+00:00",
+ "updated": "2026-10-22T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
@@ -280,6 +280,16 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "\"אני התחלתי ברעידת אדמה במשפט נתניהו - השופטים היו המומים\"",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOa25XcmtLandCbmtSNlNBazk0aE40MEJ0TW1sQ3ZzTnl6N1FwQ3JGbFFhQXJIRDJsU1ZHell6NW94YlhJT1dhQTFaWEEwNnRScmZmNXVVZk16U2RnSzZKTTRFZXlmX01HRXZUdjN5dVlaODFVZzRkZU1kUjd5MFBWS25pSVdXRmtZalNvWEFNZ09rUzdzNTdYNUZkMUtwcGFrUXhhNEZ4WVBQMUU1NDhhbm1Pa0ZabjVIbk1ZMmM0LWhOU0ZzOWpiMVB3eUp0X3VwektUaDZCN1hETlpaTDhBN0F6YXpvNHBGTU1DY0g5R21DY2tXUUxfaWlTOVUzclhNS2JwSWRWNl9Zc0VZSUJNbFZDcDNDdkdWYjlmLW54WFl3VnY5VW4zeGFQTjVPbjJTSUdvb3gwNW9OeHRYLTlIVVJn?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-10-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
   },
   {
    "title": "\"אני התחלתי ברעידת אדמה במשפט נתניהו",
