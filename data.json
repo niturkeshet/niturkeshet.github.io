@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T19:15+00:00",
+ "updated": "2026-10-22T19:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "המתקפה של יאיר גולן נגד שותפיו לגוש",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTdl9CbTVsVXRvcmJvYVJISnQ0NzVqNnJDZlBSMVBaSUcwTDJ3QmUzQ1pVcmZBcENkU1hDbDZOOHJRc3JCWUVmYw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "לקראת הבחירות: הערוצים המשיכו להעניק חשיפה עודפת למחנה נתניהו",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhVlZMNm44LXVaMFhqdVI5eHVuU05NVnpsQUk0TU9PXzZZN09jSU9xWEpiOHU3cnRuMk90NWhNd1BaWVhVNXVsMEstR3I0bklUbHJFUDln?oc=5",
