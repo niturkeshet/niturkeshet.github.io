@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T23:45+00:00",
+ "updated": "2026-10-22T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -505,36 +505,6 @@
    "pv": true
   },
   {
-   "title": "The overseas X factor that could swing Israel's election",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ1V5WWN2NDFTb0VqYXlkQ3kzLTVabG14aUo2WWFUZ0FYOTMwakpsQmNYOFlRZHVDRUFzc0NpZTVQWldNcnlSTXNFVUYydlF6WHBrQm9ZNXJZNzhPWEF6bzhlTWZIMGlmMXJUcDVNNEhNVHpaaTk1RFB4dGVqWnZaaERJYlJyX0dIRjhSOGRRdGlXUF8yMjhKQWFPSS1JRkFaSGg1YzRpTmdMa3h6TThkVWlxSGNoYUo5TGYtdjZHSGZrM2tIWkh1NnNEdEZsWE1fampoWHU2QjV4eWs?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Dailyhunt"
-  },
-  {
-   "title": "\"מנותק\": אבי שושן דיבר על המחיר ששילם על 7 באוקטובר, וחטף",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5RkhNbk1vSnBJMGRuTlVvdzI2eUhwS0xqOXphQUR5dGt0N2RGblZLaEZURUd0QzhEQnN5ZGVVMEZWNzlNQVhJbl8xQ0JuZ093X3BTdVd0N0pzX3ViZkxmTk4zZmtGSFU4T2NKYUpB0gF2QVVfeXFMTkczbFpsUkdPVnRyaFFJR0hfWFZHdGd0Z2tlNHVXeWV4ckdVcEppNVN6OHdYSS1FdE9obXg4V01ZZnlDWUl5NGpBRTB3cVRNT2VLSS1EdkFLUU1yMWVVT2pENnd3OXJ6a01QQkxMNE1xVm5oc1pVQQ?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "\"המבצר\": לתעד את ההפיכה המשטרית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxbHZxSTVWcHZZT2dwVnhaVVpld1FDR3ZURldMTVBEVEZFVTFrZy1vdl90YzVVeThQNjNBWkliMHNnbG1zMHNkWA?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "העין השביעית"
-  },
-  {
    "title": "עורך סקרי המנדטים של ערוץ 14, שלמה פילבר: \"אין שכל אין דאגות\"",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONkdoQll1cEUzWWl5Z2toZ1M1VlZBT1pBSUZEWHRKTVZfQk1EVGwtODFRcGlONXd4cXM3WWs5MFRVYnBPeUhHMkxRenVGbFRJOUg2ZnA2S1hFc185U29V?oc=5",
    "source": "ice · תקשורת",
@@ -545,108 +515,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "נתניהו וסמוטריץ נפגשו עם \"הרב של וינטר\", שתקף: \"קמפיין מכוער\"",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFOWZteGt0WGEwV0p4VEN6bWpJLVFlMHdSb2JDakNXVDd5S1hkT1VlSTlSMUZ6Z0FfZ3lCd1FJampmTFNSMS1XcTNGcW1xVUZrR1lrTTM0MnNmTDg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "וואלה"
-  },
-  {
-   "title": "קרעי מאשים: \"מיארה מנסה לדכא הצבעה בימין\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4aWNQOHA4c3ppMW5MVjhVY25mdHJEZklkR2RJZkpMZzd3OVpPcW1qUGk1RTlKS3YyU18wMWM2OHk3d1Vtd1FndWlKVHVGUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "אמס"
-  },
-  {
-   "title": "Pressure mounts on Winter: Netanyahu and Smotrich meet with Rabbi Sadan",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yc3NnbmZvNHZPbmMyeWVHWU1VSGJqTlVHcUJvSTNhd0plNk1va3ZRX1pUWUdLNW5DQzdsNDhIMTBoVl9vRVM2d0NMYlFscnl4YVg5bS1CLTNTUQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Israel National News"
-  },
-  {
-   "title": "קיש מנסה לשבור את המראה של ראמ\"ה המשקפת את כישלונו",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yanI0TjFpRUlSLUh2RlNDNkxHcGRVUzVVVHFYcllUb2V0dmV5UktoTzFUN080c1FTak9sRUlxa3ZYVEp0dXhHaC1GUmlDYmFxOVBORXhSMzVYeE5rbVlMbGRqbWRRTEdZ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "calcalist"
-  },
-  {
-   "title": "Gantz's withdrawl could push Winter over Israel's electoral threshold",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SVHNTdEFWZUNoaW11RzJPYmhoRVdhZjRKaHJ3NFByOWRCUEJsY3hhUVhNajFReUYzNzRzdzBrSWJVWTFPdUtleUFKRXhlbmlweXNNNTZjdEUxRHRYWUs5bzdibmFNN2hX?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Jerusalem Post"
-  },
-  {
-   "title": "Netanyahu, Smotrich Meet Rav Sadan Over Ofer Winter Run",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53eXhGbkhzX0ZtRjVpZmVnM19IOGhQTFJvSFVpRjYxdGxveERvNGduUTZkZTVxWlBveW9QREQzNFczTE43MFdKV3JIWmdldS1xVEhBV0VDZVIwejBUUnFtcFcyM0NWbVhQYXpnU29lbW1CRXFtSElzLQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "JFeed"
-  },
-  {
-   "title": "הדיפ-סטייט בישראל",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYkhBaWYxenhnWEpjNkJyR3JSNWN0dWd6ZzNKVF9tVkh0VTVqd3JER1FXYlNrbHEtbWxjVFg4UzZTSFdYaDZOeHhPaFdDZUZRSUEzYllfdlF4ZTZwVmxJSWxHeFJJV2Jtb0VzV2FqcE1sRVdnLXNWQnZPRkRBMlkyM1VQY09scjJRclZoQUNnNXhCcVcyV3JTV0tfSWNYelViYVBqYVNzdzF1eGN1THY4cHNpcFJYRjdxUDRnN1RxWEJwUms1ZHRRTzRxdnpTQVVBbWdSVG90NVI1VEk4MmxfNGJVRGpDTWJaZlU2TTJtTkxQMEhhOHM1bVM2YzZyWmNvUDZHWHJkQW5IUjVh?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מידה"
-  },
-  {
-   "title": "הלחץ על וינטר גובר: נתניהו הגיע לעלי",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvSVFiZU9oMXowc0dmdXF0NXExR2NZSVY3VGhwSXVNQk8wQTVlNGZlUVJqcUZoX0Juajc2M0pxcnA5a0JnNG5rWQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ערוץ 7"
-  },
-  {
-   "title": "מפתיע: העיתונאי הצעיר מצטרף לערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVBUVTFBZkMzUUpoNzdsVU9XVHk5Q1RfQnRlYUN4Y0xTb0ZmdDJkQ2t2WVI2QUp4WUNLd3lIck05RF96SVBZVEZteFJQZWFaT0VhR2t5aXVvRUJkN3RhRjdOMmFWMWJSNThfeG1GUE1LYl9wVTl2cGlDZ0gtRUNtNmJLcldvZFNuZDdlYVROa1NmSFlHT0wxR21yS2p1ZDl1c0x3WlRscWM0ekEwaG1mVEs4V0xoZVhVZlFN0gG7AUFVX3lxTE85UFRVMUFmQzNRSmg3N2xVT1dUeTlDVF9CdGVhQ3hjTFNvRmZ0MmRDa3ZZUjZBSnhZQ0t3eUhyTTlEX3pJUFlURm14UlBlYVpPRWFHa3lpdW9FQmQ3dGFGN04yYVYxYlI1OF94bUZQTUtiX3BVOXZwaUNnSC1FQ202YktyV29kU25kN2VhVE5rU2ZIWUdPTDFHbXJLanVkOXVzTHdaVGxxYzR6QTBobWZUSzhXTGhlWFVmUU0?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "כיפה"
-  },
-  {
-   "title": "What Could Swing Israel’s Election? Thousands Living in the U.S.",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGJOOUpEX3VuMEZHa3pkc3Y4elJ4b0tUUnk2SldVT2pVdUZmelUwNDZtRDVZMk9TSzNyTmJYb0hReEJPUnZiRDR6T0JTRU93eUt5ekxjbkh5cXZtNnZvWWZvblpsUEREdldCc2EwZXNWVGFXNXNUbGNXbDBpX015Qg?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The New York Times"
   },
   {
    "title": "פיצוץ בשידור: בן כספית עזב את האולפן לאחר עימות עם ינון מגל",
@@ -671,18 +539,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "תעמולה שקרית ופסולה: ערוץ 14 מוביל, גם ערוצי החדשות לא נקיים",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKdllMcnljZnhzSXhlenl0clE3VFFEcG02NEhoTk5NWjNyRE8wNHdJLUxFOUVSWjFEVWJnaE02U3Z1TURxRlVmWA?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-10-20",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "העין השביעית"
   },
   {
    "title": "רייטינג: לראשונה מזה 11 שנה, ועדת המדרוג בשינויים - זו ההחלטה",
