@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T12:00+00:00",
+ "updated": "2026-10-22T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אלי אוחנה מודה רגע לפני הבחירות: \"נראה לי שאני אפסיד\"",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GUWczbXVJam9JNUVJNld5M0JYRkNKRWNsTXJ1eVVzWjY5bFBsQ3Fickk1UFZISlhYNXFsNU1rUGk0Z2ZMYW9hZEtMUWpCd0VqXzVPQTl0Zkd1SDJYVEpfbEFQSDR2NkQzR2Y4aQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "בן כספית תובע את ערוץ 14: דורש 200 אלף שקל, ינון מגל על המוקד",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxcjBFQ0NBbmFuUjB6NXc5dlFjZm9QYjVBbE5uMXlGMWlfSldVRllwcEtEU1l2bXdQQXNiV3BjWWx2Q0oxLXNRTEFuck5VaS1sU3VPRnZZLXAyZw?oc=5",
