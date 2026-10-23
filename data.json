@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:30+00:00",
+ "updated": "2026-10-23T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מטא מול תביעת ענק ב-4 מיליארד שקל: משפחות שכולות יוצאות למאבק",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DUllRNjROS3lqcmc5T2ZFRHdWSGt4amtkUVkyblJjVktVdWx0S0ViSmVUb1ExdTN2M2FuRl9vejBDdWdPTnZCZlJFdGdzYlN0TWQ1eWZQcVZVeUhZ?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-23",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "\"ראינו בפייסבוק שלה סרטון שמחבלי חמאס רוצחים אותה\": תביעת הענק של משפחות קורבנות 7 באוקטובר נגד מטא",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wT0hKQnNYRlQwRU9ucjl6QXNqd0cyaXNMTlNoR1lOajFEckpLYzUzX0w3WmNUakxqbmF4ZDhDRDZ1aTVWWEhLMnEwUFNTYWhiNWpBNFctMkJMVWtTckpiaUh5RXhUdnQyQVVpbEVqeTg4UWxiVnZUelZuMHVVUQ?oc=5",
