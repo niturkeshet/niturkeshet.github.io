@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T16:00+00:00",
+ "updated": "2026-10-23T16:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אפקט אודיה פינטו: למרות קמפיין הליכוד - שורת מובילי דעת קהל מודיעים על תמיכה בוינטר",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11MlYxYmpWMHpkVC03QWdMUDRoNl9VcWI3a0F1dlB6dTY2cXZzWDFvOEtJNTBDZE9uNkJRM3lUSXpXbE11TDQwbmRpV1lkNlBmYlZNTHlMTGhSckk?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-10-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה"
+  },
   {
    "title": "ועדת הבחירות דחתה את העתירה נגד אירוח פוליטיקאים בערוץ 14",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zdWMwemU2MV80LW5FV0ZoNFBmVDR6c1FzNVhic25jR1FOX1VxMEV2YXRwZGx6d3VuTG10U00zVTRLYVgtVUJ6U2lyU0FOOTBoT3ZIbXdFcFE4QTVJZlE1d1BBOExyRmvSAW9BVV95cUxNQlA5c2pGaGlMVGs1SkJqSldDUjZqcmFNRXNhUkJUVV9iaUJBMDU4U21vTXY4U3c4bjlNWXpZYUJqdzFDbVg1cHFndU1OMk9XeEYtWG96T0ltWExZY25LenB4U3d4NVl0RlVGR2d2N0k?oc=5",
