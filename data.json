@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T04:32+00:00",
+ "updated": "2026-10-23T04:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,103 +175,114 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "\"ראינו בפייסבוק שלה סרטון שמחבלי חמאס רוצחים אותה\": תביעת הענק של משפחות קורבנות 7 באוקטובר נגד מטא",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wT0hKQnNYRlQwRU9ucjl6QXNqd0cyaXNMTlNoR1lOajFEckpLYzUzX0w3WmNUakxqbmF4ZDhDRDZ1aTVWWEhLMnEwUFNTYWhiNWpBNFctMkJMVWtTckpiaUh5RXhUdnQyQVVpbEVqeTg4UWxiVnZUelZuMHVVUQ?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-10-23",
+   "keywords": [
+    "מטא",
+    "פייסבוק"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
+  {
+   "title": "אסי בוזגלו נגד רשת 13: \"הרגשתי מובך ומושפל\"",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02VEJNS2o2MUktYXpqR05vZWxGZmpycS1TTnZyY0ctLV9yYmZtVlp1MHREUDgtU3RJcXQ0Q1E5bGwwWXZyU0JianZ1VmdaT29UaldXZ2Z1MV9nQXROTjZz?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-23",
+   "keywords": [
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "Yair Golan lashes out at his political allies",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JNnQ5amFMY1U0U21sS3hTVldRTERURmFRS3FNOGZzVHU4V243VVdCVlhfdnU2eXA5cTFpREVRZmR4bllMOUF4T2ZQUEdYeDNtaE12ZzZpbElVQQ?oc=5",
