@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T09:45+00:00",
+ "updated": "2026-10-23T10:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ד\"ר יפעת בן-חי-שגב: \"מערכת מונעת ממוטיבציות פוליטיות קשרה קשר עם התקשורת - אפילו השופטים היו המומים\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85OXJQMHNxckVwVFBfbG5BWm4zbnJSU0c0NmlxQlFZaFExbndSUDdnUXpjZDFXV2pYWmtwTTdPejF3UmdpcmdrR2p5cw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-10-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רדיו גלי ישראל"
+  },
   {
    "title": "ד\"ר איריס סורוקר: לא לסגור את המיקרופון",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9XS05FT1I5dExqd0ZpaF9sU2VnQ1B4NWhLY1BnOWU1dmVDZGYyd1NSTVBfZWxGWGMtSG9hRTNGbjZkZkF2?oc=5",
