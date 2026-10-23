@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T14:00+00:00",
+ "updated": "2026-10-23T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,13 +182,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ice · תקשורת",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ועדת הבחירות דחתה את העתירה נגד אירוח פוליטיקאים בערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zdWMwemU2MV80LW5FV0ZoNFBmVDR6c1FzNVhic25jR1FOX1VxMEV2YXRwZGx6d3VuTG10U00zVTRLYVgtVUJ6U2lyU0FOOTBoT3ZIbXdFcFE4QTVJZlE1d1BBOExyRmvSAW9BVV95cUxNQlA5c2pGaGlMVGs1SkJqSldDUjZqcmFNRXNhUkJUVV9iaUJBMDU4U21vTXY4U3c4bjlNWXpZYUJqdzFDbVg1cHFndU1OMk9XeEYtWG96T0ltWExZY25LenB4U3d4NVl0RlVGR2d2N0k?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-10-23",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "7 ברנז'ה: מהישיבות לצמרת צה\"ל",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOQUd5c0tpRFRRZnlMQTVVUDhnTUo0NUtOMkw2RWR2M2dCLXZyMzVEZWxNeGMzT2ZPQmN2dzZ1VjYwZF9TY0VxYQ?oc=5",
