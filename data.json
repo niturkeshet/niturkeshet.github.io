@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T08:00+00:00",
+ "updated": "2026-10-23T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "כמה ירוויח שרון גל בערוץ 14?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzMXNKRWFPTDVNTHR2NU83NWhPeWtlWG5Qb0RubDhGenVOWk1TQWlEZ29NSk9qMXcyNFlMNE95YzdhZ2tScXFqem1vNnI1Y3g1ck5TUThhUXgtRElNOFhzcjUzRF83X0FBSF8xUFRWOHFMZFZsYks0eEVhenBtaW8?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-10-23",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "מטא מול תביעת ענק ב-4 מיליארד שקל: משפחות שכולות יוצאות למאבק",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DUllRNjROS3lqcmc5T2ZFRHdWSGt4amtkUVkyblJjVktVdWx0S0ViSmVUb1ExdTN2M2FuRl9vejBDdWdPTnZCZlJFdGdzYlN0TWQ1eWZQcVZVeUhZ?oc=5",
