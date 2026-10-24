@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:15+00:00",
+ "updated": "2026-10-24T12:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,16 @@
   }
  ],
  "items": [
+  {
+   "title": "גרמניה: אדם חשוד ששרף מבנה היסטורי ששימש את היטלר והנאצים",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUM1cwaC1JaDlxZWlkNEttbklOZVpaTHhlZ2ZZMl9FMHhMOU5Pd1JtTGZheFJGSmRtazF4Z0pXQ2dtMGFiNEFfZmQzODBaWDJYZVJTRTE3TFVwX2Q3SVJPMm13?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-10-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה"
+  },
   {
    "title": "בג\"ץ מעניק לכנסת פטור מהחוק כי הח\"כים עסוקים בקמפיינים",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9MeFQxTWRmblZtRFpac0EtS2VROUVpX0piQldXbnVFV2F0Yll1dFJydk5BWEt6TlVwenppWFZlaUUzaC1B?oc=5",
