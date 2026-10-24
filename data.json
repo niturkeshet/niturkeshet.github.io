@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:45+00:00",
+ "updated": "2026-10-24T00:02+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,86 +175,100 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": true,
-   "kept": 3
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": true,
-   "kept": 2
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": true,
-   "kept": 2
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": true,
-   "kept": 3
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": true,
-   "kept": 2
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": true,
-   "kept": 11
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   }
  ],
  "items": [
@@ -393,98 +407,6 @@
    "keywords": [],
    "pv": true,
    "publisher": "Israel National News"
-  },
-  {
-   "title": "בג\"ץ מעניק לכנסת פטור מהחוק כי הח\"כים עסוקים בקמפיינים",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9MeFQxTWRmblZtRFpac0EtS2VROUVpX0piQldXbnVFV2F0Yll1dFJydk5BWEt6TlVwenppWFZlaUUzaC1B?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-10-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "על הכוונת: סולברג",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMa3VSYWI4N2ZaLXZtSDZ2T2ZTYXhjWVdRREthdm84NnZSemMyZE5XeU1GUV9IS05nQVJCMzVqR2l5Rkh0bzI4c3llbVRlQWg2aUtVbXFTY3BpQl9zOGY3TTBn?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "המתקפה של יאיר גולן נגד שותפיו לגוש",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTdl9CbTVsVXRvcmJvYVJISnQ0NzVqNnJDZlBSMVBaSUcwTDJ3QmUzQ1pVcmZBcENkU1hDbDZOOHJRc3JCWUVmYw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ערוץ 7"
-  },
-  {
-   "title": "לקראת הבחירות: הערוצים המשיכו להעניק חשיפה עודפת למחנה נתניהו",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhVlZMNm44LXVaMFhqdVI5eHVuU05NVnpsQUk0TU9PXzZZN09jSU9xWEpiOHU3cnRuMk90NWhNd1BaWVhVNXVsMEstR3I0bklUbHJFUDln?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "X"
-  },
-  {
-   "title": "מה יעשו החרדים ביום שאחרי הבחירות? לשר קרעי יש תשובה נחרצת",
-   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOY0w0MjFlQkVFRlREejNkdUFBeGRxRzJrWVQ1cURLQTVsUHNFbXAtcU5QeF9iM1lzRjJxeVkyVHduZ0xhbjZ2d3dsbXVxR2tzOWRoTEl3Slh0emJ0T3RIdC1hcGpxd3k2VzRmSVQtQzBCYVdjVTF6WUExMDJuNTdGSHVibnVoREZOaUVZbEVWc01MZV95dXBOdVBqdTZHUURER1hjWG9xeERRLUhnejJseXV3aU1FOEdHSXctNlZMRXFPWjVDUHpjRHRUc0NsQTViN3J1aWZDQ1JpN1h0bVpqbFVoNUFfbjVoNUJOUVJjT2c1R2NVb2lIbEgxS1hxbUQ0YjNrM3lueDZGak9zWk9UZFBGa09vajM0U0pkc2ZlWHk0N05BN2tfTVc0OXRyNzNBeDNrNlVOSlNLc2J0YVhfR2RXX0JIa2VkVlZzWGpEQQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "קול ברמה"
-  },
-  {
-   "title": "יאיר גולן בהקלטה: \"אסור להקים ממשלה עם הליכוד",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85dEVVLS1RQUVHM0lsTFpneXdLRmtvZzB4c0xxOVB4dEdJcnlPVGNWblplUDRkdmRlOHp2N0FSOFhQazVPTTg4dmdqc09tMGRuS0pqMm53X1FCWkdiV3ZWTG8yMDlLZlE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כאן 11"
-  },
-  {
-   "title": "סתימת פיות: המהלך של ארגון השמאל נגד ערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wRnI4THB3cThMaWdvYmV2eTVBR2hxRGRTOU9zdWJ3LWQtWWItNXhHOEQwU21Rck5xb1lyQ2RmMzZ5MkZSTEZDVmN1ZWc1Zw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-22",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "\"תזכור שויתרתי לך על זה שאמרת 67-66 מנדטים לימין\"",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2wzT3BGbU1MZzFPSkFRSTgxY1AxdFFBQTNvNGRrRmoySm02NXNUT0dmRXpCdWZkXzViR3RCNG1MZjJrY1FWdnBXWjVoN05yeVdsT2ZzVXZQOVV6SW1nVjhHcWkwbF9qVndkZU1ER2VBNm1INmRqTXVsT3dNQ2xwbg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "103FM"
-  },
-  {
-   "title": "אלי אוחנה מודה רגע לפני הבחירות: \"נראה לי שאני אפסיד\"",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GUWczbXVJam9JNUVJNld5M0JYRkNKRWNsTXJ1eVVzWjY5bFBsQ3Fickk1UFZISlhYNXFsNU1rUGk0Z2ZMYW9hZEtMUWpCd0VqXzVPQTl0Zkd1SDJYVEpfbEFQSDR2NkQzR2Y4aQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
   },
   {
    "title": "בן כספית תובע את ערוץ 14: דורש 200 אלף שקל, ינון מגל על המוקד",
@@ -3004,30 +2926,6 @@
    "date": "2026-08-25",
    "keywords": [
     "רייטינג"
-   ],
-   "pv": true,
-   "publisher": "ביזפורטל"
-  },
-  {
-   "title": "סקר חדשות 12: וינטר מעל אחוז החסימה",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2Ewclp1b2JYR213WmdGR3lUVW1RX1JySHBVREhpWTFCaDN4Y1p3UmI4ZHVsZ1FnMFFqVjl0VEhNaHZnZkZOUXBMa3RyeDJDV2pCNDNJcVhpSGhUMnpzekxEdTZLTnpHejJqOXk4TEFJQ1FQWHIzanZFejJFc2NjQ0JUOHExZE0?oc=5",
-   "source": "n12 / מאקו · חדשות 12",
-   "type": "site",
-   "date": "2026-08-24",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "Mako"
-  },
-  {
-   "title": "אבי לוי על הדנ\"א של להב, על הוט מובייל ועל הפעילויות שירצה להנפיק - המניה? \"שיאים נועדו להישבר\"",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaVU5oY2s4OXpfb3VqZU1GdWVSZzdKYzZaamRFUGF4WlhhbjM5aXhTWTJnb1ZrUGRBb1dvNDc3NW9HM2hpbV8xTHI1Y2Z5bFVxZzVQZVNqTEwtN2NwRzBHMzFBTmhuamtfN3pZbWNUUjc?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-08-24",
-   "keywords": [
-    "הוט"
    ],
    "pv": true,
    "publisher": "ביזפורטל"
