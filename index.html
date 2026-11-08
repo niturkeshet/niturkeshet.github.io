@@ -23,6 +23,8 @@
   .brand h1{font-size:20px;margin:0;letter-spacing:.5px}
   .brand .dot{color:var(--accent)}
   .meta{font-size:12.5px;color:var(--muted)}
+  .meta.stale-warn{color:#c8961d;font-weight:600}
+  .meta.stale-bad{color:#e5534b;font-weight:700}
   .wrap{max-width:1100px;margin:0 auto;padding:20px}
   .controls{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:18px}
   input[type=search],select{background:var(--panel2);color:var(--txt);border:1px solid var(--line);
@@ -153,8 +155,22 @@ function init(){
   items.forEach(i=>{ bySource[i.source]=(bySource[i.source]||0)+1;
     (i.keywords||[]).forEach(k=>byKw[k]=(byKw[k]||0)+1); });
 
-  $("#meta").textContent = "· " + items.length + " אייטמים · עודכן " +
-    (DATA.updated ? new Date(DATA.updated).toLocaleString("he-IL",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}) : "");
+  // Age of the data, stated plainly. A frozen collector used to look like an
+  // empty hub ("0 items"), which hid a 15-day outage — so say how old it is.
+  const meta = $("#meta");
+  const stamp = DATA.updated ? new Date(DATA.updated) : null;
+  let ageTxt = "", stale = "";
+  if(stamp){
+    const mins = Math.round((Date.now() - stamp.getTime())/60000);
+    if(mins < 90)        ageTxt = `לפני ${Math.max(mins,1)} דקות`;
+    else if(mins < 1440) ageTxt = `לפני ${Math.round(mins/60)} שעות`;
+    else                 ageTxt = `לפני ${Math.round(mins/1440)} ימים`;
+    if(mins > 1440)     stale = "stale-bad";    // over a day — something is broken
+    else if(mins > 180) stale = "stale-warn";   // over 3 hours — refresh is lagging
+  }
+  meta.className = "meta " + stale;
+  meta.textContent = "· " + items.length + " אייטמים · עודכן " + ageTxt
+    + (stale === "stale-bad" ? " ⚠ העדכון האוטומטי כנראה תקוע" : "");
 
   // source dropdown — every monitored source (from the manifest), with counts
   const manifest = DATA.sources ||
