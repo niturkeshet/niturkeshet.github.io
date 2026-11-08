@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:00+00:00",
+ "updated": "2026-11-08T13:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -146,25 +146,25 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 5
   },
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -176,7 +176,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -236,7 +236,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -259,24 +259,238 @@
  ],
  "items": [
   {
-   "title": "גרמניה: אדם חשוד ששרף מבנה היסטורי ששימש את היטלר והנאצים",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUM1cwaC1JaDlxZWlkNEttbklOZVpaTHhlZ2ZZMl9FMHhMOU5Pd1JtTGZheFJGSmRtazF4Z0pXQ2dtMGFiNEFfZmQzODBaWDJYZVJTRTE3TFVwX2Q3SVJPMm13?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-10-24",
-   "keywords": [],
+   "title": "ינון מגל: \"קובי ריכטר וכל המליונרים שנתנו כסף לאיזנקוט לוחצים עליו\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qVVdqMldBTlBWcmlyTTBoRUFvdjZ1SGdFcFl6VG1TNnJYaS1NNTBwUEwzaDNvSHdkWWtqeENOUmxBbkVQeUtrVWF5Y3BsVGwwTWc3UzdFLVRGTjJ6?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-08",
+   "keywords": [
+    "ינון מגל"
+   ],
    "pv": true,
-   "publisher": "וואלה"
+   "publisher": "ice (אייס)"
   },
   {
-   "title": "בג\"ץ מעניק לכנסת פטור מהחוק כי הח\"כים עסוקים בקמפיינים",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9MeFQxTWRmblZtRFpac0EtS2VROUVpX0piQldXbnVFV2F0Yll1dFJydk5BWEt6TlVwenppWFZlaUUzaC1B?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
+   "title": "הישרדות נושפת בעורף של הזמר במסכה: קרב הרייטינג מתחמם",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kbGJQZXl5SlpvdHZaZ2h1QVc0R3MtcTN6anNPbS00RjJCVGVzaEVjVjhVMWtoNTRxMUhkLXRyTTc2V09BcVhEQjJldlpPUVlzOXV6NE5EQlVUOThwSzl0RkVwaWt6MGFWenpoWlFaOFZSaHJWT241Z1lKaEV4dnM?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-08",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
+  {
+   "title": "בג\"ץ כבר רץ למחוק את החקיקה של הכנסת היוצאת",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42emFIcHpJSUhMNFI2WWRkNDRCb0cwZndGQWJ4SnpHd01ta3BubFI5ekMycDVBOTkwWnFXZjZVM0JhbkFqWEtaU0w5NnlDRVFKeVVVaTdYZUFPSW9QS18yQ0hWOA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
-   "date": "2026-10-23",
+   "date": "2026-11-07",
    "keywords": [],
    "pv": true,
-   "publisher": "זמן ישראל"
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "אבי שושן התרסק ב\"הישרדות\" - וזה בדיוק מה שהגיע לו",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95cXRlSU9yazBYcDFUMHdvT2JLNzJzT2dWQU9zcmRLN09jY2JuWU5OX3ZVWk1ieHhVZzVMN0NZWmJCbEZpOXRhZDBkWXdvenJHM1ExWlJKMTY0cC1hMk5aVGg5X2RpRjhR?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "דני קושמרו התנצל: \"אני נקרע, זה הלב שלי, חלק בלתי נפרד ממשפחתי\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kZW9GdTB6ZGpDOHQ5VFRVT3k5bmRxNGFtb2RXNm1yVEx1T2RBanZzV3BOV3lyT2lONE5uV01xVXdoY2pNQm1iN0wxd3c3WUgwWk9zNG9iODl4d0dz?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "ינון מגל: \"אני בתור חרדי מתבייש, נכנעים לאלה שרמסו\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByM0NyelFNM3hGTzhMUTFfcm5acEZaOEZJcDFnNndaVVhKZFVtcjU4QkZRYjdyN0ljaTVUTW9ZN2hqT2FHMUZrUUNvNC1IQkk0SHRCMUR6OFU1NnhM?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-06",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "ינון מגל: \"תוקעים סכין לימין ולנתניהו. לא יסלחו להם\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzellRQnV3TFhNWUtIMGtwYmJ6TE9lSEdIdXdKUjd5TUoxTloyVUYwWFpVNzBJRENvQml0RVpmZ1psZFNDTHEzNVZleDlqR0JGVGpqQXphb2w1NjJp?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-06",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "לוסי אהריש לא סלחה: אייל ברקוביץ' חוטף תגובה קשה מאסף רפפורט",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WeVVWSHFpNkdzbV94Z2RKRXJsQmotUVBadWF3eU5IbldHVEt4bTRBdmpvSUlPLTFNeXg2OHcxRXJmcENBYnpuUVU4Q2liQTlYX0JDbDU3cmM?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-05",
+   "keywords": [
+    "רפפורט"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "קרב צמוד בפריים טיים: \"ארץ נהדרת\" ניצחה את \"הישרדות\" בפער של 2.7 נקודות",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xWWZaamwtZFJ2OHZGajlSNmdtOENaQ3FqUkdmSGR0YVo2YllDRmZZS0E3WjZ1SzBTSy1XSHFZN01sY0NtbjVuWVZqSmxCY2xCbDlUa3d3OTR6LUhSeEVWRGlSdGl6T1ktM1R1WU52Z2Q5SmxxbEp1c1U0ZkozdTQ?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-05",
+   "keywords": [
+    "ארץ נהדרת"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
+  {
+   "title": "אסף רפפורט חוטף מכתבי הארץ: \"שתיקה פחדנית, לפטר את מוריה אסרף\"",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tejlEQXExZU5Zb3k5RVdpdGVEQzlDOWdDWUR3UFloSGkxVUxuS1d1WjVkejdFNTA2OTNHZlZmRUloeTBqSHNMVFpTWUhJaU1XUm0ycjI3b0Q?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-04",
+   "keywords": [
+    "רפפורט"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "רשת 13 הובסה בחוזקה מול ערוץ 14 שמיהרו לחגוג - \"מוחצים\"",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13YmU4ejNHWDY5bVFrb19QUUg5ejFSN0JIWXVsQVQ3a1hUUF9scWtHVnhjalVGdzhHZzhQNkJnbE00N3JabmRjYlh1V1dsZjNrY0FwV0JsMXJ4MW9JT25QSU1B?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-03",
+   "keywords": [
+    "ערוץ 14",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "רייטינג: רשת 13 במגמת התרסקות קשה בפריים טיים",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLNUQyODdPRno4V3VHRUNwR3pXSmt1YWNQaDMzQ3l1NEdfanVLV2JERHluZDM3aWxqQUhUMzRRLUc0NHZ3QUhsOGJPN0pZdVVKT084MTYxSmZGUjc0dF9uRDVn?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-03",
+   "keywords": [
+    "רייטינג",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "למעלה מ-5 שעות של דף המסרים של הליכוד: כך נראה ערוץ 14 ביום הבחירות",
+   "url": "https://www.themarker.com/news/themedia/2026-11-02/ty-article/.premium/000001a1-9785-df63-ade5-f7d7dcbc0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-11-02",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "ינון מגל נגד ערוץ 12: \"מדובר בפח זבל\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mNUFwS0RhRHI3SVhiSl9scVR2TE1WcUpES0hWeGFLYXZuckVRRllFMjd6ODVpUVNDYVRQbW8yanU3SHhnYmFaUWNoVWlyRVdvNG5YU0NwMi00N3h4?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-02",
+   "keywords": [
+    "ערוץ 12",
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "בג\"ץ מקפיא את כניסתו לתוקף של חוק השידורים; ידון בו בהרכב מורחב",
+   "url": "https://www.themarker.com/news/2026-10-29/ty-article/000001a1-8782-def7-adad-8ffadeab0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-10-29",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true
+  },
+  {
+   "title": "אוניית צים הוטבעה בים השחור במתקפת רחפנים. צפו בווידאו",
+   "url": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8758-dbb9-a7ef-ff7cf5df0000",
+   "source": "דה-מרקר · נתי טוקר",
+   "type": "site",
+   "date": "2026-10-29",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true
+  },
+  {
+   "title": "בג\"ץ הורה לממשלה: נמקו מדוע חוק התקשורת לא יבוטל",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VNXVzYWtMRnhPa18wc0hKZS1FNDJscUpBRjZST2VqUDNMeHNJVTVfMmxfQnR6ZEtzd2xpbk9abU8yempTMC0yRk5Cc01tWWJYYUMxcG41d2hqYXJ5a285Q3BTeC1ZZw?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-10-29",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "רייטינג הבחירות: קשת 12 הביסה את המתחרות - כמעט מיליון צופים במשדר המדגם",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vcWZHdHFLd2JIaTJ5WHF0TXVlRll5UXhoazVTY01XdS1oUjB6UklBWm9qQVBMQllqc28zY21UZ2lDME96TnBKUzMwVEdLQ2h0V1ZWWEg4YUctZW4xOTJkTzZ1OF9SS0NreW5mdTNxQjJaVWRHY1RDbHpkRW9qOTg?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-10-28",
+   "keywords": [
+    "קשת 12",
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
+  {
+   "title": "ארץ נהדרת, קופה ראשית והישראלים: הערוצים נערכים למשדרי הבחירות",
+   "url": "https://www.themarker.com/news/themedia/2026-10-27/ty-article/000001a1-79a6-dfb9-a5a9-fba788e50000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-10-27",
+   "keywords": [
+    "ארץ נהדרת"
+   ],
+   "pv": true
+  },
+  {
+   "title": "בערוץ 14 נתניהו קרוב לממשלה - אך בליכוד שורר שקט",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iR0RsVHN2ME1JWUdieWdpUFVsSHBmWk00S3VKZkJxMnhHNFd4dGtBZGR2Z05PX1ZkMlowZDI3STZCeHoyWXc4QzNBOGVlZEM4STQtbVRoWUJRdzFUcW5salpCM3RVS0xFOFJxXw?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-10-27",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "רייטינג: יהודה לוי וקשת 12 בורחים לינון מגל וערוץ 14",
@@ -294,16 +508,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "אפקט אודיה פינטו: למרות קמפיין הליכוד - שורת מובילי דעת קהל מודיעים על תמיכה בוינטר",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11MlYxYmpWMHpkVC03QWdMUDRoNl9VcWI3a0F1dlB6dTY2cXZzWDFvOEtJNTBDZE9uNkJRM3lUSXpXbE11TDQwbmRpV1lkNlBmYlZNTHlMTGhSckk?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "וואלה"
-  },
-  {
    "title": "ועדת הבחירות דחתה את העתירה נגד אירוח פוליטיקאים בערוץ 14",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zdWMwemU2MV80LW5FV0ZoNFBmVDR6c1FzNVhic25jR1FOX1VxMEV2YXRwZGx6d3VuTG10U00zVTRLYVgtVUJ6U2lyU0FOOTBoT3ZIbXdFcFE4QTVJZlE1d1BBOExyRmvSAW9BVV95cUxNQlA5c2pGaGlMVGs1SkJqSldDUjZqcmFNRXNhUkJUVV9iaUJBMDU4U21vTXY4U3c4bjlNWXpZYUJqdzFDbVg1cHFndU1OMk9XeEYtWG96T0ltWExZY25LenB4U3d4NVl0RlVGR2d2N0k?oc=5",
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -314,46 +518,6 @@
    ],
    "pv": true,
    "publisher": "היום"
-  },
-  {
-   "title": "7 ברנז'ה: מהישיבות לצמרת צה\"ל",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOQUd5c0tpRFRRZnlMQTVVUDhnTUo0NUtOMkw2RWR2M2dCLXZyMzVEZWxNeGMzT2ZPQmN2dzZ1VjYwZF9TY0VxYQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ערוץ 7"
-  },
-  {
-   "title": "העדה בתיקי נתניהו מודה: \"אפילו השופטים היו המומים\"",
-   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPVE9YQXNFcnNPcDd0MmJydkFzbXNIZ00xWjF3WkZEeGtUcER2cTZmM3d6MEhKNVg5UHZDQzR0YzRKdVE1TW95UUgxVW1Qd2Z3TlBjV2p6Ukk5OWppdGVjZU9qTDhPV0dRWUk2SUlZRWZ4eUVDWXlkM1dKNFNtWXBqakpfdF9TSk5hVzl2RFJnUWl5Y1g0bFU4SXBJWG12YUo5Wm1LM0o3X0JzWUcyaUFZZjU1WTYwVVhKZ0UxUXptMjh0bC14dXZEQnpfd1hkb3VIa1hnSkNiQTNUOGNTSWM3emI0VVR0aTUyWGdOTHRyY3ozQkFUNG8zMjRNX09ERUhBX0Z3UUJTRnh3YU9Bd2lBNEpHMHhXWnRWU2Jfa3hEWWVsbGtlWXZPUEtBeEVTVHF4WURRejczYnZxSDA5UkRJZHNPQ3k4UUs5MnVEdU04RjA4YlNvNm1idmR6WEVZVGdUYTcw?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-10-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
-  },
-  {
-   "title": "ד\"ר יפעת בן-חי-שגב: \"מערכת מונעת ממוטיבציות פוליטיות קשרה קשר עם התקשורת",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85OXJQMHNxckVwVFBfbG5BWm4zbnJSU0c0NmlxQlFZaFExbndSUDdnUXpjZDFXV2pYWmtwTTdPejF3UmdpcmdrR2p5cw?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-10-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "רדיו גלי ישראל"
-  },
-  {
-   "title": "ד\"ר איריס סורוקר: לא לסגור את המיקרופון",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9XS05FT1I5dExqd0ZpaF9sU2VnQ1B4NWhLY1BnOWU1dmVDZGYyd1NSTVBfZWxGWGMtSG9hRTNGbjZkZkF2?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-10-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
   },
   {
    "title": "כמה ירוויח שרון גל בערוץ 14?",
@@ -403,16 +567,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "Yair Golan lashes out at his political allies",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JNnQ5amFMY1U0U21sS3hTVldRTERURmFRS3FNOGZzVHU4V243VVdCVlhfdnU2eXA5cTFpREVRZmR4bllMOUF4T2ZQUEdYeDNtaE12ZzZpbElVQQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-10-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Israel National News"
   },
   {
    "title": "בן כספית תובע את ערוץ 14: דורש 200 אלף שקל, ינון מגל על המוקד",
@@ -2384,557 +2538,6 @@
    ],
    "pv": true,
    "publisher": "Mako"
-  },
-  {
-   "title": "בג\"ץ ביטל את מינוי בן-חי שגב, בראשי ושיין למועצת הרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13VzhSek1wenRBVFFkMkU1NEUycGJtWEF2blp6OHdLS3kwNTRhd05vTFRDOTdpRWpPWXZDQUNCVnlIbE43b082SGRDSGtMaEw3YTlXWmdIUENCM1F3T2dsMDBsblU1RW8?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "bizportal.co.il"
-  },
-  {
-   "title": "בעיצומו של דיון קבינט על איראן: נתניהו נפגש עם הסוקר של ערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nd00yQW0ycDBPQTRIaFl0QjhCaE1XUkRxSEZlR2xLbThUWjNNbm5BR2Q5TXM3TTRhSG1iVTRQSXdGZ3lyanNWNlVNTnl5TENkamRFT1NDUDc3QXBoTzdpeXpQa1FDR2Vmby1FZ9IBdEFVX3lxTE5HWEZFa2wxLVk0cEQwVE9rUjkxeGNyOUF0M3FlYUttWUtHTjdabnlJb0dKQy1SNG5CSXlHQ29uazNOdVpGOUE4cU1wZXo1eHhCZjJaWjJHUFZtUHR4cjgzMC1GbWd3U3I2MU1pV1Via01GZHZt?oc=5",
-   "source": "ישראל היום · ביני אשכנזי",
-   "type": "site",
-   "date": "2026-09-08",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "בג\"ץ ביטל פה אחד את מינוי בן חי-שגב ליו\"ר הרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40RVdiVmZkcjQxR2tYcW1uTWtCQ3ZpZFFkLTJxUlMtZkdYcldqT0cyS3ExdkhGWW1FR3E1NnZGYXQwUG5jVUgyQzByaWxzVTJidFRNbmI1cDlYVloxRUh1SHhzU2ZOUy1uTzI3T0I2c9IBb0FVX3lxTE40RVdiVmZkcjQxR2tYcW1uTWtCQ3ZpZFFkLTJxUlMtZkdYcldqT0cyS3ExdkhGWW1FR3E1NnZGYXQwUG5jVUgyQzByaWxzVTJidFRNbmI1cDlYVloxRUh1SHhzU2ZOUy1uTzI3T0I2cw?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "site",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "מכה לשר קרעי: בג\"ץ ביטל את המינויים הפוליטיים למועצת הרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44aDZRT0ZPT3V0QlVmWVdLUkFPX2VUSGdkUnFoUlRSLTZXNXRZbUlRSmlYVkNfMlFHcEs0ZmRhb1lRVTducjduMG5MYmdOdHl2UWw1R04wUW9OLW5BNk5DcVRIaFFwcjA?oc=5",
-   "source": "כלכליסט · עומר כביר",
-   "type": "site",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "calcalist.co.il"
-  },
-  {
-   "title": "בכיר ערוץ 14 שראש הממשלה משריין לו מקום ברשימת הליכוד",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001554803",
-   "source": "גלובס · נבו טרבלסי",
-   "type": "site",
-   "date": "2026-09-08",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true
-  },
-  {
-   "title": "בג\"ץ פסל את מינויה של ד\"ר יפעת בן חי שגב ליו\"ר מועצת הרשות השנייה",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001554802",
-   "source": "גלובס · נבו טרבלסי",
-   "type": "site",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true
-  },
-  {
-   "title": "בג\"ץ ביטל את מינוי יפעת בן חי שגב ליו\"ר הרשות השנייה",
-   "url": "https://www.themarker.com/news/themedia/2026-09-08/ty-article/000001a0-80a4-d4e3-ada1-e6fd96f20000",
-   "source": "דה-מרקר · יסמין גואטה",
-   "type": "site",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true
-  },
-  {
-   "title": "פה אחד: נפסל מינויה של יפעת בן חי-שגב ליו\"ר הרשות השנייה",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jd1VkMFg3Ny03SWc5ZGMtMlFQZTl4cU9mNUFTdmxNRHVYM0NMa0lPVTkyNmpWNlhSWG5XeVBPVk50dHZTdE02elhwdEk5cmtRb1M0X3hYaFRzT1hGTzVIaXZfWHY4d9IBbkFVX3lxTE5kM1VCZFdyQVFEWUNUTE0xaU5qNERLRDNZeWJVMWpCOE9NdFhELVBHQURDUjJzZUY4NGxjNmJhT0xJTm56alRGd1lfTmxrNUk0SDBZTXZRQlNSWF9PTWFLaVdSbkZ1TTNiT2lrdFhn?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "site",
-   "date": "2026-09-08",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "חדשות 12 משנה כיוון: זה המהלך החדש שיעלה למסך",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50Y0hQVEtMVjdNRktHVFZfS1dlSjlKQ0JvVmo5dlczbHRJN2tNVjl4TFNZY2o0VE1Eem1qYWVtd3pyZlhXQUdFQ0VwSGFWQnNTMUIxcU1jc1U?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-07",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "מכה לערוץ 14: ייאלץ לשלם 100 אלף שקל ליחצנית שתבעה אותו",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MWTI2dk5XY19rcF9HaFFnUUZsR2dfV0Fzbm12QnpwZ2loNjRZU093MzhoN1dOQzFTOVotUzRfa2tfQWdEU19obUMydjV6amIweE1NRlBpa2wxMEdy?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-07",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "חמושים ב–10 מיליארד ד': הקרן שהשקיעה בגוגל ואנבידיה נערכת למהפכה הבאה",
-   "url": "https://www.themarker.com/magazine/2026-09-06/ty-article-magazine/.highlight/000001a0-6666-def7-a7f7-6ee7eb490000",
-   "source": "דה-מרקר · יסמין גואטה",
-   "type": "site",
-   "date": "2026-09-06",
-   "keywords": [
-    "גוגל"
-   ],
-   "pv": true
-  },
-  {
-   "title": "אסף רפפורט נבהל מהרייטינג הנמוך של דה וויס, צעקות בישיבת הנהלה",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52MVdGMnFldXdrOURkaWRSOE0td0szRkxVTFdSQk13UnFpMlJfZjVQWjhuYno2MzhfdHEtQlo1N0lkYnlIeFhySGs0Rm1fMnR6RTY3bUJDYVU?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-04",
-   "keywords": [
-    "רייטינג",
-    "רפפורט"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "נלי תגר על הסרטון הנועז: \"הפריע לי שינון מגל שיתף\"",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FWENLSm91OFVlM0RDNm5xX0R5aC0tMUthLUl4Yi1NcmdoZHhOQmllMV9hT212X1BCbGQwUlREdXlOc3lIbFBMRWh2dFhQMjRINFJmRXRzUkEzTmtCcFdIcXdvSEZxUnIy0gFwQVVfeXFMT1NNSUM4Tk8xNzl5Y1RsU09Mb2htYmFtcEhlelQzXzcxQmlZNkFpTmNWRDdiQUxyd1Myclp1MW9MY1I5WDJVZ2ZXcWYxOUExVWM0MFJSYXF2OTN5UFdGckJYeml5dFJycXpzdFVsOEp1OQ?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-09-03",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "אסף רפפורט במהלך חדש לפיתוח רשת 13: \"להרחיב את גבולות הפעילות\"",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BTXUxWXFoYWtoemxwSkZuX0dFZ3RmczZ0Q0NlUnZPSnIzblpjb2NLVW4tU2lDbWpQam1yRFQ2X0dzX3psQU1iZXRaWGlwVm5IdUx3bFMwcEwtcnQ4Y2lpTjZyZw?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-03",
-   "keywords": [
-    "רפפורט",
-    "רשת 13"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "בנק לאומי על הכוונת: המהלך הדרמטי של שלמה קרעי וערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xaEJKRGE3T0dxUkZWamNYY0pNaGlNT21XSlZLY0Z6ekM3TlN5b0pmY0dXZmFPNV9WUFMyVlRfYlNPUUExQ3NtMHFDNDNQOHJCQWtGWDRmUm02Mm1K?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-03",
-   "keywords": [
-    "שלמה קרעי",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "אייל ברקוביץ׳ בערוץ 14? ינון מגל פתח את הדלת ל״הפטריוטים״",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RSjNhdl9MM3ZzMUlhSHBWSjBjWlhIZ2Vkb1Bra0haNXBPZmNhRVkyOFdKN0hqY2JMOEJpY0JGQU5IM0lYOEVyYkgwSkR1TW1XTS1xcjhqUUZJYkFKTjhTRXRKLUdoemZZYnppadIBdEFVX3lxTE5VckY3dTNNMVpzZXVIeTM5azZpZVlwaHVqYTMxcWd2VDlSYUs1Yk5qTjBxc2NsZ05QR0J6LXZpRWFrU1RJaUcwUlFseHRENnhEVk5DTnRPWnJGWkpIYi1XMDNsMmZ6eEZoNVlTZmRaanZFM3Y4?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-09-02",
-   "keywords": [
-    "ינון מגל",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "\"הליגה הרגה את הקליפרס\": העונש חסר התקדים שהוטל על קבוצת ה-NBA",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLRWhOdXRMNnlQd0VQMldCWS13XzQybzdoTWdibU5Sdjh1MkRQdnN4ZUN4ZEpaNWpwLUJmUUlOakU5V0pfVGpIOW1wX3ZkVTNvRG9OOTYwZ3NLNDdxd0xsZ3M0c2RlaHVQRVdWS2l2dXl0aUlxbFhOb9IBgAFBVV95cUxQZFVHTUhjclNKNkNSQ3VHUHByMjlOSWlPSjZKR2ZrcTYtTVVpS1lrMmxCQ1VEWEFBdl9Wd3R6Skx2QkxTTy1uWlQzaVVuekY2V1hZbG9MOHdmM0FXRDJ3cGZvZkJpWU1pQk9YVEdtVTN2ZmdSUVgzS2pfcDBzT05vYQ?oc=5",
-   "source": "ישראל היום · ביני אשכנזי",
-   "type": "site",
-   "date": "2026-09-02",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "ערוץ 14 ממשיך ליהנות מהטבות ומעמדו טרם נקבע",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00djhxR0NXTnVMU1NlUGx3bW9XMXZpM1BTWU1ybHk2bk1lN1BFaEl2emFfOU9KSFh2UU10RWJzeTBnR1dsc1M5ZGg1X2RWREpVV1h6elQwY2VhdEkwdVhRTUp6R0RlX1Z1?oc=5",
-   "source": "כלכליסט · עומר כביר",
-   "type": "site",
-   "date": "2026-09-02",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "Calcalist"
-  },
-  {
-   "title": "הרשות השנייה הזהירה ממידע כוזב, אך שותקת על הריאיון של שרה נתניהו",
-   "url": "https://www.themarker.com/news/themedia/2026-09-02/ty-article/.premium/000001a0-6191-d234-aff2-7199e4100000",
-   "source": "דה-מרקר · יסמין גואטה",
-   "type": "site",
-   "date": "2026-09-02",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true
-  },
-  {
-   "title": "תרגיל למתקדמים: כמה מוחות נכנסים בין שערי הצבא של יואב קיש?",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jMmJGTWhKZzE3YzRjM21KVFhyUzlQeUJ4VE5ac0NvM3ppNUlFWDVUOVJCaTdBUC0xSXhwZlNLd1ZDSXZRZzlHVlVlSWNZaVp1RnFqM2V6dTB2blBjMUwxR0Q0MnFxVHdwX3NhOEpwcTF0Zw?oc=5",
-   "source": "ישראל היום · ביני אשכנזי",
-   "type": "site",
-   "date": "2026-09-01",
-   "keywords": [
-    "יואב קיש"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "מפץ בתקשורת הישראלית: פטריק דרהי נפרד מהוט מובייל בהנחת ענק",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xV1YtTXk2N190QXYtUDlGN1pMWnpQdmJSTUFEeWNHUXFNQmhLbGNGTHdlVk12U3g5ZDl0NGg3UE5IZEY4dTl5WGpTVTlfVE1jU0tpQTdwZFFKc3NQV3RV?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-01",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "רמי לוי ובעלי ערוץ 14 בסכסוך על מיליונים – החברה עלולה להיסגר",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QMkdUbEZ1dWxuZVQyTC1uRWtPRGtBdUFxUnNxV3FuUWdMRnpVb28taHdkZS1GN3FzRU9KeG9hTXVWS05raVZNcFRKYlNITzBxMnF5STlPWk9obE51Vm84?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-01",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "אחרי 25 שנה בטלוויזיה: מגיש חדשות 12 דני קושמרו בהישג ענק",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wZXFRY2Q0YmF6T1NMVmREd0UzZlpmWDJDOE53N19kUEI1cEZUUWl0bDFxblZXWUh1QkdKMlRiLWpNVGZfVEJOcmFvRmVGaVdOdG9WQXdKX2phM2JZ?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-01",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "אברי גלעד מפתיע בקשת 12: זה הקאמבק הדרמטי שלו",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CZlZzand4dTZTQTRteVhGRWpjYzRDNUpRQUt4UE9TSWN1eGJRZFFhelFnWFlQdEJYTUVRd0JDR18tTWlYNU1vNnlQcEVUU2NJUDZldGtvMFA?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-01",
-   "keywords": [
-    "קשת 12"
-   ],
-   "pv": true,
-   "publisher": "ice.co.il"
-  },
-  {
-   "title": "סקר המנדטים של חדשות 12: וינטר עובר, סמוטריץ' בחוץ - והאיחודים שמשנים את המפה",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMC12V2ItTGw5ejhUeV9EQV9LNjJPWmVnV3BLbEhaODM4NS1heGdOOXFQTkJiQ0Z6SjdMVF9FZG1OQXktNHhKMFp3czVaakphOFUwdXVLS2hwOG5DTWN4cmhldHJzektyeWVjcXpqQkstSFp0OUxyNUwzcmMtcFlSd2w5dERJTjA?oc=5",
-   "source": "n12 / מאקו · חדשות 12",
-   "type": "site",
-   "date": "2026-08-31",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "Mako"
-  },
-  {
-   "title": "נטעלי שם טוב חזרה לאולפן של חדשות 12 - וקרן מרציאנו לא הרפתה",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12NXNDcmxmM2dwUXV0blR0anpJUXNyaFVFTGozTXVXNWV0Wlc2T1NFcGpVRkpRUEZzd1hLMXA4dlQ0T2oxY1dsN1BuMVBRc0VMcklqdVlpTjNsN1N4?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-08-31",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "ערוץ 14 מקדם אינסוף שקרים, ומאחוריהם מסתתרים שני פחדים גדולים",
-   "url": "https://www.haaretz.co.il/gallery/media/2026-08-30/ty-article-magazine/.premium/000001a0-3961-d936-a7ac-396d5b2c0000",
-   "source": "הארץ · עידו דוד כהן",
-   "type": "site",
-   "date": "2026-08-30",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true
-  },
-  {
-   "title": "אלי אוחנה שם סוף לשמועות: מגיש קשת 12 בדרך להצטרף לליכוד?",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZWjJQLS13UWFaRUtXT0RtdVlZbzV6dHBkZzdXZl9SRExTZ1JEY0JlaF94clJJTFVYU2VLdUdwVEdvNU93Zk8xbG94RGhFQ0pEQlB3UlB2SlVsd2xf?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-08-28",
-   "keywords": [
-    "קשת 12"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "ינון מגל מתפוצץ על היועמ\"שית: \"חוצפנית ומופקרת, מי את בכלל?\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HSnpQVEdTa0w0YzkzUGpiQUE3ZVlackhMa19CekZtYkoyTTdKdHJXZk51c1M4XzlqQWdZOWZJQ2hMbk5wSHVwZV81eEZvRm8zUUtZeEFvYjd3SC1S?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-08-28",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "מהדורות החדשות נחלשות: זה הערוץ שזינק ביותר מ-14% ברייטינג",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOZzUzeHVNQVNTTzlkSjI0Tk5oNGlPdU01SzJSajNMZXk1eUlFbmZhTDBvLXU5cng0ZTJ0ZkZ3OFBadnBOdTh1UWFfaEMtc3BhazZ4aEtmNW4xZVd1U0RTbm9R?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-08-28",
-   "keywords": [
-    "רייטינג"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "מהפך בטבלאות הרייטינג: מי הערוץ שהתברג במקום השני?",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9idFY2cy1hWnJfNzBydTRnVDlsYUFacGVUNjYyOHhINldlSXE4bm1TT3hDNnh2dEp0SXlHazh4cmQ2NjFwYWVJNmlHeDFVOHVPSy1sU01GRDRsTTVmYzNLTXNB?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-08-28",
-   "keywords": [
-    "רייטינג"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "תשובה של 100 מיליארד דולר: אנבידיה השאירה את גוגל ואמזון מאחור",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CTXc4MmpMSTRPelNISllXd1pNWlZIQ3d0UzV5R3RBX1BRaWxDZFBWbnZLaE4zcmhNSl9qeTVxQlNVSWlrRjNZTTd2SndzOGpJTTdXczdXR1BwcWdPSFkwZDBUOGdSOURvaGZMakNn0gF2QVVfeXFMTTVKVndkM0p3SzI5c0lRWTVNeERzSFpuUWVRdkVTYnRzbFJBQVg0cS1BWlhrMFRCWU9GN09OTTJFQzV3NV80RktzczlwakF6YXF3WmROQTRmbXNiR0d2VUg1ZTZ5eTFIcHZDNnU1VUdnRndLU3E3UQ?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-08-27",
-   "keywords": [
-    "גוגל"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "כוכב \"ארץ נהדרת\" נגד משרד החינוך: \"מה עם שני הורים מאותו המין?\"",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBScVdHVkJhU3RmTGtaWm9qeHg2ZWtneXNEcnNKTnVLM3NsOTBrMTUwaWIyZFQzSTk3SmhScU8xUXJZaFpROVZxUmc0MWFTdmpCd01zSHJkWUhvVzNwYVpjdkdqUE1hRXN5?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-08-27",
-   "keywords": [
-    "ארץ נהדרת"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "שילמה ביוקר: הקנס האסטרונומי של מטא - והשינוי הצפוי בפיד",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1saWlsZDFLMzdnaDBCczZuVGk1OHhKaXVGYTh1aVhiaXFNcDh5RkRKQ1FibkhleEVKYm04MlJiTUYzdkRtQ3F2TG14eUtFRUdPRVdkVXZ3UjBKbllfUXVyNWF2UXQzX1NnejFudGx30gF2QVVfeXFMTy1OcDRFMGdzRy1SZFlDS2RyaEhERHM4N20wQkpDOWNuNElQUUZIdXJuY1FfRVhodmdfcjdhNGhfX0tjWlZRZ2xTckM4VWxCOHI5S2FvSm4xdDFnT3c5TnQxMHVKRUJhV0xXWm1jNnZNZXFva2FGUQ?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-08-27",
-   "keywords": [
-    "מטא"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "דרעי חושף בערוץ 14: הוידוי של גדי איזנקוט על אמו",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5XzY3MDBlRUh3SEpaTFd4d01GUF9kSm5CM2tKbzlZUXloQjhwT1JNOGUwX3ViS1VNVllWazlvXzQxcjcyX1VFWDgyZkR6R2JlTkxxYmNLd2I3QkZF?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-08-27",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "הצצה יוצאת דופן: מגישי ערוץ 14 נחשפים ברגעים אישיים עם אהבתם | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uWTZ4T293Nnl3QkNYb0dRSjhNblNacEJIVEd0NnpRVllkYmxDakN5UEZzaEVqaEhaTE5hYkRwcElqZWpiZkFUeW52U1ozdEhWMkctY0Fodk9DNUV3SkE?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-08-27",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "\"שיכירו את הצד שלנו לא דרך ערוץ 14\": המתנדבים שיוצאים לרחוב כדי לשכנע",
-   "url": "https://www.haaretz.co.il/magazine/2026-08-26/ty-article-magazine/.highlight/000001a0-3d5b-d274-a7f4-bdfb382b0000",
-   "source": "הארץ · עידו דוד כהן",
-   "type": "site",
-   "date": "2026-08-26",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true
-  },
-  {
-   "title": "אזהרת השירות המטאורולוגי: עשרות מ\"מ גשם - וחשש מהצפות בגוש דן",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXU2w4emxDNW8yYmFLZWtCWldQTVpheWQtYlBrNzZrdW9yNFJiUXdlQ3hzaE8zZDRPNkRPbHpZczdXTmIzRzlNcGx6UGk0NC1ZbmMtSW9EbXd6N3VVWkhaTjJJX2HSAWxBVV95cUxQa3VMdC0zVHZlME9EYXRRTFNSYUhHcGZEMUJMQXowUk1nektxNW9DWF9NQ0ZOVFNyMThlTjAyZDFuM2VYSWdPVVQ1YVFEWnE5WlNaOVZEdVYtMmU4RkJOMDdBLUhWdXhXMGFSbUk?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-08-26",
-   "keywords": [
-    "מטא"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "חיים לוינסון הפסיד בתביעה לערוץ 14: \"אשמח לתרומה\"",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYMU1IblNETFpJa0Y2WVZMWHFwZjFDWFhBX1VfLTZWdGxsWV9FUlU0LXlLRm96ZThSYzNUSkJYdnltYlU1cTdiT1VhNG01Skx5T05vNEZ5MnFiQmV5QXVCakNxYVRObE4x0gFwQVVfeXFMTjQtOTFwV1JBMS1wRzY0UFVhRHktbmp4eUM4aGpjZWV4OFBHMUFsa0VXQ2UtdGpoVFYxUHFiMkFIblRaWV9Wby1DVUFLdGRKSjU5WUxnN003bkZ5Q1o0Z3BpazJoQzNQV1c1elBvaW9vWA?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-08-26",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "ניצחון לערוץ 14: העיתונאי הבכיר ייאלץ לשלם עשרות אלפי שקלים",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHTWtXMVdBVlJVNjRjRVBsUmU2MVlMWUVrNXQ2bkNhdG1VZGhBbnFQdkE5Qko4cmlWR0xWRjdVTW00RVVEOUUzQ0ljTFB1eWIwcm5NZnBSQno3Zw?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-08-26",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "התוכנית של צוקרברג: לפטר 60% מהעובדים במטא",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00Q3BOcW9TQTdtRWxWMDNxMHMyQl9XVmVTS0U2NkFjaTZPTVhzSVBncVF1dGdrV3VZbmwwbWRfY2NxWldORDJyY2hpbXZGOU1wQlo5c1FCYlpCYVR2UWg4N1J6STZPUzVlWER4aUtVczBpQnc?oc=5",
-   "source": "n12 / מאקו · חדשות 12",
-   "type": "site",
-   "date": "2026-08-26",
-   "keywords": [
-    "מטא"
-   ],
-   "pv": true,
-   "publisher": "mako"
-  },
-  {
-   "title": "מאסטר שף עדיין ראשונה, דה וויס כבר במרחק 0.7 נקודת רייטינג",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uNHFiTGxrcXhVWVdDdmJzUWhvb0s4NzZXRkJYMjNad0xqVGRNQmFXb3ZDLWx6c2ZWbEhRek1nay00NThfRm9FaEJERmJLa0NoNEhfSlItTE1FMllBTEtxUGRYbUtiRjU5NUR0OU1SNHlkdmRxNklMMGNKd044N2s?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-08-26",
-   "keywords": [
-    "רייטינג"
-   ],
-   "pv": true,
-   "publisher": "ביזפורטל"
-  },
-  {
-   "title": "קנס של 200 מיליארד דולר: מטא בדרך להסדר ענק",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOa2xHb0MxM2d0MjdNREU1VExGakNHWW1JYXo3cmdLcGs2bmJNZHZnR1lmUVZ4QVFSMG55alNhU2lEMUo4ZThZb1FnLVNqWmV3ZnBOQ3lmWV92QQ?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-08-26",
-   "keywords": [
-    "מטא"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "עתירה: חוק התקשורת יפגע בצורה קשה ביצירה המקורית הישראלית",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16T1NwVEpEYlZXUXlGWUwxSzdFSjdDM0c3eFpfU3NTb1hZUEJ3UktmYUVxNGtvYnFfUlV5MXpFZVQwZHRtTndEMy05Vi1LRGt2N2d2cWFXSjRBNTUzcjhNcXYxQTBMMFE?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-08-25",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "ביזפורטל"
-  },
-  {
-   "title": "רייטינג: מיקי ברקוביץ' מצליח להביך את ינון מגל וערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2N28zRzJDNzNTbGpHbmVkWFpLSmZ6UHNCTUxla3lwRXZ0YzNFWkpFdDJsOFZmeVhOeU5QNHJab2tMYnNLN3ZDQi1VQ2g5Tzc5NGQwNk5hUk5ZM2R3RHVCcVNR?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-08-25",
-   "keywords": [
-    "רייטינג",
-    "ינון מגל",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "רייטינג: \"הסוד של מיקי ברקוביץ'\" כבש את הפריים טיים עם 15.1%",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtR29qVVJodWJkRmZpamVqVTNsemZZdmZTYlhMdEFUSlRPSGZUOHBLcmFLX1FtNFBfYWJPVlZVdXJPTzdSV3NTZm1leUo3X2tOLVVFb0RCV1F0V0xwSE5BS3d1ZFA1dHhQcU91bnl0Vng3VkFVWUJzODFWcmtkVDg?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-08-25",
-   "keywords": [
-    "רייטינג"
-   ],
-   "pv": true,
-   "publisher": "ביזפורטל"
   }
  ]
 }
