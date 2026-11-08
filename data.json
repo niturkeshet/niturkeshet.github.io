@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T13:01+00:00",
+ "updated": "2026-11-08T18:22+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -259,6 +259,40 @@
  ],
  "items": [
   {
+   "title": "שלמה קרעי באזהרה חריפה: \"הימין בדרכו להפוך לרוב נרדף\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQb3BQWlNrQ0lxdmJYQXpIMVF4M09YbnFTUjRsMmc4UmdYYklfTFhvaEdKYm5Ka0UyeVdnOTVuWVh2a0tFc1llclZlX2VqZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-08",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "שלמה קרעי על איל ברקוביץ' ואילה חסון: \"משטרת מחשבות של השמאל\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWbEZyTkJ4NFluZ1NPa3FLRUhPbklneTloenhGbzlVbGM2dEtBRG5XZldkSUdrWFRBcXhHdVVpT25OZkhZQV8wTUlQUlI5SnVIcVNObUQtbHB5RWs?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-08",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "סולימאן מסוודה לאחר השעיית ברקוביץ': \"כל כלב יבוא יומו\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRXdGRDBSV2RDckNWb1hlVWRVUjNBd1RXSHdobzNGSGlBT3NGUjdla2hFeVdncFBoWEFURklZWndmMVdRT0RpZGQyai1pQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "ינון מגל: \"קובי ריכטר וכל המליונרים שנתנו כסף לאיזנקוט לוחצים עליו\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qVVdqMldBTlBWcmlyTTBoRUFvdjZ1SGdFcFl6VG1TNnJYaS1NNTBwUEwzaDNvSHdkWWtqeENOUmxBbkVQeUtrVWF5Y3BsVGwwTWc3UzdFLVRGTjJ6?oc=5",
    "source": "ice · תקשורת",
@@ -293,7 +327,7 @@
    "publisher": "מקור ראשון"
   },
   {
-   "title": "אבי שושן התרסק ב\"הישרדות\" - וזה בדיוק מה שהגיע לו",
+   "title": "אבי שושן התרסק ב\"הישרדות\"",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95cXRlSU9yazBYcDFUMHdvT2JLNzJzT2dWQU9zcmRLN09jY2JuWU5OX3ZVWk1ieHhVZzVMN0NZWmJCbEZpOXRhZDBkWXdvenJHM1ExWlJKMTY0cC1hMk5aVGg5X2RpRjhR?oc=5",
    "source": "חיפוש גוגל · אבי ניר",
    "type": "google",
