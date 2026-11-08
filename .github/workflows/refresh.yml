@@ -1,8 +1,14 @@
 name: refresh-hub
 
 on:
-  workflow_dispatch: {}       # triggered every 15 min by external cron (cron-job.org) via the API;
-                              # GitHub's own schedule was removed — it was throttled/unreliable
+  # Two triggers on purpose. The external cron (cron-job.org) gives the fast
+  # 15-min cadence but dies silently when its token expires — that cost us 15
+  # days of a frozen hub. GitHub's own schedule is slower and throttled, but it
+  # needs no credential and never expires, so it is the floor that keeps the hub
+  # alive on its own. Concurrency + the no-change commit guard make overlap safe.
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
 
 permissions:
   contents: write             # allow the job to commit the updated data.json
