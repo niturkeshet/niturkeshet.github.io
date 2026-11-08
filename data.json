@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:22+00:00",
+ "updated": "2026-11-08T22:21+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -393,6 +393,18 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
+  },
+  {
+   "title": "ינון מגל ובן כספית חוזרים: \"קשה לוותר עליו\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ud1VCZmhsWGM5NzNUU090NkJqT2dMeElCcHJpOXQ0WDNGMUYxQ0h3MWxock5yVWU4ckJ1ZW1LSE4tc1AzQjU5VkpiUzRoSDE3U0tJVkRycklTSlJD?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-04",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "אסף רפפורט חוטף מכתבי הארץ: \"שתיקה פחדנית, לפטר את מוריה אסרף\"",
