@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:17+00:00",
+ "updated": "2026-11-09T19:57+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -259,6 +259,122 @@
  ],
  "items": [
   {
+   "title": "רמז לבאות? שני צווים על תנאי נגד חוקים לאחר הבחירות",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IYlZUMFRNWlROMDdiZzVKUG1zYWdUOGlxbDFkZU5BeW9oNE9TOGVMVzYwLWNMSmt1TmVUWGZCQjY0Q3hVY3J3OW84bnE0WU11eDZKYVpYcHROeVdybV9HendVdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "סערה בימין בעקבות חשיפת ההקלטות: \"מערכת מושחתת\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HVEFFZC1HRkcxTU5FVlE2bEQ3U3FVNnh5OTFwRWF1aUppeW1wWjBDU2xmdDlpQ3B3eXU1QXFpcmxsaFhvcUFRNlZpS1Mwdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
+  {
+   "title": "בפעם המי יודע כמה: תאגיד השידור הציבורי נגד הציבור",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11TTU2ZHJKcTY1OF84VHNmS3hsd3JmTkRWb2pOWnpLMmZ6bGVpVjczUHNXMTQyUGoxdU9mdVBkdmREQXd3dVdMelp0a0YyTzZLMmNj?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הידברות"
+  },
+  {
+   "title": "מהליכוד ועד כתב 'הארץ': התגובות המזועזעות להקלטות ניצב בלט",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HdkpkTy1URGZIQUVMYjJ5T1ZuVkt6QVkwR1FSckUtTVR1QVJSdjhEVkpicGxUY29oYk42X3djSjFpbUtHR3RvcjlQQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
+  {
+   "title": "\"מי מחזיק אותו בגרון?\": הימין דורש חקירה אחרי הקלטות בלט",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VSFd2eFc0dFIwQzVKMlZmQVgwZkxFS2NzRDl2S0owa2t3M0ZrbE1VM0V5a2JOaENKQzRUMFBMV3htOERrdXViN3p1ZlhIUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "\"חייב לחשוף: מי מחזיק אותו בגרון?\": הימין דורש חקירה אחרי הקלטות בועז בלט",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hS3EzUzhzVjltUzBuWEh4R3daTGk4VzJHZ0ViVmVYdGRIWGRwR3pIYk5xRXd6S3VHeWxKNTg0VklwUEhkTEU4?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
+  },
+  {
+   "title": "בכיר במשטרה: \"מוחזקים תיקים במגירה ונעשה בהם שימוש להפעלת לחץ על אנשים\"",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkUWRtS0pLY3B6MUlLbWhQX3ByMGpEMUd2VklZcURNd3JTUzB0WUc1VDBfTHUzRGRaZkhpaFQ3RFpNeEs1NUlBSHYzWl9zcWJNSjRn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הידברות"
+  },
+  {
+   "title": "כיסאות מוזיקליים: סדר הישיבה במליאת הכנסת מציף סיפורי עבר",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kUG5GaFlMYjBFOTFrT2pQYXFXSjR3bHVzdHJVckVxckFTOHpqblA1SHRJbUdhN0dQRG5Pc09qMlpoOU1UV2toRXZhNUV3TGtpWjJOZEp2ZXd4Q19qa3NIbmRKaVVXT1NVOEE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "הפלרטוט החרדי עם גוש השינוי | פרשני חדשות 12",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVN1RmtKelI0Nkg1bEZ3MzdoVDVnUWxZZVNrTjVhTG9yMnN6UXZkRUxYZTBVdi1mMVJaMG8yWTZrNGhBQklwaVdIblcyYUxIbjQyRjhsX01ic0QyNFNHTm9iUmhuQkRLMUNIR3VvMkt2S0tsUGdmdXBUSzdzTnlyRmZ3?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-11-09",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
+  {
+   "title": "הילד נפצע והביטוח ניסה למנוע ממנו פיצוי - זה העונש שהוטל",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBncVNfUkhtYUVTQ2JLQ3hQNjNFUkdkUmF5anZjZ21kNDExYVgzdzBYaDlxNl81QWF2UkJEOUg0eHVLVUUxak1EdWZ1eXBaMWNsQ2s1UzI0eVVxOUIzUjJMY0lJcTdxQ3hTUmJXZlFBTS1ZZktKRUhSN2JWM3g?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-11-09",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
+  {
+   "title": "ינון מגל: \"אני מסורב כניסה לבית של הרב, לא רוצים שאשפיע עליו\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vMWl2VDlNd2haSHhybF9ESktXVmFfU0lGc1lQaTFNRGdIdHZJM0dpdDF3VWNKUU1hY3dGTmZwVHZGbGpDdFNpVFZIVVJRcXg0NkhHa0NZMkE3MlZk?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-09",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
    "title": "הילד שהעריץ את אבי נמני הפך לקורבן של אחת הפרשות הסוערות בתולדות מכבי תל אביב",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04SHNUV2xaRjJaNlR6aXlieS1xUmNINWFEZWNMQlJUNHAzcVo1Y2QtQWVrM253SG9XSDJwcVJhNWlRQ1hkazlvc3VNSVF5bkt2aXI4R24wZno3VkhuQzZXenoxVUwxanVwdWJuU2pMTnAxeU1PMjJFRzRR?oc=5",
    "source": "חיפוש גוגל · אבי ניר",
@@ -295,7 +411,19 @@
    "publisher": "ביזפורטל"
   },
   {
-   "title": "טלי גוטליב מצטרפת לברקוביץ' - ומטילה ספק בתואר של אחמד טיבי",
+   "title": "\"הטראומה של חיי\": אבי שושן חוזר לערוץ 14 - ותוקף את \"הישרדות\"",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HWGxEZTA1RU1CNzVRa0FsdC1reHNBQlV2bTZ0WmkxbkhUWDg4V0NlNHdPajZiMHNJRTJwR1BBZVMxSkNBVzlsaEoyendrUWRoalFJNGZOdjFTM1hZY195LVUtdHhScWswT3hQaHFZZkVGbVYtTXc?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-08",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "טלי גוטליב מצטרפת לברקוביץ'",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zWURvTHNlZnZlWGVOTmZqb2VmT0FJVWJVWWc3M1BKQ1V6dmZZU0FyaVdsVEVHOEFzQVdxdWZqOVF6U09JS1Vzb3JJeGRxUQ?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -465,6 +593,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "מגיש ערוץ 14 על מתנגדי נתניהו: \"גוש סרטני\"",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRdTdNa2drSzJDN0Z4a2pVZU0wX2xLd2l1NnhVVmdlV0JWVmc0QWkzTHc1XzduS0hXWENRRUpBS2h1YU91YVh0VWVHUjRCZU54aE01bm9zOG1hS2Fwekd3NVFHempIRVF6?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-11-03",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "רשת 13 הובסה בחוזקה מול ערוץ 14 שמיהרו לחגוג - \"מוחצים\"",
