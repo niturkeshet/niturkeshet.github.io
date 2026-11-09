@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:21+00:00",
+ "updated": "2026-11-09T01:51+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "אחרי שהודח מ''הישרדות'': אבי שושן חוזר",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92ejRNUHpkSnZfb1d3V2dOR1p3RGVJbzNnTF9SSHNUN005eGhXNzR2YkhmYkdCWVBLWmptNGF6LVBYaHVFZjZuYkV2M0FOUTV1LWVnQWNKV2hBbWJ6WFFKeTZ0RzlFbnpi?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "ליר עוז מגיבה להדחת אבי שושן: \"המודה ועוזב ירחם\"",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tMVM5NmhIMjdkTjc1OElBX3hMWndieERsVXkxbE1Tb1NOeHN2MjVET2xlTU0wdlI5ODVwQkV1VmQ4LU1wd24wNWo4cVB6V1ZHQmp0VF9RVEJZWVRhUnRiRmVlYlhSRzJ0SWwwRVhhckU5TTNZSUJHT2U0dw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "שלמה קרעי באזהרה חריפה: \"הימין בדרכו להפוך לרוב נרדף\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQb3BQWlNrQ0lxdmJYQXpIMVF4M09YbnFTUjRsMmc4UmdYYklfTFhvaEdKYm5Ka0UyeVdnOTVuWVh2a0tFc1llclZlX2VqZw?oc=5",
@@ -315,36 +335,6 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
-  },
-  {
-   "title": "בג\"ץ כבר רץ למחוק את החקיקה של הכנסת היוצאת",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42emFIcHpJSUhMNFI2WWRkNDRCb0cwZndGQWJ4SnpHd01ta3BubFI5ekMycDVBOTkwWnFXZjZVM0JhbkFqWEtaU0w5NnlDRVFKeVVVaTdYZUFPSW9QS18yQ0hWOA?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-07",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "אבי שושן התרסק ב\"הישרדות\"",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95cXRlSU9yazBYcDFUMHdvT2JLNzJzT2dWQU9zcmRLN09jY2JuWU5OX3ZVWk1ieHhVZzVMN0NZWmJCbEZpOXRhZDBkWXdvenJHM1ExWlJKMTY0cC1hMk5aVGg5X2RpRjhR?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-07",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "דני קושמרו התנצל: \"אני נקרע, זה הלב שלי, חלק בלתי נפרד ממשפחתי\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kZW9GdTB6ZGpDOHQ5VFRVT3k5bmRxNGFtb2RXNm1yVEx1T2RBanZzV3BOV3lyT2lONE5uV01xVXdoY2pNQm1iN0wxd3c3WUgwWk9zNG9iODl4d0dz?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-07",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
   },
   {
    "title": "ינון מגל: \"אני בתור חרדי מתבייש, נכנעים לאלה שרמסו\"",
@@ -2536,54 +2526,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "ערוץ 14 במתקפה נגד יעקב בוזגלו: \"לא מצא את עצמו\"",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTQWxhUlJMOFBYYTZNR3VCY3RReUNmTGtYdE1NUGw1N2JQNEItQWZJTThBY01hWHpFU29YOG92WE9kNkhITnB1cVdyQ242b0ZPWEJDYnRFbzlkV2ZzQTZ4VENLanRLREE5VW5xOdIBdEFVX3lxTFAyR2VtdW55SjBvOXF2TjhVeU42UmRoeGY5b3gtSWE3Y2dHcS16QWdpUExMR3U1RWJDZjNhVVRCZVlJV0R3TXJzd3lULW1fb3FCa1BvSl9kb3M4STZQVU1DeUhrNnZ6dWxybnBjeDVTSVBsQzJu?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-09-09",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "ההימור של צוקרברג: מטא חושפת ה-AI שיעשה את כל העבודה בשבילכם",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JeEdXbnNQaTBLUjBNcUdfQTEwRlhQR3FWRTROMVdudzVBaVRCUXBsLWFTWXZweWE0WURISFBjSjV0TlNtVkd3SlNnd2lETExVZHN1d0hrTGVYN2lobEkyazBwX1BPcm9jZ1ZCVG9R0gF2QVVfeXFMT2RzQ3piWDJHMUhsRkVQM3BzVkE0Njk2czNTUjNWWU5KMktER19OZjJpNTdTVmtVZzQyNUNuQmNtTzNESVM3U0tFY2hnTzNzY3dQREdxOE1idGwzc3hSdG51cWl0VVpwdERnQy1BdUJ4MnRxeUpxUQ?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-09-09",
-   "keywords": [
-    "מטא"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "אחרי שעזבה את חדשות 12: רינה מצליח שופכת אור על היחסים עם עמית סגל",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RdktqaXV2U2YxVkF1RGdqa1Y1QXNkYkVha3lLTXJROTZGOW13bEZDdGYzcl9BS1N2SVRpSldQQWw3ZlZKNVlnaktXYWVubDdXQmhuTTRPaENPYm1vR1JWUUhlb1ZQRW5C?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-09-09",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "סקר המנדטים הראשון של חדשות 12 אחרי סגירת הרשימות: וינטר וליברמן מתחזקים, הדמוקרטים נחלשים",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXRYSi1ESXlpYkQxTXk1RURremFaWVNkdWF6WHdFS0tySFJtZHN1Q1BlWWxfNERQRmlnZ1p6RDdlMFZsejh6eHczZXV3SzlvWGVrcXI5Rm5EQnFMT1Nwdl9xT09hY2RFMU5rYnlJN2lFaUZlUzYtNUt5LWpFeVFKR1VzcDJwRmc?oc=5",
-   "source": "n12 / מאקו · חדשות 12",
-   "type": "site",
-   "date": "2026-09-09",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "Mako"
   }
  ]
 }
