@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:51+00:00",
+ "updated": "2026-11-09T09:17+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,52 @@
   }
  ],
  "items": [
+  {
+   "title": "הילד שהעריץ את אבי נמני הפך לקורבן של אחת הפרשות הסוערות בתולדות מכבי תל אביב",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04SHNUV2xaRjJaNlR6aXlieS1xUmNINWFEZWNMQlJUNHAzcVo1Y2QtQWVrM253SG9XSDJwcVJhNWlRQ1hkazlvc3VNSVF5bkt2aXI4R24wZno3VkhuQzZXenoxVUwxanVwdWJuU2pMTnAxeU1PMjJFRzRR?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ספורט 1"
+  },
+  {
+   "title": "רייטינג: קשת 12 חוגגת, הבכורה של רשת 13 מתרסקת",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhR0JpdElOTjFNaElPcUlHbndFa2QwQ1Q2Z3lZTU5LaWhTd3lLZS1xWVpZclUtdmRSbE5Vem1NVG9GRUFFTkN4bEdtUlBJQTlFVWt5QVp4Z000U2hjSUpaei1R?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-09",
+   "keywords": [
+    "קשת 12",
+    "רייטינג",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "\"הזמר במסכה\" מובילה, \"הפטריוטים\" עוקפים את \"קופה ראשית\": כך נראה קרב הרייטינג",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVRkNtUGJlUloyaUtqYTlPSldaOHY2SndOLUV0SXlPZEVQMHV4WG83Rk82NHBKeE1WRjk3N0sxTkhIWW1TWkRRWnhTSzc0dUpsTEQ5eFB1WlROdHJBSjBuUU1IanhZWVgwU0xZV1kwM0xYbzdJRkhXX2k0V1Y4eU0?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-09",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
+  {
+   "title": "טלי גוטליב מצטרפת לברקוביץ' - ומטילה ספק בתואר של אחמד טיבי",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zWURvTHNlZnZlWGVOTmZqb2VmT0FJVWJVWWc3M1BKQ1V6dmZZU0FyaVdsVEVHOEFzQVdxdWZqOVF6U09JS1Vzb3JJeGRxUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-08",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "אחרי שהודח מ''הישרדות'': אבי שושן חוזר",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92ejRNUHpkSnZfb1d3V2dOR1p3RGVJbzNnTF9SSHNUN005eGhXNzR2YkhmYkdCWVBLWmptNGF6LVBYaHVFZjZuYkV2M0FOUTV1LWVnQWNKV2hBbWJ6WFFKeTZ0RzlFbnpi?oc=5",
@@ -335,6 +381,18 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
+  },
+  {
+   "title": "מנו גבע הודיע על השהיית שיתוף הפעולה עם חדשות 12",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vdjQ4STd4dFc3VUdXZzNrdTE4eG5vak5sWHpTYUQ2bTFZbzJ4Y2dfQVhYMV9BZEY5MVVjdnN5TDl1U0poZ2p5Y0w5c3Q0NVgwa0hkNzZPTFBqM1FrRFhOMmVIeFRHNjg?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-11-06",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "ינון מגל: \"אני בתור חרדי מתבייש, נכנעים לאלה שרמסו\"",
