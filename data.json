@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:08+00:00",
+ "updated": "2026-11-10T23:23+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -258,6 +258,26 @@
   }
  ],
  "items": [
+  {
+   "title": "ועדת חקירה והגבלת כהונה: המהלך הראשון של איזנקוט בכנסת ה-26",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCeXM4cmhGeUd0Y1dKR2hoczctd2ZwUjl6NjF4NnlYY0lRVkgwVVdJNWRCc2hjZHh6ZGRaa1N1RlZLTm45ZjRZaEJJRFMzeDJZWk5KcnlULU1LcHllWnJnUjJDeUpJMTJpankzUw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "נתניהו תקף את שיתוף הפעולה עם המפלגות הערביות - בנט התפרץ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EYWZtbnkzbnE3dlN2NFRGNk11aEVHQzRkUWNIVnJ0TFl1RXZTUVc2Q3J6MkFmekNXLXJjT29MUXBkYlk2VWg0Vm9hTHhqNW5GRFlHMERtOTFTT2hDM0FXaEpLeTlvUkpUMVdJcw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "משטראוס ועד HOT: ניגודי העניינים של יו\"ר ועדת הכספים המיועדת",
    "url": "https://www.themarker.com/news/politics/2026-11-10/ty-article/.premium/000001a1-c58d-d0f7-adfb-f5add4900000",
