@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T02:38+00:00",
+ "updated": "2026-11-10T10:28+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,19 +182,19 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,56 @@
   }
  ],
  "items": [
+  {
+   "title": "ועדת חקירה וביטול ההפיכה: התוכניות של גוש השינוי עוד לפני הרכבת הממשלה",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclYtQlE3S2NsV2hCQUNpckJLQ2tuaDV4WmZjYWh2VVJncjNjQUcyWkhEeWd0STA5aTBONmxSbXpPUWx5QTVLWHJIbHc5NnFySE1DWmFiSV9Zd0NoMWRBNnJ3UWY0c3FKQVBSeFdDZlhnVFBCLTRtVW1JMmFNVk4wNjNoUm82aTdNbnhCa2hwQnBpUVE2V0hLdG80aHhWdzZ1Wmh5emMwODItZlRzcm9IZmZLS2thNzA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "47 ח\"כים חדשים, 33 נשים, ותשעה ששכלו קרוב משפחה ב-7.10 ובמלחמה: אלו חברי הכנסת ה-26",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UWTBaUXl1SXdwNTZkQkYydXRoZ3RuemQ0aUl4Xy1uNEJqOEhOYlpzQ0p2SUJqNGZhaTc2dTh4VFFFRGRqRjkw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אתר החדשות דבר"
+  },
+  {
+   "title": "46 ח\"כים חדשים: אלו חברי הכנסת ה-26",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdGdJME1RcVA1VF9tWVdOSWJOVWFkWXBfSjBzWUhBMHhuMjFpUlluYVRtQkRQRGJOOXk2R0JNcEktNnF5OGJQMmRQMHlTQWZYRVV1ZnhaeURkZWNVc0VJeFM2RjNSUzllUUxWekl6bDhzN1o4T1JOYjFfdnRUbEY2ZFVLQ1M5aVk?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "mako"
+  },
+  {
+   "title": "לא יקבל שקל: דרעי שוב פרש מהכנסת - והפעם ללא מענק הסתגלות",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94MEw1Wnc5RjlPOXpHZl80RHFFaFRNSml6TWJKazAteFpfbmV0ckJnQ0JQeF9MNjVqOVpidVBxV1BmLVNwWkFFZlBpZVFpT0VYc1pPY2RPbW9WbGVaYS1yQXJJaEdHZmNHRFNnbg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "עופר וינטר הוא סיוט הבחירות של נתניהו",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1DM2ZjLVlyVzdQcHRwLTFZS1lsem82VmRpRWZoNEJHQnB5UXNYVGRsY21aUjYzbXN4Nkt4RGlsUkJJUG82?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "רמז לבאות? שני צווים על תנאי נגד חוקים לאחר הבחירות",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IYlZUMFRNWlROMDdiZzVKUG1zYWdUOGlxbDFkZU5BeW9oNE9TOGVMVzYwLWNMSmt1TmVUWGZCQjY0Q3hVY3J3OW84bnE0WU11eDZKYVpYcHROeVdybV9HendVdw?oc=5",
@@ -409,6 +459,30 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
+  },
+  {
+   "title": "\"הטראומה של חיי\": אבי שושן חוזר לערוץ 14 - ותוקף את \"הישרדות\"",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HWGxEZTA1RU1CNzVRa0FsdC1reHNBQlV2bTZ0WmkxbkhUWDg4V0NlNHdPajZiMHNJRTJwR1BBZVMxSkNBVzlsaEoyendrUWRoalFJNGZOdjFTM1hZY195LVUtdHhScWswT3hQaHFZZkVGbVYtTXc?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-11-08",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "שלמה קרעי על איל ברקוביץ' ואילה חסון: \"משטרת מחשבות של השמאל\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBocUliSlBfYzA4Wm5FS0s3TzJPdDRhSEUzdXdlQ1hPRUhOd0FnOGdueUk1MjdodGJtS3hCMlJOd0c4MjFEWkFkV1FTcXVDdDZHY2RzNTQ1eEx5Umxt?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-08",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "ינון מגל: \"קובי ריכטר וכל המליונרים שנתנו כסף לאיזנקוט לוחצים עליו\"",
