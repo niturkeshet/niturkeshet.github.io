@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T19:57+00:00",
+ "updated": "2026-11-10T02:38+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -409,82 +409,6 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
-  },
-  {
-   "title": "\"הטראומה של חיי\": אבי שושן חוזר לערוץ 14 - ותוקף את \"הישרדות\"",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HWGxEZTA1RU1CNzVRa0FsdC1reHNBQlV2bTZ0WmkxbkhUWDg4V0NlNHdPajZiMHNJRTJwR1BBZVMxSkNBVzlsaEoyendrUWRoalFJNGZOdjFTM1hZY195LVUtdHhScWswT3hQaHFZZkVGbVYtTXc?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-08",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "טלי גוטליב מצטרפת לברקוביץ'",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zWURvTHNlZnZlWGVOTmZqb2VmT0FJVWJVWWc3M1BKQ1V6dmZZU0FyaVdsVEVHOEFzQVdxdWZqOVF6U09JS1Vzb3JJeGRxUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "אחרי שהודח מ''הישרדות'': אבי שושן חוזר",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92ejRNUHpkSnZfb1d3V2dOR1p3RGVJbzNnTF9SSHNUN005eGhXNzR2YkhmYkdCWVBLWmptNGF6LVBYaHVFZjZuYkV2M0FOUTV1LWVnQWNKV2hBbWJ6WFFKeTZ0RzlFbnpi?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "ליר עוז מגיבה להדחת אבי שושן: \"המודה ועוזב ירחם\"",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tMVM5NmhIMjdkTjc1OElBX3hMWndieERsVXkxbE1Tb1NOeHN2MjVET2xlTU0wdlI5ODVwQkV1VmQ4LU1wd24wNWo4cVB6V1ZHQmp0VF9RVEJZWVRhUnRiRmVlYlhSRzJ0SWwwRVhhckU5TTNZSUJHT2U0dw?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "שלמה קרעי באזהרה חריפה: \"הימין בדרכו להפוך לרוב נרדף\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQb3BQWlNrQ0lxdmJYQXpIMVF4M09YbnFTUjRsMmc4UmdYYklfTFhvaEdKYm5Ka0UyeVdnOTVuWVh2a0tFc1llclZlX2VqZw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-08",
-   "keywords": [
-    "שלמה קרעי"
-   ],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "שלמה קרעי על איל ברקוביץ' ואילה חסון: \"משטרת מחשבות של השמאל\"",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWbEZyTkJ4NFluZ1NPa3FLRUhPbklneTloenhGbzlVbGM2dEtBRG5XZldkSUdrWFRBcXhHdVVpT25OZkhZQV8wTUlQUlI5SnVIcVNObUQtbHB5RWs?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-08",
-   "keywords": [
-    "שלמה קרעי"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "סולימאן מסוודה לאחר השעיית ברקוביץ': \"כל כלב יבוא יומו\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRXdGRDBSV2RDckNWb1hlVWRVUjNBd1RXSHdobzNGSGlBT3NGUjdla2hFeVdncFBoWEFURklZWndmMVdRT0RpZGQyai1pQQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-08",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
   },
   {
    "title": "ינון מגל: \"קובי ריכטר וכל המליונרים שנתנו כסף לאיזנקוט לוחצים עליו\"",
@@ -2662,65 +2586,6 @@
    "date": "2026-09-11",
    "keywords": [
     "קשת 12"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "סקר חדשות 12: 16% ממצביעי איזנקוט הצביעו לליכוד ב-2022",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlY4dnZXVUNRMmNFYzN3S2ktWl9nakx3OXB6dFEydWxqTldEMXJwbFBkeTlHRlAybXhDdDF3dDlxbkJJSHJTTWZOWEdQZ0dtYUU1WXhyZEJBOWlZVTBXUFlJeS1PMi1mSTQ3YVROUDdjYVFDVTRtbHZ0UmNyaXB2TWFPRWlJZms?oc=5",
-   "source": "n12 / מאקו · חדשות 12",
-   "type": "site",
-   "date": "2026-09-10",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "mako"
-  },
-  {
-   "title": "שריוּן יעקב ברדוגו בליכוד הוא חדשות מעולות",
-   "url": "https://www.haaretz.co.il/opinions/2026-09-10/ty-article-opinion/.premium/000001a0-861b-d532-a9ba-861fc1ad0000",
-   "source": "הארץ · עידו דוד כהן",
-   "type": "site",
-   "date": "2026-09-10",
-   "keywords": [
-    "יעקב ברדוגו"
-   ],
-   "pv": true
-  },
-  {
-   "title": "\"החלטתי להגשים את החלום שלי\": דנית הביאה את האומנות שלה ליריד \"הלב עם המילואימניקים\" של חדשות 12",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DVEd5UjNTRmczYXJ2ZDlFZVVIaVE0aWU4Z2NneUlub1JaZnptcTZGdFc1UF9IdTktSHA5SnV5c0NYMkpocUhHZmZhRjY1VkotOFkxejEyWjRocW1VT0xNMEIyR0xLTmxZZ1Jsa3BzSVlUUWdxeTFxSW9MaWM?oc=5",
-   "source": "n12 / מאקו · חדשות 12",
-   "type": "site",
-   "date": "2026-09-10",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "mako"
-  },
-  {
-   "title": "דרמה בבג\"ץ: i24NEWS בהתנגדות חריפה לבקשת המדינה",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56U29xdk5DVFNvZm9EOGYySGtRS0R6dWViaXdGYlBfU2lkdFRacnlzTF96UjFJQzBkUGlKb256YzhHSndVVFBXQnFGRWNpWF9mNGhQWGpNV2I5Zw?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-10",
-   "keywords": [
-    "i24"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "רייטינג: \"מאסטר שף\" בשפל היסטורי בגמר הגדול",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51SlFkSXYwbnlrRWdCSDdwdy11Y0pUUFJ1REFUU0ZLTWNyUmJwZXE0MHAzckYtNjNwOTk5ekdSNnl6UHVhT0x0SDEtSGY1N3hfWVR4UEVEN2Nham1kd0h1Nmpn?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-10",
-   "keywords": [
-    "רייטינג"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
