@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T10:28+00:00",
+ "updated": "2026-11-10T18:08+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -164,7 +164,7 @@
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -194,13 +194,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -259,6 +259,109 @@
  ],
  "items": [
   {
+   "title": "משטראוס ועד HOT: ניגודי העניינים של יו\"ר ועדת הכספים המיועדת",
+   "url": "https://www.themarker.com/news/politics/2026-11-10/ty-article/.premium/000001a1-c58d-d0f7-adfb-f5add4900000",
+   "source": "דה-מרקר · נתי טוקר",
+   "type": "site",
+   "date": "2026-11-10",
+   "keywords": [
+    "HOT"
+   ],
+   "pv": true
+  },
+  {
+   "title": "קרעי נגד המינוי של בנט: \"שינוי לטובת הציבור או הטייקונים?\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fR25NbjlhOXJMWFFUVHB6UjA3dk9NNVcwOFBHM2x2MGxmdFlRdHFTUERnYTBJUnVfNVNaa3BXUDlrZ3o2ZHdQU2EyX0ZsZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "המינוי עמוס בעיות, אך כבר כעת אפשר לקבוע שיעלה עשרות מונים על קודמו",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2NTbzNsRFBaX0dhQzhrT0xPbC1vUGNxRzBJM3BxdHdVbWdGUDlVT0pMcVE0ZkI3TnlsdHd5M1dRR0F2RXV2Zm5pREN5U0w4ZHZwVXI1TkpEcjM3QUVtRzlBbGl4d2prTVFiellmWkVXRzBMQ29RX3JodU5KcXplNWtxR0hRM04yMm1wSXZYOE1BdFU?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "ועדת חקירה ממלכתית, הגבלת כהונה וביטול חוקי הרפורמה המשפטית: חבילת החקיקה של גוש השינוי",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5tczk4NktiaFZtVE9Qci1tV2J0MlVWUENRX0xTejZjb3p4NldNLVdIanVwX0FMeUx6cFRoOFloOTZHZnNjczlZ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אתר החדשות דבר"
+  },
+  {
+   "title": "השבעת הכנסת ה-26 יצאה לדרך - הנשיא הרצוג: \"עשו הכל כדי להימנע מבחירות חוזרות\"",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zT1hTQ3FJdTU5Q3p5OFpLWEhOdnBtUXJiNXFLYTlVVDZOc3BMUFNkUVh0S2FZY0JoX1lna1lUUTVMU2kwazlWeERfWnI3ZkFZMXN6a3dqZDl0T1dhaXcyZi1GYkZEU1pMOWRTYQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "אילה חסון: \"זה פשוט סקופ אדיר, חוקרים כדי לסחוט\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhVFl5MlY5S1ItV0lYWXBvSE9YWE14MXFENVJYcVdneTFla25CRGxCQUJlVjZTd09OZlFSR3ptVGpDOE13S3h3Mms5TEdHQ21XY3FDbkJqb0s1YzZt?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "ראשי גוש השינוי החליטו: מתן כהנא ימונה לתפקיד יו\"ר הכנסת",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qd2JSNWFzNkExaXh6MklSOHJWQ2dULWc1RWlUNUlsN3J2M2pqZHp0V1VGYkd2SXdBLWhRMzJWVV9aVlVTd2xwTkVsWi1NaFhsaFUtWF8yX1I4cElqWGdBQ0hFcnFhVEZ3MGRsWA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "24 גברים בלי תואר לעומת ח\"כית אחת בלבד: הנתון שמשאיר אבק לגברים בכנסת החדשה",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MNFpneEdrQ3hJa2h5YkkteG9zQnhzalN6aWY1VC1nZWJMUG9hVWVsbFdFY2dXdncxc2VPWlZjaEhDSDBENEpDdmF6VzRrVnh6SFhDQ1loX3dMNEdLdF9nN050N3hQMGNSZjNidQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "On 1st day of Knesset, Eisenkot bloc submits bills to form Oct. 7 state inquiry, nix judicial overhaul",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaUQzcHV6b2Y1Q0k3MEpSc1NOZ0p0cjFPTXhBOUREMy1sS3pkYjh4R1VBeWxjeTN1a0FwbVNoazJnZ3llbTZLQjFaNWVwcGUtMUUzNFc5elctN0cyZXpjd29veU9IOFFOdGdaenRYdjVEZjVGRkd3MS1QMWlIYUFlMHdzYnlQbzVnQ1ZfeEdwM2dydk1iUDVrSFFfY3E0Z0xRM2NmZXRhX1VYTEcyUE9GRXp6V2stcVNmT0d4bS1JMEkzblZmNHo2bGJn0gHPAUFVX3lxTFByNTVTVDFTakl2ZThocFVKMHJ3X29kdHlNREp3bmhVRlRVbTFhRGhxMzhTRHJkR0xCUU84YkVMc29TTzF6dEF1VkJkRTdKYkdvNHhwZ2ZCMW5nc1lhRkFTR1BLQ3VST2dhaWRPTzZFUWNWZ1hkMjJOODVpMVhJMnVDWVNVcTVwZ0I2M2toeTN3NDlhSHRqa2REOG9mbFlTTnNfOEs5ZmY1ZnlqN3NQUE9nMGpId3BQMXp4amJ0OGg0S2NnOEZuVlpYYWd2d2p2aw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
+  {
+   "title": "הון-שלטון: הקשר בין ערוץ 12 למינוי הצפוי לראשות ועדת הכספים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uVU1SdnBuMmIySWpiWXdCdFpFU0VBbnlFQkgwYTdtVXB0YUgtdWVtQVp4OUlqcHljVHE5RDZVVy1kWGlteGNaWnZvV2xJdw?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-11-10",
+   "keywords": [
+    "ערוץ 12"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "ועדת חקירה וביטול ההפיכה: התוכניות של גוש השינוי עוד לפני הרכבת הממשלה",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclYtQlE3S2NsV2hCQUNpckJLQ2tuaDV4WmZjYWh2VVJncjNjQUcyWkhEeWd0STA5aTBONmxSbXpPUWx5QTVLWHJIbHc5NnFySE1DWmFiSV9Zd0NoMWRBNnJ3UWY0c3FKQVBSeFdDZlhnVFBCLTRtVW1JMmFNVk4wNjNoUm82aTdNbnhCa2hwQnBpUVE2V0hLdG80aHhWdzZ1Wmh5emMwODItZlRzcm9IZmZLS2thNzA?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -289,7 +392,7 @@
    "publisher": "mako"
   },
   {
-   "title": "לא יקבל שקל: דרעי שוב פרש מהכנסת - והפעם ללא מענק הסתגלות",
+   "title": "לא יקבל שקל: דרעי שוב פרש מהכנסת",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94MEw1Wnc5RjlPOXpHZl80RHFFaFRNSml6TWJKazAteFpfbmV0ckJnQ0JQeF9MNjVqOVpidVBxV1BmLVNwWkFFZlBpZVFpT0VYc1pPY2RPbW9WbGVaYS1yQXJJaEdHZmNHRFNnbg?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -307,6 +410,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "זמן ישראל"
+  },
+  {
+   "title": "Meet Likud’s Lineup: Who’s Who In The 26th Knesset",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamFqUnB3VmEybkJQWE1uV2lBd3BjbXQyYWhiYTRISTBsS001dmFFcVhMdUI1WFMzZnNlTWFTUVkyZDVZTUs2b2NxZ0p5MUdCc2RJcUt0UFBvVkFIakNOd1FYTWpHaWxpdkNIMEZ0UHpQTEhLT1dlNjhjYWVNSXlucGpkeVo4eEtWRVJPNFIzaDE1amlBNTBjU05CRW5KQzQzakY4?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-09",
+   "keywords": [],
+   "pv": true,
+   "publisher": "i24NEWS"
   },
   {
    "title": "רמז לבאות? שני צווים על תנאי נגד חוקים לאחר הבחירות",
