@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T10:28+00:00",
+ "updated": "2026-11-11T18:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,19 +194,19 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -259,6 +259,58 @@
  ],
  "items": [
   {
+   "title": "גוש השינוי מקדם שתי הצעות לביטול חוק השידורים של קרעי - וצלח מבחן ראשון בכנסת",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91NFR2Vi1NMXRvc0hESXBZbTlnWDZ0aFB5X0o3bllGakI3bU5ObHFXaHBPMzhTQmJUV05Md2hKWUlZbG5Zb3FGdzRGUzFQUXJXZ3Nyd2gxdXJhYThjT1VCbXVvWTlweHhn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-11",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
+  {
+   "title": "נוכחות דלה מאוד בישיבת ממשלת המעבר: אושר מינוי סער לשר הפנים",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZYUM3S241TnhnQnlJdy02cmlPU3N3ZjFPeFVmaHRUcjdEN2l6RFM5V2RuUVA5NnNWRDg4OHJNYVViWVlfdkFJci1HaEdpMWxNX2NUX1NyU1Nfdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
+  {
+   "title": "\"חנק עם שרשרת, עד שנקרעה\": נאשם כי תקף וגרם לשברים ביד - בגלל צפירה",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RSTVnMC1LVWViMFZHTGRpTG1KSlBDYnM3c0hlTjc4dW43czFVV2tycDVKa1dOQk5FVEFtVFZ2eWtQQ2tFVkZIVHgxa2pwLUV6eGVHcjI5YkpIZw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
+  {
+   "title": "למרות ניגוד העניינים: בן חורין מונתה לראשות ועדת הכספים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40blhPc05WNGx0N1NpaXFxdzVHUHdWMmcwNXJ6Y013aUZqUFRvZXZxWVNXVGtEWFJfVHZvd3huSzJsaEJka0VvOUQySjh4UQ?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-11-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "\"שר החוצפנים\": סוף סוף נתניהו מקשיב ליועמ\"שית - מידע פנים - TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1VNSzl6TzNkU2RSa2xkcEZtWWtuVjVkSTBxUDdHZTVqNExWOHh2LTBlZUdJTFdoQ3N2NUh2ZUZzVHRiYjFibTRhSmo1bHlZS0JQSzFFeEJuTE1aaUlIaldWeng3QVJfeU1KR004MU1fcEdGeENCOTBlVy1oUXlKdzZYQWgxTWpLc1ZEUzVnSk1uUGVlNlphNXBfSWJNZkFOU2F6MHV3?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-11-11",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
    "title": "\"חוק השידורים — בטל\": שתי הצעות למחיקת חוק קרעי הוגשו לכנסת",
    "url": "https://www.themarker.com/news/themedia/2026-11-11/ty-article/.premium/000001a1-c991-d29f-afb5-dbf1b4840000",
    "source": "דה-מרקר · יסמין גואטה",
@@ -271,7 +323,7 @@
    "pv": true
   },
   {
-   "title": "\"חוק השידורים — בטל\": שתי הצעות למחיקת חוק קרעי הוגשו לכנסת - תקשורת ומדיה - TheMarker",
+   "title": "\"חוק השידורים — בטל\": שתי הצעות למחיקת חוק קרעי הוגשו לכנסת - תקשורת ומדיה",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGlOTUN5akhvN09YMzZpdFJTdU1VejNTa0dDYTZfUW92V2UweHUteE9LOFRIaW00UTlMS1d3cmQ4c1BEb1NDTGFRVGxsTHpOdVl6VTN2Rm5RZ3VObmVCdlpfa1c2aEFUNFRST24tcUNPc1FtcXJnWkpYWURIWnk3dkdFeXN5NjdFUVdCVE55N1hpa09rbEwxRTFZVUVWSVZFQ3RscFhMQ3F6VmM?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -733,6 +785,19 @@
    "keywords": [
     "ערוץ 12",
     "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "בג\"ץ מקפיא את חוק השידורים: i24NEWS מזהיר מנזק של עשרות מיליונים",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54S2dJNXRRa0ZZZm5lNFFWWmdzUTJDT0l4dFNQd3NsNTI2ZFpoOUwwc2pCTWlhSEN2MFh6SkRuNlhOVWRVbndRUFNSaUVRVjYyQUJkM3BTaUU?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-10-29",
+   "keywords": [
+    "חוק השידורים",
+    "i24"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
