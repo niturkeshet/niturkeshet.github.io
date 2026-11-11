@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:55+00:00",
+ "updated": "2026-11-11T10:28+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -158,7 +158,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -170,7 +170,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -258,6 +258,56 @@
   }
  ],
  "items": [
+  {
+   "title": "\"חוק השידורים — בטל\": שתי הצעות למחיקת חוק קרעי הוגשו לכנסת",
+   "url": "https://www.themarker.com/news/themedia/2026-11-11/ty-article/.premium/000001a1-c991-d29f-afb5-dbf1b4840000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-11-11",
+   "keywords": [
+    "חוק השידורים",
+    "חוק קרעי"
+   ],
+   "pv": true
+  },
+  {
+   "title": "\"חוק השידורים — בטל\": שתי הצעות למחיקת חוק קרעי הוגשו לכנסת - תקשורת ומדיה - TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGlOTUN5akhvN09YMzZpdFJTdU1VejNTa0dDYTZfUW92V2UweHUteE9LOFRIaW00UTlMS1d3cmQ4c1BEb1NDTGFRVGxsTHpOdVl6VTN2Rm5RZ3VObmVCdlpfa1c2aEFUNFRST24tcUNPc1FtcXJnWkpYWURIWnk3dkdFeXN5NjdFUVdCVE55N1hpa09rbEwxRTFZVUVWSVZFQ3RscFhMQ3F6VmM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-11",
+   "keywords": [
+    "חוק השידורים",
+    "חוק קרעי"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "רייטינג: רשת 13 ממשיכים במפולת - הבכורה של ווארט בנתון שפל",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xWTAyeVZZZGlpZXlfR3RYLXJ5cG9RUVUwd3NoMlVVd2VNMlpmWjRBemFYQk9XNFhFTDRFNmNsd05kanZHdWtJRlJqVU1tbExQSmlGbDFWUkMyYUxyQ3ptS2pB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-11",
+   "keywords": [
+    "רייטינג",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "גיא פלג בתביעה נגד ינון מגל: \"אנשים מפחדים מהמכונה שהוא מפעיל\"",
+   "url": "https://www.haaretz.co.il/gallery/television/news/2026-11-10/ty-article/.premium/000001a1-c61f-d94a-a1eb-d67fb6420000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-11-10",
+   "keywords": [
+    "גיא פלג",
+    "ינון מגל"
+   ],
+   "pv": true
+  },
   {
    "title": "ועדת חקירה והגבלת כהונה: המהלך הראשון של איזנקוט בכנסת ה-26",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCeXM4cmhGeUd0Y1dKR2hoczctd2ZwUjl6NjF4NnlYY0lRVkgwVVdJNWRCc2hjZHh6ZGRaa1N1RlZLTm45ZjRZaEJJRFMzeDJZWk5KcnlULU1LcHllWnJnUjJDeUpJMTJpankzUw?oc=5",
