@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:44+00:00",
+ "updated": "2026-11-12T07:47+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -259,7 +259,52 @@
  ],
  "items": [
   {
-   "title": "הליכוד אמר את דברו: פחות צעקות ופרובוקציות - ופחות דתיים",
+   "title": "כ\"ץ מגיב לאיזנקוט: \"הביטחון לא ממתין להליכים הפוליטיים\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JT3lLUjZaWFB2UlFwQTlURWlxTnNtbFJaeGRWdnVNbXhEcUxKTEJXejRMVmh0bk16TlBzaFR0VFVZOW1EbXpjLWhhcw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JDN"
+  },
+  {
+   "title": "80 שנה אחרי י\"א הנקודות: יישוב חדש קם במזרח בנימין",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqV3BibnF1SGpWUWt6WEZ6SkRkYmNkRE8wTmZOZGhzNUxLb3UtU3FDb0lCYXJjSFN5S01GOFBwdDlpdlNaOTF4ZE5sZHZNQ2d1amVfZmF1R3NoeDNkVEJaOVFSNnhlNy10V25Vcg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "ארץ נהדרת מזנקת ל-17.5%: חצי מיליון צופים ויתרון גדול בפריים",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zcER4ZmF6VHQ1cnc1ZFp2UElqaEhNZ1VGd0xjcHZqelpKV1VwR0QyUjhueFNBbWVpRmRZQWFMY0FGWXpST1JsdUJSZ2hoR2FrOXI2NmVwRkRZOUo4Zm91QWtxN2ZTUjFiVmFpMmFKZjUxN2N5Y1R0QmNsU1VjUTg?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-12",
+   "keywords": [
+    "ארץ נהדרת"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
+  {
+   "title": "\"חוק השידורים — בטל\": הצעות למחיקת חוק קרעי הוגשו לכנסת - תקשורת ומדיה - TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGlOTUN5akhvN09YMzZpdFJTdU1VejNTa0dDYTZfUW92V2UweHUteE9LOFRIaW00UTlMS1d3cmQ4c1BEb1NDTGFRVGxsTHpOdVl6VTN2Rm5RZ3VObmVCdlpfa1c2aEFUNFRST24tcUNPc1FtcXJnWkpYWURIWnk3dkdFeXN5NjdFUVdCVE55N1hpa09rbEwxRTFZVUVWSVZFQ3RscFhMQ3F6VmM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-11",
+   "keywords": [
+    "חוק השידורים",
+    "חוק קרעי"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "הליכוד אמר את דברו: פחות צעקות ופרובוקציות",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrMWpZT2VPTFo1TDJBN2p0eGhObkhFSkpsaXhoVUI2b0k4dkNzRWVjeXV4aW5FLUM4alZZN19ZVHc0V3BoTXRKbHJlN0NQMDdFNS14Q1pnRUcxQkpHcWhTVGNUYVVtcWlaSVE?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -269,7 +314,7 @@
    "publisher": "מקור ראשון"
   },
   {
-   "title": "חדשות 04 - השר קרעי על מכתבי איזנקוט: \"משחק מסוכן עם תומכי טרור - בוא לאחדות\"",
+   "title": "חדשות 04 - השר קרעי על מכתבי איזנקוט: \"משחק מסוכן עם תומכי טרור",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5odFdUU1A2WE9zR3hnaWtQYnc1dGpHemZkdXNGQTJ1dm9YaDhZcEszM1VpQVY4MWl3QVQzakRySkFmUXVvdFlmTUdR?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -321,7 +366,7 @@
    "publisher": "C14"
   },
   {
-   "title": "\"שר החוצפנים\": סוף סוף נתניהו מקשיב ליועמ\"שית - מידע פנים",
+   "title": "\"שר החוצפנים\": סוף סוף נתניהו מקשיב ליועמ\"שית",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1VNSzl6TzNkU2RSa2xkcEZtWWtuVjVkSTBxUDdHZTVqNExWOHh2LTBlZUdJTFdoQ3N2NUh2ZUZzVHRiYjFibTRhSmo1bHlZS0JQSzFFeEJuTE1aaUlIaldWeng3QVJfeU1KR004MU1fcEdGeENCOTBlVy1oUXlKdzZYQWgxTWpLc1ZEUzVnSk1uUGVlNlphNXBfSWJNZkFOU2F6MHV3?oc=5",
    "source": "חיפוש גוגל · גלית דיסטל",
    "type": "google",
