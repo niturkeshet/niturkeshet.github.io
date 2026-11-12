@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T07:47+00:00",
+ "updated": "2026-11-12T16:37+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -158,7 +158,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,31 +194,31 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -259,6 +259,88 @@
  ],
  "items": [
   {
+   "title": "\"בהתחלה עשו הרבה רעש\": צלמים ופרילאנסרים בערוץ 16 טוענים לעיכובים בשכר",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRk84RnBsSTZCMENieEx4b0h5VVlUVXNjRTIxN2FCRGlSb2dONllVR19tMjBpY2dVUWxzbllOaVVTcGhRMjFMUEM0ajBYZkk2TTdNMEl5dkNTcTB2TDdwZ2VtNFlxX1ZEY3p5MWZWOGUwenVqb0NPMlZvT05DMl80d2VCRV9pSEZZUEhSSDJaYzZVNW01alJhQWRCaS13Mm1Xd2pQaFhJWmgyY3M?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "הוועדה שתקבל הרשימה המשותפת, התוכנית החדשה בגוש השינוי - וזו שנגנזה",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DdFdiamt3YTdURkVQMV9uLUwwdGpPMTFzc3l6eUZCTzNlbFdfOXNMcFVYVHFGODNFbDhuLTB2UWxaM0FUeDdWZUVWMGRWZWxVWG43TEVHdWJBQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
+  {
+   "title": "איזנקוט מסתבך: פחות ועדות, יותר כוח למפלגות הערביות",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Lb1h5TUllQVN0cUV2X1ZTZnFHaGFrMEdtdVNNSDRkN2R5LWVzTXpjRFlVOVZ0OEdmMi1xT05kdTJyV0d2eUZwcUpySGt0UQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
+  {
+   "title": "הסיעה הכי תל אביבית וזו שמובילה בקיבוצים | בדקנו איפה גרים 120 חברי הכנסת",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQZ3hxZUJNUzAzNHNHQzlNd2hSVXVQUXl4RmpKUXRHLVhSdkM1MVFVazZqYkt1ODhaRDVWVWJjaHRKMGI1M2l4d2cxaWxhNDltbG1BTXpyYXhneFR3VGtpdFRtVEZaX3VXc09kV0FtQTg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "אחרי ביטול הקמת הוועדות: גוש השינוי נערך לצעדים נגד חוקי הממשלה הקודמת",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDaWI2blZ6YXR2RENIRGg1VDNDcDlxRGZFbUl3YjV0TWpYc2FCZXg1WWZ0VDE3WmFvRXRZTFE2MS1OZnBPT3VWd0JqWQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
+  {
+   "title": "ספר 'כרם שלמה – חנוכה' משיעורי הגאון הינוקא",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5sN1lSSjRGWEowdzB5eHNHRDhuUnJvN09fQlhUb0RvREIwZ3gwTXVNMHp1bC1PSzYxZ1h0dmJHWThwNjQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "המחדש"
+  },
+  {
+   "title": "Knesset legal constraints hamper anti-Netanyahu bloc’s legislative offensive",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uYzZaeEJoUlFWZVZmcDFCVTJXSm5KV3JORDNKU2RZZlhzd2dKRU9JTEN5bm1aeDdWODcxVVptcHNFMEtPRXZPM2x0VG1WLXFTQXZkcHhn?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Ynetnews"
+  },
+  {
+   "title": "יעקב ברדוגו: \"השמאל מתעב את הפריפריה\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vVml4bVprbE5VZzY2enA2YU9WaFFsUjRmRUtiYXRveFVFbkJKM1otMWp3MWYyMGRwTHI1eDRLMUVKRi1IMFdpajhUa1QwbU9MYkdGLS1WR0VvQXBi?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-12",
+   "keywords": [
+    "יעקב ברדוגו"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
    "title": "כ\"ץ מגיב לאיזנקוט: \"הביטחון לא ממתין להליכים הפוליטיים\"",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JT3lLUjZaWFB2UlFwQTlURWlxTnNtbFJaeGRWdnVNbXhEcUxKTEJXejRMVmh0bk16TlBzaFR0VFVZOW1EbXpjLWhhcw?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -291,7 +373,7 @@
    "publisher": "ביזפורטל"
   },
   {
-   "title": "\"חוק השידורים — בטל\": הצעות למחיקת חוק קרעי הוגשו לכנסת - תקשורת ומדיה - TheMarker",
+   "title": "\"חוק השידורים — בטל\": הצעות למחיקת חוק קרעי הוגשו לכנסת - תקשורת ומדיה",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGlOTUN5akhvN09YMzZpdFJTdU1VejNTa0dDYTZfUW92V2UweHUteE9LOFRIaW00UTlMS1d3cmQ4c1BEb1NDTGFRVGxsTHpOdVl6VTN2Rm5RZ3VObmVCdlpfa1c2aEFUNFRST24tcUNPc1FtcXJnWkpYWURIWnk3dkdFeXN5NjdFUVdCVE55N1hpa09rbEwxRTFZVUVWSVZFQ3RscFhMQ3F6VmM?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -486,6 +568,18 @@
    "publisher": "ביזפורטל"
   },
   {
+   "title": "אחרי קשת 12, אלי אוחנה נעדר גם מ-103FM: מה קרה?",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KN2RlOUtfb1ViS0RZNjV4aFIxajhGOHdaaXRSUUozZVNfZU40UXhQUWtDSWtsMWFzZVh5RTNIMFNBeXdXZVA5QXo5ajFOZmh1MzJLbE05TFo?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-08",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
    "title": "\"הטראומה של חיי\": אבי שושן חוזר לערוץ 14 - ותוקף את \"הישרדות\"",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HWGxEZTA1RU1CNzVRa0FsdC1reHNBQlV2bTZ0WmkxbkhUWDg4V0NlNHdPajZiMHNJRTJwR1BBZVMxSkNBVzlsaEoyendrUWRoalFJNGZOdjFTM1hZY195LVUtdHhScWswT3hQaHFZZkVGbVYtTXc?oc=5",
    "source": "ישראל היום · ביני אשכנזי",
@@ -532,6 +626,18 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
+  },
+  {
+   "title": "הרדיו במקום ערוץ 14: מכבי חיפה היא כמו מפלגת הליכוד",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fS1JkQjJaaUxJMS10STlCSWFRa3FwYUpRZ3U4VnB5dHdXSFRManZJeUpuZ1ZZbTk0UHZvRGJOVXh2NzJXbk1nTXhfcks5bGNyX0N5Ujd2Q2ZuLXpNOGkzS0RWaU1mcU5kaGFqdnEtQUQxYTlxb2c?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-11-07",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "מנו גבע הודיע על השהיית שיתוף הפעולה עם חדשות 12",
