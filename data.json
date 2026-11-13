@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:06+00:00",
+ "updated": "2026-11-13T23:35+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -591,6 +591,18 @@
    "publisher": "ביזפורטל"
   },
   {
+   "title": "רוני מאנה: \"ערוץ 14 יקבל אותך בזרועות פתוחות\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BSUU4S0tPaXc4am8yNFFoVHdXb3BnMThnNEVoVzJsSXduNFFhWnN4QlNQQTRSd2ZVTG02WVU4YTdFbWE4MWUtZXhwSHg2NzR3MVJhb3Nrb2lRaWZy?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-11",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
    "title": "ינון מגל פגש את המודח מהפטריוטים והטיח בו: \"יצאת קטן\" | צפו בעימות",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RU0lfdmtCNE9tWGhMUzN2YjdpbmJQcEIzbjdWX2pmSm84eF90eTY1bG81dFlOTDhtR054eS1QS2t2Vl9PWkdOSG1ZLWd1X1NjTTJxeWRMNXVMbjMz?oc=5",
    "source": "ice · תקשורת",
@@ -636,6 +648,18 @@
    "keywords": [
     "רייטינג",
     "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "יעקב ברדוגו במוקד: טל מאיר יוצאת נגד מיכל פעילן",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16OTZNMy1zYkZwcUdmRVpEQlhob0xQUm5YTGV4OTAxSEl2Q2ZRZjNQa0NIYlhnX0tJOEx4cXBRWExTdVdEYkJZck1LZldsZVlENUxlNWJ5TDRJY0kt?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-10",
+   "keywords": [
+    "יעקב ברדוגו"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
@@ -808,6 +832,20 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
+  },
+  {
+   "title": "רשת 13 בהתרסקות היסטורית ברייטינג - שבוע הבלהות של אסף רפפורט",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zMEZIRXZCY1hDYUZSWHkxTmtBUVFtY2l1UUVrZVV6dkd5TDVyOUJrY1hUdC1fcERsU2xITzZoSEdPcXlzT2JmSktOV2Q1b1VJUUV1ODVWR2c?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-07",
+   "keywords": [
+    "רייטינג",
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "הרדיו במקום ערוץ 14: מכבי חיפה היא כמו מפלגת הליכוד",
