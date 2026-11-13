@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T22:27+00:00",
+ "updated": "2026-11-13T02:51+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -259,6 +259,38 @@
  ],
  "items": [
   {
+   "title": "Eisenkot Bloc Moves to Undo Netanyahu's Judicial Coup Through Knesset Committees",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPallkQVJDZElVdDMwOXpZcDVOYmU3ajJCb1JRYS1Jd1o5MTI3V0JFejVPQ0FDbVNZUXpZREpxdE5Wa1VnVldCclQ0XzZmODU0dzM3X0puRXRBdDhpUnZBYjZUMHlSSXZkNHRsNXFEc0cyS2pMVVZva3FpN2pyNlF2M3lFc1dUS1Q0M0otNDF3N1ZYZjlIb3NhN2JoQVpEMUoteWRKTlZnWVlPQzgxeG1sUGtfY3N1TGtiVU9BVkFIZ3Y4RHFPWDdhczdiWURIRVFqOV9wdUxJOWE3S3dncmtFeGZ3TEcwZFZpQ3hHekp1VXh4UkJ6N1JMeUFVVnplWGtqMEoweEt0OWNJVTZLaTFwN0lBUUM5SkktZnhKY3N4dEtsMjI5dnc?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haaretz"
+  },
+  {
+   "title": "מי ידאג לנגב בכנסת החדשה? אלה הנבחרים והמאבקים שמחכים להם",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CX1VjUFpnUC1GUGNtdlAzVzl4WFNmNHhrRnFhSmdhQk5JZmFjLVBNTGI4eGF6ZHA1TTNZWDlWeHlncnNTT1NLNEQ2Q2poeXpWMFAzNFBnbFU?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות באר שבע והנגב"
+  },
+  {
+   "title": "ארץ נהדרת בדרך לבית המשפט? כוכב הפטריוטים מטיל פצצה - \"מתפתח\"",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBQnZWZ0J4X3NLX3d0TE1UNWhyU2JiUXQxMHFBcjBjZ1NqVnNUREFDN0hlQnVtREhVU3RhZ1dEUXNMS2hSNmJYbjBTOHBfV090REVaVXhCZ3g?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-12",
+   "keywords": [
+    "ארץ נהדרת"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
    "title": "גוש איזנקוט מתכנן ועדות לביטול ההפיכה, ודן בוועדה לחברה הערבית למשותפת",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFFJWGpSWm1ZcWZraWg2aTBoN2NxcGlPYlE0V3AyeEJ0OGl6LWxzNVN2Mzl1SWJnRUh0Y3BMUUFsOHJKbWptNHZlWjltazhnVzFUQlpwajdnOGtmM3ZwcHVDQmJ6dTItVmprT0xTX3Z4Q0dQVHU2ZFZNeXhZcl82aXRZNFREWXlILWNiZl94dU5fWW1xbmlRTVdnaE1QZU9xZnRKTUhTWHloQkxB?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -299,7 +331,7 @@
    "publisher": "הארץ"
   },
   {
-   "title": "מרים פרץ: אם ישר תשב עם מפלגה ערבית – אליסף יעזוב את הכנסת",
+   "title": "מרים פרץ: אם ישר תשב עם מפלגה ערבית",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmY0Y2VCNVpUWlFROWNZYnN3dU1EVXpTUWFOLVd5dFJCTWFZc2JSNktEMm9ZU2N4N19saURkcmFJaWxBbm1oYnNBUWtGVGcxWDlKbzRGd0RZWFdjdXlXNGdUS3V5Qzl2QlVnRjd3RjJmX25HN293Um1fX1I5Y2RMeHhNaGFwNlpRUTRTZlduZ3d6OW8wODZkczVKMEp3dWJ6RWlyT1BkM19SXzJY?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
@@ -469,89 +501,17 @@
    "publisher": "ביזפורטל"
   },
   {
-   "title": "\"חוק השידורים — בטל\": הצעות למחיקת חוק קרעי הוגשו לכנסת",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGlOTUN5akhvN09YMzZpdFJTdU1VejNTa0dDYTZfUW92V2UweHUteE9LOFRIaW00UTlMS1d3cmQ4c1BEb1NDTGFRVGxsTHpOdVl6VTN2Rm5RZ3VObmVCdlpfa1c2aEFUNFRST24tcUNPc1FtcXJnWkpYWURIWnk3dkdFeXN5NjdFUVdCVE55N1hpa09rbEwxRTFZVUVWSVZFQ3RscFhMQ3F6VmM?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
+   "title": "אחרי שעזב את ערוץ 14: יעקב ברדוגו כובש את הוועדות החזקות בכנסת",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NU2gzaVJZdUVPUWdpUlZnN2dyNXJ5YVdrbk5ncGhwREREQ3pUaUtGclpxM090MkUtRHZRV3J2blp1U1BMRDI3dkxidXBRbk40ZVhLc1IzWXdHZ3RR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
    "date": "2026-11-11",
    "keywords": [
-    "חוק השידורים",
-    "חוק קרעי"
+    "יעקב ברדוגו",
+    "ערוץ 14"
    ],
    "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "הליכוד אמר את דברו: פחות צעקות ופרובוקציות",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrMWpZT2VPTFo1TDJBN2p0eGhObkhFSkpsaXhoVUI2b0k4dkNzRWVjeXV4aW5FLUM4alZZN19ZVHc0V3BoTXRKbHJlN0NQMDdFNS14Q1pnRUcxQkpHcWhTVGNUYVVtcWlaSVE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-11",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "חדשות 04 - השר קרעי על מכתבי איזנקוט: \"משחק מסוכן עם תומכי טרור",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5odFdUU1A2WE9zR3hnaWtQYnc1dGpHemZkdXNGQTJ1dm9YaDhZcEszM1VpQVY4MWl3QVQzakRySkFmUXVvdFlmTUdR?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-11",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "גוש השינוי מקדם שתי הצעות לביטול חוק השידורים של קרעי",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91NFR2Vi1NMXRvc0hESXBZbTlnWDZ0aFB5X0o3bllGakI3bU5ObHFXaHBPMzhTQmJUV05Md2hKWUlZbG5Zb3FGdzRGUzFQUXJXZ3Nyd2gxdXJhYThjT1VCbXVvWTlweHhn?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-11",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "Calcalist"
-  },
-  {
-   "title": "נוכחות דלה מאוד בישיבת ממשלת המעבר: אושר מינוי סער לשר הפנים",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZYUM3S241TnhnQnlJdy02cmlPU3N3ZjFPeFVmaHRUcjdEN2l6RFM5V2RuUVA5NnNWRDg4OHJNYVViWVlfdkFJci1HaEdpMWxNX2NUX1NyU1Nfdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-11",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "\"חנק עם שרשרת, עד שנקרעה\": נאשם כי תקף וגרם לשברים ביד",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RSTVnMC1LVWViMFZHTGRpTG1KSlBDYnM3c0hlTjc4dW43czFVV2tycDVKa1dOQk5FVEFtVFZ2eWtQQ2tFVkZIVHgxa2pwLUV6eGVHcjI5YkpIZw?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-11",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "למרות ניגוד העניינים: בן חורין מונתה לראשות ועדת הכספים",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40blhPc05WNGx0N1NpaXFxdzVHUHdWMmcwNXJ6Y013aUZqUFRvZXZxWVNXVGtEWFJfVHZvd3huSzJsaEJka0VvOUQySjh4UQ?oc=5",
-   "source": "חיפוש גוגל · דודי ורטהיים",
-   "type": "google",
-   "date": "2026-11-11",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "\"שר החוצפנים\": סוף סוף נתניהו מקשיב ליועמ\"שית",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1VNSzl6TzNkU2RSa2xkcEZtWWtuVjVkSTBxUDdHZTVqNExWOHh2LTBlZUdJTFdoQ3N2NUh2ZUZzVHRiYjFibTRhSmo1bHlZS0JQSzFFeEJuTE1aaUlIaldWeng3QVJfeU1KR004MU1fcEdGeENCOTBlVy1oUXlKdzZYQWgxTWpLc1ZEUzVnSk1uUGVlNlphNXBfSWJNZkFOU2F6MHV3?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-11-11",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
+   "publisher": "ice (אייס)"
   },
   {
    "title": "\"חוק השידורים — בטל\": שתי הצעות למחיקת חוק קרעי הוגשו לכנסת",
@@ -2878,18 +2838,6 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
-  },
-  {
-   "title": "ערוץ 14 חוגג הישג משפטי: החלטת המשטרה שמשנה את התמונה",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Qd3FTalcyWEgteWRUX01JTHBUSWFGQ1YtM1gwU2NERFhZbmZ5eXd5VnJhMmVDbkxacE5Cd2tLVXVWR1RrVi1sU2NwZWdiZEtBZGpzNVVsWWFfTTRi?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-13",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
   }
  ]
 }
