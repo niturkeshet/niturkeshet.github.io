@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-13T10:38+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -194,7 +194,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -259,6 +259,74 @@
  ],
  "items": [
   {
+   "title": "\"רכשנו את הדירה במחיר של ג'יפ; עכשיו היא שווה יותר מ–4 מיליון שקל\"",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2lUNkNBQ2c4ZkFXXzJjUWFmcVRqalk0end0dC1SUnVaQUJXcENwZTNXeUZDMk9WMWVzMDI1cVAwX2JEMkl6WGswOEY1NXJLbUx0ck1NX3N0M1pqeXhuLUo2a3VSbEkwZzU4TXVQcGEtTy1zNFBFeHVGbG5BRnNleTAzbmJvTHNUaC1OR0gxN0hYRTZEYVZYcUpMS2h5eENwY2lUNVV1eWdlSGdUZUpoVVBhUEFSblFFX2NwNVNSc1pXV1h0?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "לאילה חסון אסור, לעיתונאים מהשמאל מותר להגיד בתאגיד מה שרוצים",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxaW5Tb1FhbUhINHY5WDVveXYzUXBfMUZrRWZ0cWs5dUZ5LWF1a1NqSGs0TEJMc2xEdDV6QWZjRzBpaEdyOWI5MlpnUXpPREhxdmVKT0FWOXhMVkNVcUItTzJ0YXRCUQ?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-11-13",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "23 שנה לארץ נהדרת: הפיילוט שנכשל ועוד 4 סיפורים מפתיעים",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02WEtza0dlbmNRTGttYjhzNVdtS09pR01WbUxhNkpCdkVCak9DZ2pqZzQycGI4NzBadEYzYl9pVkVZeU9DOUVYME1jMi1EQ1ZkR21tenE2bzBRb2pB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-13",
+   "keywords": [
+    "ארץ נהדרת"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "אהבה ברשת 13: שתי מגישות ועורכת קיבלו טבעת באותו שבוע",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91LWtXbVpIcXgtdk5kMXcweE1EeXNFOW91dWpHbzI2Zm9vaTVlN3N4Vm9VbkwwbEUwQldIaXZYY2ZNWlNDaDdDUURBbExUOEdGeU9Bc1JfaTV4MWFIVFJn?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-13",
+   "keywords": [
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "גוגל מציגה מהפכה בעולם ה- AI : הכירו את כלי ה- Gemini החינמי",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42b1BqdnBmSzBKQ0QzZ2FFcEtuNDI1eGxqMVltUWJiOXptZXo0dTM0S21IYVdTdEZrc2VMRlhuX0VVUGFrUG5ZLTVPcTE5MHNEM1VQWW9ZZTVBdDN6R0pGY3VGT00?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-13",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "ינון מגל: \"אתה עזבת את עולם התורה, סתם פרובקטור בחצי שקל\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PMFFHVmlGNWJjZ0w5d2NOY2F2YVFVbkk5TmZZWjRTOHBlYjRmRnQ4N2kxb1pxN3hOVlJhRi1fV0JYcHdZNUpzQ3RCMDdtRF9ER3NxSVNkaW9EUzBT?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-13",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
    "title": "Eisenkot Bloc Moves to Undo Netanyahu's Judicial Coup Through Knesset Committees",
    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPallkQVJDZElVdDMwOXpZcDVOYmU3ajJCb1JRYS1Jd1o5MTI3V0JFejVPQ0FDbVNZUXpZREpxdE5Wa1VnVldCclQ0XzZmODU0dzM3X0puRXRBdDhpUnZBYjZUMHlSSXZkNHRsNXFEc0cyS2pMVVZva3FpN2pyNlF2M3lFc1dUS1Q0M0otNDF3N1ZYZjlIb3NhN2JoQVpEMUoteWRKTlZnWVlPQzgxeG1sUGtfY3N1TGtiVU9BVkFIZ3Y4RHFPWDdhczdiWURIRVFqOV9wdUxJOWE3S3dncmtFeGZ3TEcwZFZpQ3hHekp1VXh4UkJ6N1JMeUFVVnplWGtqMEoweEt0OWNJVTZLaTFwN0lBUUM5SkktZnhKY3N4dEtsMjI5dnc?oc=5",
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -267,6 +335,28 @@
    "keywords": [],
    "pv": true,
    "publisher": "Haaretz"
+  },
+  {
+   "title": "מי מחזיק בהגה השלטון? יחסי הכוחות - ומה כל צד יכול לעשות",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12MExlc0FGSDB1blJBNUZTUUV3RVpHa2o2MTVnRl9NMzF2TlBCbjRsQ1NDUXpMcUdYakZJV0JlWWdGWFZPMWRSbE9GWW9sbVpMZkFqWVVlbEktQWc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-12",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
+  {
+   "title": "אייל ברקוביץ' חושף: אלה ההודעות שאני מקבל מגיא פלג",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tSC15S002eGJRVXJBT0VhdnlBcmlBNENxNFFyWlJlUnB2cHNfWlphTDcxc0g3NFkyRElPdEd0R2xpRjJGb0pzRjJ1WHRIRFAtYzUwcFJ3ZjdKcEt1cFFF?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-12",
+   "keywords": [
+    "גיא פלג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "מי ידאג לנגב בכנסת החדשה? אלה הנבחרים והמאבקים שמחכים להם",
@@ -499,6 +589,18 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
+  },
+  {
+   "title": "ינון מגל פגש את המודח מהפטריוטים והטיח בו: \"יצאת קטן\" | צפו בעימות",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RU0lfdmtCNE9tWGhMUzN2YjdpbmJQcEIzbjdWX2pmSm84eF90eTY1bG81dFlOTDhtR054eS1QS2t2Vl9PWkdOSG1ZLWd1X1NjTTJxeWRMNXVMbjMz?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-11",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "אחרי שעזב את ערוץ 14: יעקב ברדוגו כובש את הוועדות החזקות בכנסת",
