@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:35+00:00",
+ "updated": "2026-11-14T03:36+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -337,16 +337,6 @@
    "publisher": "Haaretz"
   },
   {
-   "title": "מי מחזיק בהגה השלטון? יחסי הכוחות",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12MExlc0FGSDB1blJBNUZTUUV3RVpHa2o2MTVnRl9NMzF2TlBCbjRsQ1NDUXpMcUdYakZJV0JlWWdGWFZPMWRSbE9GWW9sbVpMZkFqWVVlbEktQWc?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
    "title": "אייל ברקוביץ' חושף: אלה ההודעות שאני מקבל מגיא פלג",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tSC15S002eGJRVXJBT0VhdnlBcmlBNENxNFFyWlJlUnB2cHNfWlphTDcxc0g3NFkyRElPdEd0R2xpRjJGb0pzRjJ1WHRIRFAtYzUwcFJ3ZjdKcEt1cFFF?oc=5",
    "source": "ice · תקשורת",
@@ -359,16 +349,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "מי ידאג לנגב בכנסת החדשה? אלה הנבחרים והמאבקים שמחכים להם",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CX1VjUFpnUC1GUGNtdlAzVzl4WFNmNHhrRnFhSmdhQk5JZmFjLVBNTGI4eGF6ZHA1TTNZWDlWeHlncnNTT1NLNEQ2Q2poeXpWMFAzNFBnbFU?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות באר שבע והנגב"
-  },
-  {
    "title": "ארץ נהדרת בדרך לבית המשפט? כוכב הפטריוטים מטיל פצצה - \"מתפתח\"",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBQnZWZ0J4X3NLX3d0TE1UNWhyU2JiUXQxMHFBcjBjZ1NqVnNUREFDN0hlQnVtREhVU3RhZ1dEUXNMS2hSNmJYbjBTOHBfV090REVaVXhCZ3g?oc=5",
    "source": "ice · תקשורת",
@@ -379,66 +359,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "גוש איזנקוט מתכנן ועדות לביטול ההפיכה, ודן בוועדה לחברה הערבית למשותפת",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFFJWGpSWm1ZcWZraWg2aTBoN2NxcGlPYlE0V3AyeEJ0OGl6LWxzNVN2Mzl1SWJnRUh0Y3BMUUFsOHJKbWptNHZlWjltazhnVzFUQlpwajdnOGtmM3ZwcHVDQmJ6dTItVmprT0xTX3Z4Q0dQVHU2ZFZNeXhZcl82aXRZNFREWXlILWNiZl94dU5fWW1xbmlRTVdnaE1QZU9xZnRKTUhTWHloQkxB?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "בלגיה חזרה מפיגור לניצחון 1:2 על טורקיה בליגת האומות",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXVna2U2MFRjWjRBVzVhUUp6YUV1aHNVWFZSbUFhRFo4UkdNY0tERWhSVmRfclZNdmYtX25YdTI0Y1A3bkhPbWZBQmpnZm5wM21NYjFHcVRyY2otT2xXTko5d28wd1hyc0FFQ3RqQURuLTJZdVBPV0R3cFl5OEljM2JKQmhqMnB5a2JjUHJlR3FVT0JuWjBUNTZLN0FMS0Q2NTM4Zmln?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "\"כדי לחקור ח\"כ בישראל, לא סתם אזרח ערבי בג'לג'וליה, צריך להביא ראיות\"",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXJMbFZ1eWtfcW9kSHQ3QkZFVFpFRnlJbzF6M0hZaWhvbjVRVHdNS0JpLWdwM3VzYkFLY05zWEQ3SGE3MHhuNld4UUc3V3c1TG1wMmdFanRpRmdZcmlHdmN5TDE2SzlnQ200cE5MdUNqNERkRFJ3SUJ4VnA4RVQ1Q29LS3JaZ0tGNC1QM2VmSTE0U0lXWVdaYkxfcWpqbUo4MGlmcHlqQjVhV1dKN19mMkotRkZTM09f?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "פינת ליטוף",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUFqc2hZS0tTcVpKRng4OGJFMGZiQVVZRUZsaEhqU3JadG5NemFNLXhvOWJPcmEwRTNpTVdwZ01GeU44RWgxQjUzRDZoOU1leGpCczRrTFdlYnRZMkhaQ2E5X1ByWDh3aGcwN3A1XzBmbXpHN3gzWEphTDVkaGxTb1VweVBjTDRHVlJ6c2VTTEdfVk5XQjdmRG9iREx0TGdKU0RSSVBYREZfcEtKM05OS2k0VQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "מרים פרץ: אם ישר תשב עם מפלגה ערבית",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmY0Y2VCNVpUWlFROWNZYnN3dU1EVXpTUWFOLVd5dFJCTWFZc2JSNktEMm9ZU2N4N19saURkcmFJaWxBbm1oYnNBUWtGVGcxWDlKbzRGd0RZWFdjdXlXNGdUS3V5Qzl2QlVnRjd3RjJmX25HN293Um1fX1I5Y2RMeHhNaGFwNlpRUTRTZlduZ3d6OW8wODZkczVKMEp3dWJ6RWlyT1BkM19SXzJY?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "בתוך המרחב השקרי של הרשתות, זו חתירה יוצאת דופן לאמת",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWU12bXJwdm5ZQUFJU2R0THZJQzEtV3ZWRV8xWUVHYmZoa3U3YlFxaUR0S0RnanhUUTFVUmw2Rm8wY2VqdFZyWnkwQnRaaVNRTklOcEExOXo5VHJoVHB0UmZnWS1qUlBBcVd5amtEeUtRWmUzX3JaekVMWnF0bjY4aWtqWkV5a0JwX2lTdmx3c21yXzJ0SXl4R0RnOU9nN3VhcDd5eklLQ205d085YUNudmlERHAtM3ZuUlZIeE5pX3lXTjNKN1o1aHpRQldfN3czT2c?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
   },
   {
    "title": "עורך סקרי המנדטים של ערוץ 14, שלמה פילבר: כך ליברמן יהיה רה\"מ",
@@ -477,76 +397,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "\"בהתחלה עשו הרבה רעש\": צלמים ופרילאנסרים בערוץ 16 טוענים לעיכובים בשכר",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRk84RnBsSTZCMENieEx4b0h5VVlUVXNjRTIxN2FCRGlSb2dONllVR19tMjBpY2dVUWxzbllOaVVTcGhRMjFMUEM0ajBYZkk2TTdNMEl5dkNTcTB2TDdwZ2VtNFlxX1ZEY3p5MWZWOGUwenVqb0NPMlZvT05DMl80d2VCRV9pSEZZUEhSSDJaYzZVNW01alJhQWRCaS13Mm1Xd2pQaFhJWmgyY3M?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "הוועדה שתקבל הרשימה המשותפת, התוכנית החדשה בגוש השינוי",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DdFdiamt3YTdURkVQMV9uLUwwdGpPMTFzc3l6eUZCTzNlbFdfOXNMcFVYVHFGODNFbDhuLTB2UWxaM0FUeDdWZUVWMGRWZWxVWG43TEVHdWJBQQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "איזנקוט מסתבך: פחות ועדות, יותר כוח למפלגות הערביות",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Lb1h5TUllQVN0cUV2X1ZTZnFHaGFrMEdtdVNNSDRkN2R5LWVzTXpjRFlVOVZ0OEdmMi1xT05kdTJyV0d2eUZwcUpySGt0UQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "אמס"
-  },
-  {
-   "title": "הסיעה הכי תל אביבית וזו שמובילה בקיבוצים | בדקנו איפה גרים 120 חברי הכנסת",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQZ3hxZUJNUzAzNHNHQzlNd2hSVXVQUXl4RmpKUXRHLVhSdkM1MVFVazZqYkt1ODhaRDVWVWJjaHRKMGI1M2l4d2cxaWxhNDltbG1BTXpyYXhneFR3VGtpdFRtVEZaX3VXc09kV0FtQTg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "אחרי ביטול הקמת הוועדות: גוש השינוי נערך לצעדים נגד חוקי הממשלה הקודמת",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDaWI2blZ6YXR2RENIRGg1VDNDcDlxRGZFbUl3YjV0TWpYc2FCZXg1WWZ0VDE3WmFvRXRZTFE2MS1OZnBPT3VWd0JqWQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "בחדרי חרדים"
-  },
-  {
-   "title": "ספר 'כרם שלמה",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5sN1lSSjRGWEowdzB5eHNHRDhuUnJvN09fQlhUb0RvREIwZ3gwTXVNMHp1bC1PSzYxZ1h0dmJHWThwNjQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "המחדש"
-  },
-  {
-   "title": "Knesset legal constraints hamper anti-Netanyahu bloc’s legislative offensive",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uYzZaeEJoUlFWZVZmcDFCVTJXSm5KV3JORDNKU2RZZlhzd2dKRU9JTEN5bm1aeDdWODcxVVptcHNFMEtPRXZPM2x0VG1WLXFTQXZkcHhn?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Ynetnews"
-  },
-  {
    "title": "יעקב ברדוגו: \"השמאל מתעב את הפריפריה\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vVml4bVprbE5VZzY2enA2YU9WaFFsUjRmRUtiYXRveFVFbkJKM1otMWp3MWYyMGRwTHI1eDRLMUVKRi1IMFdpajhUa1QwbU9MYkdGLS1WR0VvQXBi?oc=5",
    "source": "ice · תקשורת",
@@ -559,26 +409,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "כ\"ץ מגיב לאיזנקוט: \"הביטחון לא ממתין להליכים הפוליטיים\"",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JT3lLUjZaWFB2UlFwQTlURWlxTnNtbFJaeGRWdnVNbXhEcUxKTEJXejRMVmh0bk16TlBzaFR0VFVZOW1EbXpjLWhhcw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "JDN"
-  },
-  {
-   "title": "80 שנה אחרי י\"א הנקודות: יישוב חדש קם במזרח בנימין",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqV3BibnF1SGpWUWt6WEZ6SkRkYmNkRE8wTmZOZGhzNUxLb3UtU3FDb0lCYXJjSFN5S01GOFBwdDlpdlNaOTF4ZE5sZHZNQ2d1amVfZmF1R3NoeDNkVEJaOVFSNnhlNy10V25Vcg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-12",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
    "title": "ארץ נהדרת מזנקת ל-17.5%: חצי מיליון צופים ויתרון גדול בפריים",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zcER4ZmF6VHQ1cnc1ZFp2UElqaEhNZ1VGd0xjcHZqelpKV1VwR0QyUjhueFNBbWVpRmRZQWFMY0FGWXpST1JsdUJSZ2hoR2FrOXI2NmVwRkRZOUo4Zm91QWtxN2ZTUjFiVmFpMmFKZjUxN2N5Y1R0QmNsU1VjUTg?oc=5",
    "source": "ביזפורטל",
@@ -589,6 +419,18 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
+  },
+  {
+   "title": "גוש השינוי מקדם שתי הצעות לביטול חוק השידורים של קרעי - וצלח מבחן ראשון בכנסת",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91NFR2Vi1NMXRvc0hESXBZbTlnWDZ0aFB5X0o3bllGakI3bU5ObHFXaHBPMzhTQmJUV05Md2hKWUlZbG5Zb3FGdzRGUzFQUXJXZ3Nyd2gxdXJhYThjT1VCbXVvWTlweHhn?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-11-11",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
   },
   {
    "title": "רוני מאנה: \"ערוץ 14 יקבל אותך בזרועות פתוחות\"",
@@ -2942,42 +2784,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "ערב של הפתעות: הדרבי גונב את ההצגה ורשת 13 מתרסקת",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTcUs1bUFSVElzSlVoWE16MERTMUZpcFdXTkkxbnY3MG9QMDJMZ0dFLU9ROXFOZ1RkTEc0cXZ2MDN0eDVUamd1V0VFMWpKejRTZWJIQWVweFBLcVBWNm9YOEZ0WlhXMGdG0gFwQVVfeXFMTUM4VVhjSloyaU9iZWNJclJDeXk1UkJPVGNDSHBsSXhxOHhXNzY3VHlEc09JcHFrY2plV0hNNnBUOHFHWEkwNU5PY0xGYVJnVkVFN09yOXBGMXZVOVppaU5oMjhzRWJpYkplZlhxMnBlaQ?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "site",
-   "date": "2026-09-14",
-   "keywords": [
-    "רשת 13"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "התפקיד החדש של כתבת חדשות 12: \"באופן רשמי\"",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fbHJLbktMeGRwWC11ZmhmUGE4c0ZIcE1URWR3d2lkVDhCaFVtRklxekhvNUlOVW1fU3JwV1E1OHF0b1JCS3JjRE5rbkdXRWlXRGZhRkJEbjBRb2lnd3NtOUZUQl9pNEZlMTJKeEpB0gF2QVVfeXFMUE4yYzEwQm1pU3k4dmVwdDZlYjBrR1ZycC02ZVZZeUVfUkxQdDlDWTdQZWpCb1EybWxMZi1QQXRrZFppTTl5cW81c0x4SnpLalpodHJXb1Vza2ZaWDFFOUVPY0tmMGExVW9QTUtJSUNaU2xoVlM0Zw?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "site",
-   "date": "2026-09-14",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "הריאיון המיוחד סידר לקשת 12 ערב חזק: 15% בפריים, אברי ושרקי עם 9.7%",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kZEMycFFKZl9LcmNKd2Q4VTY1RF8wRHJmWVF1RHNOdndpeVdkR2VMSVFQSkVJcGtYR1JKRzhCZHhEWVNzanhwYkxQbGtZUlYzclRTb0tjU0x0XzZSbURKNnhJMFl3LWdSeWRSdm5Rb2FBTmZUdVpneHhRVkQ1V2M?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-09-14",
-   "keywords": [
-    "קשת 12"
-   ],
-   "pv": true,
-   "publisher": "ביזפורטל"
   }
  ]
 }
