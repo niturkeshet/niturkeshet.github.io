@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:36+00:00",
+ "updated": "2026-11-14T10:58+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -258,6 +258,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ארץ נהדרת ירדה מ-33% ל-17%: לאן נעלמו צופי הטלוויזיה? לא מה שחשבתם",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tRHVvMW5NV2tSeXZXOV9qQ0twa21xNEhrZEtKcHVaLXlJMExlcm5zcFRLVXFBTS1SbUJZb1pfOHFtVGc5Zlpvalh4Z1ZnQkEwTU9XR2lLN2RLT2pwa3VETGh0blEzMnIyeXU1cVdIVlVsZVJoc0xYZkR2WktmQWs?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-14",
+   "keywords": [
+    "ארץ נהדרת"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "\"רכשנו את הדירה במחיר של ג'יפ; עכשיו היא שווה יותר מ–4 מיליון שקל\"",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2lUNkNBQ2c4ZkFXXzJjUWFmcVRqalk0end0dC1SUnVaQUJXcENwZTNXeUZDMk9WMWVzMDI1cVAwX2JEMkl6WGswOEY1NXJLbUx0ck1NX3N0M1pqeXhuLUo2a3VSbEkwZzU4TXVQcGEtTy1zNFBFeHVGbG5BRnNleTAzbmJvTHNUaC1OR0gxN0hYRTZEYVZYcUpMS2h5eENwY2lUNVV1eWdlSGdUZUpoVVBhUEFSblFFX2NwNVNSc1pXV1h0?oc=5",
