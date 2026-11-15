@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:54+00:00",
+ "updated": "2026-11-15T15:26+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -164,7 +164,7 @@
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -358,6 +358,19 @@
    "date": "2026-11-13",
    "keywords": [
     "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "רייטינג: שי חי מסתבך גם נגד \"ארץ נהדרת\" - קרב הענקיות הוכרע",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DTUNWRU94VGZsbUs4X3hHVFhXRG5RQUlOU2ZVdXhrQWpEQk1hdkN4dHZuY3hJVXlHcm15MXJEV1lPZmpEdVVOZWtTYjJUbkpKR21fZzB6d3haSm1wTnEtS1NB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-12",
+   "keywords": [
+    "ארץ נהדרת",
+    "רייטינג"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
