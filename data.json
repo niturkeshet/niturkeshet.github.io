@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:13+00:00",
+ "updated": "2026-11-15T07:54+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,103 +175,123 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "כבר לא תוקף מבחוץ: ערוץ 14 עבר לטלטל מבפנים את הגוף שמודד את הרייטינג",
+   "url": "https://www.themarker.com/news/themedia/2026-11-15/ty-article/.premium/000001a1-ca6b-dd4d-a9b9-ebeb1e090000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-11-15",
+   "keywords": [
+    "רייטינג",
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "גוש איזנקוט יקדם השבוע את ביטול חוקי ההפיכה המשטרית והחלפת יו\"ר הכנסת",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVhsTDNjMFFVdkw5UzFwMDA2UmFiQnk1ZlBmOFhGZVNtYVVSc2hEdTVucHBMVE5BV0daeVI3aklGYk95R0ZIazhFaDFPVHFGV3lKYlVNNjlBb1h1ejdtbXRxTEx5TjhaTXo0bFlGOGFxam04M0syQWJIWXZ0ZkVmVTVwUzFZYnd6dnVlbXdZY0ZqQXpZeFktc1BiVUs5M3oyX1c4Zl8tU1JXeFpV?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "\"הישרדות\" מזנקת לדו-ספרתי, \"הפטריוטים\" נחלשת: הקרב על הרייטינג",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZNGRwUVdlSUVmOS1PZmRfX0pkemRzMTFvNFdJOXBka2VvNHRqUzJ6eWhPWldNSGl4NS0tNElBXzdLMTVacE1jdS1CN3V3QzE1eDZUSTloc2lsNDhvLXRWSTc5Sl9xZ0RDdDFmQ1hfSTk4ODA4bEpwTnNnZUwyQzQ?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-15",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "אוסף של 100 מיליון דולר עולה למכירה בסות'ביס: מה הוא מלמד על השקעה באמנות",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PSVVGV0Y0ZjYxZ3hNYkRaU0Z5UGJlaEdkUC1zcHVNZXZpMTBONlpjcUlKT3V6aUlpblBSUHEtMEFsN0lJVUVtTklfT2lJYjhBSTlwTEZmY2tjcXFBZ3RHa09wWnM5dFhmQ0tkM3hsdWI?oc=5",
