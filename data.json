@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:26+00:00",
+ "updated": "2026-11-15T20:29+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -258,6 +258,28 @@
   }
  ],
  "items": [
+  {
+   "title": "לשכת רה\"מ בתגובה לתחקיר חדשות 12: \"עוד כתבה שקרית\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WRjRjRFlONUdILUlPeGFSYmdBdXJxQUVpbW5zamxna2NGZm1qaElSS0xvRlYyNG52QTJFRzhZLWYxS084MElyMkExNGY2RVBwam0tb2U5V3NJelRLYVQ3N2NGa0RoUU0?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-11-15",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "שיחות לילה - ״׳כשאת איתי׳ הוא שיר נחמה אחרי לילה קשה או מצב רוח קודר",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PamNzMXNqZHJ3S3l1dGFjOTREX3BVZG1KTHNvRU1jWV8zaWpvWG9VbHVuX0xHUThwX3phNnY5eVZrUFNzU0J0OXZoY25BNHFDNEgzNVBlSFp5R1o0TUZIb0loVnpBYUZ0V3Y1MjdBd3d4ejEzZk1CZm9KUTNxQQ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-15",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "כבר לא תוקף מבחוץ: ערוץ 14 עבר לטלטל מבפנים את הגוף שמודד את הרייטינג",
    "url": "https://www.themarker.com/news/themedia/2026-11-15/ty-article/.premium/000001a1-ca6b-dd4d-a9b9-ebeb1e090000",
