@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T21:16+00:00",
+ "updated": "2026-11-15T01:13+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,86 +175,100 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   }
  ],
  "items": [
@@ -279,26 +293,6 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
-  },
-  {
-   "title": "\"רכשנו את הדירה במחיר של ג'יפ; עכשיו היא שווה יותר מ–4 מיליון שקל\"",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2lUNkNBQ2c4ZkFXXzJjUWFmcVRqalk0end0dC1SUnVaQUJXcENwZTNXeUZDMk9WMWVzMDI1cVAwX2JEMkl6WGswOEY1NXJLbUx0ck1NX3N0M1pqeXhuLUo2a3VSbEkwZzU4TXVQcGEtTy1zNFBFeHVGbG5BRnNleTAzbmJvTHNUaC1OR0gxN0hYRTZEYVZYcUpMS2h5eENwY2lUNVV1eWdlSGdUZUpoVVBhUEFSblFFX2NwNVNSc1pXV1h0?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "לאילה חסון אסור, לעיתונאים מהשמאל מותר להגיד בתאגיד מה שרוצים",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxaW5Tb1FhbUhINHY5WDVveXYzUXBfMUZrRWZ0cWs5dUZ5LWF1a1NqSGs0TEJMc2xEdDV6QWZjRzBpaEdyOWI5MlpnUXpPREhxdmVKT0FWOXhMVkNVcUItTzJ0YXRCUQ?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-11-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
   },
   {
    "title": "23 שנה לארץ נהדרת: הפיילוט שנכשל ועוד 4 סיפורים מפתיעים",
@@ -347,16 +341,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "Eisenkot Bloc Moves to Undo Netanyahu's Judicial Coup Through Knesset Committees",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPallkQVJDZElVdDMwOXpZcDVOYmU3ajJCb1JRYS1Jd1o5MTI3V0JFejVPQ0FDbVNZUXpZREpxdE5Wa1VnVldCclQ0XzZmODU0dzM3X0puRXRBdDhpUnZBYjZUMHlSSXZkNHRsNXFEc0cyS2pMVVZva3FpN2pyNlF2M3lFc1dUS1Q0M0otNDF3N1ZYZjlIb3NhN2JoQVpEMUoteWRKTlZnWVlPQzgxeG1sUGtfY3N1TGtiVU9BVkFIZ3Y4RHFPWDdhczdiWURIRVFqOV9wdUxJOWE3S3dncmtFeGZ3TEcwZFZpQ3hHekp1VXh4UkJ6N1JMeUFVVnplWGtqMEoweEt0OWNJVTZLaTFwN0lBUUM5SkktZnhKY3N4dEtsMjI5dnc?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-13",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Haaretz"
   },
   {
    "title": "אייל ברקוביץ' חושף: אלה ההודעות שאני מקבל מגיא פלג",
@@ -2720,89 +2704,6 @@
    "date": "2026-09-16",
    "keywords": [
     "i24"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "פאנליסט ערוץ 14 גילה: \"עליתי לשידור מהמחלקה הפסיכיאטרית\"",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sdHRtX1pIUjJKSWRpbHVJNXFxRHVFTHJiTEhXaV9QSW5UUXpKTG94ZVNNV0daVmxQeWdlcmRYbW45SlFSLXIwWlpHV2RUc1NfMEh4c3M5Zk8yS3J4TFlRZ09KRXZXLXZOVTNDM0Fjeks4Qk44UXfSAX5BVV95cUxPVTBtWFNsb2EyRm5peHhxbEpnTjdEanI3ZHV4MFJ4QjVqZFd6ZFJTcTFscHhHYVNsZk8xUHRiSFNxcVd3ZGhNdWkxTGlHSGpxZVZmNms2N0xKempGV3F2SnBzMUwwVkxYT1dQYkUzRVdJdmdSZjVYaHg3ZGcwLXc?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-09-15",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "חוקר מגוגל דייפמיינד מזהיר: \"ל-AI יש פוטנציאל להרוג את כולנו\"",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001555473",
-   "source": "גלובס · נבו טרבלסי",
-   "type": "site",
-   "date": "2026-09-15",
-   "keywords": [
-    "גוגל"
-   ],
-   "pv": true
-  },
-  {
-   "title": "שרון גל חוגג: מזנק ברייטינג לשיא חדש ועוקף את כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95alQ3TmpIX051c05SeFdTbC1JTTgxbG40TDRSdnczbEpidUF6OHpIazV3UFQzeEttdFZLNmtNMzBCeUNOX0lldkVjYmxYYkFleHdoLUQ3TXE?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-15",
-   "keywords": [
-    "רייטינג"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "האמירה עלתה ביוקר: יעקב ברדוגו וערוץ 14 ישלמו פיצוי של 105 אלף שקלים",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XajN1VHA0b1dqRjJZWXpEWXVvRU1TRGRRZDRjZjN3TGJuendVMENUV0FicEhXZzZSVGxuTGJ6a3FzSkxwajh4aUs2NjZkV2I5MEo4NXVVbFpZU0ZsLTdXc1dGbkRPd9IBbkFVX3lxTE8zMzRZcDNobEZ0clZ2X3RMV2xNcWo0N2lxaXQzWVowTldWWmhaTUE2UG96bFNwa05WelNRYjJ5QUxrRlVtSldhWWJGUEE5WG5zdFBFNEhuM3U4dnFtLXRZYXJEYmZTaTdjWV9UeXln?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "site",
-   "date": "2026-09-15",
-   "keywords": [
-    "יעקב ברדוגו",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "תגובת מטא ללאומי חושפת: המשתמשים בארה\"ב מוגנים יותר מאשר בישראל",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001555503",
-   "source": "גלובס · נבו טרבלסי",
-   "type": "site",
-   "date": "2026-09-15",
-   "keywords": [
-    "מטא"
-   ],
-   "pv": true
-  },
-  {
-   "title": "בייבי בום מובילה; הדרבי עקף את כאן, רשת וערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWE5nQzdiZ2J1S2xPZWZfeHMyNFNJUy1MMEFrdjhWZUcxUUk5VzZ2cGVfc2NSamFLOFNGMWVXOEw2aXJsLVVjNG1RcFM5ZmZmV0FHS0c2dUhFMk9sQVVmQ0JJTzBiV3oxbllGUFpkaHBVLXNlaW50aXQ4OGdvU28?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-09-15",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ביזפורטל"
-  },
-  {
-   "title": "קוקה קולה מסתבכת שוב: הסכום הגדול שנדרשת החברה לשלם",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PTWppUkptdjc4NTBMMlBleXZZX2g0bFl6UHI3MW83M2hUTU1jRzZVZ1N0eFozTVNoSFdMYU5CdlF6cmFZUUlfYUstMjY1bUczdmRveHduN0ZGSWxiV2VzRFdlaTM?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-15",
-   "keywords": [
-    "קוקה קולה"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
