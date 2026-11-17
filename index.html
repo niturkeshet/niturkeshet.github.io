@@ -89,7 +89,7 @@
     <h1>HUB <span class="dot">·</span> ניטור תקשורת</h1>
     <span class="meta" id="meta"></span>
   </div>
-  <span class="meta">מתעדכן אוטומטית כל רבע שעה</span>
+  <span class="meta">מתעדכן אוטומטית כמה פעמים ביום</span>
 </header>
 
 <div class="wrap">
@@ -263,6 +263,81 @@ function render(){
   });
 }
 load();
+</script>
+<script>
+/* little surprises — Elad → Gal */
+(()=>{
+  const MSG = "אלעד אוהב את גל ❤️";
+  const css = document.createElement("style");
+  css.textContent = `
+    .egg-toast{position:fixed;bottom:22px;left:22px;z-index:99;background:#2a1520;color:#ffd6e4;
+      border:1px solid #ff6b9a;border-radius:14px;padding:10px 16px;font-size:15px;
+      box-shadow:0 6px 24px rgba(255,80,140,.25);opacity:0;transform:translateY(20px);
+      transition:all .6s ease;pointer-events:none}
+    .egg-toast.on{opacity:1;transform:none}
+    .egg-heart{position:fixed;top:-40px;z-index:98;pointer-events:none;
+      animation:egg-fall linear forwards}
+    @keyframes egg-fall{to{transform:translateY(110vh) rotate(25deg);opacity:.2}}
+    .egg-big{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;
+      z-index:100;font-size:clamp(28px,6vw,64px);font-weight:800;color:#ff6b9a;
+      text-shadow:0 4px 30px rgba(255,80,140,.5);pointer-events:none;opacity:0;transition:opacity .5s}
+    .egg-big.on{opacity:1}
+    .egg-foot{text-align:center;padding:18px 0 26px;font-size:13px;opacity:.35;cursor:default}
+    .egg-foot:hover{opacity:1}`;
+  document.head.appendChild(css);
+
+  function toast(t, ms=5000){
+    const el = Object.assign(document.createElement("div"),{className:"egg-toast",textContent:t});
+    document.body.appendChild(el);
+    requestAnimationFrame(()=>el.classList.add("on"));
+    setTimeout(()=>{ el.classList.remove("on"); setTimeout(()=>el.remove(),700); }, ms);
+  }
+  function hearts(n=40){
+    const kinds = ["❤️","💕","💖","💗","💘"];
+    for(let i=0;i<n;i++){
+      const h = Object.assign(document.createElement("div"),{className:"egg-heart",
+        textContent:kinds[i%kinds.length]});
+      h.style.left = Math.random()*100+"vw";
+      h.style.fontSize = (16+Math.random()*22)+"px";
+      h.style.animationDuration = (2.5+Math.random()*2.5)+"s";
+      h.style.animationDelay = (Math.random()*1.2)+"s";
+      document.body.appendChild(h);
+      setTimeout(()=>h.remove(), 7000);
+    }
+  }
+  function big(){
+    const el = Object.assign(document.createElement("div"),{className:"egg-big",textContent:MSG});
+    document.body.appendChild(el);
+    requestAnimationFrame(()=>el.classList.add("on"));
+    setTimeout(()=>{ el.classList.remove("on"); setTimeout(()=>el.remove(),600); }, 3000);
+    hearts(50);
+  }
+
+  // 1) now and then, a quiet note when the page opens
+  if(Math.random() < 1/6) setTimeout(()=>toast(MSG), 4000);
+
+  // 2) the dot in the title is a secret button
+  const dot = document.querySelector(".brand .dot");
+  if(dot){ dot.style.cursor="pointer"; dot.title="💗"; dot.addEventListener("click", big); }
+
+  // 3) search for "אלעד" or "אהבה" (or a heart) — hold it a moment
+  const q = document.getElementById("q"); let tm;
+  if(q) q.addEventListener("input", ()=>{
+    clearTimeout(tm);
+    const v = q.value.trim();
+    if(["אלעד","אהבה","❤️","❤"].includes(v)) tm = setTimeout(()=>{ hearts(30); toast(MSG,4000); }, 700);
+  });
+
+  // 4) a tiny signature at the bottom of the page
+  const f = Object.assign(document.createElement("div"),{className:"egg-foot",
+    textContent:"נבנה באהבה · אלעד ❤️ גל"});
+  f.addEventListener("dblclick", big);
+  document.body.appendChild(f);
+
+  // 5) Valentine's Day
+  const d = new Date();
+  if(d.getMonth()===1 && d.getDate()===14) setTimeout(big, 1500);
+})();
 </script>
 </body>
 </html>
