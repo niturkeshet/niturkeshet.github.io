@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T12:56+00:00",
+ "updated": "2026-11-17T16:55+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,19 +194,19 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -270,6 +270,68 @@
   }
  ],
  "items": [
+  {
+   "title": "בשורה לצפון השומרון: אנטנות וסיבים אופטיים יחוברו ליישובים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Td2hGZnZDZ2FCQUU1ajV5Tjd0VUMzUTg4WFNpa3ZMTjNzZUxPWUxaOGRyclFsOEgtSkFPbGx5cFpmVHgwRjBXMnBldkN0QQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "חדשות 04 - השר קרעי ודגן בבשורה לצפון השומרון: ״ריבונות הלכה למעשה״",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yS0QzTG9lT2x6Wlp0eUE3TGZEU3hDb3ZPNm04bjZXNTFRTDdscWREWExSR21LVm5VYU9XNEVKQ0lvQm84LWdNRS1n?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
+  {
+   "title": "Battle For Knesset Speaker Pits Likud Against Eisenkot’s Bloc",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjBZbHVGcXNzYkc2amtaUDhfRHZnQUlNaDl0N3JOaERjcU8zaWdHVDE5Sk9wRFdVb3FRWjdfa2hkMkU3VXFvemFNX25DVDlqN2ZheVJBYXdRb3VDblJLZVRya1pwOWdKa05od0xPUGp0c1BKZEZMdzNjb2FBSnY4akhiNUpRRXViVjNtMVhXQWNZaWRTbnBfSmgtMkdCMUxhV21pNmpKdjlWY0JhTzJISzljMA?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "i24NEWS"
+  },
+  {
+   "title": "הדמוקרטים הודיעו על הקמת 4 ועדות מיוחדות לביטול חוקים של הממשלה הקודמת",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VWWNsZlB4QU45NF9peXZTS3VFYWxmazlLOEdTU3B0Vkl3amJIbmIzbnlvejJWVEgyaWd1Wm1fdDRWWXlHLWVn?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אתר החדשות דבר"
+  },
+  {
+   "title": "צפו: מירב בן ארי הפתיעה את אמיר אוחנה",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KMEdpZzZHVFp1eGM4c2Fxc1gyaFVpemZUQkVOcV9hSHJ2TUE2NFlOcUpUNGdEQ0dUbUExbE95UmNuVWJIWXVwbA?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
+  {
+   "title": "יום מתוח במליאה: הכנסת תצביע על החלפת יושב ראש",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iYWxiV3ZQNWsxV1ZwRWtlcFB5VEo4dzhoSHpQbzc0ZTJ3Z2w2SDZvRVpsdE5wLVBVNC1zNTZPUnRXVDZ1dUpWM1NMOUtrN1R1SEJTTzlQbUg2UWwwc0d2Sm1DUXozenFmWkE?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "i24NEWS"
+  },
   {
    "title": "קרעי ודגן: פריסת האנטנות בצפון השומרון תואץ",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Rc1IzaTRzMmFubENVM3JNaU4yLTJ5SFhLUVc0amNnWjZjLTBwQ214dU9GRTBMeGRleXppRVpvN212U1NSMWRBMw?oc=5",
@@ -343,7 +405,7 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "כפי שפורסם ב\"היום\" - גוש השינוי מקים ועדה לביטול חוקי התקשורת",
+   "title": "כפי שפורסם ב\"היום\"",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56VmpGSElHbEQyNF83STVraXdhbHg4Qks3VEhLTVlvMmM4NlRIdk1kOEZLRk9oLWtsQ2VibVE2Ukgwb1JEMGRfSW9BcldVWXNqZU16amhjeF9FSDNWajc4VEh2Rkt3Yl9ERnItXw?oc=5",
    "source": "חיפוש גוגל · מירב בן ארי",
    "type": "google",
