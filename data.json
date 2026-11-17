@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:41+00:00",
+ "updated": "2026-11-17T17:56+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,8 +187,9 @@
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -270,6 +271,18 @@
   }
  ],
  "items": [
+  {
+   "title": "עובדים בערוץ 14 טוענים לעיכובי שכר: \"מקרה קיצוני\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzT2VUYmVLcExtQU9KZ0xoYVB4cUlOZjA0aVF2LW12b2xjcXM1VXdYMGdLaE91MW9GYjEzbTl1Y1VoZ1JseWJCblVJWEhBVlM1bWtrX2lfRFpCMW9s?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-17",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "בשורה לצפון השומרון: אנטנות וסיבים אופטיים יחוברו ליישובים",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Td2hGZnZDZ2FCQUU1ajV5Tjd0VUMzUTg4WFNpa3ZMTjNzZUxPWUxaOGRyclFsOEgtSkFPbGx5cFpmVHgwRjBXMnBldkN0QQ?oc=5",
