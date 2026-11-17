@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T00:48+00:00",
+ "updated": "2026-11-17T08:52+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,9 +175,8 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -188,9 +187,8 @@
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -214,7 +212,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -231,9 +229,8 @@
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -261,6 +258,38 @@
   }
  ],
  "items": [
+  {
+   "title": "שלושה טקסטים מוכיחים שגלי בהרב מיארה בחרה במודע להתנער מתפקידה",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JckwyZGRCT0xobGdsYWJZZFhfdU1lYTFpZzExQWJzWHpGbzBlc2djblJoR1RoSXlJNjZWVVpScHotYUktY19SZ1k4SnlvelFXUGNoN0l1aWhOSm1fZFBMRk1Rdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "הרווח הנקי של מזרחי טפחות נחתך ברבעון השלישי",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jOXhZR0theURrSFlGeERnTmdHOEp0TU5kLXMydXJXN0tzcDlQaTYzUEp6V0gxMGlLVnNQdGJTd3dtN01lSjR0eGJwdzI3NndvaFB5OS1XSWNRQjU1UnZsaEk0YTJaU3By?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
+  {
+   "title": "רייטינג: הזמר במסכה בפסגה, הפטריוטים ו\"הנרדף\" של 14 מפתיעים",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tVzdtUE5yM0hKRHZQMjVjdHFZUHYzZkRQalljQW16bFFwajJOUUhXb05JOUVwX2ZVQlhkOHRMVTlPZVhhVjlic0NlUmI1bkU3QkFpSkpXUDJxMnZZSDZqNzlR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-17",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "בוסו, לוין וטרופר ביקרו במאהל האחדות של ח\"כ אלישע מדן",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OaExOUURqWW1sczZuQ0k1NmpNTU40cEdLTmhYb2ZmOEk3ZGpMa3NIZFpscnllYjlmR0Y5c0FBbmNLSnBGeldBYl9uaw?oc=5",
