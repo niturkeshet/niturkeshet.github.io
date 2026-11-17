@@ -166,7 +166,7 @@ function init(){
     else if(mins < 1440) ageTxt = `לפני ${Math.round(mins/60)} שעות`;
     else                 ageTxt = `לפני ${Math.round(mins/1440)} ימים`;
     if(mins > 1440)     stale = "stale-bad";    // over a day — something is broken
-    else if(mins > 180) stale = "stale-warn";   // over 3 hours — refresh is lagging
+    else if(mins > 720) stale = "stale-warn";   // over 12 hours — GitHub schedule runs every ~4-10h
   }
   meta.className = "meta " + stale;
   meta.textContent = "· " + items.length + " אייטמים · עודכן " + ageTxt
