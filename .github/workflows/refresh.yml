@@ -1,6 +1,10 @@
 name: refresh-hub
 
 on:
+  # 15-min cadence: each run re-starts itself ~15 min after it began (last step).
+  # GitHub lets a run's own token start workflow_dispatch, so no password is
+  # needed and nothing expires. concurrency keeps at most one waiting run, so two
+  # chains collapse into one. If the chain ever breaks, the schedule restarts it.
   # Two triggers on purpose. The external cron (cron-job.org) gives the fast
   # 15-min cadence but dies silently when its token expires — that cost us 15
   # days of a frozen hub. GitHub's own schedule is slower and throttled, but it
@@ -12,6 +16,7 @@ on:
 
 permissions:
   contents: write             # allow the job to commit the updated data.json
+  actions: write              # allow the job to start the next run
 
 concurrency:
   group: refresh-hub
@@ -20,7 +25,11 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
+      - name: note start time
+        run: echo "STARTED=$(date +%s)" >> "$GITHUB_ENV"
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
@@ -49,3 +58,12 @@ jobs:
             done
             exit 1
           fi
+
+      - name: start the next run in ~15 min
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          left=$(( 900 - ( $(date +%s) - STARTED ) ))
+          [ "$left" -gt 0 ] && sleep "$left"
+          gh workflow run refresh-hub --repo "$GITHUB_REPOSITORY" --ref main
