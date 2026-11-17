@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:29+00:00",
+ "updated": "2026-11-17T22:44+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -270,6 +270,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Knesset elects Yashar's Kahana as new speaker, ousting Ohana despite Likud challenge",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02WlUyYUJtdGFsMUNuZlpEcTZtbUxPTkpOX2lBcF83UFVMaXN6dDF5Ui13bjR1NnNpLWtRVWd4WEprU1VkZTcwVXMxRmJmZFFtRzAzZkZMM1RPQTNfdVFQZ3FEcTZXc2R6bExzRjFHaEhEZDBJdWo1bFE2Yw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
+  {
+   "title": "בזכות קולות הערבים: ח\"כ מתן כהנא נבחר לתפקיד יו\"ר הכנסת עם 66 בעד • סמוטריץ: \"לדיראון עולם\"",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtVHVZSVE2aDROdFd2X0o3czJjS0RKbXoyaWFmMnZOVkJ2b0h0RnRBLVByNzVfXzV4dmVydTVham11OE85MlBr?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
+  },
   {
    "title": "המהפך בכנסת הושלם",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VWDRoUVVISnlWSFJ6WFU1M2xUNkx6bUFreHVEZ25qMjEtai1nUXhqU0k3dHdIeHhCWUNIYzdXYnF5WWppUHA1d1dBb094Z2UxMlhYb0hGcXZ0c3RSdjRSRUh3?oc=5",
