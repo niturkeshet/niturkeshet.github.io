@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T08:52+00:00",
+ "updated": "2026-11-17T12:56+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -42,7 +42,8 @@
   "ערוץ 14",
   "מריוס נכט",
   "מירילשוילי",
-  "רשת 13"
+  "רשת 13",
+  "מירב בן ארי"
  ],
  "sources": [
   {
@@ -121,6 +122,11 @@
    "active": true
   },
   {
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "kind": "google",
+   "active": true
+  },
+  {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "active": true
@@ -194,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -212,7 +218,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -231,6 +237,12 @@
    "kind": "google",
    "ok": true,
    "kept": 0
+  },
+  {
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "kind": "google",
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +270,138 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי ודגן: פריסת האנטנות בצפון השומרון תואץ",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Rc1IzaTRzMmFubENVM3JNaU4yLTJ5SFhLUVc0amNnWjZjLTBwQ214dU9GRTBMeGRleXppRVpvN212U1NSMWRBMw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
+  {
+   "title": "קרעי לבן ארי: היית בוועדת התקשורת כמו שיאיר לפיד היה בכנסת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZS3E3Z2tORDVBaWFwd2otMXJMQkxKRzlWTTk1X29oNGd1cUtfci1IT1ZtUVMtNUxMYkZGemZVQmU3UHh6aXFwM3Z1YUk4QQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "קרעי ודגן: פריסת האנטנות בצפון השומרון תואץ, 6 ישובים וותיקים מתחברים לסיבים האופטיים",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKN09KVFM2WXFWbkdnbDVtbGtqaDF5dGRUZVB3WmRBLVVOZlJqWVNiQllIeVpTbk80c2pucmQ0NTZkNl9abEVV?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
+  },
+  {
+   "title": "ב-200 מיליון ש': פרויקט פריסת הסיבים של בזק ונתיבי איילון יוצא לדרך",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14OWdWUTFzYUJJYzV2cnV5M3ducXZtTDRzLTZSSVdvc0dBejFvc1RjemR6QVVoUGttcmMtVE5MUzAzclVHb2tPRC1BLV9zZjNRV0FMdlN0NEJKZ2UxcGtNWHBCbUl3TXRU?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
+  {
+   "title": "יומן בחירות: יום שלישי, 17 בנובמבר 2026",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5wRGpqeDVkZ002aGxHbFNvbTExN3FkMG9WcXRsWTdCNFhBNFRfdEtINmlkc3U3RTA2bEdJTmNtUmdIX2hL?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
+  {
+   "title": "\"יש לך 3 דקות, תכין משהו\": העקיצה של מירב בן ארי לשר קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UNzhGMXBhUWtoWlZZdVRnUmNEOGh1ZERfaHlyY24zU09fSWlTRUNNNDVyVlRYT0V2TTIzV3Y5cU4xQm5lSkQxVHNhWHVibFE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ירידה של 8%: מזרחי טפחות הרוויח 1.4 מיליארד שקל ברבעון",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0lQRUlQVjhfaC1GVzJiSzZlQUY1Z3pPeG9lT0YyRlc4Q3RTTU5hRlYwWWdQak00TzV5YXEtTS1QaGhheF9jWHdZazZwX2R2Q3ljTndiSmZGLWVKTkl6Mm9OWm15T2Vud1BhUXRFOE9xeEJ5Qm03YXJ5SHpNQW5sY3F4emhaV3h0cU5YdEN0Mm9wYjFmWDV0MDBOQU00MERpZGNN?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "כפי שפורסם ב\"היום\" - גוש השינוי מקים ועדה לביטול חוקי התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56VmpGSElHbEQyNF83STVraXdhbHg4Qks3VEhLTVlvMmM4NlRIdk1kOEZLRk9oLWtsQ2VibVE2Ukgwb1JEMGRfSW9BcldVWXNqZU16amhjeF9FSDNWajc4VEh2Rkt3Yl9ERnItXw?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "עוד לפני הקמת ממשלה: הכנסת עוברת לידי גוש איזנקוט | זה היעד הבא של יו\"ר ישר!",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xcll4Si1xTmoxSnZpRXhkZEpxSkoyT3I0azlWSDJqYzJIdFhjdU81bTZ2NUdxblJ0UlR4bDg4eDBoQzFkTDdsR2RvWTJwM1pMZ0JGT2pTZW9Sb0Y3QkE?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
+  {
+   "title": "לקראת ההצבעה על יו\"ר הכנסת: הליכוד הציע את אופיר כץ, יהדות התורה תתמוך בו",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10cnhIQld5MVBRdnVKVWYyT1YybXoxc3huSjlRRGxZa20zSC1iSFQzcTNOYmQ0NTdaUjdyVFFMN0pJRnJzNGNaZllvOWQ1M2pSNUViMnB2Y0pYSDV6MjVoOHVGXy10ZXdz?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
+  {
+   "title": "איזנקוט על נתניהו: \"אין רסן שלא איבד\"; הליכוד: \"הסתה פרועה\"",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80V05MVXNhaHZEakhNdlF5MEltWTVHMWVmVnYwMHQ2YWdWMHVkRUhVNjRfajRrTm14U0lSYkRBU0RzWEttc0NFQ0EtdHRVM09SSDlrb0ZpTFljWFhQWndyZjZhNWxiYV84dXc?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "הליכוד מציב מתמודד מול מועמד איזנקוט ליו\"ר הכנסת, כך יצביעו החרדים",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44YnFsVzVMUVN4Q0J5UFI4d3ZIem1YN2hxSHBOeXRJTmtqTnJkTXZJdko5TmYwbWxyMGhiSmtUTE14a1lCNVpHRkpUa3M5TTJoZTEtT2NpVzRSdw?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
+  {
+   "title": "ועדות מיוחדות יפעלו לביטול חוקי הרפורמה המשפטית",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTVXg5M2VvQXhkODV1R3U2ZDFydTVBcGp6cl94S0hYOEpDaU5TUE42OEwxMmVFczlZaTJtVFR1T3dJWGFGa0ZzSlU1bEFpQQ?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "שלושה טקסטים מוכיחים שגלי בהרב מיארה בחרה במודע להתנער מתפקידה",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JckwyZGRCT0xobGdsYWJZZFhfdU1lYTFpZzExQWJzWHpGbzBlc2djblJoR1RoSXlJNjZWVVpScHotYUktY19SZ1k4SnlvelFXUGNoN0l1aWhOSm1fZFBMRk1Rdw?oc=5",
