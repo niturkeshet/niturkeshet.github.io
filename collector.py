@@ -50,7 +50,7 @@ KEYWORDS = ["קשת 12","ערוץ 12","חדשות 12","כוח מאה","גיא פ
     "אבי ניר","ארץ נהדרת","עובדה","רייטינג","ניר ברקת","יואב קיש","יעקב ברדוגו","ינון מגל",
     "גוגל","יוטיוב","מטא","פייסבוק","רגולציה","תרעלה","תבהלה",
     "חוק קרעי","גלית דיסטל","shlomo karhi","i24","הוט","HOT","ישראל בידור","רפפורט",
-    "ערוץ 14","מריוס נכט","מירילשוילי","רשת 13"]
+    "ערוץ 14","מריוס נכט","מירילשוילי","רשת 13","מירב בן ארי"]
 
 # Writer / tag pages. `pattern` = regex an ARTICLE href must match on that domain.
 SITES = [
@@ -86,6 +86,7 @@ SEARCHES = [
     {"source":"חיפוש גוגל · גלית דיסטל","q":"גלית דיסטל","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · פטריק דרהי","q":"פטריק דרהי","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · יפעת בן חי שגב","q":"יפעת בן חי שגב","unconditional":True,"recent":True},
+    {"source":"חיפוש גוגל · מירב בן ארי","q":"מירב בן ארי","unconditional":True,"recent":True},
 
     # Whole-outlet coverage via Google News site: search, keyword-filtered (kind=site).
     # n12 and mako are the SAME system (Keshet) — n12 article links point to mako.co.il —
