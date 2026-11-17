@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:02+00:00",
+ "updated": "2026-11-17T00:48+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,8 +175,9 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -187,14 +188,15 @@
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -206,7 +208,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -229,8 +231,9 @@
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -258,6 +261,28 @@
   }
  ],
  "items": [
+  {
+   "title": "בוסו, לוין וטרופר ביקרו במאהל האחדות של ח\"כ אלישע מדן",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OaExOUURqWW1sczZuQ0k1NmpNTU40cEdLTmhYb2ZmOEk3ZGpMa3NIZFpscnllYjlmR0Y5c0FBbmNLSnBGeldBYl9uaw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-16",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JDN"
+  },
+  {
+   "title": "ינון מגל בהלם: \"תדעו לכם, אני בבעיה בימים האחרונים\"",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwdk4zQUNHdXd3UnMzRVV2OHdzSEpGM1Exc2FzTk5vaHV6OTJ3MENvN0UwQjgwYVIxN2RxRkxaQWdLalFVSnZNTjNCRzVNS3E1ZkVNU05fU2U?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-16",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "חמישה חודשים בלבד אחרי שמונתה: סמנכ\"לית הכספים של רשת 13 התפטרה",
    "url": "https://www.themarker.com/news/themedia/2026-11-16/ty-article/.premium/000001a1-e4be-d3b1-abad-e6be07f80000",
@@ -382,16 +407,6 @@
    "publisher": "מעריב"
   },
   {
-   "title": "היריבה החביבה",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04bmo0ZjVpcUdHMEwzTHpQdkRqc1RPc1E3YU4yaWhPYkFYYmF4UjZiaEdZdVMtdGJKdjJHalBJUDR2SC1ra2RMRl94Z3pwdWtnYV82M0h6ZWxPTjEtb3I0LWNn?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-15",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
    "title": "הרופא מרהט שנעצר מגיב לחשיפת \"עובדה\": \"שמח שהצדק עצר את הרדיפה הפוליטית\"",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVNRNTd6bFVxWDJGeUpXa0M0ZXFFMGJEa2ozSU9zNG9CYnc0bDBnRzJ6UVNpcF9iVGtnQkhKSkpHeWJQeFlpNXg0V1VDR0dUQ1FraVZ0Qk1DeFhxMW43QjV2dzQyWUhJazZOUlJBa21RZUVINFI1M0hZSXpFQzVuRg?oc=5",
    "source": "n12 / מאקו · חדשות 12",
@@ -416,16 +431,6 @@
    "publisher": "היום"
   },
   {
-   "title": "שיחות לילה - ״׳כשאת איתי׳ הוא שיר נחמה אחרי לילה קשה או מצב רוח קודר",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PamNzMXNqZHJ3S3l1dGFjOTREX3BVZG1KTHNvRU1jWV8zaWpvWG9VbHVuX0xHUThwX3phNnY5eVZrUFNzU0J0OXZoY25BNHFDNEgzNVBlSFp5R1o0TUZIb0loVnpBYUZ0V3Y1MjdBd3d4ejEzZk1CZm9KUTNxQQ?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-15",
-   "keywords": [],
-   "pv": true,
-   "publisher": "103FM"
-  },
-  {
    "title": "כבר לא תוקף מבחוץ: ערוץ 14 עבר לטלטל מבפנים את הגוף שמודד את הרייטינג",
    "url": "https://www.themarker.com/news/themedia/2026-11-15/ty-article/.premium/000001a1-ca6b-dd4d-a9b9-ebeb1e090000",
    "source": "דה-מרקר · יסמין גואטה",
@@ -436,16 +441,6 @@
     "ערוץ 14"
    ],
    "pv": true
-  },
-  {
-   "title": "גוש איזנקוט יקדם השבוע את ביטול חוקי ההפיכה המשטרית והחלפת יו\"ר הכנסת",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVhsTDNjMFFVdkw5UzFwMDA2UmFiQnk1ZlBmOFhGZVNtYVVSc2hEdTVucHBMVE5BV0daeVI3aklGYk95R0ZIazhFaDFPVHFGV3lKYlVNNjlBb1h1ejdtbXRxTEx5TjhaTXo0bFlGOGFxam04M0syQWJIWXZ0ZkVmVTVwUzFZYnd6dnVlbXdZY0ZqQXpZeFktc1BiVUs5M3oyX1c4Zl8tU1JXeFpV?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-15",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
   },
   {
    "title": "\"הישרדות\" מזנקת לדו-ספרתי, \"הפטריוטים\" נחלשת: הקרב על הרייטינג",
@@ -2648,90 +2643,6 @@
     "רייטינג",
     "ינון מגל",
     "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "אסף רפפורט בגל פיטורים: מגיש חדשות 13 יעזוב אחרי למעלה מ-20 שנה",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tTGkwUExqYndDXzNfLUJnTG9UOFJVdmFJemRNa1BxeXFXbXdYc0lJRDhaQUVvWHJjQklXUExRdnpGM2E1T29lcWdLWmZvVU5aZWZZeC1GWGNlc3pz?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-17",
-   "keywords": [
-    "רפפורט"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "אחרי 20 שנה: אחד המגישים הבולטים של רשת 13 מסיים את עבודתו",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kYzdQWmpKWVhDZlNSOF9ib1p0N0MtYnpHQkhveDVQaG54cHFRNGFqaXpMdzBkR2RWRThzbnRqWVFsTVNiQlZYdEozVkpFb3lqTm1NM2JCaVg4LU1jWGtOcUJEV2tndjk00gFwQVVfeXFMUG1LWVNETHUwQ19sOWVNRjN3eDhyaDJscHNxaDRwamFfbnZIdmdVN0doVGhUSU95QzJ0NUk5SnJwdEtIOVMzZG40U0NtanJVV3NuQlhaX0VYU2Q4U3dUWld0dk5pOTR4RDZ4cjYweW5CQw?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-09-17",
-   "keywords": [
-    "רשת 13"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "מכה לישראל: חובבת המטאל שהתפטרה אחרי 7 שעות חוזרת לשלטון בשבדיה",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4td1U3OG01M2JQa1d2Unp4WXpvNUpsV3JqZzZWMW5DN21peUx4ZlFUcnZPWWVrR0psS1JZSGIwV0NWbENic1UtVEFOSkRtWnZYcU0tNW10RVNtbzBPLURyVzhYRVVTcG9EU1lDUnVHeUJKUUp0aXVSc9IBgAFBVV95cUxPQWJZOTZqQlFCaWNOSFRvOFc5T19PaVNPSUxrenF5SEZSUVc3Wkd5VmxETEhsZnNGa29MNzVNMlRzeEpRbTVXd29EMF9aMUtVdmVpWERqam9WOEJSUktPYkwzdWl4TDM3RUVBRW9aay1pMm9HQmdocldkRjdpem1Scg?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-09-17",
-   "keywords": [
-    "מטא"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "רביב דרוקר נלחם בשיניים מול ינון מגל - אבל ספג הפסד כואב",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0V0xSZFpQOGpwS1lmbnZ1bU52S0d5eHJBMFBZc05ESUM2bGw1V3JTVDBhZHB4eWFIVEl1Mm1Xa2lncDMweVEyZHJCZDdJdW83ZWxFVGtRY1RPZmN6a1BURVNzNlhweDhK0gFwQVVfeXFMTU1saTFOMXptbEphQWRFejN4SVRtQlVPdU4ta1l4MjgzejlPRFBDSVp4WUxNeFIyZFlmNmtNZG9GdHduZzl4dkx0Q3VLbG5xTnhPUkxxSDZSNFM0V2k4UTB0MnhIaGlNcUtraTY2VHU1QQ?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "site",
-   "date": "2026-09-17",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "אחרי העברת השליטה: דגנית קרמר תמונה למנכ\"לית הוט מובייל",
-   "url": "https://www.themarker.com/markets/2026-09-17/ty-article/.premium/000001a0-aeee-df5b-adf2-feef01c90000",
-   "source": "דה-מרקר · נתי טוקר",
-   "type": "site",
-   "date": "2026-09-17",
-   "keywords": [
-    "הוט"
-   ],
-   "pv": true
-  },
-  {
-   "title": "רייטינג: יונית לוי מראה למגי טביבי איך עושים את זה נכון",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoZWRZNFA5c1hqUkJyQWs0Sy1QWE5VSXBBY0xlTmJrQi14bk9BU0lvbTUtd2ZhSldzVkg2NHRnTUFQSVFtY25BeEhMVTVuUVk0VEN1X0Nsc2ExamY3VWNwdWNR?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-17",
-   "keywords": [
-    "רייטינג"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "החוק החדש בארה\"ב: מכה של מיליארדים לגוגל, מטא ומיקרוסופט",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QSGJDbGN5cmRTM2pDRW5HN1haa0tpVERBRV9RWlFveGhYU09ReV9YMFJGaXlfQndFQ1BrN1J3WTBRMzdiUXVRWDViRjBuWjAydFJ0LXpnbjM5TUQyTHpkcHdRdTU?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-17",
-   "keywords": [
-    "גוגל",
-    "מטא"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
