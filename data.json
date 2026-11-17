@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:43+00:00",
+ "updated": "2026-11-17T21:59+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,13 +194,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -270,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בימין זועמים על מינוי כהנא בתמיכת הערבים - בשמאל חוגגים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95dDVhd2YxR2VDSVBHbXhEM29YUHJFQ01RMkVpWVBqME9iZzUwUDlvYV92Zy1OYzNsNTBxNFlIR05Cd016NXd6d1ZzRGxJUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "Matan Kahana Set to Be Elected Knesset Speaker",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DeHozSFZUZjVVSHFyUmJlX3EzQjZiNnZmejFuY0NZYl96VmZvcXlGMFc5UXlqMG5hcXhvb3J3OG0zLWxUbmlrcEk2am9zRGNueHc?oc=5",
