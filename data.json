@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:31+00:00",
+ "updated": "2026-11-18T01:46+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,9 +187,8 @@
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -201,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -212,9 +211,8 @@
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -249,16 +247,14 @@
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
