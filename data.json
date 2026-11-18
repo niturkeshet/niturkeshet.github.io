@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:25+00:00",
+ "updated": "2026-11-18T15:41+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -270,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "חדשות 04 - השר קרעי בדיון לביטול חוק התקשורת: ״לא תצליחו להשתיק את העם - המונופול של השמאל התנפץ״",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1yOGwxSVR5VzloQ001SHhZUkc0MDdZcWNDRnlCUDlsRUJvRDBkUXc0dnZvU3lLVVlNZWQzTEdtVEJJNmt5c2VyLWRR?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "זה הרכב הוועדה שתדון בביטול הרפורמה המשפטית",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91LU9OZ3hpLXRtSXhaYkRzYWpwbDVhT0hTMzd4VWZnQzBnRVlNejNxSFVPOHpOTUpXTmk3VDVNSlBWSE5STlFtVzB4VXpsdw?oc=5",
