@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:06+00:00",
+ "updated": "2026-11-18T09:21+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -224,7 +224,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -242,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -270,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הכנסת החדשה מתחילה לפרק את חוקי ההפיכה המשטרית: שלושה חוקים בדרך לביטול",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vNWhpLWlBRWVpTFZJRlY2cmwyWnUtNG0talNzMHN4Z1BHeVZUZEVTWW5XZWxnQTJId0hHRm8wVjI2WkFfZDdPRDlncXh2XzJIcE1lTEJjMExVR2ZoSndqN0R4bkllSWRz?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "גוש איזנקוט יקדם היום בכנסת ביטול של כמה מחוקי ההפיכה המשטרית",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXJnSHBiMzlIVUZNNmQyeHJpanR3TGkteG9BZGtrVVlDSEFfbnVhYXJKVTdKOEZsQWNhRXB6U2JKcHpCeHlwT0FDdjFlZmhhdUVEYS1hdVlMLWRDeGc0NFVSb0ZWbXJTU01zQW5JMlBmcWlRSzI0Y1AzWEo5V01zWTBKcjBhUmhOS25kZUNsSlMzbURrbmdKYjhYaGFBeno1?oc=5",
