@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:31+00:00",
+ "updated": "2026-11-18T02:47+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,8 +181,9 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -206,7 +207,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -248,7 +249,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
