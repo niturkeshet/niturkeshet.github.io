@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:33+00:00",
+ "updated": "2026-11-18T23:48+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -214,7 +214,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -272,6 +272,28 @@
   }
  ],
  "items": [
+  {
+   "title": "מליאת הכנסת אישרה בקריאה טרומית את הצעת החוק לביטול חוק התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NZmFWaFIyeXFUN1F0WDJ3Znc5YUhsZzg2Rnlhamd0eTRwSXplNHpHam9yOEFZLXhLVjZueEhBc1g1aVctZXlfUzlUbw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
+  {
+   "title": "Knesset begins reversing Netanyahu government’s judicial and media reforms",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0VMU2tuWjctZmJuNWw0bl9Gdk5oUnFjMTR2VDVrTldxbTllNVBxV25QRndsS1NCUXl5OF9uN19MckE5bnZJMWNhMXFHSXpfTm1oU0JEVWdncVRmZmZYMHNkc3ZwdzVWazdid013R1E0UFdHSl9LdktJdVhHSnZFdVkzTVpfb2lIMTctWDlocjJ0czBicHduT3BpYW54b2c?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jewish Press"
+  },
   {
    "title": "חוקי הרפורמה המשפטית: גוש השינוי העביר בקריאה טרומית את החוק שהוציא מיליונים לרחובות",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEaEIyaVRHaFp5cXlyLTEySDE4NHVKVjE1d0FDV1RsdVcyd1JSSDVKM3dLeGpmTEdoSjJkUXhQX1N6VzhCTXlJOWtDUVlmUmlQc1pwVWJQeEdJVE5XM0hUZ19xcEY?oc=5",
