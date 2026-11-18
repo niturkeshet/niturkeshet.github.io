@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:23+00:00",
+ "updated": "2026-11-18T11:38+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,13 +182,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -270,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "הכנסת אישרה בטרומית את ביטול חוק התקשורת של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82OE5DY1J1WlhBMTBjaTFNX3BzNE5aX3FXTVhjcVJXemdfQTljcVdmRzI2bmFKeWh6MzRTUDRNYmRjLUZ2YjlWUVVrclVpWjl5T0k1M3pxZlpMamNibDhaeS1Pc0dab2s?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-11-18",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "הצעת 'חוק התפילין' תעלה היום במליאת הכנסת",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLOHY2aGctcExzSWtSN2VNeHg0SF9FdkgzXzd6OVNsbTFOekI3LWlUVUpBQWloYjFZYnpmYW5sNGQ1bDNvdVR3b0tIZw?oc=5",
