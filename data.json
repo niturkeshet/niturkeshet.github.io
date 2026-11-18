@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:10+00:00",
+ "updated": "2026-11-18T14:25+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -259,9 +259,8 @@
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -271,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Israel: Parliament gave preliminary approval to repeal Media Law – How does this affect its participation in Eurovision 2027?",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU0U4eWhrY25sNjB0VDlKbklhanZnMS05bERQbDFlUmVXb3Q5ZTVFUmo1Ull4VEpad3pRdW5FSTlsMkF1eUhYTERESXlnR3ZGS2JSSTA3V2Q2c2tmTFRhMmFROXFMMWh3clNkZF9vV0tUNDB3RWpaRWZkWEoxemM0enBNNmFwQ0tmR001TmlYTFhab1J4R052S2t6S1VVd0xoeTdWSHNFZkVWTFJ3YXFnN2tteS0wNEc2Mmk5V19zU1lVYkxla0swa19YYWxmNEFJaVJTUkRVMlpINDhPWnlvb1pTNFl6aWNlRzh3QjZnWkQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Eurovision News | Music"
+  },
   {
    "title": "גוש איזנקוט פותח בבליץ חקיקה: ביטול שלושה מחוקי הקואליציה אושר בטרומית",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yVTNiakJLc2ZkeG9oeG1DVUdfMUdqdkdYMUljbUVoRGhSS2dkSUVHWlZzd29LMTduOVVlMkFDSWhyNlJGSU15Qw?oc=5",
