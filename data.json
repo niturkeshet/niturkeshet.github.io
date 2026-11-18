@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:54+00:00",
+ "updated": "2026-11-18T13:09+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -247,9 +247,8 @@
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -271,6 +270,38 @@
   }
  ],
  "items": [
+  {
+   "title": "גוש איזנקוט פותח בבליץ חקיקה: ביטול שלושה מחוקי הקואליציה אושר בטרומית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yVTNiakJLc2ZkeG9oeG1DVUdfMUdqdkdYMUljbUVoRGhSS2dkSUVHWlZzd29LMTduOVVlMkFDSWhyNlJGSU15Qw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
+  {
+   "title": "המליאה אישרה בטרומית את הצעת החוק לביטול רפורמת התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VbFZtQTZlZmxScTU1ZDlkd3ZMWC1td2xNMjBZNjBFc2k4YVByRnd1VHRCZm5tUGlHazJOYnV5ZjhwdzdMMGVwRVZYXzgtUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [
+    "רפורמת התקשורת"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "אושרו בקריאה טרומית: גוש השינוי מבטל את חוקי המהפכה המשפטית",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtZEpJMWRDZGhualRXN3VuRm83R19vazhLdENxNmdSMEpqQ3lQQkpWejBPeHA2amI2LUdRZGh2YnhwMm1QcXFTMEo2dDQ4S0ljMG5idVhVeFl5a2p3dlRTeU1PbkprRlJjXzVkczZSWGc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רשת 13"
+  },
   {
    "title": "גוש השינוי צלח את הצעד הראשון בדרך לביטול רפורמת קרעי בתקשורת",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dmZRdU1BcDZ3SE1kcGRVai1GTWRqd2RwWWtCc3ZRMjlNeTF0M0ZHNDhTM0F6MnhSY3lILWRkVjNNNFY3a1FKSzRydl9oQ25VbTQ4RDJoOU5lbDBDR241ZEpLRnFyT01ZVUE?oc=5",
