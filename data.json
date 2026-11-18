@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:08+00:00",
+ "updated": "2026-11-18T12:23+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -242,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -270,6 +270,36 @@
   }
  ],
  "items": [
+  {
+   "title": "גוש השינוי צלח את הצעד הראשון בדרך לביטול רפורמת קרעי בתקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dmZRdU1BcDZ3SE1kcGRVai1GTWRqd2RwWWtCc3ZRMjlNeTF0M0ZHNDhTM0F6MnhSY3lILWRkVjNNNFY3a1FKSzRydl9oQ25VbTQ4RDJoOU5lbDBDR241ZEpLRnFyT01ZVUE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "חבל ההצלה של האירוויזיון דרך הבחירות: הסיבה שבזכותה אפשר לנשום לרווחה",
+   "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQam1BQTB1cF80b0hZZExNUFhqNlNNWTY0X0MyMjlGV2hTQUhodlROVlFzWDVaSkpQOU44OUVNeWc3bTlpbGlwYV9JN1VMaFEzVXVBYldYLTFiWVRsZFVkZ1NLRHRGN256YjVaUE45akFNSC1HYndfemRaYi1SeHdkMzFIMkJvbmdCSHc0TVJoaFMxQnNzc2J6Z1d6NnJHVHhWM2N3ZmpseUdSTE1DVjZLaEdLSmhLcWZvd19hbUpRdFE4c29rN0x0YktmSS1aTDNNVmp3OEtpR3R0YVlWWWFRMnpxdG40RDVyY3NmVjdBU3NuUjJpdl9DUE9IU2R2WldCeFdWSklFWVRjUVFtTVlHX094cVFqdDlvbF9DWGc4RW40XzNYRFFsSWJYaWJHa2tOTUExNWFmUnBpc2pGYzVjd2RWU0tVQVhWVmd4bGZ3RGxHN1hhcFE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "EuroMix"
+  },
+  {
+   "title": "Knesset Broadcasting Law Repeal: Bill Advances in Vote",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTVoSWl5TnptUmxHY0NiM1JMNW5mb2ZjUXRVa1JIR0ZzRjJCMXJCYkpoZGhFVHJvdzFjY3U5VV9iQnhjTjljZFJuZ1FUOHZyaEh0U3dnNjBNWlZfZ2FmNDhfSGpSZFRPU3hZNUhFWGpKVVZQQWs3d0Foel84MU13NjFfWk1idzJFdW4xbmpoNFU1UTNRNThWTlB6aGN2U2h5cnMyS1RiV1d0a2c2QkNLZms2Z3lySzA?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
   {
    "title": "אושר בטרומית: חוקי היועמ\"שית, בחירת שופטים והתקשורת בוטלו",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yTGh0QjdENk5jR3UzQUVrdzg3d01wQXFWdGk2YUNDbWUzTU5FM3ZCZUVrMV9uSUF2TFdQQ2pCWE1KdnZwblJid1M1akhqQ0FUYTJKNWU0YXZSX2pMcDQ1UTNiSUJCUXNZ?oc=5",
