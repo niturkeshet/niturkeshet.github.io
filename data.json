@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:17+00:00",
+ "updated": "2026-11-18T22:32+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -196,7 +196,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -214,7 +214,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -272,6 +272,16 @@
   }
  ],
  "items": [
+  {
+   "title": "טרום מהפכה",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XSlA2NldpNFhhM0dSSm1LaFR1b21vRFZBd1U0blV4Qk1XUlpDYlpjMHJWVXYwcG0zN0FyODRNZnNWNzl5SnRkT1VNQjRlb3pwakQtRVVrMDZCNjlYWHRfSHlR?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
   {
    "title": "ינון מגל: \"הילד של בנט שותק מאז הבחירות, חושבים שלא נבין\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfdm42dlNnTkpFZXdSTUxLVFJIRUZZWWRwSmIxMm0xMXRBR2s2SUlRX3h2dFl2bDlEaFNwbmRYNFFnbUtvODd4eEtOMk5fNWh1OW9rN2tPcUNzM1Jm?oc=5",
