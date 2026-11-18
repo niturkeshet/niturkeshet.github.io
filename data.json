@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:51+00:00",
+ "updated": "2026-11-18T09:06+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -217,9 +217,8 @@
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -243,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -330,6 +329,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "JFeed"
+  },
+  {
+   "title": "אמיר אוחנה נפרד מתפקידו: \"קשה להאמין שהצלחנו לעשות את כל זאת ולקצץ משמעותית מתקציב הכנסת\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxRjVTSXExcDhVaXZSSHY4YUpiZVhFVkJaZ2pDM0RiODRZdldzZER3b1pwbUQ0amh6ajczLVdteDVDU21SMGgzbXpfTk5uV0FMeEFZbnVHSElvUmZqcDFIODcxNk8?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
   },
   {
    "title": "חדשות היום, 17 בנובמבר",
