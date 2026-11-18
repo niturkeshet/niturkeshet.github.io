@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:41+00:00",
+ "updated": "2026-11-18T16:57+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -242,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -270,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הכנסת אישרה הקמת שתי ועדות לביטול חוקי המשפט והתקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Pd3R6U3hueEtkYWV0STByaVJ1ZktmaFM1Z3JFV3JZSzMwYmFzcnc3XzE0Mk9HdS01RFU1REVBcWdtblFYTmVsdjVlQQ?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
   {
    "title": "יומן בחירות: יום רביעי, 18 בנובמבר 2026",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10bmx6Vl9Ydi1mNDZ1VHp5MVM4TE9WT2wyUEdsMXRvVUJMUk91Vno2Qm9CV3hSZFBtdElvNGxFR0cybGJY?oc=5",
