@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:36+00:00",
+ "updated": "2026-11-18T09:52+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,13 +200,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -270,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "With new speaker elected, Eisenkot bloc moves to repeal judicial overhaul laws",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOcktJS3lmdFlCakttOWxNVUE0WlYzNko1N094QnkxWHppSVZ6R05VSHVfSWwzajB1ZWpjdG5UVUZOUm0xa0s5U0hWcll6QzMtdHdZLXgzMzYwWUJiTVZqWXFhQnZWNTJ0aDg1YXRLS19QR0VLWi1JNEVZZHlLTGFhNEUwZGNmajBIYVpzQ0x6cVhEbzJIbjBTbV9qTUlwVU1BSnczVnhjUnRlcWxLaEZVVUZjdHVVejlkcmYyRHp3NU80bGVoMTRINmhuNnU3RHJuNzd0cVhJWVlIT1JjQmFCV05MbkhqUnFHd3RlNHRpZDBtSy10Vlg5VUVjTll5TWFFWDVjcVc4b1g4SUQtcU5oM1NaTUwtQXQtMEpsa1JSSUEtY1E?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haaretz"
+  },
   {
    "title": "הכנסת החדשה מתחילה לפרק את חוקי ההפיכה המשטרית: שלושה חוקים בדרך לביטול",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vNWhpLWlBRWVpTFZJRlY2cmwyWnUtNG0talNzMHN4Z1BHeVZUZEVTWW5XZWxnQTJId0hHRm8wVjI2WkFfZDdPRDlncXh2XzJIcE1lTEJjMExVR2ZoSndqN0R4bkllSWRz?oc=5",
