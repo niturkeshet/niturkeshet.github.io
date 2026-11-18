@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:38+00:00",
+ "updated": "2026-11-18T11:53+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,25 +182,25 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -270,6 +270,29 @@
   }
  ],
  "items": [
+  {
+   "title": "עוד ניצחון לאופוזיציה: חוק התקשורת של השר שלמה קרעי קרעי - מבוטל",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX05DT3l6M2Z2ZmF1aDE2T3lrUmdHNS1Dc3F1Yjg3MUVYUk1sNTZkdGw0OHlNTjNqeE9SZ0lkNlgxX19ENUNWTDBOdHhpU0RUUXdBSXJaOEh3a3R3UUdkWS1iU0FpZkV6WUJmV2syZS1TaWRQQ3RoX3hhejV0NE9uR0VZR2xsWHVla3BnOFl3d2ZTU3c?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [
+    "שלמה קרעי",
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
+  {
+   "title": "הכנסת אישרה בטרומית הצעות לביטול חוק היועמ\"ש והשינויים בוועדה לבחירת שופטים",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0tandzZXlNWGtXQ2Z6Qi1tUWlOZ0UzVEhwVzh4dzA1ZjZvQ2hpRnFxNlROYUxQN0pOVi02M3dvSlRNTVpLTkJR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אתר החדשות דבר"
+  },
   {
    "title": "הכנסת אישרה בטרומית את ביטול חוק התקשורת של קרעי",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82OE5DY1J1WlhBMTBjaTFNX3BzNE5aX3FXTVhjcVJXemdfQTljcVdmRzI2bmFKeWh6MzRTUDRNYmRjLUZ2YjlWUVVrclVpWjl5T0k1M3pxZlpMamNibDhaeS1Pc0dab2s?oc=5",
