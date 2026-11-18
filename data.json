@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:48+00:00",
+ "updated": "2026-11-18T06:04+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -309,6 +309,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "JFeed"
+  },
+  {
+   "title": "חדשות היום, 17 בנובמבר",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkZRTWhNaHBIVERCYWQ2b3Jnam5YZzVFcWwyVzNQU2cyUzlaeUlhYmNzM19QWHJIaDdLa21JZm5sTEtPOWRVU0daSldEdUZNWlRNelJXclRocHBQcmY2NlhJekdKSkgyUGtGT0J3OWsyVWpsVXZPTTJITzhjemNOZ2FHb01UeUlwQTBPSnlHYkJBYUltUzc5M1VKdnNBell4N2JNWHhjQQ?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
   },
   {
    "title": "רמון ספייס הישראלית גייסה 124 מיליון דולר למחשוב בחלל -",
