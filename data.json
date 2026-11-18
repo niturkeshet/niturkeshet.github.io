@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:09+00:00",
+ "updated": "2026-11-18T13:24+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -506,6 +506,26 @@
    "keywords": [],
    "pv": true,
    "publisher": "JFeed"
+  },
+  {
+   "title": "גוש השינוי הגיע להסכמות עם הליכוד: כעת ההצבעה על החלפת יו\"ר הכנסת",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGpJMGNxZTltOHJEZmd5Q0czeERiejd5ZUtiQ1E5dGZYQ3l4WlJLVDNuTTNEYzYtb1hCc01BMnNCSXQ5clFnZ2tqZldRYjRobVNPUW1EYy1SNXJ2T0ZLOTI0MnBLbWljNGlzLUJkWkp5bkdVZFNsc085TjVuV1RtLUFfU25LWF9pREU3a19VV2ZBQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
+  {
+   "title": "66 ח\"כים תמכו: מתן כהנא נבחר ליו\"ר הכנסת הבא",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzNU1vMHZXcmJ2dl9VNUY1c3gtQ1FEV19PNnRZakJfQlQySDZrT09zUkloY2xuclNVQXYzVWNSNWhyY0s2Z0QzRzRBa09vQUpDLTRrdDZ5LUZaVW8wLWExUTN5R2Y0ZlkzeXhpQjRmOW0?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רשת 13"
   },
   {
    "title": "אמיר אוחנה נפרד מתפקידו: \"קשה להאמין שהצלחנו לעשות את כל זאת ולקצץ משמעותית מתקציב הכנסת\"",
