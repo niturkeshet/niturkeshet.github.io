@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:43+00:00",
+ "updated": "2026-11-18T18:58+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -242,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -270,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "עדן הראל חוזרת לערוץ 14 בלי עודד מנשה: \"זה משהו אחר לגמרי\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45b19wSlBRenpRd1dqMEkxZm5YaW1kOWo5V19mVUtpM1B5ZS1zZTQ2V3FyWEpOMnEwRVhEa1BEZ3prLXo4N3VCc2xOcFVuZkRDTnVOWXE0TnJMbEJm?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-18",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "הכנסת אישרה בטרומית את ביטול חוק התקשורת של קרעי: \"חלק מהתיקון הנדרש\"",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82a0hJbjF2aG5aRS1SMEF1QkVQcjlEY0NhZXlnRnUxMWRTbk9SS18tRjJTUEg4ZDNTYWxKdDdXY1ZrWlZRY1o5TWgza3NWbzNwZ2stdjNjZE1IbkZpeFE4eWF5ajhJYXZEa1BuZQ?oc=5",
