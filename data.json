@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:40+00:00",
+ "updated": "2026-11-18T14:55+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -242,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -270,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "זה הרכב הוועדה שתדון בביטול הרפורמה המשפטית",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91LU9OZ3hpLXRtSXhaYkRzYWpwbDVhT0hTMzd4VWZnQzBnRVlNejNxSFVPOHpOTUpXTmk3VDVNSlBWSE5STlFtVzB4VXpsdw?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "Israel: Parliament gave preliminary approval to repeal Media Law – How does this affect its participation in Eurovision 2027?",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU0U4eWhrY25sNjB0VDlKbklhanZnMS05bERQbDFlUmVXb3Q5ZTVFUmo1Ull4VEpad3pRdW5FSTlsMkF1eUhYTERESXlnR3ZGS2JSSTA3V2Q2c2tmTFRhMmFROXFMMWh3clNkZF9vV0tUNDB3RWpaRWZkWEoxemM0enBNNmFwQ0tmR001TmlYTFhab1J4R052S2t6S1VVd0xoeTdWSHNFZkVWTFJ3YXFnN2tteS0wNEc2Mmk5V19zU1lVYkxla0swa19YYWxmNEFJaVJTUkRVMlpINDhPWnlvb1pTNFl6aWNlRzh3QjZnWkQ?oc=5",
