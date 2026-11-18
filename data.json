@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:45+00:00",
+ "updated": "2026-11-18T21:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -242,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -270,6 +270,28 @@
   }
  ],
  "items": [
+  {
+   "title": "63 ח״כים תמכו בביטול חוק השידורים של קרעי - מה החליטה הכנסת?",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BeDd2RkN6eVpaemh2WWpieXNBV2lfenpwaFNNeEN6U2UzLXB1SFlSOWhBdjgxbWx0T3ZQVDhmU193UXF2OWtZNWZyNGZqVlNKbUJpRVNQVHI?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "חדשות באר שבע והנגב"
+  },
+  {
+   "title": "Israeli parliament advances 3 bills to reverse Netanyahu-backed laws",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkF1OFIyZDMyOGpHekVwazBBX3JkVFVFMkVvRDJaRHJwc2JYdHFYQXRBQWd6LXlxM2FzX0l0Y2tIZmFDbUlhTWdELVNLMUJmaThiVnJTaHlRa0pWMXVCVTlvMHJ5UHpRdDcxWFQ2ck5keThHX3ZZNjg4T3BuZWx2V3V5Z1A1bUJSX3Q4MFVIeERTczl4Qk1JWjVzUi1NcFZMRGdMYm1Qbng3MlhWN3c?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Anadolu Ajansı"
+  },
   {
    "title": "When Netanyahu joined forces with Arab parties: 771 votes revealed",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WZ1J5SlRJcDlvRzQ3dWRLdHA2S0pXZnJmRk1VU2pfX0tlWWM0X25mQnp4UVp2ZmRwSFpYZUtSSkNodFlJeVdmVjFSTm5NYzNWdjFWZTJR?oc=5",
