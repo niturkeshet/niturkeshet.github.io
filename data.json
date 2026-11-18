@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:00+00:00",
+ "updated": "2026-11-18T01:16+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -223,8 +223,9 @@
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -247,14 +248,16 @@
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ביזפורטל",
@@ -289,6 +292,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "JFeed"
+  },
+  {
+   "title": "רמון ספייס הישראלית גייסה 124 מיליון דולר למחשוב בחלל -",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2I2ci0zSEZjdUVHMjZ0OFBlZC15TFpXM1p3Zk00SE5ZYVRVSW9nSnZpdnpLWjBTQ0VVYWNORl9pTkoyRHoyX0JFYXd5QQ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אנשים ומחשבים"
   },
   {
    "title": "Knesset elects Yashar's Kahana as new speaker, ousting Ohana despite Likud challenge",
