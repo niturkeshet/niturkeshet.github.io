@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:47+00:00",
+ "updated": "2026-11-18T23:02+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -196,7 +196,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -214,7 +214,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -272,6 +272,16 @@
   }
  ],
  "items": [
+  {
+   "title": "חוקי הרפורמה המשפטית: גוש השינוי העביר בקריאה טרומית את החוק שהוציא מיליונים לרחובות",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEaEIyaVRHaFp5cXlyLTEySDE4NHVKVjE1d0FDV1RsdVcyd1JSSDVKM3dLeGpmTEdoSjJkUXhQX1N6VzhCTXlJOWtDUVlmUmlQc1pwVWJQeEdJVE5XM0hUZ19xcEY?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "טרום מהפכה",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XSlA2NldpNFhhM0dSSm1LaFR1b21vRFZBd1U0blV4Qk1XUlpDYlpjMHJWVXYwcG0zN0FyODRNZnNWNzl5SnRkT1VNQjRlb3pwakQtRVVrMDZCNjlYWHRfSHlR?oc=5",
