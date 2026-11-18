@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:41+00:00",
+ "updated": "2026-11-18T15:56+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -271,7 +271,19 @@
  ],
  "items": [
   {
-   "title": "חדשות 04 - השר קרעי בדיון לביטול חוק התקשורת: ״לא תצליחו להשתיק את העם - המונופול של השמאל התנפץ״",
+   "title": "אושרה הקמת 2 ועדות מיוחדות בכנסת: לביטול החקיקה המשפטית ולביטול חוק התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1GdXJCck9rVGFxMzNyZGJBWFJWSVpxT1RtSkl0NlBfN2FMNk9JTnhEaUdXUzQtalVnQkNEWVZOUEUwMDhZaFRn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "אתר החדשות דבר"
+  },
+  {
+   "title": "חדשות 04 - השר קרעי בדיון לביטול חוק התקשורת: ״לא תצליחו להשתיק את העם",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1yOGwxSVR5VzloQ001SHhZUkc0MDdZcWNDRnlCUDlsRUJvRDBkUXc0dnZvU3lLVVlNZWQzTEdtVEJJNmt5c2VyLWRR?oc=5",
    "source": "חיפוש גוגל · אבי ניר",
    "type": "google",
