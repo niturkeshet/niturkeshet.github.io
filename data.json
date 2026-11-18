@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:05+00:00",
+ "updated": "2026-11-18T08:20+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -187,9 +187,8 @@
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -243,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -271,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "גוש איזנקוט יקדם היום בכנסת ביטול של כמה מחוקי ההפיכה המשטרית",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXJnSHBiMzlIVUZNNmQyeHJpanR3TGkteG9BZGtrVVlDSEFfbnVhYXJKVTdKOEZsQWNhRXB6U2JKcHpCeHlwT0FDdjFlZmhhdUVEYS1hdVlMLWRDeGc0NFVSb0ZWbXJTU01zQW5JMlBmcWlRSzI0Y1AzWEo5V01zWTBKcjBhUmhOS25kZUNsSlMzbURrbmdKYjhYaGFBeno1?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "פרידה מיו\"ר הכנסת ה-25 אמיר אוחנה, מושבי ראש הכנסת המצוינים אשר הותיר חותם של עשייה, חדשנות, ממלכתיות ובעיקר עמידה איתנה על מעמדה של הכנסת",
    "url": "https://news.google.com/rss/articles/CBMiyAZBVV95cUxPeF95blFQMnpBdnk4Nkl4NWpPaUFGU1VtX3JNNEg5TV9zdlgxbDZvZjF4SFptQ1NSUVZrUmY3NHAyMlEta0dlT3ZhRXlsOXRfMU9rZjcwTzZuQzBFQ3I0emZFbmZmc1hPMG0tbFI3bWxwU25YWDEwckVxUEQ4QzhhSnZ5VnBGX2thRC0wNWJZRWdYVjNERDd1aU9xaXJFU1lDeWl5N0lDUUU1ajFVTkxzVFY2aDNVdk56RU5yRlRZd28zUW5aMVhlY0Z6WnVDd25JSnBaTU5JVDc5ZTNFSU5ObUlPLVd2QjRhdENSRVRoZmhBVVI3MV94OFhmbElSa2JMMjBZU1FNbnE5Nlk5MkFHX2VWcXBUTzUwclFwRWNScjlXOFNPaHZJS2JENU82QXhxUXFtaUhBNWJFYVR5QTUwVjRUd3FDUW5pYnIwRFl3cXRnOG9tWXFvZG9YVG5tTV9VSWZfZ2hDbXR0OWFQNndmOFJCeURFcURGOHZwNFZHa1I3LXlxQ1Q4ZnFScUVzc1VQRl84YmxmTjM2TTdXNU45YjI5YkFyekZZdkx3UnZLN2F4RHhwVzhLT3lMRlBrVVpaZmxINERtRjhsSHBxSHMyd0NvMC1ZYXQ2QXc5T3NhTWVfV3hQbGYxaS14N0wxZHNYUm9aT3Vwb2J4c2V1Njk1YTFJS1AzNUJqTV8teENXc0hCYk9pTlE5V1MtQmtfNmhvMDlHazhpRUcxVlVXZG5NODQ4bzJWczBZeFZxUlU4WHpBT0dRQnZENktaNWNRdjJXYWgweG5hZ0ZYWUl0dDNGalIza1ZNVlZLczV0eEx3WnRoU00zYVBVbVFmdkpnUFhNc2ppSDl3Nk56TFY0al85TEJ2OVJxc1R0QzBlTENRSUhGZTZyVDdRWmNjNUFKeFAxd3RKeWtmbGFIcWhnVjJkOU9zaUFwZDNLSFF4UG5MMm9xbEU5Qno3QW5Ic3dlYXNHS3lQeHBzbGI1ZTRjdkdzRy1KcFA4VERSX3labF9QMExNb1poNFdGenRMUlI3ZlVjXzNZZWp5VVdZNVBCeDZuTndMVnRTRUVCM1J5TWI2UmphSW1LTlRDTHg4M2JkZ3hsanhrQXNpVEo?oc=5",
