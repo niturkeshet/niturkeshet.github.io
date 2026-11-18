@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T00:15+00:00",
+ "updated": "2026-11-18T00:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,13 +200,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -270,6 +270,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Coalition Condemns Matan Kahana's Knesset Speaker Win",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84OGRLYXYydllRZzZ3bWFqaGd4ZHg4YWVfcTVCeElaRFhReWcwRUdPdTRGWFhYSXE4czVxMkw5U0Q5TV9tVm5JM1B3bU40TTFnMFE?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
+  {
+   "title": "Matan Kahana Elected Knesset Speaker, Coalition Furious",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CQ0piWWc3RDNRZUpFbzRvOWNzbkV0eVV4VkF6bjBDdnlDME1CaXlvbzF0R1pseDVvR0dackFfaDhtRXphaDNwMHg1eVJwMDV5N2c?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
   {
    "title": "Knesset elects Yashar's Kahana as new speaker, ousting Ohana despite Likud challenge",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02WlUyYUJtdGFsMUNuZlpEcTZtbUxPTkpOX2lBcF83UFVMaXN6dDF5Ui13bjR1NnNpLWtRVWd4WEprU1VkZTcwVXMxRmJmZFFtRzAzZkZMM1RPQTNfdVFQZ3FEcTZXc2R6bExzRjFHaEhEZDBJdWo1bFE2Yw?oc=5",
