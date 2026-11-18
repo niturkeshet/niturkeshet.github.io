@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:11+00:00",
+ "updated": "2026-11-18T16:27+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -151,8 +151,9 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "גלובס · גלית חתן",
@@ -212,7 +213,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -560,6 +561,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "JFeed"
+  },
+  {
+   "title": "\"עשינו הרבה דברים טובים ביחד\" • צפו: מירב בן ארי הפתיעה את אמיר אוחנה",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pV05KcW1qQlJMNEY1UVFFQ2VuUDJkYUdIWTZqNmlackE2X0tCRWlxaFpzQUxwSHNGU1hYNDZ4VU5tQVlVZWNfYTcwVQ?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-17",
+   "keywords": [
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "חרדים10"
   },
   {
    "title": "גוש השינוי הגיע להסכמות עם הליכוד: כעת ההצבעה על החלפת יו\"ר הכנסת",
