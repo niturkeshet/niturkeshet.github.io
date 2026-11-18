@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:57+00:00",
+ "updated": "2026-11-18T17:12+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -270,6 +270,28 @@
   }
  ],
  "items": [
+  {
+   "title": "הכנסת אישרה בטרומית את ביטול חוק התקשורת של קרעי: \"חלק מהתיקון הנדרש\"",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82a0hJbjF2aG5aRS1SMEF1QkVQcjlEY0NhZXlnRnUxMWRTbk9SS18tRjJTUEg4ZDNTYWxKdDdXY1ZrWlZRY1o5TWgza3NWbzNwZ2stdjNjZE1IbkZpeFE4eWF5ajhJYXZEa1BuZQ?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-11-18",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "הוועדה המסדרת אישרה הקמת ועדות מיוחדות לחוקי המשפט והתקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVXBlUENDY1lTM2d6VXkxVWVMb29xc1cxNlRpTXJqcDQxV2FIY0VjeUhlTDJjY2dobUU0WVh2QmF6LWlobklDYWhtN3Y5Zw?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
   {
    "title": "הכנסת אישרה הקמת שתי ועדות לביטול חוקי המשפט והתקשורת",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Pd3R6U3hueEtkYWV0STByaVJ1ZktmaFM1Z3JFV3JZSzMwYmFzcnc3XzE0Mk9HdS01RFU1REVBcWdtblFYTmVsdjVlQQ?oc=5",
