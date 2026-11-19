@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:15+00:00",
+ "updated": "2026-11-19T20:31+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -253,14 +253,16 @@
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -270,6 +272,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מגי טביבי עם אבי כאכון: \"חשוב לי לשמור עליו מוגן ושקט\"",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0VFYyVjBIa2Rxa2dHdEdtcVp2UGRyc2dxeS12VWdRX1AxNUx3Z2RlVFNpNkdFdmNhaXJROUd5cG1JOTZ4ZGlwTjNVc2FKemlNRkhqS2tqQUNZSEx1UUthczhtV1lYT0V5WW81YkY0Wmd5REhlSHhBTFBmaw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "Israel’s New Government: Every Offer to the Haredi Parties Has to Get Past the Court",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObTlPdVFjb0pHclMyUEhjZ0xITlBlLWpfems2clUyOG9ZQlp5LUdKcjlSdTBqSUVnQUVtb04zQm92M2YwNVp3T3NUZGJFMEZNSl9zeFpiMFV3Q3FnOFUxQmMwc0Jtb3l5LVo2a0c3NUFZSzhPVERfRkt1Ti1laDdMUWI3SE10X180T3hCUU9xWTFTVlBSVmlkZFBuWTZDZllDX0hvaW9hQXpKNjQ?oc=5",
