@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:38+00:00",
+ "updated": "2026-11-19T09:53+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,13 +200,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -260,7 +260,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 9
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -1473,6 +1473,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "בג\"ץ: לנמק מדוע לא יבוטל חוק התקשורת בשל הפגמים לכאורה באישורו",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FeHZoUUxRd0gzVWFpcFB3TUNfdUlaa01MUnJXYkFVeS1HMzRyRkR6bE0tbTQwTlowRnVzT0NUeC1FUGkxbUEtUThqeDZzVEhzSjRQb1hQNVhWOGN2aWdMZlNtcndGRUU?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-10-29",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
   },
   {
    "title": "בג\"ץ מקפיא את חוק השידורים: i24NEWS מזהיר מנזק של עשרות מיליונים",
