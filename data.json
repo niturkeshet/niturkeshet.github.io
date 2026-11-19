@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:03+00:00",
+ "updated": "2026-11-19T02:18+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -270,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ערוץ 14 לא עוצר: ההכנסות זינקו והיעד הבא נחשף",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3Y3ptS3JUZjhEV0pjQk9wenFWOG1tdGJJODFBTXlnbndfckpwLWlxMWtIU0UzX1ZuU2ZXUVJ1UUlzVnM5T2dHYkQ5QUFuUWdBRkNocHoxRk8?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-19",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "גוש השינוי הגיע להסכמות עם הליכוד: כעת ההצבעה על החלפת יו\"ר הכנסת",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGpJMGNxZTltOHJEZmd5Q0czeERiejd5ZUtiQ1E5dGZYQ3l4WlJLVDNuTTNEYzYtb1hCc01BMnNCSXQ5clFnZ2tqZldRYjRobVNPUW1EYy1SNXJ2T0ZLOTI0MnBLbWljNGlzLUJkWkp5bkdVZFNsc085TjVuV1RtLUFfU25LWF9pREU3a19VV2ZBQQ?oc=5",
