@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:37+00:00",
+ "updated": "2026-11-19T08:53+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -270,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אחרי פשרה עם יורשים יהודים, ציור של ואן גוך נמכר תמורת 190 מיליון דולר",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEtscUxtRm5UemxneUJnaGtKc0haQ1VOT1gzZUJHS1dtWTU4Z1BaaEl2aTB5elV3YzZQN18tc3htd05xZ0t5LWhmRk1WOXFhMXVTY0NIc1BFdC1kUTZjLVJTdDgzREp0RVVEYkFPZGZlUUZqVnkzNDF6cHRaTzIzbDZlUENWd3VkVHNQd0h6M1BtcEwyLVQ1Tmd0QWc0eEp1V2o0V2xMbEM?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-11-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "ערוץ 14 לא עוצר: ההכנסות זינקו והיעד הבא נחשף",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3Y3ptS3JUZjhEV0pjQk9wenFWOG1tdGJJODFBTXlnbndfckpwLWlxMWtIU0UzX1ZuU2ZXUVJ1UUlzVnM5T2dHYkQ5QUFuUWdBRkNocHoxRk8?oc=5",
