@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:21+00:00",
+ "updated": "2026-11-19T06:36+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,21 +200,19 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -243,9 +241,8 @@
   {
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -256,9 +253,8 @@
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
@@ -285,6 +281,16 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "ח\"כ חנמאל דורפמן הורד מהדוכן בעימות עם אחמד טיבי",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1UFA1UHJLcGNmSklDNTRCQlpzQTRWLW9vTkNYNlBiUVNyR2E4d0l5RzZZNThPYWlCVTJMTXBwa0ZkM2lvZE94YVhFZw?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
   },
   {
    "title": "איזנקוט ליו\"ר הכנסת הנבחר כהנא: \"שתביא לשינוי בתרבות של הכנסת\"",
