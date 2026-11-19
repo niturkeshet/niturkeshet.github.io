@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:55+00:00",
+ "updated": "2026-11-19T12:10+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,13 +200,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -270,6 +270,28 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי על ביטול חוק התקשורת: \"ידי מושטת לאחדות ולהסכמות\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jdnhRV1ZYTWh4dVRDRnh4SGU5RnZWcTBCUThYbEljOHlFVWxQa05kNjZxeVFCQzJLajl4WG9tOUlvdkZpMFFHcVVIc2xKZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-19",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "קרעי תוקף את גוש השמאל: \"הגיעו לוועדה עם פטיש של הרס וחורבן\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4QmQtc01HUnFHTmdQQkI2R3pKMUVnSkt5SWUyelJNUmRGbjVoTUtpcF9UNVpqYXZwZGJDSFV2U3ZYSDNGQzVQT2Y2WQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JDN"
+  },
   {
    "title": "18.11-12.11: השבוע של ראש השב\"כ, הח\"כים החרדים, אנבידיה ו־GTA6",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YVHR0M2dIVmFCa0ZXcE9NY2Y3S0FBUzNvTVdvbVVOb201OGlKN2FxNGJLS2NHeUxKSzNTRC1JVVk0NEZQcDI4NU1hYldFOUV6X054UGwxQm5ZaXozR2lzUzJIOGc?oc=5",
