@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T04:04+00:00",
+ "updated": "2026-11-19T04:20+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -281,6 +281,16 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "איזנקוט ליו\"ר הכנסת הנבחר כהנא: \"שתביא לשינוי בתרבות של הכנסת\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqRk0tRktkd2txdWlWOWh3S1JjaHBrZ1F6YUFtYnQ4RnN2R1ZoV3VrX1RHdUJZVmVUcWg5blh2eGo3d0txaUJDWFdKaUVTTjczd1A2Yjd4MmlPUC1mUjJxeU5jQzg4X1FFVGphT1dGUHM?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רשת 13"
   },
   {
    "title": "גוש השינוי הגיע להסכמות עם הליכוד: כעת ההצבעה על החלפת יו\"ר הכנסת",
