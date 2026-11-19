@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:24+00:00",
+ "updated": "2026-11-19T11:39+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,13 +200,14 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": true,
-   "kept": 9
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -224,7 +225,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -270,6 +271,26 @@
   }
  ],
  "items": [
+  {
+   "title": "18.11-12.11: השבוע של ראש השב\"כ, הח\"כים החרדים, אנבידיה ו־GTA6",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YVHR0M2dIVmFCa0ZXcE9NY2Y3S0FBUzNvTVdvbVVOb201OGlKN2FxNGJLS2NHeUxKSzNTRC1JVVk0NEZQcDI4NU1hYldFOUV6X054UGwxQm5ZaXozR2lzUzJIOGc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כלכליסט"
+  },
+  {
+   "title": "לאחר כ-3 שנים: ירדן הראל ויוסי יהושוע נפרדו",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qOEttNi03RG1MTVh3QmFhZkhXRkkxV2VGeHFPaGUzaDRPS1NzeEpTbjF3RWpISHFlYXpfRlMyUUtYLVhQbkw1TllKOFVObFBQcjZPb1p5QVhHN3NQRXFZ?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "הלם בביצה- רק בשבוע שעבר הוא שר לה בקריוקי: ירדן הראל ויוסי יהושוע נפרדו",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxZVpGeW5XbXRrRlc4ZTJCeVdHTU5ZSVBONk1zcW53TzhhWGNvcHlGbnJMX1lBVkhuUHAzRUZ5S2ZWR3A0U1dVLWNnUm44S3VtUVFFUUFPeFF5QjAzbVpEdkpB?oc=5",
