@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:42+00:00",
+ "updated": "2026-11-19T14:57+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,8 +181,9 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -200,7 +201,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -242,7 +243,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -270,6 +271,16 @@
   }
  ],
  "items": [
+  {
+   "title": "גוש השינוי ניצח בבחירות, אך מתנהל כאילו הוא זקוק לאישור מנתניהו",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2kyZW5mWW5tQWRHSzNGcVJiRC1Rc29LMk9WZ1JuY3p5YXc3bkV4S0lMMFBmdU9WRGlLN2k0dzdGOVI3cEhCVEtWeGFveXdseFViRW5TN2pweWRzZk9fdlcxV29TUlJoVzV3Rk5tQ2N4WFpXZURyNWdELWl3ZlJ1dUZudFZvQ2xvZFZ5Vm4yY21CdGlpekxPTHFaQ2J3ZUR4dC0ycUtrVExuaDVzSHpKMklR?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-19",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "חדשות 04 - הניסיון לבטל את רפורמת התקשורת | השר קרעי תוקף: ״גוש השינוי הגיע לוועדה עם פטיש של הרס וחורבן״",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTeThSMWFCWjZzMGFzMzRNWXhvSG1hb2lmd1BwMGl2Z3Z3ZlpzZTljZ3lNaDNLa1J3QkdCODYyS0g3NXMxTEZ1UG9B?oc=5",
