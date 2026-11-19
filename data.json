@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:17+00:00",
+ "updated": "2026-11-19T00:32+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -270,6 +270,26 @@
   }
  ],
  "items": [
+  {
+   "title": "גוש השינוי הגיע להסכמות עם הליכוד: כעת ההצבעה על החלפת יו\"ר הכנסת",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGpJMGNxZTltOHJEZmd5Q0czeERiejd5ZUtiQ1E5dGZYQ3l4WlJLVDNuTTNEYzYtb1hCc01BMnNCSXQ5clFnZ2tqZldRYjRobVNPUW1EYy1SNXJ2T0ZLOTI0MnBLbWljNGlzLUJkWkp5bkdVZFNsc085TjVuV1RtLUFfU25LWF9pREU3a19VV2ZBQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
+  {
+   "title": "In legislative blitz, Knesset advances bills to scrap Netanyahu’s judicial and media overhauls",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM3k3SmVmX0RxQ2luczVKQm1ZUmhsZWNsRHJxYkFBTDhKYnVQX2wxYVB6TTQtSk9SLXdFLV9CaGNFc1AteWtBcVRESlJQWERFc2xjTFE0YTVJZ0szSHhHbmFUVkxWTlY5N04wdjYtSEswY2xrcWtreGI0cGdkQVhSTktwOWVIbmJYS1UzZ1BpcVhXWkZkemE2cnpjTWVGd2dtaThYMTBKdExTcjIzNWc5NkV2dk5SaE1BQlpWbXpLMkpyVXhOSXfSAcYBQVVfeXFMUDN5N0plZl9EcUNpbnM1SkJtWVJobGVjbERycWJBQUw4SmJ1UF9sMWFQek00LUpPUi13RS1fQmhjRXNQLXlrQXFUREpSUFhERXNsY0xRNGE1SWdLM0h4R25hVFZMVk5WOTdOMHY2LUhLMGNsa3Fra3hiNHBnZEFYUk5LcDllSG5iWEtVM2dQaXFYV1pGZHphNnJ6Y01lRndnbWk4WDEwSnRMU3IyMzVnOTZFdnZOUmhNQUJaVm16SzJKclV4Tkl3?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "Knesset Hamas Recognition Bill Sparks Walkout Drama",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmszQjRTc0VMTUFIWi1feG5oc0h0aU1kTVBSOUJac0RmWEp3bkVjazNIZ0NlNklzQnZpSk1jcEdWYjczTnhiSXFsdm9scGw1N0plSTRqWUxJZjU3aUdSYTF3akFIU3FrTWhXMmxrVnZ2d0JoWVczODFqdjFkakpWRDJ6MVNEYkFWVHI4WGFCZE4yS3UwN3FuUEZpQkMtbG1kcXdON3pWdTJFQlhyT0VwMUNudE5YcmNXMHB1Tg?oc=5",
