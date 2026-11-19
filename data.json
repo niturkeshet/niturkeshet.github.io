@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:11+00:00",
+ "updated": "2026-11-19T14:26+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -211,9 +211,8 @@
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -271,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "חדשות 04 - הניסיון לבטל את רפורמת התקשורת | השר קרעי תוקף: ״גוש השינוי הגיע לוועדה עם פטיש של הרס וחורבן״",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTeThSMWFCWjZzMGFzMzRNWXhvSG1hb2lmd1BwMGl2Z3Z3ZlpzZTljZ3lNaDNLa1J3QkdCODYyS0g3NXMxTEZ1UG9B?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-19",
+   "keywords": [
+    "רפורמת התקשורת"
+   ],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "עדי זריפי ותמיר סטיינמן נפרדו בשידור חי בקשת 12: \"תודה\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QWGxPeDhmenFmdm9ycGJiSU9obTIyd2E0MlN2Nm1UUHhPUHZLdldrWklKMnRhNU5ySFhBN20zLXl2VzhxN2REY2QteUtNVVRyTmRPeUVwMUdXVVg2?oc=5",
