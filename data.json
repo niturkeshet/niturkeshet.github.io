@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:03+00:00",
+ "updated": "2026-11-19T00:17+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -151,16 +151,14 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -208,7 +206,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -272,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Knesset Hamas Recognition Bill Sparks Walkout Drama",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmszQjRTc0VMTUFIWi1feG5oc0h0aU1kTVBSOUJac0RmWEp3bkVjazNIZ0NlNklzQnZpSk1jcEdWYjczTnhiSXFsdm9scGw1N0plSTRqWUxJZjU3aUdSYTF3akFIU3FrTWhXMmxrVnZ2d0JoWVczODFqdjFkakpWRDJ6MVNEYkFWVHI4WGFCZE4yS3UwN3FuUEZpQkMtbG1kcXdON3pWdTJFQlhyT0VwMUNudE5YcmNXMHB1Tg?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
   {
    "title": "מליאת הכנסת אישרה בקריאה טרומית את הצעת החוק לביטול חוק התקשורת",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NZmFWaFIyeXFUN1F0WDJ3Znc5YUhsZzg2Rnlhamd0eTRwSXplNHpHam9yOEFZLXhLVjZueEhBc1g1aVctZXlfUzlUbw?oc=5",
