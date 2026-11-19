@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:40+00:00",
+ "updated": "2026-11-19T12:55+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -212,7 +212,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -270,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "השער המלגלג על יו\"ר הכנסת בשבועון בעלי ערוץ 14 - ותגובת איזנקוט: \"הסתה פרועה\"",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pQ2FBY2lKNFFaNWNxMTVxVjRkMU5SZVk4NVhxQXFJWEwwZXRMaW03aWxsT0FMR29WWndNMXZYMmZJb2hWVG5PWEMxdWE2UVBnamg3cHM4aDNZQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-19",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "YNET"
+  },
   {
    "title": "קרעי על ביטול חוק התקשורת: \"ידי מושטת לאחדות ולהסכמות\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jdnhRV1ZYTWh4dVRDRnh4SGU5RnZWcTBCUThYbEljOHlFVWxQa05kNjZxeVFCQzJLajl4WG9tOUlvdkZpMFFHcVVIc2xKZw?oc=5",
@@ -343,6 +355,16 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "כשביבי שיתף פעולה עם טיבי: כמה פעמים נתניהו הצביע עם המפלגות הערביות?",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JY1ZFM0d1aVVHUnNMZTVXajRHdjhJTUtUUU5uTkNKSU9nYnBWdzZKSHZvNHJ0NzJBcWEwTDdTUlktNW56TVdJcm1jSHVINW9XRVZCTG9NMG9TZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-18",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
   },
   {
    "title": "ח\"כ חנמאל דורפמן הורד מהדוכן בעימות עם אחמד טיבי",
