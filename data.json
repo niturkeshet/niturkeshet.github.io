@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:23+00:00",
+ "updated": "2026-11-20T08:38+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -260,7 +260,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 8
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -270,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "דודי ורטהיים רכש מניות מזרחי-טפחות ב-10 מיליון שקל",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EdzZjbEdnMnJ3VllpX3VYM29wSDQ3eFh6dXE2ZW1DZTlYYVgxTlctcWwyVWtETVVuNk1WUjl3bVU1cE5rcmFzcGNPaXlWR1RpVzd0eDBESXc3Y0VKZmVxVWxqQTQ?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-11-20",
+   "keywords": [
+    "דודי ורטהיים"
+   ],
+   "pv": true,
+   "publisher": "כלכליסט"
+  },
   {
    "title": "כשהשעון מתקתק, זה לרוב לטובת נתניהו",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1FUWmRDZjJsMjJlMTRrTUNzQzVOckxMTXR2Wm95OV9xZkluNnFqVTlHUVFIZXJhbVpCZFp4WmkwM3c2ZzFqRzVib1hiZ2xBeTNxVGZHNmFnY1RHcmZiOFU4Y0ZBY2w1VWZtUHZNMGxIN0E4RHlHcDJBYWtaYXNsRENRWHZsS3FfRlZSXzhndHp4SF9UcFR6SGlfcWVUN21NNTUyaUJwZFQ2dW1naDVR?oc=5",
