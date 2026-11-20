@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:57+00:00",
+ "updated": "2026-11-20T15:13+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -205,8 +205,9 @@
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": true,
-   "kept": 2
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -217,8 +218,9 @@
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": true,
-   "kept": 3
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
