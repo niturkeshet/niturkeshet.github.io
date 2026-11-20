@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:45+00:00",
+ "updated": "2026-11-20T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -241,9 +241,8 @@
   {
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -254,9 +253,8 @@
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
