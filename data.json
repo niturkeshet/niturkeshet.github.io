@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:38+00:00",
+ "updated": "2026-11-20T08:54+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -218,7 +218,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -230,7 +230,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -260,7 +260,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -270,6 +270,40 @@
   }
  ],
  "items": [
+  {
+   "title": "הבעת אמון: דודי ורטהיים מנצל את הירידות רכש מניות מזרחי טפחות בכ-10 מיליון שקל",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SYWx1eXYza3g2RHFQcUxKd1owUUp4djRYUVl0YzI1T2pNZU9VT3cwV0hCYU9BelpLZ3gzV041MW1NQl9MX2R5bXVocGN1Yi1mR3dtX25RczV6cWktLTRaVUVkbU44QQ?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-11-20",
+   "keywords": [
+    "דודי ורטהיים"
+   ],
+   "pv": true,
+   "publisher": "ספונסר"
+  },
+  {
+   "title": "דודי ורטהיים מביע אמון: רכש מניות ב-10 מיליון שקל",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nem56LXEtT2dpNVEyZEE2SXBKMnJPUXgxSFd1ZGYzWTlhQ3MzLVowYTNZbWp4a19YWGgyM0g4bW16ZnBQUTNOeWdseEszZ3ZMVW9rM1pjUU5SZ1dPMGM0?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-11-20",
+   "keywords": [
+    "דודי ורטהיים"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "נדחתה על הסף תביעה ב-21 מיליון שקל של בראון-פישמן נגד מוזס",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWUZDbVpPcHQ1UmZkT0U1ejdKS3paa0RGRUpOUkJaNGVKdXQzT2o1S3gtYmEtUjhrQzRhclRIVkw1SEtncXNwOU5jbnJIUkFweGYwRTFzSFI3b2d0WmI3aVpPVGM3OUk?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-11-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "דודי ורטהיים רכש מניות מזרחי-טפחות ב-10 מיליון שקל",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EdzZjbEdnMnJ3VllpX3VYM29wSDQ3eFh6dXE2ZW1DZTlYYVgxTlctcWwyVWtETVVuNk1WUjl3bVU1cE5rcmFzcGNPaXlWR1RpVzd0eDBESXc3Y0VKZmVxVWxqQTQ?oc=5",
