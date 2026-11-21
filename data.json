@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:44+00:00",
+ "updated": "2026-11-21T16:59+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -242,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -270,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הכנסת בדרך להליך תקדימי: נערכת ללחיצה על מקש Undo",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DQnd2NW9Lalo5VndUak1ha0dpVl9ncXhDMFhlVU5VYTlhbHlZZGdpUFMyVHNsSmtIcjJCSFJpTFpndnhEbzRqeDVqOEVMOElQYnJ5NnlaSVoyeWVMeURyaVRGVF9xWFJ0?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כלכליסט"
+  },
   {
    "title": "אחרי הסערה בתאגיד: איילה חסון עוברת לערוץ 14",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001564321",
