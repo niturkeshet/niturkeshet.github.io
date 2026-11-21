@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:33+00:00",
+ "updated": "2026-11-21T22:48+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -270,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מתן כהנא, שים סוף להסתה נגד הח\"כים הערבים בכנסת",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb1hJXzVaVXpRSzFXSEtSLVl1Unc0eEZlLXJwZmR2ZXZfbGl0YjdIcFQxOC1tb3A2eS1UcGthYm5LekV4VFdLaG1mUndrTlZHOHlRQWJaVVl5VFViX3c0bS1aNzlKR1JyM3ozNUUyMkxfNzh3ek1Xclk4N0l5WG1IOVR0c2JIYjlMTF9ULThXNUlHNEhkOGpiNkszdWdELVNKMVBXb2VwQjROWFRtaTdMbWVnaXRFV08wZmxBZg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "ברקוביץ' חזר לשידור ונקרע מצחוק: \"עוד פעם הבאת לי דוקטור?\"",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PMUgxNGs4OGN1bFlZTVFWbkRxTVlPMjIyb1pRWXhWWmxnU3Q5SFBUMjgtLTVNaFJKZUlwQXlscE5vSkp6MEp4ZnhrNA?oc=5",
