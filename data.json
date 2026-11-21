@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:01+00:00",
+ "updated": "2026-11-21T20:16+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,13 +182,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -199,9 +199,8 @@
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -224,9 +223,8 @@
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -255,9 +253,8 @@
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
@@ -268,12 +265,21 @@
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "בקואליציה לא מוותרים - והמאבק על רפורמת קרעי עולה שלב",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zZkpWV19UQUg1ZGZIVVlJeW5KY0xxbUpFcnhQbmZMMFY4MWJaVkxueGNLVWVNU19WbWRIcUNaTDdta2NsUFotbnFDaS1Jdw?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-21",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "בקואליציה לא מוותרים",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84ZTY1LVlFdmZKOFZsVXlUcE12V2tzbjBKazJvaWZYRHVZY2E3d3lIUXFWS29vUkdyN21EMHRFaDhBZHh5d0J0OEtyUE5rdmc?oc=5",
