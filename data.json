@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:35+00:00",
+ "updated": "2026-11-21T02:50+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -211,14 +211,15 @@
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -270,6 +271,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בורסת ת\"א ננעלה בירידות חדות בסופו של שבוע אדום במיוחד",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zVVdZVjZxeDJXRHJ0STBVQXloSGMtSHBPQjRSc1Y2SlpreTBlWHBzSlVTZndOd0Q3V3EzVVNtRWJWRV9yWk8yOERKek5acVU4WmxjVjlYX3dCdG0xbUtZNzdKU0tYMGRr?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-11-20",
+   "keywords": [],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "אופירה אוחנה סרי 2026",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMlFTeW92QXpjUjBGMGgwTEVPcXpKOXIzVmJsYnhObFJEODQ1ZVNfT0NUV1oya0tCMWlrOFBKMGc2djNjVGlEdFJLOUV6ank2Y3ZsTnR5V1RQRXFULW5RdDFpTGNoNjhUSXR6dnZ4YTM1T0pHWFdyd0Q2aWt6YzdmamVqemp1NUJ3M2pCb24wdVA?oc=5",
