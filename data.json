@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:29+00:00",
+ "updated": "2026-11-21T16:44+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -152,7 +152,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "גלובס · גלית חתן",
@@ -270,6 +270,17 @@
   }
  ],
  "items": [
+  {
+   "title": "אחרי הסערה בתאגיד: איילה חסון עוברת לערוץ 14",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001564321",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-11-21",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
   {
    "title": "בורסת ת\"א ננעלה בירידות חדות בסופו של שבוע אדום במיוחד",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zVVdZVjZxeDJXRHJ0STBVQXloSGMtSHBPQjRSc1Y2SlpreTBlWHBzSlVTZndOd0Q3V3EzVVNtRWJWRV9yWk8yOERKek5acVU4WmxjVjlYX3dCdG0xbUtZNzdKU0tYMGRr?oc=5",
