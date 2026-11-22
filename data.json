@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:42+00:00",
+ "updated": "2026-11-22T13:57+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,13 +194,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -270,6 +270,28 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי: \"זה או ביבי או טיבי, אסור להקים ממשלה עם תומכי טרור\"",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11UzlCWnFZVVhDaHdwTG1IMzZ5ZG5vVjFKSGFZQWpnRmdTVTVDWmJIM2o3RTVpbWwyMGRaSWVweDd6ZURBQ0psbTFqdHg0VTA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "אילנית לוי על התוכנית של קשת 12: \"עלובים\"",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Iakh4RUhCMnpyc1ZUNG9WZ0dPSk5rWDZDTGtWenp6WGN0RkM2ZWFKc19EaHN3b0RvZ3dJM2h5aUx2QlprYTBacVRUXzQ0UEd3NkdULVpCTjFxTHFTdHp3?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-22",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "הכנסת פועלת לביטול חקיקות נתניהו... אייזנקוט רץ מול מועד ההטלה",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1VVUxeU11R3ZacjY4ODYxSldyR3hJd1dnTmNWRTkzRDNCR3BXRmRDbnFZWUsxaENJQW54Z0pDSEdkTGJhTWppT3JSSnpReldoa1pQaU1R?oc=5",
