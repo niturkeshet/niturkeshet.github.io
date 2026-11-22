@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:13+00:00",
+ "updated": "2026-11-22T15:29+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -270,6 +270,30 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל ועמית סגל בראש: שיא כל הזמנים בתלונות לרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcjA4NGpjN3VoSXhfZnlJNHhXOWM5R2U5SV83V2RYcktXQjRKUUYtQnZIb1p6RUpFVENNS25ORU1sY25yQk9iTlZXMGV2ZHp1TnZQUldpVGpqbHFB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-22",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "ניר דבורי סופג עקיצה מערוץ 14: \"עם ישראל לא מטומטם\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0QmpvOG1TZ01qQ2NYM0F2X2NFYUVOakhEdGdJbE9heWxJZGU4Z1VMU2FIYk40SmFad1RoV0pkamxVT1NtSTB1RXZoZmoyb21KbEluZFpuVThMQlRr?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-22",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "השר קרעי: \"גוש \"הפיתוי\" מכרו את הכנסת למהללי השאהידים\"",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFQWZkREF4NzBJWFR1UWdxQTh1WDUxc1J1M0l5M1lvLWVJZUhFbXlxUlBvS2NNcjRGSG5GQmRUSFFNWlV1VlVVUC0zNlBsTGM?oc=5",
