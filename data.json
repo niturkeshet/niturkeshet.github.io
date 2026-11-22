@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:44+00:00",
+ "updated": "2026-11-22T15:59+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -270,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "אופירה אסייג: \"צפוי, איילה חסון הצטרפה לערוץ של ינון מגל\"",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfQUhKNVZ6enk3bmhkRnZrWG91YTJWYnVIWjQyYk15dXhuSVp1YldpR1JMd2ROamJ1dFlkbDNPNmd2SUhVQ0ZScEZ5bGduNHhLdTlzOTZ4MFZRcUI4Q1F3?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-22",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "ינון מגל ועמית סגל בראש: שיא כל הזמנים בתלונות לרשות השנייה",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcjA4NGpjN3VoSXhfZnlJNHhXOWM5R2U5SV83V2RYcktXQjRKUUYtQnZIb1p6RUpFVENNS25ORU1sY25yQk9iTlZXMGV2ZHp1TnZQUldpVGpqbHFB?oc=5",
@@ -581,6 +593,18 @@
    "date": "2026-11-20",
    "keywords": [
     "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "אדוה דדון מאשימה את כתב חדשות 12 בשידור חי: \"זה מוקלט\"",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45dVhzdzhTN0xQNVVkc0pQYjU3eHVZc0pHMzBjSTlwRjl6YXg0bml1MnY2M0xZemdqV1pYY0VRSW1feEpsbWFUVWU4aHM2My1XZVQtM0VrTUM?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-19",
+   "keywords": [
+    "חדשות 12"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
