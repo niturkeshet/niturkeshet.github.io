@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:53+00:00",
+ "updated": "2026-11-22T06:08+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -386,6 +386,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "משקפי ה-AI של מטא בישראל: מה מותר לצלם וממה להיזהר?",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OLWNxejVjdWFtZjJ2eGxaQkZiWW5sbDZQTmdqSWZqWlRkM2tRbEF2MURaZ3diWVFrZUZKWlp3eHlSOHN0ekVMV0RFdWllbXprQmo1RkhyV0tKeVFNNlF5NURtYXo2cUEtRkxneGxta09Wa1I2VWpIZWFOYw?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-11-19",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "mako"
   },
   {
    "title": "יותם זמרי ואיתמר פליישמן נעלמו מהמסך: מה קורה בערוץ 14?",
