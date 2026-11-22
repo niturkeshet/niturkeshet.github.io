@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:15+00:00",
+ "updated": "2026-11-22T18:31+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,14 +193,15 @@
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -229,8 +230,9 @@
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -241,8 +243,9 @@
   {
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
-   "ok": true,
-   "kept": 2
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -253,23 +256,36 @@
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   }
  ],
  "items": [
+  {
+   "title": "מעט מידע, הרבה עיכובים: קרעי נכשל במדד השקיפות",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFB5WnpDQmx6bWxVM2NVRHRUMU5objlGV0JfbHFHa1NzbnoxWU1RVndyRzV0dDBBMXlTMzlIMWlYWQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "שקוף"
+  },
   {
    "title": "מאיה בצלאל הצטרפה לקשת 12 באופן רשמי: \"אין לי יותר שנצ\"ים\"",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhYjdFMmFlaVdDOEJJdlRYUEdLa09UMDM1S1Y0OWg3aW9memE2R1dDLTRJa3RTUkFFUDkzcHQ0ai1ILVlMQkRUc2VobWlCN0FGWGM2RDYwWEk?oc=5",
