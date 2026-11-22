@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:39+00:00",
+ "updated": "2026-11-22T08:54+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -182,7 +182,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -271,7 +271,7 @@
  ],
  "items": [
   {
-   "title": "גדי נס - ״הם מפתים את החרדים עם חוק גיוס רך",
+   "title": "גדי נס",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTC1RckE0QndqUUpERjdIcVBEdUVzN0R0UVRQZ0ltNm1yZGNHYjZoMVR5cHBHR0RnaWQ2MFlSUkphTm5KQndGRm5RM2s4OXdhV3h6dnZGVk5KVzJLQ0pieG1Wc2wzdzVoX0VnSG5WVlZ4UGlnOF9INWhtRGh0dUNSemVCdw?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
