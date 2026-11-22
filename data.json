@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:37+00:00",
+ "updated": "2026-11-22T04:52+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -242,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -1545,6 +1545,18 @@
    "date": "2026-10-19",
    "keywords": [
     "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
+  {
+   "title": "שבוע הדוחות בוול סטריט: מטא, טסלה, נטפליקס וספייסX מול מדד פחד ב-18",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FdzUyWmd3UVBBWjFxbGRZSWUyUE5oVnZEMHFmVE85WlVtNy05ZTd5VDdvZTNwM3JSZlpDcWdlblIzTXcxdk4zdGNTN25JeEg4SWQ1Y1VDakdsZ3RyZUVDWkpyWEJvZ1VaZzl2U3lJYnA?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-10-18",
+   "keywords": [
+    "מטא"
    ],
    "pv": true,
    "publisher": "ביזפורטל"
