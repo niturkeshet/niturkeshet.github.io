@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T09:55+00:00",
+ "updated": "2026-11-22T10:10+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -270,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "\"גוש הפיתוי\": שלמה קרעי במתקפה חריפה על איזנקוט - והאזהרה לליברמן ובנט",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QXzRrT0NDUzFmeWVYY1pOTW9YZlpHODZJd2tBamFDdmo4N2tmSklseVE1OFRrUWJkR1JwUXloVk0tLWR1aWF6ZUtnYTdhR0hzVzVGSTZROTY3NFRYbVQwY004UWo?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-22",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "גדי נס",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTC1RckE0QndqUUpERjdIcVBEdUVzN0R0UVRQZ0ltNm1yZGNHYjZoMVR5cHBHR0RnaWQ2MFlSUkphTm5KQndGRm5RM2s4OXdhV3h6dnZGVk5KVzJLQ0pieG1Wc2wzdzVoX0VnSG5WVlZ4UGlnOF9INWhtRGh0dUNSemVCdw?oc=5",
