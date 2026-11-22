@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:31+00:00",
+ "updated": "2026-11-22T19:46+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -181,15 +181,14 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -236,23 +235,20 @@
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -269,12 +265,21 @@
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "השעון מתקתק: גוש השינוי במרוץ לביטול חוקי ההפיכה המשטרית",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VVDJyNUNoWWFiTnFKZzBSdVFWUDM1LXgweklRVmpEM1ZjVG9ISlJDb0pJdjhZVEhCbWFrNHRNbkg4T1djTXN4VHJ6QVR4UzJDdjN6dU00cEcxV2xZZXFVQ2RnTFJlVlhp?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כלכליסט"
+  },
   {
    "title": "איתמר פליישמן לא עושה חשבון לינון מגל: \"לא אצביע לו\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UVXZvM0dNOXdiaE9oU2JyeGg4MVFEenBhREhzaWhYT05KWVc5YTdmQkdPbWpOcTBHUm1jcnp1UVZKeEI3aUhDZThLSWNLdTlrRzFWSlA5MFNnNGc3?oc=5",
