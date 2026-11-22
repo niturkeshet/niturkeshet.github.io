@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:11+00:00",
+ "updated": "2026-11-22T11:26+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -164,7 +164,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -270,6 +270,27 @@
   }
  ],
  "items": [
+  {
+   "title": "\"פגמים רבים\": הוועדה החדשה לביטול חוק השידורים תתכנס מחר",
+   "url": "https://www.themarker.com/news/themedia/2026-11-22/ty-article/000001a2-02d8-dad7-a9ff-42dbfd430000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-11-22",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true
+  },
+  {
+   "title": "החלה פגישת המשא ומתן השנייה בין נציגי ישר לנציגי הליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ONEJiNjBINFlDRVZpVzFpWDBianJWUjJ4Q29VSTRQbXhoWm5qc1ZuLWw5NGQzejFvbnB6by1TNXp4amI4TjA0?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אתר החדשות דבר"
+  },
   {
    "title": "יותר מחודש בלי שכר, שביתה ופיטורים: הכאוס מאחורי הקלעים של ערוץ 16 | בלעדי",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oSnVKeVZxZ2dtZUw5SW9pdC16eEtaWTZtMzg3WXllRnU0eGRRRkdPN19ZYlVJUlRiTHJqRUR4NjVnajdJbnM3MDNxdEl5RmpBQTI0V2cyTnc0bDFuS0tpNg?oc=5",
