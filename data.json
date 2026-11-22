@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:22+00:00",
+ "updated": "2026-11-22T05:37+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -270,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "איילה חסון עוברת מכאן 11 לערוץ 14 ותתחיל לשדר כבר השבוע",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FUGVORTJOUGZzZ0swRUNvSTR0amt2WldITFNTdVozaGd5TGk1U2hMXzgtSk5Cd2NkYmUwallEbkotWW9TUHhNb1RBa2xHU0Nyelg3MzlrRGVBZkRiMGo4RHlBbnhmd08zVzNVOXFJOUxVdU9YQmgwZlR3X1Z0cVU?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-22",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "הכנסת תחל השבוע בדיונים בוועדות לביטול חוקי ההפיכה המשטרית",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNFY2bUctOWVNRHFlWXlmZnA0alF2SFYyUFNZeFI1MkVwVVVualhSNWxpM25qSHpvWlc3Z2RsbFlzeURtVk5mM3hlWUxfQ1pESzVoYVNCUlBkUGpON0lkWGlxV3VqYjk3TGZ0TWotR1N5MllDcjZKNi1OQ2JFZ2hLR2lEbGlFYlhnMktGc2YzN0phazlIemZDUS1heWYyVXU3ZUp5d3dTYjF0Qjdt?oc=5",
