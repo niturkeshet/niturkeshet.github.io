@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:40+00:00",
+ "updated": "2026-11-22T10:56+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -270,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Eisenkot Bloc Sets in Motion Plan to Undo Netanyahu's Judicial Coup",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeGtyZ3o1ZlR2T2tPNnhzMXVTcmJKLWFNWEI0TFplVW5RTFlhb2pvSldBMEVscHpEbGQ0eG9KRDBXRDRWUTJqSGN1OFhIV0N1cHhXZW1BM1VLWnFlaXZtcTB0RmdyY3g1ZTNDQ2dvNEN5OV9VcW1zQUM4dll6MFh5b01MbTdTYTRYX0E2cGRDd1JhbXp5RHdqUlBDTm1yZ2tCeDVXR0szUkszeGhSZDV5eXktSFhzWmNQMWRmVUtKNjBSY2c2SHFmNTcxMkx4cFhTVWtvdUlsNjh0X0hPUFlfakNvdmk1akhTX1dBam1KbTVDRExwZzA0ZmoxU2o0b2IyQlRYZzJwaTJEcTN6YThaNWl5NDY?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haaretz"
+  },
   {
    "title": "\"גוש הפיתוי\": שלמה קרעי במתקפה חריפה על איזנקוט",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QXzRrT0NDUzFmeWVYY1pOTW9YZlpHODZJd2tBamFDdmo4N2tmSklseVE1OFRrUWJkR1JwUXloVk0tLWR1aWF6ZUtnYTdhR0hzVzVGSTZROTY3NFRYbVQwY004UWo?oc=5",
