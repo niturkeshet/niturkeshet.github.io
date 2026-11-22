@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:24+00:00",
+ "updated": "2026-11-22T08:39+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -176,31 +176,31 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -271,6 +271,16 @@
  ],
  "items": [
   {
+   "title": "גדי נס - ״הם מפתים את החרדים עם חוק גיוס רך",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTC1RckE0QndqUUpERjdIcVBEdUVzN0R0UVRQZ0ltNm1yZGNHYjZoMVR5cHBHR0RnaWQ2MFlSUkphTm5KQndGRm5RM2s4OXdhV3h6dnZGVk5KVzJLQ0pieG1Wc2wzdzVoX0VnSG5WVlZ4UGlnOF9INWhtRGh0dUNSemVCdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-22",
+   "keywords": [],
+   "pv": true,
+   "publisher": "רדיו צפון 104.5FM"
+  },
+  {
    "title": "נתוני הרייטינג: \"פגישה\" עוקפת את \"הפטריוטים\" במספר הצופים",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FOGNJckIySHROaHFHZlgxMnVMT0IxRmt3MkdBYm1ZQTVRVWVJcjBfdUhDYmpua1NJMkZWQjVNdnZtMG1ZRlZmSU5vVTJfa3YyTlJBSE1uX0dVXzdEVjZQS2I5QW0yZlZBRXdMeFZid1pGZWNEaHQ5bEE5VVY3Zkk?oc=5",
    "source": "ביזפורטל",
@@ -323,6 +333,17 @@
    "keywords": [],
    "pv": true,
    "publisher": "וואלה"
+  },
+  {
+   "title": "אילה חסון עוברת לערוץ 14: \"איש לא ישתיק אותי\"",
+   "url": "https://www.haaretz.co.il/gallery/media/2026-11-21/ty-article/.premium/000001a1-feeb-d381-ade5-ffeb2f590000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-11-21",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
   },
   {
    "title": "מתן כהנא, שים סוף להסתה נגד הח\"כים הערבים בכנסת",
