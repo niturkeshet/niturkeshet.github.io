@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:46+00:00",
+ "updated": "2026-11-22T20:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -270,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "כתב חדשות 12 פרש לאחר 11 שנה - והוא לא מתחרט: \"אמרו לי משוגע\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByejRGWXdGc0hvZVZhcnM1OUdQVVBJUkRXTl9vN1cxSEFmNDVWdzRlRHlLZXB5aWFFZnowRDVmQU9UaTYxUUhTZVNFcHlYNmhEVFA3QnhfWF9QNjVR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-22",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "השעון מתקתק: גוש השינוי במרוץ לביטול חוקי ההפיכה המשטרית",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VVDJyNUNoWWFiTnFKZzBSdVFWUDM1LXgweklRVmpEM1ZjVG9ISlJDb0pJdjhZVEhCbWFrNHRNbkg4T1djTXN4VHJ6QVR4UzJDdjN6dU00cEcxV2xZZXFVQ2RnTFJlVlhp?oc=5",
