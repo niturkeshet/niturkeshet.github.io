@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:46+00:00",
+ "updated": "2026-11-22T19:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,14 +193,16 @@
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": true,
-   "kept": 7
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -223,8 +225,9 @@
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -265,11 +268,24 @@
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   }
  ],
  "items": [
+  {
+   "title": "איתמר פליישמן לא עושה חשבון לינון מגל: \"לא אצביע לו\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UVXZvM0dNOXdiaE9oU2JyeGg4MVFEenBhREhzaWhYT05KWVc5YTdmQkdPbWpOcTBHUm1jcnp1UVZKeEI3aUhDZThLSWNLdTlrRzFWSlA5MFNnNGc3?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-22",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "מעט מידע, הרבה עיכובים: קרעי נכשל במדד השקיפות",
    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFB5WnpDQmx6bWxVM2NVRHRUMU5objlGV0JfbHFHa1NzbnoxWU1RVndyRzV0dDBBMXlTMzlIMWlYWQ?oc=5",
