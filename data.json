@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:23+00:00",
+ "updated": "2026-11-22T07:39+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -194,7 +194,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -270,6 +270,18 @@
   }
  ],
  "items": [
+  {
+   "title": "נתוני הרייטינג: \"פגישה\" עוקפת את \"הפטריוטים\" במספר הצופים",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FOGNJckIySHROaHFHZlgxMnVMT0IxRmt3MkdBYm1ZQTVRVWVJcjBfdUhDYmpua1NJMkZWQjVNdnZtMG1ZRlZmSU5vVTJfa3YyTlJBSE1uX0dVXzdEVjZQS2I5QW0yZlZBRXdMeFZid1pGZWNEaHQ5bEE5VVY3Zkk?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-22",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "אייל ברקוביץ' שוב מסתבך? \"עוד דוקטור הבאת לי?\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92cFpRZEhnTEpvc2xmaU5Banp5Yml0MWVKbm0tVHEzWWNjYWpVV3BFYUhWR0R0MGJudnVscmRrMW1aaGs3UW9fNWpmR3JaS2hOMHdhbnRSLU1hN1U3?oc=5",
