@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:33+00:00",
+ "updated": "2026-11-23T20:48+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -220,7 +221,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -272,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ורטהיים ממשיך לקנות מניות מזרחי טפחות - ויגרוף השנה יותר מחצי מיליארד שקל בדיבידנד",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kcnJRMEsxRjZLTHpLUTloSVVweVdIUlowZnRBdXpQQVkwY0k3REt6bkFsa2lMRUNrd2c5T0FkSTIyaTB6TTN1ckJGYjhzWU4yU2ltaERjaWJVMmhMU0p0MFAtRQ?oc=5",
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כלכליסט"
+  },
   {
    "title": "\"שקט סרבנים\": העימות החריף במליאת הכנסת לעיני המצלמות",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcGR2UDNxNFBKNlJ0bzZqZHJVaHJNUWgtcmczd0Q3V3BjSHItTkZiek5wb3p4YUdJNGRLemxJdlFhRjY0MnJrUXYwbnJMNmo4elp2U25nZWlkVUdiaExqQmItV1h1dUtxOWt0TXlKLVVTQVlWUkJkSktHdDc1MFREMkt4SFFHcU0?oc=5",
