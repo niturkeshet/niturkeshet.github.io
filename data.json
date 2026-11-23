@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:57+00:00",
+ "updated": "2026-11-23T12:12+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -209,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -273,6 +273,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YOGxOMTBEVDc4d3VVZDBoZlhlbVVnR24zVldGQTBTdFI2MXpuT0hhODdZdS1rcFFJNFRPbTUtUWhZZ0oxVDZoNUltTHlrN0p4QWI5UmsxWXJiUE8xMmRsaWVmZ2swbnVSOVA5bllKVGFMTkdmUzFhSmlMdTk4UQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
+  {
+   "title": "Karhi Calls Knesset Legal Adviser Afik 'Political'",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWNxcDRuS3R4eWVHcWVEbGhpd0RRbGszTENmSU02RExOZzJvZXhxNkxsNU9FQnJwelZjcGpZN3cxV1hja1M2azRyZUFXajA1Zm5kYU9XOXJMS0djdURKaTNtR19UcDBYMkpiUEVXb3ZIT1ZKb3hHSC1SV0d4OElEZUpHdw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
   {
    "title": "השר קרעי על מתווה הרוטציה: \"בית הנשיא יתכבד בנוכחות נתניהו\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JV2pnVEZiZGo1RExVaTRrbUZSTWNqUlhpeWdDQzBfTjlBNGVYam5tMGo1TXdidml6d01LTWFCVHp1YXdpT0xIV3lvTGNmUQ?oc=5",
