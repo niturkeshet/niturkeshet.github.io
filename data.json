@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:04+00:00",
+ "updated": "2026-11-23T21:19+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,9 +163,8 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -209,7 +208,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -221,7 +220,7 @@
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -273,6 +272,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Karhi Clashes With Democrats MKs in Knesset Plenum",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80VHV5cUlzVFl1dW05eFNreFh3QlVHZUU5QU8tS1hBSGpBTWxGZHh4ak1GRHg3LTUweHhlNFRkNFhrS0NhRWxOd0otczNHRmotMThqemRYSHVVckhkYWVxaFFiU1Zacl9FUWk4UXZLOUgwd3ZrUDg1RHNaWDk?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
   {
    "title": "ורטהיים ממשיך לקנות מניות מזרחי טפחות - ויגרוף השנה יותר מחצי מיליארד שקל בדיבידנד",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kcnJRMEsxRjZLTHpLUTloSVVweVdIUlowZnRBdXpQQVkwY0k3REt6bkFsa2lMRUNrd2c5T0FkSTIyaTB6TTN1ckJGYjhzWU4yU2ltaERjaWJVMmhMU0p0MFAtRQ?oc=5",
