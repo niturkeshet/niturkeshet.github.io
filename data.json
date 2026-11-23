@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:24+00:00",
+ "updated": "2026-11-23T08:39+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -241,14 +241,16 @@
   {
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
-   "ok": true,
-   "kept": 3
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ice · תקשורת",
@@ -270,6 +272,18 @@
   }
  ],
  "items": [
+  {
+   "title": "שלמה קרעי מסרב לגנות את עמיחי שיקלי על ההודעה לאם השכולה: \"אין טעם לפגם\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ec2RmTGNpOUprQzVJaEVSc0hlS0dSUzhoVUEyb3ltQVV0aDdRY3lrNmtlYWk0cHNWZ2c0emdxWDdrcTladW9VcUZBNU1ZT1B6Y3ptQi16V2tTMHAySXl2Tm12SFY?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "ערוץ 14 חושף לוח שידורים חדש: אלו הרצועות שתגיש אילה חסון",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11V0hHaU5TcUlHNERDTGVkVEJqcnRtNFBvV1NuSU1ubnBnNHcwNFVOVzN4X3hxeFdrdmdXd2RzZ241Zkp6LXdhN25pSTFSN2lhLVo4azlSRzU?oc=5",
