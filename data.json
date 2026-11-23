@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:30+00:00",
+ "updated": "2026-11-23T14:44+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -184,110 +184,129 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 10
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "Knesset panel to vote tomorrow on bill to repeal Netanyahu ally’s media overhaul",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkx3MlkxM1R2Y3IySmdJa3RTV05hNS1wN3NqZG81b3hUV1QzRVRiSzRvUFZFcUNlVWVIcWc0MmVLdWFKLWI1NE9kcTF3b2d4czF5cXZWaVNSdnFQZHNqSzB0VHZCSjRZMG9pcG1OdDlMcHNFUHFHb1NWVFRkVXBFRzBzb3o3LUktd1V3NWtwemRKUkRqY25kWXR4UHRxWGpoN011VVMyMkRmY0d5MkFYQ3hzY3pwOFBvMGxOY1pDQnYtdXM?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
+  {
+   "title": "בית המשפט דחה את התביעה נגד נוני מוזס על מכירת אופציית HOT לדרהי",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC0xcVN2UE1obHFOYmFUdXg4dHNGWGpBWDFvcHlka3J3WVlhY2xfMmpUaFZRNzdfSGdGOGYxM0xvcE93dUtoZUowTWFva1d4NUdQU2laZTg2ZHA1U1ZXRV9zOExOSFpMOU5Ka2IwNG5mQXhBcVVHOXBNWWlNQUdVRFZlOVZiSURNREF6dTNIWnNWNm9YcFpuSXFDSjNVMWhMZ1ZaaVJ0aWRtQjg?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [
+    "HOT"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "המהלך לביטול חוק התקשורת יוצא לדרך: הצבעה ראשונה כבר מחר",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LdWtiekd5cTc5bFRIWmdXdGJvZjFobDZyVWNyX0owOXZmYW1ramxFWWxGTkV1ZDlJb0ljdjdnUlp6REZXenQ5ZWRGa05INDVPNDlNTFl3cDFMbUVMUndQUmlfcjkweGtE?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-11-23",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "כלכליסט"
+  },
   {
    "title": "המהלך לביטול רפורמת התקשורת מואץ: ההצבעה הראשונה מתקרבת",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01bllIQm9nVmhIODZWQmpYYVhSOWhBN3hTQUxLNWJTZWRkSkVrOEVuZjdnNHc3OE83RzJuQ25MQjg1UFhUMzBEd0hOOGdudw?oc=5",
