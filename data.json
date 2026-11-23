@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:10+00:00",
+ "updated": "2026-11-23T09:25+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -242,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -259,8 +259,9 @@
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -270,6 +271,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השר קרעי ליועמ\"שית הכנסת: \"איזו יועצת משפטית פוליטית\"",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sVVVjZlJ1bzlfMkVIREl4RktGMHdTa1MzSE0wc04xZVJQLU1Fb1lmUW1MR21rcG1FOURjY0lJTmNJZ1dOQXBqNWwyaFZRRms?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "הוועדות המיוחדות לביטול כמה חוקי ההפיכה המשטרית החלו בדיוניהן",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckZEWkdpa3lfWEU5SjY4SWFadTZ4ZDhCWHlYcC1WWE0xdlYzeGJldFNNeDNmeFYyQUVUVWJqOF9GLWEzX2FzYXQ4dkU2eEJ4RHpuaTUxZGY4RkxHUFFMVjVPZDB0ZngzN09zUWpnRHlhMkkzbUZFZHFZYXF5QmtIenVxUlJ4bGdUYlN4NzJEUGROSjJCRjlBQWJ5bTROQUxH?oc=5",
@@ -293,7 +304,7 @@
    "publisher": "וואלה"
   },
   {
-   "title": "שבע תשע - הפודקאסט",
+   "title": "שבע תשע",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3pEcFRNQzdsNTlOeGhMU3ZGdEFDVzdxZFBpZ2ZZOWZRNzkxZjZwdnN5UWQySWVOMkswSWlrMEN3VzZFYzBGQ2xHSjNnSUwxU3VUazJRekFFbjA2bmdnNTBGbnpCSk11M1R4clB3WEFRV1BzR2FhTHo0ZzEzZjJuSw?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
