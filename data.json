@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:41+00:00",
+ "updated": "2026-11-23T10:56+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -152,7 +152,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "גלובס · גלית חתן",
@@ -163,26 +163,30 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
-   "ok": true,
-   "kept": 5
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -194,7 +198,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -205,8 +209,9 @@
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
