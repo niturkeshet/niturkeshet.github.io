@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:23+00:00",
+ "updated": "2026-11-23T07:39+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -175,8 +175,9 @@
   {
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
-   "ok": true,
-   "kept": 5
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 500"
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -270,6 +271,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ערוץ 14 חושף לוח שידורים חדש: אלו הרצועות שתגיש אילה חסון",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11V0hHaU5TcUlHNERDTGVkVEJqcnRtNFBvV1NuSU1ubnBnNHcwNFVOVzN4X3hxeFdrdmdXd2RzZ241Zkp6LXdhN25pSTFSN2lhLVo4azlSRzU?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-23",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "\"צומת היסטורי שישראל ניצבת בו\"",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblJfTkhPdThvWTJRYmJFUFFWcy1ROTBONGE0SHhSeU9PODYyU0JmVlBSd29sM05TRlJ2dy0ydG5IOFZYNWlBNU9aRzVBN3h3clJtalI5RWpPYkgyYm1scEVwcnMzVGZEbW81cXUwWjNVSFdPV0lrZ0x1ejFaYlFqMA?oc=5",
