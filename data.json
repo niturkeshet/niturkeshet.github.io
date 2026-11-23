@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:54+00:00",
+ "updated": "2026-11-23T08:09+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 7
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 500"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -178,7 +179,7 @@
    "kind": "site",
    "ok": false,
    "kept": 0,
-   "err": "HTTP 500"
+   "err": "ChunkedEncodingError: (\"Connection broken: InvalidChunkLength(got length b'\\\\r\\\\n', 0 bytes read)\", InvalidChunkLength(got length b'\\r\\n', 0 bytes read))"
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -190,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
