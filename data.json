@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:10+00:00",
+ "updated": "2026-11-23T10:26+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -193,8 +193,9 @@
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -217,8 +218,9 @@
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -235,8 +237,9 @@
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · מירב בן ארי",
@@ -265,11 +268,22 @@
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   }
  ],
  "items": [
+  {
+   "title": "לירן אבישר בן חורין",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WYjdQdm1pVThKVUFFQlhwSFk0R201TFRicm9mcmlsMTRUanhiWHhGZ2pBcGJTams2LV83dk0xMUltdTdraEd4bnhvNjM?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "\"נחקק בחטא\": מירב בן ארי נבחרה לעמוד בראש הוועדה לביטול חוק התקשורת של קרעי",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iVlZBVElNMk5VTDdPaFl4RC1ZSDV1VVFGelZRakZ2VWJWYV9CQXlRNjI3SmdNUlNNbGNaRS1USjZhRTBhY09EQUl0R3dqYnB5Q0tJYlNQVVE1dVNyU2tTNFBPRzZSR2pOdEE?oc=5",
