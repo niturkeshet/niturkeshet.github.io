@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:25+00:00",
+ "updated": "2026-11-23T09:40+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -242,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -259,9 +259,8 @@
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -271,6 +270,28 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי התפוצץ על אפיק: \"את יועצת פוליטית\"",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNcklWclBoeEFIS3VEWDhtY3hCaURzX1JvVW1wTDBIYllNamdXMS1Ka1pvblJiQW1BdzZJRGhKV1hKZzJpQ2dIN0NyMkFUYWdjTGtwVWRQQXVDN2ZiWG5HeWVyMVhuQkRfTHVlWmg0YnRsU2JUX0hFai0xdG1HMU15VG9pUnNDanJ5Yk91UmQtbTBacW9pM0k5WlNPb0tDVVVpYUd3OGRTaFVYZzBjRDJ3WE5qeGpuOUNNd2pLYXBSYW1jemlTTHpHTnNxenlweDdFdUI3WC1SYmpqcWRERy1xYmpqcmlCRHZvdG9jVjJ6UXY1aGw2dE5Sc2lBX1hadUR4dUZTTERIb2tUSmU2eFBCR1dTVFJRdy1VVEFRUnAwSkdBTjE3MUU0VlFPWHJodW9vMTJhUGYzYk9sTnhEVGRmbll3Zw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
+  {
+   "title": "שרשרת המינויים: ח\"כ מירב בן ארי נבחרה ליו\"ר הוועדה המיוחדת לביטול החוק של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nOTZjckl6MG1ZeW5Zb1FUN3NxZ3FKSFNqWVplNHBzbklXTnFMT1BFRHE0a1o3YS00Z3V5Q3RxM0lYTzNsV2R3dTBXRzd3NWp4VEFsZ0pYSG9fcjZmN2hkNmxkcjA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "השר קרעי ליועמ\"שית הכנסת: \"איזו יועצת משפטית פוליטית\"",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sVVVjZlJ1bzlfMkVIREl4RktGMHdTa1MzSE0wc04xZVJQLU1Fb1lmUW1MR21rcG1FOURjY0lJTmNJZ1dOQXBqNWwyaFZRRms?oc=5",
