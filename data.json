@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:54+00:00",
+ "updated": "2026-11-23T09:10+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -200,7 +200,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -242,7 +242,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -271,7 +271,29 @@
  ],
  "items": [
   {
-   "title": "שבע תשע - הפודקאסט - קשת טעמים",
+   "title": "הוועדות המיוחדות לביטול כמה חוקי ההפיכה המשטרית החלו בדיוניהן",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckZEWkdpa3lfWEU5SjY4SWFadTZ4ZDhCWHlYcC1WWE0xdlYzeGJldFNNeDNmeFYyQUVUVWJqOF9GLWEzX2FzYXQ4dkU2eEJ4RHpuaTUxZGY4RkxHUFFMVjVPZDB0ZngzN09zUWpnRHlhMkkzbUZFZHFZYXF5QmtIenVxUlJ4bGdUYlN4NzJEUGROSjJCRjlBQWJ5bTROQUxH?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "יועמ\"שית הכנסת נגד חוק התקשורת של קרעי: \"לא ראיתי חקיקה כזאת ב-25 שנותיי\"",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IZTBMVXhRODh2eFZ2RUVJaXFZYm5SZXlMMDdlZzFJTzBOSUZHcGltRU1yQXBKTkc5TU9ITVVBcFlxRmQtdWQteGFsc0lrYkxUNHpocXBSNEhENXRhdEk5Ym9n?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "וואלה"
+  },
+  {
+   "title": "שבע תשע - הפודקאסט",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3pEcFRNQzdsNTlOeGhMU3ZGdEFDVzdxZFBpZ2ZZOWZRNzkxZjZwdnN5UWQySWVOMkswSWlrMEN3VzZFYzBGQ2xHSjNnSUwxU3VUazJRekFFbjA2bmdnNTBGbnpCSk11M1R4clB3WEFRV1BzR2FhTHo0ZzEzZjJuSw?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
