@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:55+00:00",
+ "updated": "2026-11-23T10:10+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -206,7 +206,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -270,6 +270,54 @@
   }
  ],
  "items": [
+  {
+   "title": "\"נחקק בחטא\": מירב בן ארי נבחרה לעמוד בראש הוועדה לביטול חוק התקשורת של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iVlZBVElNMk5VTDdPaFl4RC1ZSDV1VVFGelZRakZ2VWJWYV9CQXlRNjI3SmdNUlNNbGNaRS1USjZhRTBhY09EQUl0R3dqYnB5Q0tJYlNQVVE1dVNyU2tTNFBPRzZSR2pOdEE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [
+    "חוק התקשורת",
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "כלכליסט"
+  },
+  {
+   "title": "גוש השמאל מאיץ: מירב בן ארי תוביל את ביטול רפורמת התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42UThtNmwwQTFoTmVCckY2OGtHQVhfcnFrSEZfYVB6YVRUTHF4aFc3WUR2SmZ5Q3JzZkVQZHlRZThvdzQ1QXR2NXZVcXA5Zw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [
+    "רפורמת התקשורת",
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "Knesset committee elects Yashar’s Ben Ari to lead repeal of Karhi’s media overhaul",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOVo1VHRjQ3FFVDNmNFMzN2JjaTNaY0w5dWVDelRZSTN0bWhOZEI0aExaamI3MTdFa2VKNTlaU2sxOUNKNGR5d28xMjNrRktfM1RFZS1HT0xDbXFHZU1vb0hBR21GTXY4a0sxUk5RdlhTMWdDOGxRVEdSUkk0aE82OVE0em5oLTlwSGc3eXlWRlhwSmdKMWtTbEgyWVNFUm83cGFQeUFVU0RpLUp2NXBwUHBpbWRqU001cDNCdFpzbFV2U21B?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
+  {
+   "title": "אילה חסון מול אילנה דיין ורביב דרוקר: תוכנית תחקירים חדשה בערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hc3NaX01OUk0yenJCUVk3eEZPLWpVaEtUTFJ4TTZ1SHYxMHpyNlJhMHdYSUM2TEVtc2hxR3Q0MEticnBwd0RMSXJzQlVRbC1xTUdzeGVrZko?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-23",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "ביטול חוק השידורים: עימות בין שר התקשורת ליועמ\"שית הכנסת",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xMFZRWVliWktQOG1iY0VoTzJfRjBfbkY3RTZpWlhLZGtUbzBjNEVpNFYxMmZtQ2ctS1BrNXVsQjBLRUV4LU5EZnJpUQ?oc=5",
