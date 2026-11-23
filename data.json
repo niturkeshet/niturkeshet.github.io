@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:29+00:00",
+ "updated": "2026-11-23T15:44+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,9 +170,8 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -209,7 +208,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -233,7 +232,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -251,7 +250,7 @@
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 0
   },
   {
    "source": "ice · תקשורת",
@@ -273,6 +272,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ניצחון לנוני מוזס: בית המשפט הכריע בתביעת הענק",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFYk5JU1JTS25JSl9HX0IwdzVNVThjcEt3OXFJZHdJNnZfWWhISnhUS0RtQW5qcHdFTzV6RVJVck5vZjZ1WXFpcWw5dTdYV3B1d1NDQVY5b0pWaVNN?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "Knesset panel to vote tomorrow on bill to repeal Netanyahu ally’s media overhaul",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkx3MlkxM1R2Y3IySmdJa3RTV05hNS1wN3NqZG81b3hUV1QzRVRiSzRvUFZFcUNlVWVIcWc0MmVLdWFKLWI1NE9kcTF3b2d4czF5cXZWaVNSdnFQZHNqSzB0VHZCSjRZMG9pcG1OdDlMcHNFUHFHb1NWVFRkVXBFRzBzb3o3LUktd1V3NWtwemRKUkRqY25kWXR4UHRxWGpoN011VVMyMkRmY0d5MkFYQ3hzY3pwOFBvMGxOY1pDQnYtdXM?oc=5",
