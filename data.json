@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:56+00:00",
+ "updated": "2026-11-23T11:11+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -184,9 +184,8 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -209,9 +208,8 @@
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -229,7 +227,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -247,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -275,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Karhi refuses to condemn Chikli message to bereaved mother, says Netanyahu-Eisenkot rotation likely",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JNXNKRkluUmwwR1lOSmxiV3JsUWh0dEJ4c1Rhd3h1dWRzekFPWWFPdDd3WTQ0aklEcUh3RVlCbXd0ZHF6RGJKUUdXbjdyUEdPTlVvSzRiWmlicTFPMzZSSDBNc2VjSzNZc0ROaEk5OHRDQVpJRFhXTFNjVQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "\"חוק עם כוכבית\": מירב בן ארי נבחרה לראשות הוועדה לביטול חוק קרעי",
    "url": "https://www.themarker.com/news/themedia/2026-11-23/ty-article/.premium/000001a2-07e8-d55f-a3f3-c7e89b590000",
