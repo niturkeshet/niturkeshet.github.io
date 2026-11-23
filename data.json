@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:49+00:00",
+ "updated": "2026-11-23T00:04+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,13 +188,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -577,46 +577,6 @@
     "ערוץ 14"
    ],
    "pv": true
-  },
-  {
-   "title": "מתן כהנא, שים סוף להסתה נגד הח\"כים הערבים בכנסת",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb1hJXzVaVXpRSzFXSEtSLVl1Unc0eEZlLXJwZmR2ZXZfbGl0YjdIcFQxOC1tb3A2eS1UcGthYm5LekV4VFdLaG1mUndrTlZHOHlRQWJaVVl5VFViX3c0bS1aNzlKR1JyM3ozNUUyMkxfNzh3ek1Xclk4N0l5WG1IOVR0c2JIYjlMTF9ULThXNUlHNEhkOGpiNkszdWdELVNKMVBXb2VwQjROWFRtaTdMbWVnaXRFV08wZmxBZg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-21",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "ברקוביץ' חזר לשידור ונקרע מצחוק: \"עוד פעם הבאת לי דוקטור?\"",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PMUgxNGs4OGN1bFlZTVFWbkRxTVlPMjIyb1pRWXhWWmxnU3Q5SFBUMjgtLTVNaFJKZUlwQXlscE5vSkp6MEp4ZnhrNA?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-21",
-   "keywords": [],
-   "pv": true,
-   "publisher": "בחדרי חרדים"
-  },
-  {
-   "title": "בקואליציה לא מוותרים",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zZkpWV19UQUg1ZGZIVVlJeW5KY0xxbUpFcnhQbmZMMFY4MWJaVkxueGNLVWVNU19WbWRIcUNaTDdta2NsUFotbnFDaS1Jdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-21",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "הכנסת בדרך להליך תקדימי: נערכת ללחיצה על מקש Undo",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DQnd2NW9Lalo5VndUak1ha0dpVl9ncXhDMFhlVU5VYTlhbHlZZGdpUFMyVHNsSmtIcjJCSFJpTFpndnhEbzRqeDVqOEVMOElQYnJ5NnlaSVoyeWVMeURyaVRGVF9xWFJ0?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-21",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כלכליסט"
   },
   {
    "title": "אחרי הסערה בתאגיד: איילה חסון עוברת לערוץ 14",
@@ -2934,55 +2894,6 @@
     "ערוץ 14"
    ],
    "pv": true
-  },
-  {
-   "title": "וול-סטריט ננעלה בירידות שערים; גוגל וספייסX ירדו ב-4%",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GRlZaVUVZTkVTSWpRdmdGV01NcTFONUhXWXluU2ZtSlZrRTRWWkUybHp2YnE0UWRmelozRU9yQjREc3lsZzgwWUJBTGxCZ0l2YnZoREdYSVRvRnV3RHM1SzRiOHBVQ0RTTVc4cGhfdEs?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-09-23",
-   "keywords": [
-    "גוגל"
-   ],
-   "pv": true,
-   "publisher": "ביזפורטל"
-  },
-  {
-   "title": "יעקב ברדוגו מגיב לשמועות: \"הנה אני, איך מסתירים אותי?\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xbDF3NHRNR3JnakxCczZ6bV9oTGJJaG5DaVJROW1YX0h1V280WHEwZVhyV2VVY1dJZk1HZWJZaFVwUkRiSjJ1ZWl6djJ6NHZWaURtdEx3VDVtNUxw?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-23",
-   "keywords": [
-    "יעקב ברדוגו"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "בכיר גוגל לשעבר מזהיר: הסכנה החדשה של ה- AI לילדים שלכם",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNFBFVlYtUGtERXhYaTI0OEpha1hSQ2ZFRWUyS2E1M2RBZWxaSENqV19FbXZZZmwxQ2pwUTdKZmV6YS1vZi0tTmpsLTJoTE5kNHBYNVBtOUdWUF80cHJlNWF4SHM?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-23",
-   "keywords": [
-    "גוגל"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "רייטינג: חנוך דאום משפיל את ינון מגל בפער של 124 אלף צופים",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oYUZmLXVuQTFuY0huVFZ6Q2hGblVkaGs5RFBaYi1sdEZmYU90NzlZQ0lWaFZxVGFEMXBWc01oc3dGVThxbHlnSTRUemdOaFFDcUVjVVd0M1hkU0NHbXVsZlpR?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-23",
-   "keywords": [
-    "רייטינג",
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "ice.co.il"
   }
  ]
 }
