@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:38+00:00",
+ "updated": "2026-11-23T06:53+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -188,7 +188,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -270,6 +270,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"צומת היסטורי שישראל ניצבת בו\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblJfTkhPdThvWTJRYmJFUFFWcy1ROTBONGE0SHhSeU9PODYyU0JmVlBSd29sM05TRlJ2dy0ydG5IOFZYNWlBNU9aRzVBN3h3clJtalI5RWpPYkgyYm1scEVwcnMzVGZEbW81cXUwWjNVSFdPV0lrZ0x1ejFaYlFqMA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "אילה חסון ושרון גל בערוץ 14: כמה מרוויחים מגישי החדשות בישראל",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jeTVuTENkd3AyVUUwdEFBdGY1dlpKRUFVdDNROHJRNDFPZW9Rc2IxeUFzRXRyQXAtS09CaTJXSXNiMDBJOEF2UTdiSzBYNUtYTEx3QnhqTGVnQ1FZT1BlNXAzNDFkZU5OREtSQ1RYdG95X3Z4WEF5eWxCSnVqWXc?oc=5",
