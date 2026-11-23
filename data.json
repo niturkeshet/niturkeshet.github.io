@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:28+00:00",
+ "updated": "2026-11-23T13:43+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -231,9 +232,8 @@
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -273,6 +273,31 @@
   }
  ],
  "items": [
+  {
+   "title": "חוק התקשורת | השר קרעי במתקפה על היועמ\"שית לכנסת שגית אפיק: \"הכהונה שלה בכנסת תיזכר לדיראון עולם\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wcEV4RzVhc1dSY3c0a3kzMEFmbHp1Vmk0TEg4T05ISGpPMnd4d0dPTDdQcFlidE1XdXV3QWhTU1dUTEZRVmF6ejJ4VQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "רדיו גלי ישראל"
+  },
+  {
+   "title": "חוק התקשורת בדרך לשינוי? מירב בן ארי: \"אין לי עניין לסגור ערוצים\"",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Cdnl1ZXdiT3dvS2YtaExkc2c4QjdmaXQ5Mk5STHFHXy05dnBRaHFyTVd2LXo3dDhjR0tTRUFTdXMtQnV5bl9sZnJuVUlOTHFPT1hJSGQ1ZDA?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [
+    "חוק התקשורת",
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YOGxOMTBEVDc4d3VVZDBoZlhlbVVnR24zVldGQTBTdFI2MXpuT0hhODdZdS1rcFFJNFRPbTUtUWhZZ0oxVDZoNUltTHlrN0p4QWI5UmsxWXJiUE8xMmRsaWVmZ2swbnVSOVA5bllKVGFMTkdmUzFhSmlMdTk4UQ?oc=5",
