@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:30+00:00",
+ "updated": "2026-11-24T13:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -238,15 +238,14 @@
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -274,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "יום סוער בכנסת: הלומי קרב התעמתו עם ח\"כים, מילואימניקים זעקו: \"האלונקה כבר על הרצפה\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tR2RFSHpfN2hEbGNWd1RHVW1xd2F5ZDFRcndYeDZSM2QxOTBQb1NlNG1kUDN2RERtNXhKU1U0TDhqT085WW5uNE43aW5USXBIbXotS29LSm01NE0?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה"
+  },
   {
    "title": "Analysis • Netanyahu the negotiator proves he is no partner",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSmw5N1NyWTZvZXdRT1RrMExyMDNpVmMtcUpKZm0xb25SMzJZZk1IZ2JNVUtBT1dlclJ6OXhIRFlMTUM3TDR3Szl4d1haemZHNHNGMXJYdmFXVUNIZ1hzX2piX0o4c1ZlbTFPWldraGk3QmVfa1FUSi1CeWhJSWNDaVlGaTdHRFZxdDFXQVd1OUVRQlA2Yk10dnBPSGRKaEZCQWp2d2htWlpvRWYyeTlhVXhvOVBPSGl3Mll1aE0zZVJGSE0xWmlyYTBfSGItMGxfWlZEalFwVHJwLXpYVHJlTUYwR0dPVkYxNmhIa3B1eG1OTm9CMkNlRjhMTUM?oc=5",
