@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:59+00:00",
+ "updated": "2026-11-24T13:14+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,13 +191,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -209,13 +209,13 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -263,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -273,6 +273,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Analysis • Netanyahu the negotiator proves he is no partner",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSmw5N1NyWTZvZXdRT1RrMExyMDNpVmMtcUpKZm0xb25SMzJZZk1IZ2JNVUtBT1dlclJ6OXhIRFlMTUM3TDR3Szl4d1haemZHNHNGMXJYdmFXVUNIZ1hzX2piX0o4c1ZlbTFPWldraGk3QmVfa1FUSi1CeWhJSWNDaVlGaTdHRFZxdDFXQVd1OUVRQlA2Yk10dnBPSGRKaEZCQWp2d2htWlpvRWYyeTlhVXhvOVBPSGl3Mll1aE0zZVJGSE0xWmlyYTBfSGItMGxfWlZEalFwVHJwLXpYVHJlTUYwR0dPVkYxNmhIa3B1eG1OTm9CMkNlRjhMTUM?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haaretz"
+  },
+  {
+   "title": "בוסו תוקף: \"כשהחרדים ביקשו התנגדתם בתוקף\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OR0hqNGVqMFlFdzl0QzJBTUhhTHVYd1lWYnNUNXRQczFqeVZlYzRzZFdOVVR3RkNWQllhLUV4V19FTmNWYVJadGhmRFFIQQ?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
   {
    "title": "Benjamin Netanyahu may yet be saved by the cowardice of his political opponents",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaDJNU09QRmdvTThWZWpTanZIaUxNRWpXdzE4SGxsS1BmVkVySjBhMHktVjl6VVBVVUV2VzhYbWV5Rll1RU5rT25pNnNNc2VvaE9xbEZFRmRpZjRUMS13NkdpUmR2RFZwZ09jSEx4Q0hSb0MtcUc1c3JWSG5MV1BIWS1xLUF0OExSQTliYnNSd3RPQnZ2MUdZWkpkUkF0MUxzdjF5LUo4d3FOTmVMb0ltb05RMNIBswFBVV95cUxOaDJNU09QRmdvTThWZWpTanZIaUxNRWpXdzE4SGxsS1BmVkVySjBhMHktVjl6VVBVVUV2VzhYbWV5Rll1RU5rT25pNnNNc2VvaE9xbEZFRmRpZjRUMS13NkdpUmR2RFZwZ09jSEx4Q0hSb0MtcUc1c3JWSG5MV1BIWS1xLUF0OExSQTliYnNSd3RPQnZ2MUdZWkpkUkF0MUxzdjF5LUo4d3FOTmVMb0ltb05RMA?oc=5",
