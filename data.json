@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:21+00:00",
+ "updated": "2026-11-24T21:36+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,15 +163,15 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -190,7 +190,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -202,7 +202,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -231,9 +231,8 @@
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -273,6 +272,18 @@
   }
  ],
  "items": [
+  {
+   "title": "חדשות 04 - קרעי נגד היועמ\"שית של הכנסת: \"מנהלת אכיפה בררנית כדי לקבור את רפורמת התקשורת\"",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BVTN6Tlk4bXRMcXppcEwxSlZXTldCRHN3cFVCVmRKMDNoRlM3bXJPSFIycFloVE9uQlNVSkFNcm1lcjhBT1ZMV3dn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [
+    "רפורמת התקשורת"
+   ],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "Likud MK warns haredi parties against joining Gadi Eisenkot gov't, says will be used",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pTVFPZERKZVpiYUdLTThMcVc0MXZJMlhoUEljanU4a1RDcEd4RENDc2dRNU1BQkVONzluYzhmQzl3SWstZElWaFJsNHNERG1Ddk9CRmU4dnZIVnRwZU5TZ3lOel9GSVdudmVNbko0UTJneDdUcUcwcDBjUQ?oc=5",
