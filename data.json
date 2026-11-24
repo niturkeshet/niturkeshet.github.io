@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:05+00:00",
+ "updated": "2026-11-24T20:20+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "החוק הראשון של האופוזיציה: ביטול רפורמת השידורים יעלה להצבעה, קרעי יוצא למאבק",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPZHdEOGRpXzdCN2VMcHE1T0VYblN3bDNHZnF4NFFjbFlXVDJ5bGlOWkwwZW4tNGEyLWdyaFlGYnpGX19FX2FwZg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "קרעי במתקפה חזיתית נגד יועמ\"שית הכנסת: \"עמדה פוליטית\"",
    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBrUFNLMGZQdVpqa2lKRDJQbDlPZ3N4SUZna0xwc3VJanp0Mld1UzdyQUJhTW1DTk96bUhiSmhZeTZjM3M?oc=5",
