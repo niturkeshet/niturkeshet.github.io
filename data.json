@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:35+00:00",
+ "updated": "2026-11-24T20:50+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Likud MK warns haredi parties against joining Gadi Eisenkot gov't, says will be used",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pTVFPZERKZVpiYUdLTThMcVc0MXZJMlhoUEljanU4a1RDcEd4RENDc2dRNU1BQkVONzluYzhmQzl3SWstZElWaFJsNHNERG1Ddk9CRmU4dnZIVnRwZU5TZ3lOel9GSVdudmVNbko0UTJneDdUcUcwcDBjUQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "החוק הראשון של האופוזיציה: ביטול רפורמת השידורים יעלה להצבעה, קרעי יוצא למאבק",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPZHdEOGRpXzdCN2VMcHE1T0VYblN3bDNHZnF4NFFjbFlXVDJ5bGlOWkwwZW4tNGEyLWdyaFlGYnpGX19FX2FwZg?oc=5",
