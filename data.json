@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:25+00:00",
+ "updated": "2026-11-24T07:41+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -226,9 +226,8 @@
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -264,17 +263,29 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "המסכה ברחה להישרדות: 15.1% מול 9.6% - ובחדשות ערוץ 14 עקף את רשת 13",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oWDd6YjhlaUw2N1hFRHRWZm9PQlNLSEZqOUp4cnJldjlYRk8xb0JmRGJHWW94OW5DeWtTb1BZY0NmWGd3Ty1FbXBQS3dKUWZWTThOc19oQV8wbGphaU9qdnQ2cEdka3czWF9RRTIzUWY2cXRpZ2hYR0ZHRkJLTG8?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-24",
+   "keywords": [
+    "ערוץ 14",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "הכנסת אישרה הקמתן של ועדות נוספות ותמשיך לדון היום בביטול חוקי ההפיכה",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHJIbE9RQTdJOUQtdlNoWkh4WGJiS2dYZUxOWWRWSkxPM2RNTU1DckNXNGlvcHdUeHplc1lTWWVfYmxEcHZqbXIxRFhWZ3A4Vmg3V3hEX3lGWGVkOUJ1T2NNcFl1NFQyQ0E4d05SRmZySXhtRFFMRjd2Y3gzdFpXZ1lJVDVsWGwwVHQyamJPRlVJWVFtcUp0cEtxVWpEdzBT?oc=5",
