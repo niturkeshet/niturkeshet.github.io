@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:28+00:00",
+ "updated": "2026-11-24T11:43+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,9 +170,8 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -191,7 +190,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -245,7 +244,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -325,6 +324,16 @@
    "keywords": [
     "ערוץ 14"
    ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "איילה חסון הגיעה ל\"הפטריוטים\" וחשפה: \"זיהיתי שזה הולך לבוא\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ITUFQYUY0aFNGZ2pUUFJYckdVSWtZeDJCdDZjUGFWa1hoWjExTE5lRTVSb2JWNzJnYjVNMGZEQTI0alplS201WFFheFk1d1BMRHlJcWV2Z1BuVDdO?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
    "pv": true,
    "publisher": "ice (אייס)"
   },
