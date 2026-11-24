@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T08:11+00:00",
+ "updated": "2026-11-24T08:26+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -250,9 +250,8 @@
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -274,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "צפו: ח\"כ איתן גינזבורג מרעננה עושה בי\"ס לשר קרעי",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPLVJFemJsckdCeTRoQS1hQllTZkJfUUlhQ2ZzNGxiSDNCQURZSlotbkhRYTlEU3VMTzEzbmZZWXY5Y0ZveFZkRVRvSVRGdDhTZ0tZVTA3RC10cEZ3ZmUwSlJKN0lSdTNIVkhlQXgyMVFGczdlUEFuSHZtb1phZjdWbTBtY2preE9Ta2wzMWdYcE9rdEJDbzNOcXRmWFF4RW9ZV1dfT2xnRUxZZUdKTWpaR0E3LTZaVEVMYUdJYzR2bWZKdmZBZXhMd2VaMmxzQzdCcFp1TVpuU2IzQ2FIN0RXUlJDRDQwdlRZb1V3VkE4eFpHWF9WYV92ekJpX0xMS1NOZHdRNjRRSWdOdG40TTJvejNQOVZIYmI1WVFEM3BGQVpCWEp3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "שרון אונליין"
+  },
   {
    "title": "המסכה ברחה להישרדות: 15.1% מול 9.6% - ובחדשות ערוץ 14 עקף את רשת 13",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oWDd6YjhlaUw2N1hFRHRWZm9PQlNLSEZqOUp4cnJldjlYRk8xb0JmRGJHWW94OW5DeWtTb1BZY0NmWGd3Ty1FbXBQS3dKUWZWTThOc19oQV8wbGphaU9qdnQ2cEdka3czWF9RRTIzUWY2cXRpZ2hYR0ZHRkJLTG8?oc=5",
