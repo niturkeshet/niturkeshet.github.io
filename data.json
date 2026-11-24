@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:43+00:00",
+ "updated": "2026-11-24T11:58+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,8 +170,9 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -202,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -272,6 +273,26 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו מושך זמן לסבב נוסף ובונה על בקרת נזקים מבית הנשיא",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1ZREtBcXhzS1hPU3E5V2dUQmZLQjE3N0xtOHFRYTJzRjQ3SmFtR1BoM09IRENRQ1FFZ2RiaU5Fbjl6bUg1?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
+  {
+   "title": "מועמד יחיד: יוסף אלרון צפוי להיבחר למבקר המדינה הבא",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QM2gxNDF6OEgzMDhrRWNGcy16TFk1NkRQdlNKbnNyTm1md09SNEZtMkpqSllaX3Y0WUgxTnZtdm1ZZDFmNWszXzVFeFVyaHdmT0N0bEs5WHRlaFpuMlFUcFExR2ZuUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "נסללה הדרך למינוי אלרון: גוש נתניהו לא יציג מועמדים נוספים למבקר המדינה",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRnRURldnTWV5N0FRSXpsM1phMnJ6d3ktQlVkNjVMdFBrWmRYUHZ1M3FSaV9CNDFzNGJSSWp5Z3k1bnVlWmt4OFA4aTBVMy01TUZ0QVVkcGRwZw?oc=5",
