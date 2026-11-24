@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:27+00:00",
+ "updated": "2026-11-24T09:42+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,13 +191,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -263,13 +263,14 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   }
  ],
  "items": [
