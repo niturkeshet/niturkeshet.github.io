@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T01:06+00:00",
+ "updated": "2026-11-24T01:21+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -273,6 +273,18 @@
   }
  ],
  "items": [
+  {
+   "title": "איילה חסון בווידוי אחרי המעבר לערוץ 14: \"נפל לי הלב\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94RW91cXkzN1BfbHBhc1dOdjk2VmhZMl9GUXdnaDZZcjV4ZWlXYkRIUTBES2VqLXA3bjlxTXl5WGVtZ1FvMTFSN05yMDZLRWhFbWRsZWg5T1pWbE9O?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-24",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "Karhi Clashes With Democrats MKs in Knesset Plenum",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80VHV5cUlzVFl1dW05eFNreFh3QlVHZUU5QU8tS1hBSGpBTWxGZHh4ak1GRHg3LTUweHhlNFRkNFhrS0NhRWxOd0otczNHRmotMThqemRYSHVVckhkYWVxaFFiU1Zacl9FUWk4UXZLOUgwd3ZrUDg1RHNaWDk?oc=5",
