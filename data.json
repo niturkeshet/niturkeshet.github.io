@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:27+00:00",
+ "updated": "2026-11-24T10:43+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -273,6 +274,16 @@
  ],
  "items": [
   {
+   "title": "נסללה הדרך למינוי אלרון: גוש נתניהו לא יציג מועמדים נוספים למבקר המדינה",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRnRURldnTWV5N0FRSXpsM1phMnJ6d3ktQlVkNjVMdFBrWmRYUHZ1M3FSaV9CNDFzNGJSSWp5Z3k1bnVlWmt4OFA4aTBVMy01TUZ0QVVkcGRwZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
+  {
    "title": "צפו: ח\"כ איתן גינזבורג מרעננה עושה בי\"ס לשר קרעי",
    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPLVJFemJsckdCeTRoQS1hQllTZkJfUUlhQ2ZzNGxiSDNCQURZSlotbkhRYTlEU3VMTzEzbmZZWXY5Y0ZveFZkRVRvSVRGdDhTZ0tZVTA3RC10cEZ3ZmUwSlJKN0lSdTNIVkhlQXgyMVFGczdlUEFuSHZtb1phZjdWbTBtY2preE9Ta2wzMWdYcE9rdEJDbzNOcXRmWFF4RW9ZV1dfT2xnRUxZZUdKTWpaR0E3LTZaVEVMYUdJYzR2bWZKdmZBZXhMd2VaMmxzQzdCcFp1TVpuU2IzQ2FIN0RXUlJDRDQwdlRZb1V3VkE4eFpHWF9WYV92ekJpX0xMS1NOZHdRNjRRSWdOdG40TTJvejNQOVZIYmI1WVFEM3BGQVpCWEp3?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -314,6 +325,16 @@
    "keywords": [
     "ערוץ 14"
    ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "איילה חסון הגיעה ל\"הפטריוטים\" וחשפה: \"זהיתי שזה הולך לבוא\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zUFdrTEVfRGxSRHVpT0F3Rno3RGRBR2hrOWFHY2VyLWU4ZzBTbFJEcjBMeG5FaGROT2ZTeXJwZzdJbnJnMVBNTE5GaDVfNFMyTGEtVm9yVC0xVGc?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
    "pv": true,
    "publisher": "ice (אייס)"
   },
