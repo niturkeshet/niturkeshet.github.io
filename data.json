@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:57+00:00",
+ "updated": "2026-11-24T10:12+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -195,15 +196,14 @@
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -317,6 +317,26 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "עם דירקטורים ומנכ\"ל כזה, מי בכלל רוצה להחזיק מניות של אנבידיה?",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObkNtV2VmcWdOUGhrUDktN0RFblVjNktacUNwQWtwTDdkLV9VX3BiM2VfWWFWUmtsNjRscFNzbGdwV2R1M0tQZ3V4dHhZRFpraU5nb0FHQVlEYkpyT3hvNS12b3ZQTmx2N19xd2M0dHZPTkpTTFRoaVRPcE9OR2NEODUyM1pjTjQzWDJwUkpMVmI4X3ZFOGFpR3NRekh3Q1BsSzZ0WnZCYjduaUVPTGNFUC1n?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "המשפחות השכולות מחו, חברי הכנסת התעמתו - והמינויים אושרו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCak0tcHBTTXZzTGEyR2xMeDlwd1lsbTBNZmpFb0ItZV9UWTBubjNPb3BseS1renk4cXJ3a0ZHYXhRd0FoVzIxcEk1cjlNUQ?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-23",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
   },
   {
    "title": "Karhi Clashes With Democrats MKs in Knesset Plenum",
