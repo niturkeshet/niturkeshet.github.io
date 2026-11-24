@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:51+00:00",
+ "updated": "2026-11-24T00:05+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,13 +191,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -232,9 +232,8 @@
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -717,16 +716,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "השעון מתקתק: גוש השינוי במרוץ לביטול חוקי ההפיכה המשטרית",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VVDJyNUNoWWFiTnFKZzBSdVFWUDM1LXgweklRVmpEM1ZjVG9ISlJDb0pJdjhZVEhCbWFrNHRNbkg4T1djTXN4VHJ6QVR4UzJDdjN6dU00cEcxV2xZZXFVQ2RnTFJlVlhp?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כלכליסט"
-  },
-  {
    "title": "איתמר פליישמן לא עושה חשבון לינון מגל: \"לא אצביע לו\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UVXZvM0dNOXdiaE9oU2JyeGg4MVFEenBhREhzaWhYT05KWVc5YTdmQkdPbWpOcTBHUm1jcnp1UVZKeEI3aUhDZThLSWNLdTlrRzFWSlA5MFNnNGc3?oc=5",
    "source": "ice · תקשורת",
@@ -737,16 +726,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "מעט מידע, הרבה עיכובים: קרעי נכשל במדד השקיפות",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFB5WnpDQmx6bWxVM2NVRHRUMU5objlGV0JfbHFHa1NzbnoxWU1RVndyRzV0dDBBMXlTMzlIMWlYWQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "שקוף"
   },
   {
    "title": "מאיה בצלאל הצטרפה לקשת 12 באופן רשמי: \"אין לי יותר שנצ\"ים\"",
@@ -797,16 +776,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "השר קרעי: \"גוש \"הפיתוי\" מכרו את הכנסת למהללי השאהידים\"",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFQWZkREF4NzBJWFR1UWdxQTh1WDUxc1J1M0l5M1lvLWVJZUhFbXlxUlBvS2NNcjRGSG5GQmRUSFFNWlV1VlVVUC0zNlBsTGM?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
    "title": "אילה חסון אחרי המעבר לערוץ 14: \"היו הצעות משתלמות יותר כלכלית\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yX0NhWGp4T3RlTXo3WjB4MG9vQndmQXplVFp0X2VCblBCalVXanZsSEdCQmNxR3dnb2V6U2xUNjRYRi12RUdNTVl0dzdDN2pIVy1nWTR4V3lYc1d6?oc=5",
    "source": "ice · תקשורת",
@@ -817,16 +786,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "קרעי: \"זה או ביבי או טיבי, אסור להקים ממשלה עם תומכי טרור\"",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11UzlCWnFZVVhDaHdwTG1IMzZ5ZG5vVjFKSGFZQWpnRmdTVTVDWmJIM2o3RTVpbWwyMGRaSWVweDd6ZURBQ0psbTFqdHg0VTA?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
   },
   {
    "title": "אילנית לוי על התוכנית של קשת 12: \"עלובים\"",
@@ -841,16 +800,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "הכנסת פועלת לביטול חקיקות נתניהו... אייזנקוט רץ מול מועד ההטלה",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1VVUxeU11R3ZacjY4ODYxSldyR3hJd1dnTmNWRTkzRDNCR3BXRmRDbnFZWUsxaENJQW54Z0pDSEdkTGJhTWppT3JSSnpReldoa1pQaU1R?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "وكالة صدى نيوز"
-  },
-  {
    "title": "אילה חסון מצטרפת לערוץ 14: כך צפוי להיראות לוח השידורים החדש",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvUW1hWHM4aEdrTk8yTjFKR053MnEzVnZZUEVIMkhQUFhvTU4zaXc2ckJtYUNfRUwxRlJERjQ4cHN4dmZwaF9QYjVndFZuRWxIWmRjaERxZDU?oc=5",
    "source": "ice · תקשורת",
@@ -863,16 +812,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "\"ד\"ר קרעי\": ברקו ומוריה נקרעו מצחוק בשידור חי",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjA5OHByYjlvT2VuekZRY3YwQjVnMkNCOFlUcENxVTViVzZlVDJiWXFiQkZza0lxZzc5aFZRd2NwRGxOeUlLcllkYnB0REREbFdIRElZV2RlU1gwcTQ2YXNxdXZMV252U0lZVzRRcGJxR2xzR3h1bXJreE9RRmdCc1NLdzIzZDBVTUpvSl9jSzlJSXhYU0kzU1kzZ2RxUThMbk92V2wycHYwcjA2NENnOHh3WdIBuwFBVV95cUxNczVNa2VYVm55ZTZGbzNWdU5tRlE2c2pHNnJCaGh5THdLTkxIZXRXb1BvakdBM1JhSlFzSzFGdkhCcU1wS0xSMzNDcVg5eVdaLW03RWFtNS01NTFaRTZ4eUUwLUkxcmJwUHZtalBSUDN1ZHgwRW9mcFhrMkdZSHFGS0ZabV9mZjBCT0x1NVVoNHJQMnV3UDlvdTRrcHF1T21hYzdTdjBKcmdxbEZBdjdOVTBjWE9BZndHRmtB?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כיפה"
-  },
-  {
    "title": "\"פגמים רבים\": הוועדה החדשה לביטול חוק השידורים תתכנס מחר",
    "url": "https://www.themarker.com/news/themedia/2026-11-22/ty-article/000001a2-02d8-dad7-a9ff-42dbfd430000",
    "source": "דה-מרקר · יסמין גואטה",
@@ -882,70 +821,6 @@
     "חוק השידורים"
    ],
    "pv": true
-  },
-  {
-   "title": "החלה פגישת המשא ומתן השנייה בין נציגי ישר לנציגי הליכוד",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ONEJiNjBINFlDRVZpVzFpWDBianJWUjJ4Q29VSTRQbXhoWm5qc1ZuLWw5NGQzejFvbnB6by1TNXp4amI4TjA0?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "אתר החדשות דבר"
-  },
-  {
-   "title": "יותר מחודש בלי שכר, שביתה ופיטורים: הכאוס מאחורי הקלעים של ערוץ 16 | בלעדי",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oSnVKeVZxZ2dtZUw5SW9pdC16eEtaWTZtMzg3WXllRnU0eGRRRkdPN19ZYlVJUlRiTHJqRUR4NjVnajdJbnM3MDNxdEl5RmpBQTI0V2cyTnc0bDFuS0tpNg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "אחרי ועדת דיסטל: הוועדה החדשה לביטול חוק השידורים תתכנס מחר",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2d3aGt6eXhHX1RiY1VGNFZKSm9sSzBjQjVTQVhLYl9MYnA1dy01cmtGMUotRi05blVlbUhEMi1Wd1djMmpXU2lHTkdLdXlRdm85STdpREQ1X0VqTWZScEtaYUlTMk13c043TUhjdHl2VEZHdFVQZG1xZTdVci04TmR6V1ZZZEJSdW55MVRjYTFzaldTc00xQm1KS3VCTk0?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "Eisenkot Bloc Sets in Motion Plan to Undo Netanyahu's Judicial Coup",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeGtyZ3o1ZlR2T2tPNnhzMXVTcmJKLWFNWEI0TFplVW5RTFlhb2pvSldBMEVscHpEbGQ0eG9KRDBXRDRWUTJqSGN1OFhIV0N1cHhXZW1BM1VLWnFlaXZtcTB0RmdyY3g1ZTNDQ2dvNEN5OV9VcW1zQUM4dll6MFh5b01MbTdTYTRYX0E2cGRDd1JhbXp5RHdqUlBDTm1yZ2tCeDVXR0szUkszeGhSZDV5eXktSFhzWmNQMWRmVUtKNjBSY2c2SHFmNTcxMkx4cFhTVWtvdUlsNjh0X0hPUFlfakNvdmk1akhTX1dBam1KbTVDRExwZzA0ZmoxU2o0b2IyQlRYZzJwaTJEcTN6YThaNWl5NDY?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Haaretz"
-  },
-  {
-   "title": "\"גוש הפיתוי\": שלמה קרעי במתקפה חריפה על איזנקוט",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QXzRrT0NDUzFmeWVYY1pOTW9YZlpHODZJd2tBamFDdmo4N2tmSklseVE1OFRrUWJkR1JwUXloVk0tLWR1aWF6ZUtnYTdhR0hzVzVGSTZROTY3NFRYbVQwY004UWo?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [
-    "שלמה קרעי"
-   ],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "גדי נס",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTC1RckE0QndqUUpERjdIcVBEdUVzN0R0UVRQZ0ltNm1yZGNHYjZoMVR5cHBHR0RnaWQ2MFlSUkphTm5KQndGRm5RM2s4OXdhV3h6dnZGVk5KVzJLQ0pieG1Wc2wzdzVoX0VnSG5WVlZ4UGlnOF9INWhtRGh0dUNSemVCdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "רדיו צפון 104.5FM"
   },
   {
    "title": "נתוני הרייטינג: \"פגישה\" עוקפת את \"הפטריוטים\" במספר הצופים",
@@ -960,16 +835,6 @@
    "publisher": "ביזפורטל"
   },
   {
-   "title": "אייל ברקוביץ' שוב מסתבך? \"עוד דוקטור הבאת לי?\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92cFpRZEhnTEpvc2xmaU5Banp5Yml0MWVKbm0tVHEzWWNjYWpVV3BFYUhWR0R0MGJudnVscmRrMW1aaGs3UW9fNWpmR3JaS2hOMHdhbnRSLU1hN1U3?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
    "title": "איילה חסון עוברת מכאן 11 לערוץ 14 ותתחיל לשדר כבר השבוע",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FUGVORTJOUGZzZ0swRUNvSTR0amt2WldITFNTdVozaGd5TGk1U2hMXzgtSk5Cd2NkYmUwallEbkotWW9TUHhNb1RBa2xHU0Nyelg3MzlrRGVBZkRiMGo4RHlBbnhmd08zVzNVOXFJOUxVdU9YQmgwZlR3X1Z0cVU?oc=5",
    "source": "ביזפורטל",
@@ -980,26 +845,6 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
-  },
-  {
-   "title": "הכנסת תחל השבוע בדיונים בוועדות לביטול חוקי ההפיכה המשטרית",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNFY2bUctOWVNRHFlWXlmZnA0alF2SFYyUFNZeFI1MkVwVVVualhSNWxpM25qSHpvWlc3Z2RsbFlzeURtVk5mM3hlWUxfQ1pESzVoYVNCUlBkUGpON0lkWGlxV3VqYjk3TGZ0TWotR1N5MllDcjZKNi1OQ2JFZ2hLR2lEbGlFYlhnMktGc2YzN0phazlIemZDUS1heWYyVXU3ZUp5d3dTYjF0Qjdt?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "תושב פרדס חנה-כרכור נעצר בגין חשד לאונס ולמעשים מגונים בעובדת",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5VUxXZVdwaGlENG9LaE43cXhXdEVQNXhNcWNXMlFYelBqRTlDS2R0d3dJV0dlVmxtYVhrS2xlZ09FamJlcFlvM01QSGotWFprYUhYRWdSb1Y?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-22",
-   "keywords": [],
-   "pv": true,
-   "publisher": "וואלה"
   },
   {
    "title": "אילה חסון עוברת לערוץ 14: \"איש לא ישתיק אותי\"",
@@ -3219,115 +3064,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "כבר לא \"ערוץ זעיר\": הרשות השנייה הודיעה לערוץ 14 על שינוי מעמדו לרישיון שידור רגיל",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001557477",
-   "source": "גלובס · נבו טרבלסי",
-   "type": "site",
-   "date": "2026-09-24",
-   "keywords": [
-    "הרשות השנייה",
-    "ערוץ 14"
-   ],
-   "pv": true
-  },
-  {
-   "title": "היועמ\"שית לבג\"ץ: תוציאו צו שיקפיא את חוק התקשורת של קרעי",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3NBckpOV1FVdGtpdldkc2Q5TG9ncnVJS2dhTEVMT0JBUXVXOWw1amRTWklyTzhsaHBIMGg1ZTlKYW9OdXltd3prUFNBTlpoVGdTTkt1eVNKeXdLSVFMTVd2NUEwQXZtVzFxM0g1Nk1pYUt2dUNqQmhwWGRTZXpfemdPa0hXa3M?oc=5",
-   "source": "n12 / מאקו · חדשות 12",
-   "type": "site",
-   "date": "2026-09-24",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "mako"
-  },
-  {
-   "title": "סוף לחגיגה: מעמד ערוץ 14 משתנה - מזעיר למסחרי רגיל",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KN0Jxc3JqaWlyU3BYNFV3M2djOFpYbk15QjBMRlluamJoWkdJVHRLakh6UVJRdHJEOEtCV0xpS04xR3A5OERRTUtwdHRXVlRiODJDbTRxSW5rdGV4Y3BkbVNPQlhfSms?oc=5",
-   "source": "כלכליסט · עומר כביר",
-   "type": "site",
-   "date": "2026-09-24",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "Calcalist"
-  },
-  {
-   "title": "היועמ\"שית לבג\"ץ: \"חוק קרעי יפגע קשות בשוק התקשורת החופשית\"",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yNkdYMmZpNmxSTEEtUFJKVEJzaVh3dDI2N3M0Z2g5Qk5ROVJJSHdwSlZLYWdBa1ZVNUNGUDZfd0xTZzluT1pIZndyYnNNOGNHWFNKYjZ1RDZ1clRNRGtUMjhnblk4MG1ZR3pOLWxGUdIBb0FVX3lxTE1yNkdYMmZpNmxSTEEtUFJKVEJzaVh3dDI2N3M0Z2g5Qk5ROVJJSHdwSlZLYWdBa1ZVNUNGUDZfd0xTZzluT1pIZndyYnNNOGNHWFNKYjZ1RDZ1clRNRGtUMjhnblk4MG1ZR3pOLWxGUQ?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "site",
-   "date": "2026-09-24",
-   "keywords": [
-    "שוק התקשורת",
-    "חוק קרעי"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "היועמ\"שית נגד חוק קרעי: \"פגיעה קשה בשוק התקשורת החופשית\"",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SN2JhQzZWck51SDY5elh1RVlyZWNqRnR5THRZZjVpRzhLWTRGXzhJMlpMRlNERmV5Tm9ZMWd1MXIwYXA0UTFvU2c5Uy1VNHgwejROYmpWX0tnWmdIMWpWQ1ZCSWIxZ3RWcXNMSGdBQXTSAXhBVV95cUxOR2t6RDRYbld0SGxEQU1takZ3T2NfUzFOZF8ycUtCMk1MVW5nY0hNeElsZ1ZMVVpYVGthaUtQb2F6TmFvQk1RU2xZdHN1ZUpGYUgtMXl2Mi1Hd2w3NkZIQWl2T1EyU044a2NZZXh0ekMtSVI5WW1hckQ?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "site",
-   "date": "2026-09-24",
-   "keywords": [
-    "שוק התקשורת",
-    "חוק קרעי"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "המדינה מתייצבת נגד חוק השידורים של קרעי ומבקשת מבג\"ץ להקפיאו",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001557614",
-   "source": "גלובס · נבו טרבלסי",
-   "type": "site",
-   "date": "2026-09-24",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true
-  },
-  {
-   "title": "היועמשית לבג\"ץ: חוק השידורים יפגע קשות בשוק התקשורת, נדרש לעצור אותו",
-   "url": "https://www.themarker.com/news/themedia/2026-09-24/ty-article/.premium/000001a0-d4f4-d259-a3b4-dcfc0f460000",
-   "source": "דה-מרקר · יסמין גואטה",
-   "type": "site",
-   "date": "2026-09-24",
-   "keywords": [
-    "חוק השידורים",
-    "שוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ערוץ 14 כבר לא קטן: ההכנסות חצו 80 מיליון שקל - ההקלות יסתיימו",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KanhobVN2NTgyZkloNFFPbG9wVzE3NWR6eWF1X2J1SXdFRk1ocXA5N0VqNElyOUZWT2xvaWpaX2NCRXduN0NpWHBCS3d4WVhBVGYteGVlVmtEc25SMWxwM2R2ajI4R2dnM09QaTR6VkdNVmJkX0tzS0xhdV82YUE?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-09-24",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ביזפורטל"
-  },
-  {
-   "title": "הרשות השנייה הודיעה לערוץ 14 על שינוי מעמדו מרישיון זעיר לרישיון רגיל",
-   "url": "https://www.themarker.com/news/themedia/2026-09-24/ty-article/.premium/000001a0-d2e1-d72e-a7e0-f2fd593a0000",
-   "source": "דה-מרקר · יסמין גואטה",
-   "type": "site",
-   "date": "2026-09-24",
-   "keywords": [
-    "הרשות השנייה",
-    "ערוץ 14"
-   ],
-   "pv": true
   }
  ]
 }
