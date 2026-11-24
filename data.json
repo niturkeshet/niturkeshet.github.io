@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:14+00:00",
+ "updated": "2026-11-24T12:29+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,16 +163,14 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -209,13 +207,13 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -273,6 +271,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Benjamin Netanyahu may yet be saved by the cowardice of his political opponents",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaDJNU09QRmdvTThWZWpTanZIaUxNRWpXdzE4SGxsS1BmVkVySjBhMHktVjl6VVBVVUV2VzhYbWV5Rll1RU5rT25pNnNNc2VvaE9xbEZFRmRpZjRUMS13NkdpUmR2RFZwZ09jSEx4Q0hSb0MtcUc1c3JWSG5MV1BIWS1xLUF0OExSQTliYnNSd3RPQnZ2MUdZWkpkUkF0MUxzdjF5LUo4d3FOTmVMb0ltb05RMNIBswFBVV95cUxOaDJNU09QRmdvTThWZWpTanZIaUxNRWpXdzE4SGxsS1BmVkVySjBhMHktVjl6VVBVVUV2VzhYbWV5Rll1RU5rT25pNnNNc2VvaE9xbEZFRmRpZjRUMS13NkdpUmR2RFZwZ09jSEx4Q0hSb0MtcUc1c3JWSG5MV1BIWS1xLUF0OExSQTliYnNSd3RPQnZ2MUdZWkpkUkF0MUxzdjF5LUo4d3FOTmVMb0ltb05RMA?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Jewish News"
+  },
+  {
+   "title": "\"הייתי נשוי למיס יוניברס\": גרושתו של אבי שושן נחשפת",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRVkhSNFFVMHpRQVZxYTZSVGw2RUhTZktjZDhyZXVUSXJMYXl5RktTZDJ3b3FkSUtiZVh6NVA2SmdCWlBzZm44RjJfOGhzQm1JTTdPTV91MTVRNi1iWjdQQThUUUloQ3R1?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "תוך כדי מו\"מ, נתניהו מראה מדוע אסור לראות בו שותף לאחדות",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM2RLZ2I5QXJYQ0gzNHFPOVlhaXZ2c0ItWmtkNGlsYVhxNWctQVpYendlM0ZFeW1abGNjMklFamRHcGRwN2p2S3RWTEg4WmpTTF9GN1RLRUJuUm0tTURNN3hudG9Wc0JoVm9MTWxCQWpINnRzRzZYTFgwX0VFY080MnhVX0pFaHNrVkVqMkM4ODFzQ29oeWs3TGhsNE0zZnlWWXFLeUlvd1NjTUgwemxJ?oc=5",
