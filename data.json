@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:17+00:00",
+ "updated": "2026-11-24T17:33+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -263,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אבי לוי מכין את דלק ישראל להנפקה כבר בשבועות הקרובים",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNEVyd2QzYzg3alRnMkV6SUtfZ0VtZUZWVEVUc2ZlUW5hV2kxVG85ZkpKQlh2SDMwN05wTmEtOHllYXd6Y1g4eGJxVi1vNnZjS19yR3gtNVN1TU53UGQtVFlFbHJTWWU4UUZqUHF5TE8?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "לא מספיק לפתוח ערוצים: הבעיה האמיתית של התקשורת בישראל",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoZ0QwQTkyMnhEVDdZWFRPdEs1QXJiTjlFYXJPRGtsQWFYMzctdm1SeEpFQ1d6Sk5ycU9OeGNMQks2RW5UWlM1bnAxUTJFZw?oc=5",
