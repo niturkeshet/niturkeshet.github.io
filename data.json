@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:00+00:00",
+ "updated": "2026-11-25T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 9
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -190,13 +191,14 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -208,7 +210,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -262,7 +264,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
