@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:32+00:00",
+ "updated": "2026-11-25T14:47+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,14 +191,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -227,9 +226,8 @@
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -264,19 +262,29 @@
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "איילה חסון תשדר לראשונה בערוץ 14 לאחר העזיבה: \"לא להתבלבל\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nZHlHdTc0ejUyM0ZzSlhMb3hYcTNVRVFrTjVHWnU5QWFIWmlKVF9ISEVSWUxUSU9KajdxeEhUMHM0YzQ4c25uXzcxbnlJWHhpMmk3OU11Q0FpR19K?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-25",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "\"רעידת אדמה, לשים סוף למשפט שנולד בחטא\": שרים על הדרמה במשפט נתניהו",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZR1l3N1hkbWJyMmt3cXlyVDN0aWZkWXNXQUxaS2lYeWZBUDBOc2tiOERybm5STHZ2M3h1bGk4UFZxRnBxaUh3?oc=5",
