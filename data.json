@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:46+00:00",
+ "updated": "2026-11-25T13:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,9 +170,8 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -190,9 +189,8 @@
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -210,14 +208,13 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -259,24 +256,45 @@
   {
    "source": "ice · תקשורת",
    "kind": "site",
+   "ok": true,
+   "kept": 12
+  },
+  {
+   "source": "ביזפורטל",
+   "kind": "site",
    "ok": false,
    "kept": 0,
    "err": "HTTP 429"
   },
   {
-   "source": "ביזפורטל",
-   "kind": "site",
-   "ok": true,
-   "kept": 8
-  },
-  {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   }
  ],
  "items": [
+  {
+   "title": "Eisenkot bloc scores Knesset wins as three key bills clear first hurdle",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQXzlKT0hoSll1RFEyQ2ZBdHZETFM5bkwwSFprSWx6N1NsSmItcmtZY0t6aGdNNG5WY3lDU0F6NG5wNTdlT0RJX1plTC1xV1huaE1QZGctbTk5S1l5ZjQ5OElCVlBjUC1wa3NCa21TMGZ2RmJBd2pkcDd6UmJYaHhRWW9JdGRYc1BLOFJQM1YzcmJ4aXAxX0lBM3BmdjJrWjFUeDV6NGVVOXpkVHlQbnA4ejZEM2dYREMyTm94eXpLZmhDUXI1WUQzbk4zdWlLaEJxdTlVV3BKZ0padjI1cXItbUtRWEhMVy1OdTIxQ2puREx1VUw3U1NvOGVCM3ZZWjFXNGtxcDFNVTN4bGFfN3ZMVXhCRHN5dXVvSmUtVmkwazRQRW1J?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haaretz"
+  },
+  {
+   "title": "Right-wing politicians applaud Case 4000, 2000 Benjamin Netanyahu trial developments",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TVGMyWjFkUnc0ZnlEUU0teGpKcXFpMUhSTnNWQThsenVacnZlUjhSYzlkQVZWQTNOWEV4N0ZFYks5ZEw4WHJwYmF1bEVuZVhWNUc5UFl2M213ZFp4?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "מסע לילי עם ארז קו־אל בין המסעדות, השפים והסכסוכים שמאחורי \"הטבח\"",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3NraXphOWZNSmswVVJxTHFaQUkxXzNGTE1qT0tSaDAzR1VpMW5WY3Y3aGdLRC1ycmllTlFPcEVBYzU1Y3R2N3oyOHhGc0RxXzBXUHVMamlmWmJZNUNUenhLbkJSc1BhSnZkZmthSm52MXhzNmZpd3BaSUNRZFFCUFRwZHFESG82MFJnNmlNSDl3X1UzNkNSZlAtaU1TNUtlN2RtZk55dk9ZODFKQ3E5TFhxZHF2WjJ3d1E4eGpxZ3Q3cUJC?oc=5",
