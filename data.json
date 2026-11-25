@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:33+00:00",
+ "updated": "2026-11-25T22:47+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -184,9 +184,8 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -228,25 +227,25 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -264,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -274,6 +273,121 @@
   }
  ],
  "items": [
+  {
+   "title": "51 בעד ו-32 נגד: מליאת הכנסת אישרה בקריאה ראשונה את ביטול חוק התקשורת של שלמה קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UeGpPSU1CQk40cnlSSGFDd0NQUjhFckNPN0pVd2xaSi1sVEdsRVY2RjBqLXNoNDVBUXE0elNVWDEtNzJKdkxsbjVDaDNGbHRHaGx2QjI2a3NzRDh1MV9MbS1UUjg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "שלמה קרעי",
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "מצעד הטרלול: אנדרו רוס סורקין, שלמה קרעי – ואראל סגל",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnA3d0RBVzJKMGpCbnY2Wkp2M1dJSTdWNE1mUlc4TklaZU5YSU5vaXJyWDFVemM4aHhwQXBTS3lTWHBobzA5TlIxYUlHUGo4MkplaHNBVDNwSGxxRHhEdXZsRUl1NVV6VEJKZFJMSnU2dlZaRG9rRkltb3hhb0dUR2FsU3piUm1LWjR5dlRzeWhHZ2FZZ2NqTThR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "רשת 13"
+  },
+  {
+   "title": "החוק לביטול רפורמת התקשורת של קרעי עבר בקריאה ראשונה",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDV21SdzdRampZdW9DcDgySHRmRjB1WEpHX2RWczFiZFVVc0J2SnNlMDU2RDMzM3BrZW14VlNyczlucWhmZUVQRE1rSQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "רפורמת התקשורת"
+   ],
+   "pv": true,
+   "publisher": "JDN"
+  },
+  {
+   "title": "בליץ המחיקה של השמאל: אושר בקריאה ראשונה ביטול חוק התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IdVdnRElfeTFpaVlkVUJjT1dCbkhLSmQyLWlPQW51djIwbnNwQi10WHVuOEVMNnR4TFJnX3Z0VnA1cE1nMVhFRUJTUzFXdw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ברוב של 51 תומכים: הכנסת אישרה בקריאה ראשונה את ביטול חוק התקשורת של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oUWFubFE2SWR1UTZIU08zSGRsdDBPLWM4S0lCeG9VSUU4U2RtT0RtRkpORUtsbW56U1hnVWJiZ2JUbmhfREJiZg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
+  {
+   "title": "Eisenkot’s Road to 61 Has No Seats to Spare",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DelA0WGJnT3plOHB6Rmo2TlR3X0ptMEZTVEc2UkpjN1lVLUhhMzhiNl9lRHJGcVFucHJEVklVQ0dQWUF0UG9TS3NydkV4dkNJdXk2dGxDTnhESlBUVTJ4R284WVh0SFhOWVNKMUdITjljQTNLYWdZYWhKMA?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Algemeiner.com"
+  },
+  {
+   "title": "צל כבד על המערכת כולה",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IRHhiQU9VYW14WUxhcDdrdHI0RUdCbS05bEM4NW5jWG85RDJrQ283d1FvU1c1UElOSHczeThGOUg2UmtUdW4xY19qQWdkY09LMlFjVFdvRFRiQWNZRlE?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "YNET"
+  },
+  {
+   "title": "לא שופטי נתניהו. שפוטי נתניהו",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEtqUEtYZ0xleUxmSHA0TW5lVmZsM3JCSnRhdElLVXR1VW5LZkFPQ3BWM3VzSE5uR0g4aDVJbHVaY2x2eE9tWDFfMGdBWWlWOUhMS19SQXdLamVyYnAxR0M0eWF5TEpVeU9QUUhJUVpRWHpaUG5PZWladF8zSXhNRjNqdHBlTEJkMnVieUY3M1JNVC1xZTBZXzdsQ0lKQ1RoYURqa1RJU0tOWC11THJldHl3?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "ההצעה לביטול חוק השידורים של קרעי אושרה לקריאה ראשונה | וואלה חדשות",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oc3JLa1RwN19STFU3UVJUUy1VT3hpdlBKYlVkN3ZnZmQ3am5hSWFRMmZHeHE1VGF3cFlHQ3NNQzhhSzc3ckMwQWU0QXB4eFpvZUlmbEVvRm8?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "וואלה"
+  },
+  {
+   "title": "רשות המסים דורשת ממייסדי וויז כ-8 מיליארד שקל נוספים על האקזיט לגוגל",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zVDJGMDhWNmpJdF84a09vSG40SXVIMGtvd1NnN2kwYzQ2ZnF3S3dHeUROWjdHbWNxejhTQ09qUWJCZWZEVUxkMWRlOUh4VmJkZ0QxWllKZHNHeG9ieG14OHAzMHJ4YkE?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-25",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "מכתב התראה לפני תביעה: נאור יחיא דורש התנצלות ו-168 אלף שקל מכתבת חדשות 12",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001564971",
