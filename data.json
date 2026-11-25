@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:39+00:00",
+ "updated": "2026-11-25T02:54+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -263,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -273,6 +273,18 @@
   }
  ],
  "items": [
+  {
+   "title": "חוק התקשורת של קרעי אושר סופית בכנסת",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oaUlub3lWTXNLeXN5aHp2blpQNzlIV3dvSnQ4Si1VQVdleXZpVHRLS3Z0R1R4TjZFOUE3R2ZjU0ZBOF80RG5zRkdFSE1adUgxb1gwSkNMZHg2cXZIREtaV09SaUEzUWtlOEE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "חדשות 04 - קרעי נגד היועמ\"שית של הכנסת: \"מנהלת אכיפה בררנית כדי לקבור את רפורמת התקשורת\"",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BVTN6Tlk4bXRMcXppcEwxSlZXTldCRHN3cFVCVmRKMDNoRlM3bXJPSFIycFloVE9uQlNVSkFNcm1lcjhBT1ZMV3dn?oc=5",
