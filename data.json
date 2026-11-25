@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:45+00:00",
+ "updated": "2026-11-25T12:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,9 +163,8 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -191,7 +190,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -215,7 +214,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -245,7 +244,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -273,6 +272,29 @@
   }
  ],
  "items": [
+  {
+   "title": "מסע לילי עם ארז קו־אל בין המסעדות, השפים והסכסוכים שמאחורי \"הטבח\"",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3NraXphOWZNSmswVVJxTHFaQUkxXzNGTE1qT0tSaDAzR1VpMW5WY3Y3aGdLRC1ycmllTlFPcEVBYzU1Y3R2N3oyOHhGc0RxXzBXUHVMamlmWmJZNUNUenhLbkJSc1BhSnZkZmthSm52MXhzNmZpd3BaSUNRZFFCUFRwZHFESG82MFJnNmlNSDl3X1UzNkNSZlAtaU1TNUtlN2RtZk55dk9ZODFKQ3E5TFhxZHF2WjJ3d1E4eGpxZ3Q3cUJC?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "בצעד חריג: מירב בן ארי סילקה את קרעי מהדיון על חוק השידורים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKdGhNVWtRdVV6NVBpUUtfa3A4bFNtMURTbkNLd08zWENBTUVUQXA1VGRLT2dIQjNQYW9XQXk1VllvQzQtQnRGUUNlZFpNZw?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "חוק השידורים",
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "קרעי בעקבות הדרמה במשפט: \"שימו סוף למשפט הזה\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wRG1LbUlJcjljbTZyMU5MZUdZWjhkYXhKalR2bXFsM1drRzVCUzJfcXRxRHRTVy1oeFh5Nkx4cDhIaUhMYXBobmNmdmNFUQ?oc=5",
