@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:44+00:00",
+ "updated": "2026-11-25T10:59+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,9 +163,8 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -227,7 +226,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -273,6 +272,31 @@
   }
  ],
  "items": [
+  {
+   "title": "שלמה קרעי במוקד: מרוץ האופוזיציה נמשך - אחרי ההשתלטות על הכנסת",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94dlpDRWFOWGJ4aHBha3NFeUJEaTMzcXEtd1h2V3A0X3pfSlFtckZwYmNrbDdXNDVjRVhEZFZtMHYtZXBCb0RRZjVGelVQanVJbzQ2NXlneU9ZNUpZaWRSemc2VzM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "מירב בן ארי מאיימת לחשוף מידע מביך על ינון מגל",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaW9xWTU4NW9LQV9nSy1oQlhwdWlZWVZ1dDEyN1lkWm1MWjlyNDR5WkdLYjgtb3Rxby14VE1DX3c5T0NMbmdYNXMzdDVNLXBGYy1IcGZKU00yNXdvdVgtaHl4cEVwTWstNHJCMlREQUhKNHV3QnpneFRuejlCVnludng4WS1pYXlMdXl5czRGanpZcVctTFBYYVAybkRFWjZibndj0gGrAUFVX3lxTFA2SEpUamVUNktlQjgxNXk2MWY5VnhBcTM3UTNZaDVoQ1lXMDloSGhqQXhqeV9OdE5OekZIZ3NBcEdTbFU3SnZWUkFGenVSNnJWa0dyS3h0ZzcxaVlaZkFnNWJIMUtuenpkdXJWZjVYX0VOS2tUdGNjTnRzRXRwRDhlLUtNYnhGY09NUVFoQ3RadFRiOWJuR3VlVUlYNUNuUUx2S0NEVTRIRm9PTQ?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "ינון מגל",
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "כיפה"
+  },
   {
    "title": "מכה לאסף רפפורט ושותפיו: רשות המסים דורשת עוד 8 מיליארד שקל",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cTdHeFlhd0lPcll3ZUV0dXdsd1llZmsxTE53N0E3OEFVVkt0cXRiSC1rNW9EcjV1RVhuX2drSTZnNk45UjZCQWNNczRaMmJrd1R5bWJORkxSdkMyOU5r?oc=5",
