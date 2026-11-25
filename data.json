@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:44+00:00",
+ "updated": "2026-11-25T09:59+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,16 +163,14 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -197,7 +195,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -245,7 +243,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -273,6 +271,18 @@
   }
  ],
  "items": [
+  {
+   "title": "עימות בוועדת התקשורת: מירב בן ארי זרקה את השר קרעי מהדיון • צפו",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kNXN4MjgxaHlnZTBiTy1jNmxkYVI4WmxVNEV0Wm5uSzBiM1ZNenhTa0dXdUZzYk5UZVFZWmw0eGhsaVpJQ280?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "חרדים10"
+  },
   {
    "title": "\"תהיו בשקט\": מירב בן ארי הוציאה את קרעי מהדיון - והשתיקה הלומי קרב",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoV3A0enlIOU5rWlRuNV9qdkdjSXFlRzBUQzJLSjY5TnZ6ME14clg5Z2tNc1g0VVhtVWpxWXBBUHhqZ0NxLWxYVGlSQl94LW9QUFh5LW5oWWQtc3YwNlpiT3pCNmgwWTY2QkV3Uw?oc=5",
@@ -420,6 +430,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
+  },
+  {
+   "title": "\"הלביאה שבי יצאה\": שורדת הנובה התנפלה על הפורץ שחדר לביתה |…",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HZF9wY0VlbEFCam1PeElvSzdDZ0lnT1phaWJDMDYtZ3BtU1JQSGVPLVg4T0pRTWFIdXFpcjh5R0xUTFk5TFNPcXJGVll6UGNoX0E?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
   },
   {
    "title": "חוק התקשורת של קרעי אושר סופית בכנסת",
