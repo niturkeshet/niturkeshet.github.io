@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:54+00:00",
+ "updated": "2026-11-25T03:10+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,9 +163,8 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -191,7 +190,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,7 +202,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -533,6 +532,17 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "בית המשפט דחה את התביעה נגד נוני מוזס על מכירת אופציית HOT לדרהי",
+   "url": "https://www.themarker.com/news/themedia/2026-11-23/ty-article/.premium/000001a2-088f-d576-adb2-9d9fbebb0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-11-23",
+   "keywords": [
+    "HOT"
+   ],
+   "pv": true
   },
   {
    "title": "לקראת ביטול חוק השידורים של קרעי: הוועדה המיוחדת יוצאת לדרך",
