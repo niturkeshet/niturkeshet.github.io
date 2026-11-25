@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:13+00:00",
+ "updated": "2026-11-25T09:28+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,16 +163,14 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -209,7 +207,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -263,7 +261,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 10
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -273,6 +271,51 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי הוצא מהדיון: ההצעה לביטול חוק השידורים אושרה לקריאה ראשונה",
+   "url": "https://www.themarker.com/news/themedia/2026-11-25/ty-article/.premium/000001a2-1172-d7ab-afb2-bdfbd7330000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-11-25",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true
+  },
+  {
+   "title": "בתום דיון סוער: הצעת החוק לביטול חוק השידורים אושרה לקריאה ראשונה",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80WFd1RmhacDh1bkY2ZjBCZjhtNDVEN1YtM0s3NVhsazBUb3B4cnZDSFU1aXdrNkRBekdqZXJXTnhjSlV3ZjJfTUp0ZGhtVmJQVE1uRHM0TFhxNjJjV1VOUlB6YXluazdm?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "כלכליסט"
+  },
+  {
+   "title": "בתום דיון סוער: אושרה לקריאה ראשונה ההצעה לביטול חוק השידורים, קרעי הורחק",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12Q2QzY1FfcEZfdVdHeFFOOGtKU2pOdGRDTWF2SW9oMHlvWW9oeU15ZzBJNGoycjZkaGlrSkRQVTU2S2VPcml2bzFnQUdxSWZZcVZQVVVtbnV3QQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "YNET"
+  },
+  {
+   "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NUkVFTmlha3Fob1Y2R2NlcTduXzZYbkJzdmFQV1dpVWhKeC10NDBLSXJfRjBMd1paaGJma0hTZk1IR1FSRGJwLWEzNXloVmZjM0tLd3pOb09kUTdlbDliMlRVelIzdHJGZFltMVE2bkFVMEdOano5NWVZRmlVQQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "קרעי סולק מהוועדה לביטול החוקים שלו: \"המסיבה שלך נגמרה\"",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmN3OVN3QmhwcUdmVHYwXzBJSW9VUzJPOFJHVFAwQVBlMjJjS1I0Zk5FV014eUVSN2xlM2JQb1IyZVlid0FlRWZsT2dTZzZic1lJQkpvZUlGZ19tc0c3dG1QY1N4Y29Yb3NScVU2UEItMWNyX3Vhc1c3ZG80NGVzbGxTUzhuVjd3ZU1BTWJkN1NDOXdZU2pBbVFRMHpmT0E5YlFj0gGrAUFVX3lxTE1XTkhZSWh1X3lHOTdpZ1FpTng2cWg3LTRpWVNLMGQ3WUdjYS1ONnRXSWE2dG9UTnZETXhvdmxIc1RMekU5N25nbjIxYXBEWmNrYVpkR2pNNWF4QlNzV2ltbkF3YWRqVm9yRWlLdzJuWnFvbW9JYjUyYTdvSDRjWFlmWVdYcG54THVQTjJub2t5ajlGeXJTTFRGaVFHQnNmTWdVMTN0Sk1qcFkyWQ?oc=5",
