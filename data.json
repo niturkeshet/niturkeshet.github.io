@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:59+00:00",
+ "updated": "2026-11-25T10:14+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,14 +163,16 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 9
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -195,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -243,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -261,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 9
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -271,6 +273,40 @@
   }
  ],
  "items": [
+  {
+   "title": "צעקות, הרחקות והצבעה צמודה: הרפורמה של קרעי עומדת להימחק",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85SktCbTdxUDVoLW82b1JxTE5RYThHT283LXE1M0s3UzNUU2N6X1pmQ2JMd3RtZXRUNm9PNVBMcXU4OExTLXJucVVuMW4zR3dEdFZTaGloRi1aQkVUYW8tRVU2LUlMQTJ0M1E?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "בתום דיון סוער: ההצעה לביטול חוק השידורים של קרעי אושרה בוועדה",
+   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNeU1Dak9iajg1cHQxcEFudmdfdzZxTXRjSlN0bDhqS3BhWVhNa09xMW5KeFBkRkR0QU82bHp2QXFMdWk1S1ItOHFjREJLcGVzbDRTMnpYRkFTVnpSTmw5VTJ2S1FKalZCSWdJajRtXzI5R1A3OURXY3JzZmx2cnFhbVVsWWh6a1Q5U3Jnb05ZYzhpM3FCa196d3R1UjJveVFFSk5vREl2cXVUNnkxc18zRDI5XzR1VHVva3FBZUhJY2ROc2tUVzV3a3NRYkhFTnBZbHVMblB5NURWZlJsS1BrbGg5aU1yblJiYms1M21xUTBSaWVKa0VTakh0WjM2ZHByMkt2ZXNlUDZKOF9HZFNVd2FNSXhWZDVxRWwwVFcwbWdCNjJrOWR2a1I1bS10OW4yb1JTUFlVN05WMlpiQ01NVjJlVG5HRlQ3TkFuc2FGQUo5Yi03VGZXUk5WSm0yT3BMVUhsbFk3b3dyZnF4?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
+  {
+   "title": "על חודו של קול: ההצעה לביטול חוק השידורים אושרה בוועדה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mTmVEakVQbW4xdFN3aVE5NFdSYlBmMGYwNWczWmpPdkRDUGVsOW9sSV9rczZ3b3BQODh1QVVyODJ5UTNNUGhydDZrVVhvUQ?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "עימות בוועדת התקשורת: מירב בן ארי זרקה את השר קרעי מהדיון • צפו",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kNXN4MjgxaHlnZTBiTy1jNmxkYVI4WmxVNEV0Wm5uSzBiM1ZNenhTa0dXdUZzYk5UZVFZWmw0eGhsaVpJQ280?oc=5",
@@ -430,6 +466,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
+  },
+  {
+   "title": "הארי ומייגן חזרו לבריטניה: הזעם של המלך ויורש העצר…",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84SzlETW1QbHBkaHlORU5lRjlQUGc4UlFkYmIxQTJqTkVrY0JITUJFUXpxbjR5WEhmRk5KcTA2dUFxZndRNHp3dlhkNHhTU0I1VWc?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-24",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
   },
   {
    "title": "\"הלביאה שבי יצאה\": שורדת הנובה התנפלה על הפורץ שחדר לביתה |…",
