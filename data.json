@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:29+00:00",
+ "updated": "2026-11-25T10:44+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,13 +191,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -263,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -273,6 +273,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מכה לאסף רפפורט ושותפיו: רשות המסים דורשת עוד 8 מיליארד שקל",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cTdHeFlhd0lPcll3ZUV0dXdsd1llZmsxTE53N0E3OEFVVkt0cXRiSC1rNW9EcjV1RVhuX2drSTZnNk45UjZCQWNNczRaMmJrd1R5bWJORkxSdkMyOU5r?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-25",
+   "keywords": [
+    "רפפורט"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "צעקות, הרחקות והצבעה צמודה: הרפורמה של קרעי עומדת להימחק",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85SktCbTdxUDVoLW82b1JxTE5RYThHT283LXE1M0s3UzNUU2N6X1pmQ2JMd3RtZXRUNm9PNVBMcXU4OExTLXJucVVuMW4zR3dEdFZTaGloRi1aQkVUYW8tRVU2LUlMQTJ0M1E?oc=5",
