@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:02+00:00",
+ "updated": "2026-11-25T14:17+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,9 +170,8 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -196,16 +195,14 @@
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -228,9 +225,8 @@
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -248,7 +244,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -266,7 +262,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 9
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -276,6 +272,28 @@
   }
  ],
  "items": [
+  {
+   "title": "\"רעידת אדמה, לשים סוף למשפט שנולד בחטא\": שרים על הדרמה במשפט נתניהו",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZR1l3N1hkbWJyMmt3cXlyVDN0aWZkWXNXQUxaS2lYeWZBUDBOc2tiOERybm5STHZ2M3h1bGk4UFZxRnBxaUh3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
+  },
+  {
+   "title": "לאחר שהוציאה את השר קרעי מהדיון: מירב בן ארי דרשה מהלומי הקרב לכבד את חברי הכנסת הערבים: ״תהיו בשקט״",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHRnNIRDQwSnNkUlZWcDc0V1RrU0t6YllKMW5qWDNSOHdTNm53Q2YycDA5Wk9KYnQ0VEl4YlNhQzNLZVhpeF8wTHNB?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "Karhi Removed as Committee Advances Media Reform Repeal",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNci1zQkVYZF9EUjMycTkwb2x0N2NLbzNtM2pEeHRTQ3luS2Y1dUhqRVk4VWIyNzRsQzZWSnptaHNxbjZoVWJsc0RHOEVEcUtvQzJFVlhuU1dFRjNFbTlYaFZuOUNrWE9SQWpqUUI1czRzWllIM2Z5LUVoTXFHeFk0Ry1LOA?oc=5",
