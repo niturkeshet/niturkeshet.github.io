@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:33+00:00",
+ "updated": "2026-11-25T23:48+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -263,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -273,6 +273,26 @@
   }
  ],
  "items": [
+  {
+   "title": "מליאת הכנסת אישרה בקריאה ראשונה את ביטול חוק ההשתלטות על התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkwzMEQ0SFJLelJmNlZQdXdBNkJsckNDZS1Db1EtcGl2VTNUT01ZamowMEtWYkRJamdSSWxCRTJTNTFhdkpWU1lWVE42cUlUVlFMV2dMZ1hQR3ZpeDRSMWFzYjhWRUNQWmg0X05CMXp4ZGpSR2tWbjRMWEtaOExnT0xLQnBhTzlnNXA1VHN3OTA2bmpiVHVwUVdwZjY3RGx3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "51 vote in favor: Knesset passes bill to repeal Karhi's Broadcasting Law in first reading",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBUDVGdFJBRndzekNPMjVpQWdwWWRab2ZnWVFmZVBaWVd2Vi01R0lzcnBtQTBtZ3BzSHhIUmxzbGZkck5tdVVTZ3A0RmRsN1lXSk9McHdUQ1R4dw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Israel National News"
+  },
   {
    "title": "Repeal of Karhi's Broadcasting Law approved in Knesset first reading",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWGtSR201ZF9memd4d2JiMVNyYnRjYjhNN2RFS1YzZkFwSHBTQVZqMWtqc3ByYTJ4ekZjSnlkVERkNUlCdFFWSDRjTFJpVXFqT1ljUF9pdmlfSnQ2b0xBOHRodHJIbHZfRXBUQ3VRME9jTlJyWEVfbmxndw?oc=5",
