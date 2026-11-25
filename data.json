@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:30+00:00",
+ "updated": "2026-11-25T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,13 +191,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי בעקבות הדרמה במשפט: \"שימו סוף למשפט הזה\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wRG1LbUlJcjljbTZyMU5MZUdZWjhkYXhKalR2bXFsM1drRzVCUzJfcXRxRHRTVy1oeFh5Nkx4cDhIaUhMYXBobmNmdmNFUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
   {
    "title": "\"תמשיכו לדרוס\" > מירב בן ארי זרקה את השר קרעי מהדיון בוועדת התקשורת • צפו",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UVDJKeGd4S3I2MjBESmhGcjZjZ18zb1ZfY2JaRm1xeVdzTEQ4eDNzcmFIbUxybnh5MFlnWE53bXhlZmliTG1HTm9Qbw?oc=5",
