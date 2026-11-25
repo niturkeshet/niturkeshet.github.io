@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:12+00:00",
+ "updated": "2026-11-25T07:27+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,13 +203,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -256,15 +256,14 @@
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 9
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -274,6 +273,19 @@
   }
  ],
  "items": [
+  {
+   "title": "רייטינג: אסי עזר ורותם סלע מעל כולם, ינון מגל נכנע ל-\"ווארט\"",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Sc3JWeXBvVWZXeW5URzFmM1g4bTkyanV5SUFRTFRQMzBvZjQxWjZwX09XUVNoVjFEUFI2dy12ZFpRT2NfWW85enJGLUlPT1lpb3BOanB1RjN3b3RwMU9qT3BB?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "רייטינג",
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "Opposition's first bill: Broadcasting reform repeal heads to vote, Karhi vows to fight",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15bUtzQ21neERmWEV3Q0E5S2c0eERtdjIxSjNuRDFmLVQtUVF6TnhUM0RmUC1MQVFxeW5UdklPb0FUNGtJWVVvYzZBWFRBb1Zwd3pKWU1RQ2FTZw?oc=5",
