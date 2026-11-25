@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:10+00:00",
+ "updated": "2026-11-25T04:25+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ועדת חקירה ממלכתית וחוק הנאשם: גוש איזנקוט ימשיך היום בחקיקה",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzRUU1dxVEtDRl9fdmk4di1HN09fODJtMW9wbzhSUU5XaG9yb3lidHJBY25KNTQ4aVNxa3lLX0xCSllhQWFqdlIzYXZPUEhVU1FvSjAxS0VWMkcxbVFoUVNRNUJYNTBGRWhDTl82b09BTUNFT0lGdWtPakpqWTVOUnpPenN3dmczZGxyLW1fN0pVUVZpVFFhX1o2dnQzU1VMczUtRDJvUjE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "חוק התקשורת של קרעי אושר סופית בכנסת",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oaUlub3lWTXNLeXN5aHp2blpQNzlIV3dvSnQ4Si1VQVdleXZpVHRLS3Z0R1R4TjZFOUE3R2ZjU0ZBOF80RG5zRkdFSE1adUgxb1gwSkNMZHg2cXZIREtaV09SaUEzUWtlOEE?oc=5",
