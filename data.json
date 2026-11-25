@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:46+00:00",
+ "updated": "2026-11-25T14:02+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -196,20 +196,22 @@
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -226,8 +228,9 @@
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": true,
-   "kept": 3
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -263,7 +266,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -273,6 +276,29 @@
   }
  ],
  "items": [
+  {
+   "title": "Karhi Removed as Committee Advances Media Reform Repeal",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNci1zQkVYZF9EUjMycTkwb2x0N2NLbzNtM2pEeHRTQ3luS2Y1dUhqRVk4VWIyNzRsQzZWSnptaHNxbjZoVWJsc0RHOEVEcUtvQzJFVlhuU1dFRjNFbTlYaFZuOUNrWE9SQWpqUUI1czRzWllIM2Z5LUVoTXFHeFk0Ry1LOA?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
+  {
+   "title": "אסף רפפורט ורשת 13 מתכוננים: זו הכוכבת שעשויה להיכנס לאח הגדול",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aLTR0dV9DOFEzUUgtTFE4d2Nndzk1TDlIOHlPSGxaZFpPRDlXSWZUMFFLdHZacmVQaVBZeFFPWmFQTjBXS1ptaWRxTnQ0NXVSOWxrRU4yaEpZR2Z6eEUw?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-25",
+   "keywords": [
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "Knesset panel advances bill to repeal Karhi’s controversial media law",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkp4QXRMTFdrbWUyaWRwc2tWNVdMU2dVdFBLZVNsZXdyS0xmTndPd1BzMllsdkNxWlh1ZDAtS0xsQ1M3d3c1TV9NSm05LW9JNzdCdlNiZWxkblBSS1BndEhJdm9qZ1dxdkp5ZnFUbWUwVVRIUlhieVhoeE1KVU5HbDRLbzNjOUgyRjI5dnJTWTFZV0JSd0hpVEJZbEY3X1gwdS0yVjkzZmI3eGdJNFVpQVdxb2k?oc=5",
