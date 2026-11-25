@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:28+00:00",
+ "updated": "2026-11-25T09:44+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,14 +163,16 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 9
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -183,13 +185,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -261,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -271,6 +273,30 @@
   }
  ],
  "items": [
+  {
+   "title": "\"תהיו בשקט\": מירב בן ארי הוציאה את קרעי מהדיון - והשתיקה הלומי קרב",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoV3A0enlIOU5rWlRuNV9qdkdjSXFlRzBUQzJLSjY5TnZ6ME14clg5Z2tNc1g0VVhtVWpxWXBBUHhqZ0NxLWxYVGlSQl94LW9QUFh5LW5oWWQtc3YwNlpiT3pCNmgwWTY2QkV3Uw?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-11-25",
+   "keywords": [
+    "מירב בן ארי"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "סערה בוועדה לביטול רפורמת התקשורת: השר קרעי ואופיר כץ הוצאו, אלמוג כהן צעק בחוץ",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3BjcFF5bFVucHJOdUlCakdHbEVVNWdRbURobUdMeVJObFFfNU5rVkpuYkRsX3AzVFNiNi1JN1V0XzdpaDBCcHlKWTRHNVU3Sk5WTTBLSUpnV3RCcGE3RlQ4eEk1TnpWZWItYmotWFZRQjdXTldiaXlVWTdSdWxPd2ZMLVlYaTRiRWgzVw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "רפורמת התקשורת"
+   ],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "קרעי הוצא מהדיון: ההצעה לביטול חוק השידורים אושרה לקריאה ראשונה",
    "url": "https://www.themarker.com/news/themedia/2026-11-25/ty-article/.premium/000001a2-1172-d7ab-afb2-bdfbd7330000",
