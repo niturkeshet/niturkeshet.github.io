@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:57+00:00",
+ "updated": "2026-11-25T07:12+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -256,14 +256,15 @@
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
