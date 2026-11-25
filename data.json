@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:02+00:00",
+ "updated": "2026-11-25T15:17+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -152,7 +152,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "גלובס · גלית חתן",
@@ -273,6 +273,17 @@
   }
  ],
  "items": [
+  {
+   "title": "מכתב התראה לפני תביעה: נאור יחיא דורש התנצלות ו-168 אלף שקל מכתבת חדשות 12",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001564971",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-11-25",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true
+  },
   {
    "title": "Judges Urge Prosecutors to Drop Gravest Charge Against Netanyahu, Cast Doubt on Second Case",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOakxwT3ctLW8yMk52R1Z2RjJWamJNRTc4N2hpVmd4NzJyVjI1emRuZzJLQ0E1U2lJM3VPZHBPb185azVyNGhZT2RZV3pFMkU0WU8zYVUycFJhQkZqVDhRR2E2TjZyVmd5Rk9haXcwSExKU1dnNUlYbGl2VVc2M2xLcHl0VW5wajhrZmdhWDNIdUg3VHdNR1FPR3B0eXNzNnRxVWNjVEx3Tl9ZUnBNdi1WYTRTUFE?oc=5",
