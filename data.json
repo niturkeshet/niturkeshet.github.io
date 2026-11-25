@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:43+00:00",
+ "updated": "2026-11-25T08:58+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -202,13 +203,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -244,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -262,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 9
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -272,6 +273,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ביטול חוק השידורים מתקדם: ההצעה אושרה בקריאה ראשונה בוועדה וצפוי לעלות למליאה",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40QzFTYU1wajNCbUdOX2J2RlNqbkdaT1dld0dISkJtRXljdlRTb3FpeUl6S1ZRVGp6WWVDOHpCQVJxakJnQjM2NnhIQWM1RzFKaXZUX3JPMDFQckZQWmdhdEFuMDY?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "לאחר שקרעי הוצא מהדיון: ההצעה לביטול חוק השידורים אושרה לקריאה ראשונה",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSU5ZaUNxT3IwaFJWYzlnUGl2eHpXdFdlcmp1ZWcwQlJfdUVVNUJsUmh0c05CMUxzcF9LWVFLWVJpVnU1OGpadkRVVVpYbEJSUGNMYkh5cXRXUWcxY040SHBIMy1idlZIMDQyZzhLcm5pWWYtbGxJaDZzVXA5SFg1dDZTUkF2bW8wdnFpOTlEQ28xRGs5Vmk4QTlXeUhvR3lmNEtWalZDOHRZdlE?oc=5",
