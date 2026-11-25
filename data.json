@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:01+00:00",
+ "updated": "2026-11-25T13:16+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,8 +170,9 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -196,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -208,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -219,8 +220,9 @@
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
@@ -243,9 +245,8 @@
   {
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -262,19 +263,49 @@
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "Knesset panel advances bill to repeal Karhi’s controversial media law",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkp4QXRMTFdrbWUyaWRwc2tWNVdMU2dVdFBLZVNsZXdyS0xmTndPd1BzMllsdkNxWlh1ZDAtS0xsQ1M3d3c1TV9NSm05LW9JNzdCdlNiZWxkblBSS1BndEhJdm9qZ1dxdkp5ZnFUbWUwVVRIUlhieVhoeE1KVU5HbDRLbzNjOUgyRjI5dnJTWTFZV0JSd0hpVEJZbEY3X1gwdS0yVjkzZmI3eGdJNFVpQVdxb2k?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
+  {
+   "title": "Ministers React as Judges Urge Rethink of Netanyahu Charges",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3JZZnFubkdLa0FwTEJ5UHhBdDR5MGxYY284bGJyVHpfR3VLSF9STUlCU1lFR1dCRWlfVHRVTjl1UENzVnFRT2w3SE1OQk05TnY2b1Y2cURERHJNT2djVFgxYmxvSGFVaUFSWFVobDI3ektDUTFYRGo4TnFyUENHQTFwWE02VmM?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "JFeed"
+  },
+  {
+   "title": "כל חוקר פרטי ישלם 15 אלף שקל על GPS שהוטמן ברכב עורך דין",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wUzdpSFJVeEI0QTJJMUpVczk5djI5ODRGM0VFWWZVODhvaVIxLWJfUE9pVXlicHkwYXRMNkFkcUlsc0U0S2JJUVhSbnpNWmp3ZkJhR1NxTmxCRjJZYy1DTVRmX1hJN0U?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-25",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "Eisenkot bloc scores Knesset wins as three key bills clear first hurdle",
    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQXzlKT0hoSll1RFEyQ2ZBdHZETFM5bkwwSFprSWx6N1NsSmItcmtZY0t6aGdNNG5WY3lDU0F6NG5wNTdlT0RJX1plTC1xV1huaE1QZGctbTk5S1l5ZjQ5OElCVlBjUC1wa3NCa21TMGZ2RmJBd2pkcDd6UmJYaHhRWW9JdGRYc1BLOFJQM1YzcmJ4aXAxX0lBM3BmdjJrWjFUeDV6NGVVOXpkVHlQbnA4ejZEM2dYREMyTm94eXpLZmhDUXI1WUQzbk4zdWlLaEJxdTlVV3BKZ0padjI1cXItbUtRWEhMVy1OdTIxQ2puREx1VUw3U1NvOGVCM3ZZWjFXNGtxcDFNVTN4bGFfN3ZMVXhCRHN5dXVvSmUtVmkwazRQRW1J?oc=5",
