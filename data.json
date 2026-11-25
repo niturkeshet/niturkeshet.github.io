@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:07+00:00",
+ "updated": "2026-11-25T00:23+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -518,6 +518,30 @@
    "date": "2026-11-24",
    "keywords": [
     "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "לקראת ביטול חוק השידורים של קרעי: הוועדה המיוחדת יוצאת לדרך",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001564485",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-11-23",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true
+  },
+  {
+   "title": "חוק התקשורת בדרך לשינוי? מירב בן ארי: \"אין לי עניין לסגור ערוצים\"",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Cdnl1ZXdiT3dvS2YtaExkc2c4QjdmaXQ5Mk5STHFHXy05dnBRaHFyTVd2LXo3dDhjR0tTRUFTdXMtQnV5bl9sZnJuVUlOTHFPT1hJSGQ1ZDA?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-23",
+   "keywords": [
+    "חוק התקשורת",
+    "מירב בן ארי"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
