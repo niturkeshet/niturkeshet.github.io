@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:52+00:00",
+ "updated": "2026-11-25T00:07+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -177,8 +177,9 @@
   {
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
-   "ok": true,
-   "kept": 5
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -190,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -262,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 9
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -522,138 +523,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "פערים במגעים בין הליכוד לישר",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONzNZWVNVRWc4cVJyNzI1M0tMVmhzbTJVeWl4cjdwZFQ3THJzOFdvaDl1WlJnUTdzem1MVVBmMnhFMTMwUUxXMEhzOS1FUGpIak1OcFF2alYyRGdkYlNmMllrS29qd1FNT0hsRmdaWGc0djFRLXY2YVJhNklqVmN4b3pR?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "mako"
-  },
-  {
-   "title": "איילה חסון הגיעה ל\"הפטריוטים\" וחשפה: \"זיהיתי שזה הולך לבוא\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ITUFQYUY0aFNGZ2pUUFJYckdVSWtZeDJCdDZjUGFWa1hoWjExTE5lRTVSb2JWNzJnYjVNMGZEQTI0alplS201WFFheFk1d1BMRHlJcWV2Z1BuVDdO?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "איילה חסון הגיעה ל\"הפטריוטים\" וחשפה: \"זהיתי שזה הולך לבוא\"",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zUFdrTEVfRGxSRHVpT0F3Rno3RGRBR2hrOWFHY2VyLWU4ZzBTbFJEcjBMeG5FaGROT2ZTeXJwZzdJbnJnMVBNTE5GaDVfNFMyTGEtVm9yVC0xVGc?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "התפקידים שאיזנקוט העניק למנסור עבאס וליוסף ג'בארין",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43UXRlbEViUWczTmpMZTRtYmE1ZVlHNjg2SEVZQU5MY29tRjBDQWllOUw4NEtadEtkZ1VxM0RHUlVzRXA0VVp6VHFMMzRqZw?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "עם דירקטורים ומנכ\"ל כזה, מי בכלל רוצה להחזיק מניות של אנבידיה?",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObkNtV2VmcWdOUGhrUDktN0RFblVjNktacUNwQWtwTDdkLV9VX3BiM2VfWWFWUmtsNjRscFNzbGdwV2R1M0tQZ3V4dHhZRFpraU5nb0FHQVlEYkpyT3hvNS12b3ZQTmx2N19xd2M0dHZPTkpTTFRoaVRPcE9OR2NEODUyM1pjTjQzWDJwUkpMVmI4X3ZFOGFpR3NRekh3Q1BsSzZ0WnZCYjduaUVPTGNFUC1n?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "המשפחות השכולות מחו, חברי הכנסת התעמתו",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCak0tcHBTTXZzTGEyR2xMeDlwd1lsbTBNZmpFb0ItZV9UWTBubjNPb3BseS1renk4cXJ3a0ZHYXhRd0FoVzIxcEk1cjlNUQ?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "Karhi Clashes With Democrats MKs in Knesset Plenum",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80VHV5cUlzVFl1dW05eFNreFh3QlVHZUU5QU8tS1hBSGpBTWxGZHh4ak1GRHg3LTUweHhlNFRkNFhrS0NhRWxOd0otczNHRmotMThqemRYSHVVckhkYWVxaFFiU1Zacl9FUWk4UXZLOUgwd3ZrUDg1RHNaWDk?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "JFeed"
-  },
-  {
-   "title": "ורטהיים ממשיך לקנות מניות מזרחי טפחות - ויגרוף השנה יותר מחצי מיליארד שקל בדיבידנד",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kcnJRMEsxRjZLTHpLUTloSVVweVdIUlowZnRBdXpQQVkwY0k3REt6bkFsa2lMRUNrd2c5T0FkSTIyaTB6TTN1ckJGYjhzWU4yU2ltaERjaWJVMmhMU0p0MFAtRQ?oc=5",
-   "source": "חיפוש גוגל · דודי ורטהיים",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כלכליסט"
-  },
-  {
-   "title": "\"שקט סרבנים\": העימות החריף במליאת הכנסת לעיני המצלמות",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcGR2UDNxNFBKNlJ0bzZqZHJVaHJNUWgtcmczd0Q3V3BjSHItTkZiek5wb3p4YUdJNGRLemxJdlFhRjY0MnJrUXYwbnJMNmo4elp2U25nZWlkVUdiaExqQmItV1h1dUtxOWt0TXlKLVVTQVlWUkJkSktHdDc1MFREMkt4SFFHcU0?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כיכר השבת"
-  },
-  {
-   "title": "Knesset advances Oct. 7 inquiry, Haredi draft and premiership bills for Wednesday votes",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNDN1aTZUZF9tMkhXZHNTR2dadlBRNzhDOFVJUFZibFYwQWJvZHJ0eTJOQXpIaExkRy1HZC1uZHBhMFpfWm9hUzl2eVFveFVRQ0Y3Q2doS2d3Tk11OUdic0YxaXVYX19SNjBuZUFYNWFXc29EdmRMSVctRWhaczQzRXUwMG1EQUNXVG53cXZvSW1jS1VZOE0zdjNjV29BQXF6NkxmWXdNYlVIWXR0dnBvckd3SUZ6YXZTWVlsbNIBvAFBVV95cUxNNDN1aTZUZF9tMkhXZHNTR2dadlBRNzhDOFVJUFZibFYwQWJvZHJ0eTJOQXpIaExkRy1HZC1uZHBhMFpfWm9hUzl2eVFveFVRQ0Y3Q2doS2d3Tk11OUdic0YxaXVYX19SNjBuZUFYNWFXc29EdmRMSVctRWhaczQzRXUwMG1EQUNXVG53cXZvSW1jS1VZOE0zdjNjV29BQXF6NkxmWXdNYlVIWXR0dnBvckd3SUZ6YXZTWVlsbA?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Times of Israel"
-  },
-  {
-   "title": "ניצחון לנוני מוזס: בית המשפט הכריע בתביעת הענק",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFYk5JU1JTS25JSl9HX0IwdzVNVThjcEt3OXFJZHdJNnZfWWhISnhUS0RtQW5qcHdFTzV6RVJVck5vZjZ1WXFpcWw5dTdYV3B1d1NDQVY5b0pWaVNN?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "Knesset panel to vote tomorrow on bill to repeal Netanyahu ally’s media overhaul",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkx3MlkxM1R2Y3IySmdJa3RTV05hNS1wN3NqZG81b3hUV1QzRVRiSzRvUFZFcUNlVWVIcWc0MmVLdWFKLWI1NE9kcTF3b2d4czF5cXZWaVNSdnFQZHNqSzB0VHZCSjRZMG9pcG1OdDlMcHNFUHFHb1NWVFRkVXBFRzBzb3o3LUktd1V3NWtwemRKUkRqY25kWXR4UHRxWGpoN011VVMyMkRmY0d5MkFYQ3hzY3pwOFBvMGxOY1pDQnYtdXM?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Times of Israel"
-  },
-  {
-   "title": "בית המשפט דחה את התביעה נגד נוני מוזס על מכירת אופציית HOT לדרהי",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC0xcVN2UE1obHFOYmFUdXg4dHNGWGpBWDFvcHlka3J3WVlhY2xfMmpUaFZRNzdfSGdGOGYxM0xvcE93dUtoZUowTWFva1d4NUdQU2laZTg2ZHA1U1ZXRV9zOExOSFpMOU5Ka2IwNG5mQXhBcVVHOXBNWWlNQUdVRFZlOVZiSURNREF6dTNIWnNWNm9YcFpuSXFDSjNVMWhMZ1ZaaVJ0aWRtQjg?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "HOT"
-   ],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
    "title": "המהלך לביטול חוק התקשורת יוצא לדרך: הצבעה ראשונה כבר מחר",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LdWtiekd5cTc5bFRIWmdXdGJvZjFobDZyVWNyX0owOXZmYW1ramxFWWxGTkV1ZDlJb0ljdjdnUlp6REZXenQ5ZWRGa05INDVPNDlNTFl3cDFMbUVMUndQUmlfcjkweGtE?oc=5",
    "source": "כלכליסט · עומר כביר",
@@ -664,18 +533,6 @@
    ],
    "pv": true,
    "publisher": "כלכליסט"
-  },
-  {
-   "title": "המהלך לביטול רפורמת התקשורת מואץ: ההצבעה הראשונה מתקרבת",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01bllIQm9nVmhIODZWQmpYYVhSOWhBN3hTQUxLNWJTZWRkSkVrOEVuZjdnNHc3OE83RzJuQ25MQjg1UFhUMzBEd0hOOGdudw?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "רפורמת התקשורת"
-   ],
-   "pv": true,
-   "publisher": "C14"
   },
   {
    "title": "אסף רפפורט עובר לשלב הבא: ברשת 13 מתכוננים לחזרת הפורמט המצליח",
@@ -691,81 +548,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "חוק התקשורת | השר קרעי במתקפה על היועמ\"שית לכנסת שגית אפיק: \"הכהונה שלה בכנסת תיזכר לדיראון עולם\"",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wcEV4RzVhc1dSY3c0a3kzMEFmbHp1Vmk0TEg4T05ISGpPMnd4d0dPTDdQcFlidE1XdXV3QWhTU1dUTEZRVmF6ejJ4VQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "רדיו גלי ישראל"
-  },
-  {
-   "title": "חוק התקשורת בדרך לשינוי? מירב בן ארי: \"אין לי עניין לסגור ערוצים\"",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Cdnl1ZXdiT3dvS2YtaExkc2c4QjdmaXQ5Mk5STHFHXy05dnBRaHFyTVd2LXo3dDhjR0tTRUFTdXMtQnV5bl9sZnJuVUlOTHFPT1hJSGQ1ZDA?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "חוק התקשורת",
-    "מירב בן ארי"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YOGxOMTBEVDc4d3VVZDBoZlhlbVVnR24zVldGQTBTdFI2MXpuT0hhODdZdS1rcFFJNFRPbTUtUWhZZ0oxVDZoNUltTHlrN0p4QWI5UmsxWXJiUE8xMmRsaWVmZ2swbnVSOVA5bllKVGFMTkdmUzFhSmlMdTk4UQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Jerusalem Post"
-  },
-  {
-   "title": "Karhi Calls Knesset Legal Adviser Afik 'Political'",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWNxcDRuS3R4eWVHcWVEbGhpd0RRbGszTENmSU02RExOZzJvZXhxNkxsNU9FQnJwelZjcGpZN3cxV1hja1M2azRyZUFXajA1Zm5kYU9XOXJMS0djdURKaTNtR19UcDBYMkpiUEVXb3ZIT1ZKb3hHSC1SV0d4OElEZUpHdw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "JFeed"
-  },
-  {
-   "title": "השר קרעי על מתווה הרוטציה: \"בית הנשיא יתכבד בנוכחות נתניהו\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JV2pnVEZiZGo1RExVaTRrbUZSTWNqUlhpeWdDQzBfTjlBNGVYam5tMGo1TXdidml6d01LTWFCVHp1YXdpT0xIV3lvTGNmUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "יום סוער בגוש השמאל: מינויים חדשים ועימות עם משפחות שכולות",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iYWVDWmFnejdPNTMzTkkya0NvZ3g0NE5zRkcxVzdpZDgyUHJlUGc3V3IyVVloR2thWU14UndTQlBNaTZNZGNqZTJwamtUZw?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "Karhi refuses to condemn Chikli message to bereaved mother, says Netanyahu-Eisenkot rotation likely",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JNXNKRkluUmwwR1lOSmxiV3JsUWh0dEJ4c1Rhd3h1dWRzekFPWWFPdDd3WTQ0aklEcUh3RVlCbXd0ZHF6RGJKUUdXbjdyUEdPTlVvSzRiWmlicTFPMzZSSDBNc2VjSzNZc0ROaEk5OHRDQVpJRFhXTFNjVQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Jerusalem Post"
-  },
-  {
    "title": "\"חוק עם כוכבית\": מירב בן ארי נבחרה לראשות הוועדה לביטול חוק קרעי",
    "url": "https://www.themarker.com/news/themedia/2026-11-23/ty-article/.premium/000001a2-07e8-d55f-a3f3-c7e89b590000",
    "source": "דה-מרקר · יסמין גואטה",
@@ -776,64 +558,6 @@
     "מירב בן ארי"
    ],
    "pv": true
-  },
-  {
-   "title": "לקראת ביטול חוק השידורים של קרעי: הוועדה המיוחדת יוצאת לדרך",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rM2FVN0RBZlVJR0Ewb2ZMWjhlU1VBTzduYmFZZy0tZlJPLWxOcHNDSVNyakMzcWZCUHcxcW0wXzEtaG9hZ1dvMjlhMzBWbWlab05zX1pUWV8yZVBTZXZGY2VFY090NHMt?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "גלובס"
-  },
-  {
-   "title": "לירן אבישר בן חורין",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WYjdQdm1pVThKVUFFQlhwSFk0R201TFRicm9mcmlsMTRUanhiWHhGZ2pBcGJTams2LV83dk0xMUltdTdraEd4bnhvNjM?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "\"נחקק בחטא\": מירב בן ארי נבחרה לעמוד בראש הוועדה לביטול חוק התקשורת של קרעי",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iVlZBVElNMk5VTDdPaFl4RC1ZSDV1VVFGelZRakZ2VWJWYV9CQXlRNjI3SmdNUlNNbGNaRS1USjZhRTBhY09EQUl0R3dqYnB5Q0tJYlNQVVE1dVNyU2tTNFBPRzZSR2pOdEE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "חוק התקשורת",
-    "מירב בן ארי"
-   ],
-   "pv": true,
-   "publisher": "כלכליסט"
-  },
-  {
-   "title": "גוש השמאל מאיץ: מירב בן ארי תוביל את ביטול רפורמת התקשורת",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42UThtNmwwQTFoTmVCckY2OGtHQVhfcnFrSEZfYVB6YVRUTHF4aFc3WUR2SmZ5Q3JzZkVQZHlRZThvdzQ1QXR2NXZVcXA5Zw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "רפורמת התקשורת",
-    "מירב בן ארי"
-   ],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "Knesset committee elects Yashar’s Ben Ari to lead repeal of Karhi’s media overhaul",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOVo1VHRjQ3FFVDNmNFMzN2JjaTNaY0w5dWVDelRZSTN0bWhOZEI0aExaamI3MTdFa2VKNTlaU2sxOUNKNGR5d28xMjNrRktfM1RFZS1HT0xDbXFHZU1vb0hBR21GTXY4a0sxUk5RdlhTMWdDOGxRVEdSUkk0aE82OVE0em5oLTlwSGc3eXlWRlhwSmdKMWtTbEgyWVNFUm83cGFQeUFVU0RpLUp2NXBwUHBpbWRqU001cDNCdFpzbFV2U21B?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Times of Israel"
   },
   {
    "title": "אילה חסון מול אילנה דיין ורביב דרוקר: תוכנית תחקירים חדשה בערוץ 14",
@@ -848,126 +572,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "ביטול חוק השידורים: עימות בין שר התקשורת ליועמ\"שית הכנסת",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xMFZRWVliWktQOG1iY0VoTzJfRjBfbkY3RTZpWlhLZGtUbzBjNEVpNFYxMmZtQ2ctS1BrNXVsQjBLRUV4LU5EZnJpUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "JDN"
-  },
-  {
-   "title": "\"הסגנון הוא לא המהות\"",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSU5ZWjBZRUtYNU50ZDRZcmh5SzA3anFmRGZUZEVDTzI4RnVrTmhtaGRoMW4zWlNBVlIzSU5iQ3dEMW91eHlZZkw1X242bGpGNWNHdjdFdHZxZUVFQ2tHTmhrSmRiMTQ2R3RTenJ6RWJpZDFqNVRaYkZibVJydThoZg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "103FM"
-  },
-  {
-   "title": "בתום דיון סוער: בן ארי נבחרה ליו\"ר הוועדה לביטול חוק השידורים",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwb1pST082WnlLeEhRQ2NGQ3JlbVFHaUZlc1lYazZMdGJkaE52OGI0Z0pNdWxTRlF1aFVzVmxyallEMWd4Q1hHaFpqZw?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "יומן בחירות: יום שני, 23 בנובמבר 2026",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAwVmljTWlrYWxsWHQ0Z0JuVGF4al9JZ0VqbU9XZTkyTVlNSVNXTHFDWFp1VUo1d09IRXRDVjhPMV8wTVFt?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "קרעי התפוצץ על אפיק: \"את יועצת פוליטית\"",
-   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNcklWclBoeEFIS3VEWDhtY3hCaURzX1JvVW1wTDBIYllNamdXMS1Ka1pvblJiQW1BdzZJRGhKV1hKZzJpQ2dIN0NyMkFUYWdjTGtwVWRQQXVDN2ZiWG5HeWVyMVhuQkRfTHVlWmg0YnRsU2JUX0hFai0xdG1HMU15VG9pUnNDanJ5Yk91UmQtbTBacW9pM0k5WlNPb0tDVVVpYUd3OGRTaFVYZzBjRDJ3WE5qeGpuOUNNd2pLYXBSYW1jemlTTHpHTnNxenlweDdFdUI3WC1SYmpqcWRERy1xYmpqcmlCRHZvdG9jVjJ6UXY1aGw2dE5Sc2lBX1hadUR4dUZTTERIb2tUSmU2eFBCR1dTVFJRdy1VVEFRUnAwSkdBTjE3MUU0VlFPWHJodW9vMTJhUGYzYk9sTnhEVGRmbll3Zw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
-  },
-  {
-   "title": "שרשרת המינויים: ח\"כ מירב בן ארי נבחרה ליו\"ר הוועדה המיוחדת לביטול החוק של קרעי",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nOTZjckl6MG1ZeW5Zb1FUN3NxZ3FKSFNqWVplNHBzbklXTnFMT1BFRHE0a1o3YS00Z3V5Q3RxM0lYTzNsV2R3dTBXRzd3NWp4VEFsZ0pYSG9fcjZmN2hkNmxkcjA?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "מירב בן ארי"
-   ],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "השר קרעי ליועמ\"שית הכנסת: \"איזו יועצת משפטית פוליטית\"",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sVVVjZlJ1bzlfMkVIREl4RktGMHdTa1MzSE0wc04xZVJQLU1Fb1lmUW1MR21rcG1FOURjY0lJTmNJZ1dOQXBqNWwyaFZRRms?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "הוועדות המיוחדות לביטול כמה חוקי ההפיכה המשטרית החלו בדיוניהן",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckZEWkdpa3lfWEU5SjY4SWFadTZ4ZDhCWHlYcC1WWE0xdlYzeGJldFNNeDNmeFYyQUVUVWJqOF9GLWEzX2FzYXQ4dkU2eEJ4RHpuaTUxZGY4RkxHUFFMVjVPZDB0ZngzN09zUWpnRHlhMkkzbUZFZHFZYXF5QmtIenVxUlJ4bGdUYlN4NzJEUGROSjJCRjlBQWJ5bTROQUxH?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "יועמ\"שית הכנסת נגד חוק התקשורת של קרעי: \"לא ראיתי חקיקה כזאת ב-25 שנותיי\"",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IZTBMVXhRODh2eFZ2RUVJaXFZYm5SZXlMMDdlZzFJTzBOSUZHcGltRU1yQXBKTkc5TU9ITVVBcFlxRmQtdWQteGFsc0lrYkxUNHpocXBSNEhENXRhdEk5Ym9n?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "וואלה"
-  },
-  {
-   "title": "שבע תשע",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3pEcFRNQzdsNTlOeGhMU3ZGdEFDVzdxZFBpZ2ZZOWZRNzkxZjZwdnN5UWQySWVOMkswSWlrMEN3VzZFYzBGQ2xHSjNnSUwxU3VUazJRekFFbjA2bmdnNTBGbnpCSk11M1R4clB3WEFRV1BzR2FhTHo0ZzEzZjJuSw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "103FM"
-  },
-  {
-   "title": "שלמה קרעי מסרב לגנות את עמיחי שיקלי על ההודעה לאם השכולה: \"אין טעם לפגם\"",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ec2RmTGNpOUprQzVJaEVSc0hlS0dSUzhoVUEyb3ltQVV0aDdRY3lrNmtlYWk0cHNWZ2c0emdxWDdrcTladW9VcUZBNU1ZT1B6Y3ptQi16V2tTMHAySXl2Tm12SFY?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [
-    "שלמה קרעי"
-   ],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
    "title": "ערוץ 14 חושף לוח שידורים חדש: אלו הרצועות שתגיש אילה חסון",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11V0hHaU5TcUlHNERDTGVkVEJqcnRtNFBvV1NuSU1ubnBnNHcwNFVOVzN4X3hxeFdrdmdXd2RzZ241Zkp6LXdhN25pSTFSN2lhLVo4azlSRzU?oc=5",
    "source": "ice · תקשורת",
@@ -980,16 +584,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "\"צומת היסטורי שישראל ניצבת בו\"",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblJfTkhPdThvWTJRYmJFUFFWcy1ROTBONGE0SHhSeU9PODYyU0JmVlBSd29sM05TRlJ2dy0ydG5IOFZYNWlBNU9aRzVBN3h3clJtalI5RWpPYkgyYm1scEVwcnMzVGZEbW81cXUwWjNVSFdPV0lrZ0x1ejFaYlFqMA?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "103FM"
-  },
-  {
    "title": "אילה חסון ושרון גל בערוץ 14: כמה מרוויחים מגישי החדשות בישראל",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jeTVuTENkd3AyVUUwdEFBdGY1dlpKRUFVdDNROHJRNDFPZW9Rc2IxeUFzRXRyQXAtS09CaTJXSXNiMDBJOEF2UTdiSzBYNUtYTEx3QnhqTGVnQ1FZT1BlNXAzNDFkZU5OREtSQ1RYdG95X3Z4WEF5eWxCSnVqWXc?oc=5",
    "source": "ביזפורטל",
@@ -1000,16 +594,6 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
-  },
-  {
-   "title": "הקואליציה החדשה יוצאת למבצע: חוקי הרפורמה המשפטית במרכז השבוע הגורלי",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHOTAwd3JrdEQ3emcyTVV6Ql9wZlRSZlZRTE5Va0RSbmZIeTBvZmMzeDg3MXZiUk1faHNsTE1oakdyOFVfbkZSNjJYUVpLVFM2ZGhvSndJc1ZzWkNVUmwtelJnVjM?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-23",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
   },
   {
    "title": "כתב חדשות 12 פרש לאחר 11 שנה - והוא לא מתחרט: \"אמרו לי משוגע\"",
@@ -3347,31 +2931,6 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
-  },
-  {
-   "title": "מכה לעסקים: מטא מבטלת את הפטור מתשלום על שירות לקוחות בוואצאפ",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001557618",
-   "source": "גלובס · נבו טרבלסי",
-   "type": "site",
-   "date": "2026-09-25",
-   "keywords": [
-    "מטא"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ערוץ 14 והפטריוטים משפילים את קשת 12 | רייטינג",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ONGplOFZUMFp0Nk5rOFNtOV9jbkY0RVZJVUVjdUp5bWM3dWpYX2cyTVU5N0NXWXE3ay0tbUpPdWVTeThYYXNKYnM1X2dtZFhPX0ZUTXh5WnBwdERlSlQ5dGVB?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-25",
-   "keywords": [
-    "קשת 12",
-    "רייטינג",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
   }
  ]
 }
