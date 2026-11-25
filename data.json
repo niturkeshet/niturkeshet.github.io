@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:58+00:00",
+ "updated": "2026-11-25T09:13+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -263,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 7
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי סולק מהוועדה לביטול החוקים שלו: \"המסיבה שלך נגמרה\"",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmN3OVN3QmhwcUdmVHYwXzBJSW9VUzJPOFJHVFAwQVBlMjJjS1I0Zk5FV014eUVSN2xlM2JQb1IyZVlid0FlRWZsT2dTZzZic1lJQkpvZUlGZ19tc0c3dG1QY1N4Y29Yb3NScVU2UEItMWNyX3Vhc1c3ZG80NGVzbGxTUzhuVjd3ZU1BTWJkN1NDOXdZU2pBbVFRMHpmT0E5YlFj0gGrAUFVX3lxTE1XTkhZSWh1X3lHOTdpZ1FpTng2cWg3LTRpWVNLMGQ3WUdjYS1ONnRXSWE2dG9UTnZETXhvdmxIc1RMekU5N25nbjIxYXBEWmNrYVpkR2pNNWF4QlNzV2ltbkF3YWRqVm9yRWlLdzJuWnFvbW9JYjUyYTdvSDRjWFlmWVdYcG54THVQTjJub2t5ajlGeXJTTFRGaVFHQnNmTWdVMTN0Sk1qcFkyWQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיפה"
+  },
   {
    "title": "ביטול חוק השידורים מתקדם: ההצעה אושרה בקריאה ראשונה בוועדה וצפוי לעלות למליאה",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40QzFTYU1wajNCbUdOX2J2RlNqbkdaT1dld0dISkJtRXljdlRTb3FpeUl6S1ZRVGp6WWVDOHpCQVJxakJnQjM2NnhIQWM1RzFKaXZUX3JPMDFQckZQWmdhdEFuMDY?oc=5",
