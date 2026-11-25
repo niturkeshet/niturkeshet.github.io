@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:42+00:00",
+ "updated": "2026-11-25T06:57+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,13 +203,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Opposition's first bill: Broadcasting reform repeal heads to vote, Karhi vows to fight",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15bUtzQ21neERmWEV3Q0E5S2c0eERtdjIxSjNuRDFmLVQtUVF6TnhUM0RmUC1MQVFxeW5UdklPb0FUNGtJWVVvYzZBWFRBb1Zwd3pKWU1RQ2FTZw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Israel National News"
+  },
   {
    "title": "ועדת חקירה ממלכתית וחוק הנאשם: גוש איזנקוט ימשיך היום בחקיקה",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzRUU1dxVEtDRl9fdmk4di1HN09fODJtMW9wbzhSUU5XaG9yb3lidHJBY25KNTQ4aVNxa3lLX0xCSllhQWFqdlIzYXZPUEhVU1FvSjAxS0VWMkcxbVFoUVNRNUJYNTBGRWhDTl82b09BTUNFT0lGdWtPakpqWTVOUnpPenN3dmczZGxyLW1fN0pVUVZpVFFhX1o2dnQzU1VMczUtRDJvUjE?oc=5",
