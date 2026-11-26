@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:06+00:00",
+ "updated": "2026-11-26T05:21+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,8 +170,9 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -262,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -272,6 +273,30 @@
   }
  ],
  "items": [
+  {
+   "title": "הכנסת אישרה בקריאה ראשונה את ביטול רפורמת התקשורת של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MWDBXNy1FMlF4LU04Qmh2ODh2a2tWRjZ3aV9HSjJNY20xUEF0VjhVeWhqS3lrNUpnSEY5OHhHU1hpalJkV1RaYThIaFFTQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [
+    "רפורמת התקשורת"
+   ],
+   "pv": true,
+   "publisher": "אמס"
+  },
+  {
+   "title": "צעד ראשון לביטול הרפורמה: הכנסת אישרה בקריאה ראשונה את ביטול חוק התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYzBFS1JvVjJOV2F2UU9rc3l5QUVidXpqUENwVGN0MFBOVnJNY2xNMTZnVXFMTnNzVjA1SXNuNUZDLUNqZkdicDZ1NXhIZHF5UUtDVnA3b0lzUnhfWFpST3QteW9ZeE9nMmZ5Yl8tWm96ekR0UHZDUWpDcDI5QTljS0p3RW5iQ3NKS0l4Sw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "מליאת הכנסת אישרה בקריאה ראשונה את ביטול חוק השידורים של קרעי",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3NidGt4WUJlQzZNYTUxNTZ5eVFqOTNheUNqRFRCOHd0S0dfNm8ycmRCenREWjVBTEtUNnRnekN3UWhCN1JKSWFwa2RZVmhFaEZDQVR5UUR0MlE1UVpKRG9md0ZfdlVaZVU0cThieXVpSExVTEZiZF9vMzFTd3R0YWdPZkdjanlvOXZsS3VLZmFxV2JUOERFNnEwVXZNS00?oc=5",
