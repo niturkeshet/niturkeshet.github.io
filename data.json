@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:56+00:00",
+ "updated": "2026-11-26T13:11+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,8 +170,9 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -190,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -214,7 +215,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -272,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לא רק איילה חסון: 9 טאלנטים שעברו לערוץ המתחרה, ואיך זה נגמר",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DWF9DdGJwTUpxVTNlVUE1dzctUXc1dEU4QmFOa09JdE02M1hSODZoYmZGVEJRTF93akdDTmxJTDktcFZHY0JjZHhhVVpWdk8teHRMb19aSlFmTnhvbG1Bd3l5Qy1RTE01YnBSTWdzVnNkeFU?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "חדשות 04 - חשד לפגע וברח במעלה אדומים: נהג עוכב לחקירה בעקבות מותו של פעוט בן שנתיים",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1VlRZQ0I1RGFGMjRMWi1pTXZid1ZYWTJMN09WWjN6UDdxc09Bc01OY0dqdDFHTV8ya3ZjUlAwQ0wtSlJ1Z0ZzeDJB?oc=5",
@@ -468,6 +479,16 @@
    ],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "Knesset advances bills to form Oct. 7 state commission of inquiry, establish PM term limits",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUEhHOUo0RVVySmVIUktIWVViT2pkQU9hQnNUNl9UU0ctNExUakVmMFdseEVFLXFVeVhfQll2QnBsWlloNEpOeDVvSHFBU1N5U05BeGRRcUVxVzdkZDE0V2ZiSVlJNGJPWTRkaTQxNkJSMklGRmNUd3UtSXJTVWtjR1NwcERETHZLcnFzZzVCTlpSY3FmRVQ0Z1JRemVHOHc0aXQtc29zSk5GTmVuOG9wR19odEp0eTRZajNjc9IBwgFBVV95cUxNdTZBQTVzd2EzOUM4MmpET1M3UUNiLVlxZERNVE8tMDdqUU80UzlVWXQxT183cTZuR2dnUUxXbGktSVpfZGNtWl96dzktVThfOUVEaHkzUDJPNDJ5SEJjY3VkZUVVeHVHRUdZVlk0cDgtdlpzUllSLWRqVlA0eWlLaEFlVFB1azZTR2I3MXRGdmlQamhhbnVxVmhmUUgxc0doSkNSU19vWkFOa3REUTRsakpNN1VPRlpBR2NVZ0EybHpzQQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
   },
   {
    "title": "חדשות 04 - 10 מיליארד אירו לאולמות: ה-NBA בדרך לאירופה",
