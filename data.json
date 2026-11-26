@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:09+00:00",
+ "updated": "2026-11-26T09:24+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -263,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 9
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -273,6 +273,18 @@
   }
  ],
  "items": [
+  {
+   "title": "איילה חסון עברה לערוץ 14 - ובבכורה שלה ניצחה את \"שבע עם קרן\" עם 9%",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43X1hwVVFSRlpVRzhWNWFhRGdnRmlMMnRQSUk4Zm52aHZ2R196OTlhcWZzMWRHdkY1OENQRjh3bjh3enU0ZzRTYlpRY25TcUVLN1NkTUx3S0twSl9mWC1SMUUzUUZkSGlEaGlwTGk2Ny1jRG9RRTJFbnYyZXhaR00?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-11-26",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "דו\"חות דמרי: ירידה במספר הדירות שנמכרו, ותזרים שלילי של חצי מיליארד ש'",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2N6WHNFYWc2dE5VMlBOR1d5V2pYdjFJMzRRZmxRQnFBWG52WlZsMm9XR1VrSVFUM09pZVE1a0pfTFEzRkh6X1lFbXF3c01Xb1FTSDl0S3NnUTBtR05BcU0wVGdmeFFNMk5odmRET2pURWpHMHlfWFp1SmsyNjhiZmU0MHdhY1dFb3RxQzFEd3ZrSGd0VDlwaTJMbXBqZUc5ajlB?oc=5",
@@ -352,6 +364,26 @@
    ],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "חדשות 04 - יעקב אשר לרה״מ: נסיר את ההתנגדות למינוי סמוטריץ׳ לשר השיכון בתמורה ל״אופק חדש״",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uWkF2Q21XdVlxOWpPTTlOeC1uRW9VX0VDeHJMTEZfS3ExODVOUWliM1doRkdOWmZyVWZPdWdiaHhVbVRzUklkeXRn?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
+  {
+   "title": "חדשות 04 - איחוד האמירויות הצטרפה למאבק באנטישמיות באו\"ם - דנון: \"תם עידן ההצהרות, הגיעה העת לפעול\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TYmxvVDRXTlh3eGxnWDZTSDUxMEJBMDhMbXpoM3R5UEJLZVR6SXRBMGp6YVlfUWUzaGExeUtmTUw1b2lDZ25rZFFn?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
   },
   {
    "title": "Opinion | Not Netanyahu's judges, Netanyahu's lackeys",
