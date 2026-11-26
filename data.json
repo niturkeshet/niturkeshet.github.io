@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:22+00:00",
+ "updated": "2026-11-26T06:37+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,8 +170,9 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -190,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -226,7 +227,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -262,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -272,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ניצחון לגוש השינוי: החוק מהכנסת הקודמת בוטל בקריאה ראשונה",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iVDJXcmVyMVRZQVNtbjZESjV4bWk0cGJyZGI4SXMta2JRWW8xMUVlWmRlY24yYzNGZ1NaenJwLWpPSndoZ2RWbi1xNlhVMXFNSW9uOU9aNWdTeVpWQS1GdEpjWDhVQVFyS0d4MlFob2FBQdIBekFVX3lxTE1hRFVnVU83cmJ4am5jUEtWaW13cElXSVd1d3NucXZBZXBsZmtkTVNubGN0OW1FOE1FSWRub3RncV9lXzdMbVEtdTFuNDVzcE9aYnVqQ2lXOW1UcDhBUUhYZUwzTGFEb0RXbmNuakNITUZMcV9IV2Z5NzlR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיפה"
+  },
   {
    "title": "\"אחד מרגעי השפל של הכנסת\": ביטול חוק התקשורת אושר בקריאה ראשונה",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vUmczYy0tMTlnY3hQazBYRFRvdC14TEtSU1ZYUnVfdVJoZ1NqWW44UVFEOEpFT2hfNGtRamJhUWtxUjBkbGFrVmItYUVUOXMwYXdJRFRrSEZsUkpXdUdqQWYtdmZRelppMUE?oc=5",
