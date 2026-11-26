@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:08+00:00",
+ "updated": "2026-11-26T08:23+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "דו\"חות דמרי: ירידה במספר הדירות שנמכרו, ותזרים שלילי של חצי מיליארד ש'",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2N6WHNFYWc2dE5VMlBOR1d5V2pYdjFJMzRRZmxRQnFBWG52WlZsMm9XR1VrSVFUM09pZVE1a0pfTFEzRkh6X1lFbXF3c01Xb1FTSDl0S3NnUTBtR05BcU0wVGdmeFFNMk5odmRET2pURWpHMHlfWFp1SmsyNjhiZmU0MHdhY1dFb3RxQzFEd3ZrSGd0VDlwaTJMbXBqZUc5ajlB?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "ניצחון לגוש השינוי: החוק מהכנסת הקודמת בוטל בקריאה ראשונה",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iVDJXcmVyMVRZQVNtbjZESjV4bWk0cGJyZGI4SXMta2JRWW8xMUVlWmRlY24yYzNGZ1NaenJwLWpPSndoZ2RWbi1xNlhVMXFNSW9uOU9aNWdTeVpWQS1GdEpjWDhVQVFyS0d4MlFob2FBQdIBekFVX3lxTE1hRFVnVU83cmJ4am5jUEtWaW13cElXSVd1d3NucXZBZXBsZmtkTVNubGN0OW1FOE1FSWRub3RncV9lXzdMbVEtdTFuNDVzcE9aYnVqQ2lXOW1UcDhBUUhYZUwzTGFEb0RXbmNuakNITUZMcV9IV2Z5NzlR?oc=5",
