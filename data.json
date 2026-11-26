@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:36+00:00",
+ "updated": "2026-11-26T05:51+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -273,6 +273,30 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אחד מרגעי השפל של הכנסת\": ביטול חוק התקשורת אושר בקריאה ראשונה",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vUmczYy0tMTlnY3hQazBYRFRvdC14TEtSU1ZYUnVfdVJoZ1NqWW44UVFEOEpFT2hfNGtRamJhUWtxUjBkbGFrVmItYUVUOXMwYXdJRFRrSEZsUkpXdUdqQWYtdmZRelppMUE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
+  {
+   "title": "מליאת הכנסת אישרה בקריאה ראשונה את ביטול חוק התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01V3dZRmJJQk1aYnc2bXM5c09Ld2stUmhDQk9xVjBtYkVDc212eV9FX2pxbzlQRjQ0d0x3QXdsYm16VjBaSmVZ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "אתר החדשות דבר"
+  },
   {
    "title": "הכנסת אישרה בקריאה ראשונה את ביטול רפורמת התקשורת של קרעי",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MWDBXNy1FMlF4LU04Qmh2ODh2a2tWRjZ3aV9HSjJNY20xUEF0VjhVeWhqS3lrNUpnSEY5OHhHU1hpalJkV1RaYThIaFFTQQ?oc=5",
