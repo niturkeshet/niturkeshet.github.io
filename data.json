@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:43+00:00",
+ "updated": "2026-11-26T16:59+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -272,6 +273,26 @@
   }
  ],
  "items": [
+  {
+   "title": "קיצוצים, עצירת הפקות וחיפוש אחר משקיע: מה קורה בערוץ 16?",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRmg1aW16Z3pmNGtrWkE0Nlh1aFhZbVdwQWhYZ2JZV0liNEhhSmFpV2otV2ZEdmF4ZWc3ajdEbFEyVFl0UVdUNkphWVBYSEt6SER0U1FoRFh2WFl3Y2F6d2lrZVlmWWFPSjJHb1hLdTBVbWphRkxCYWFzVmRhTkxfdEpEYXl0YzhheVlvenFHel81bTk5RU8xbnlZXzJvUElfSTRZS2xtOTdxMG8?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "המהלך של גוש איזנקוט: 4 חוקים על הכוונת - משופטים ועד מח\"ש",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xM29aZ2RkM3AwT3gwZ1NQZUt4Tjhoc2NSUFhEYUloMzBYZExXamFHd25CY3lrM3ZBdHFpRWU4MjJXY1g1c09pZXBYSnRvbHhMeHFxbzhabWNHTWROUTRyTmEyZ3g?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "In Israel, the Change Bloc has begun repealing Netanyahu-era laws in the Knesset.",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONUswNnMtaS1NaGpCNkwzdW9ZS1pPanhqXzZMRWo2eUhfdTBsaWtfTm80cXpseTJMcHduN0cxSVZ6WnFrdkNXVk8wOWU0NzZoU3Q1U2xhM0lnNFB1UkhhdG5wb3hCems3RlgxczQ0U0xxY19xUEhIRWFtb3h4RUUtVllZNA?oc=5",
