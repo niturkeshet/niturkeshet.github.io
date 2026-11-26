@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:17+00:00",
+ "updated": "2026-11-26T22:32+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "חדשות 04 - עשרות מפגינים ברחוב בר אילן בירושלים במחאה על מעצרי עריקים | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2YVJzekFWTDZtLXFqTXVoRk1DWVY1dUx6dW1tbDRKMm9XVjdMN0Z2RjdyZlhIRHJ6bE5yenBRQ3FkWFN2c01HSjV3?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "חדשות 04 - מיקי זוהר בקריאה לנתניהו: ״אני קורא לראש הממשלה לא להסכים להצעה שהוא לא ראשון ברוטציה״",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2Mk9Sa2UwVm1qakVzVFhrTmJ5VDhROTMyeHFIbk5oLThYV2RJei1mR0hjZFhJdElEUHBrWGpaNThGaVFqYzFBc0pR?oc=5",
