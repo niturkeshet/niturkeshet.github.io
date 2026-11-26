@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:28+00:00",
+ "updated": "2026-11-26T15:43+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -209,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -245,13 +245,14 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ice · תקשורת",
@@ -273,6 +274,16 @@
   }
  ],
  "items": [
+  {
+   "title": "In Israel, the Change Bloc has begun repealing Netanyahu-era laws in the Knesset.",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONUswNnMtaS1NaGpCNkwzdW9ZS1pPanhqXzZMRWo2eUhfdTBsaWtfTm80cXpseTJMcHduN0cxSVZ6WnFrdkNXVk8wOWU0NzZoU3Q1U2xhM0lnNFB1UkhhdG5wb3hCems3RlgxczQ0U0xxY19xUEhIRWFtb3h4RUUtVllZNA?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haberler.com"
+  },
   {
    "title": "רייטינג: איילה חסון וערוץ 14 גוברים על קרן מרציאנו וקשת 12",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PS21kMHRieGdyLWdfb0RBNWx6dWs4bkttWGxDZFA1OFQwRnBJenV5U19NX09obTc2MWFlVlcxS1Bld1ZVSzZvVVR6WE5aeXFpeUFRZmlIS0stajFYaHpMRS1n?oc=5",
