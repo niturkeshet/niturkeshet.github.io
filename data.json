@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:42+00:00",
+ "updated": "2026-11-26T13:57+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -190,9 +190,8 @@
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -210,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -269,12 +268,24 @@
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "אסף רפפורט ורשת 13 במינוי נוסף: זה העורך הראשי החדש במחלקת הדיגיטל",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ybDdINEhzQlVUa2VoUHhUcm1zS0dEX1ZYVlFsczktbkpXNnNnRHJqVl9abmtTMHhGTEN4VXo2eTNUMG01QTNTdFg1NlN2WmZ1aTY5ZS01TjFYUWpn?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-26",
+   "keywords": [
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "Netanyahu’s allies call to end corruption trial, opposition in stunned silence after court recommends dropping most charges",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUxkZmhxSXRTeFZkVDhvcW5DSjJCckpLVnE3NlYxUTIySkVLZjV3aDVVZEhXLUdlaGwwUldYZGUyNnFmeUVHU2dnVE1aRGpMN19odEZmeDh4ZndYRFBRQ1ZNUDUtZjRyYWlqMnVxOWQ3Q1RURVFwdFlMSlVoZDE5c1BmSURkVl9UeFBzQUpqQUp6VFdxSlJPTGEzQTdKZW5pQlpRRGNZRFg2TktMaHhhdzlKSUhuOUE2NWhHYnVlQkw3Q25TNUdjbWI5WmFjaU1GY294VnROLVNTZw?oc=5",
@@ -501,6 +512,16 @@
    ],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "חדשות 04 - פעוט בן שנתיים נפצע קשה לאחר שככל הנראה נפל מגובה במעלה אדומים",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CNldXc1ZrMENBdWFJUURvelNab0tZWVdhNDRQbW9ydlhMQ3k0bklISU9FMkVkUVY5OHlmbGRPYm9rOFd1NXRGLW5R?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
   },
   {
    "title": "Knesset advances bills to form Oct. 7 state commission of inquiry, establish PM term limits",
