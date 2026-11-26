@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:26+00:00",
+ "updated": "2026-11-26T13:42+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -190,8 +190,9 @@
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,11 +269,22 @@
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   }
  ],
  "items": [
+  {
+   "title": "Netanyahu’s allies call to end corruption trial, opposition in stunned silence after court recommends dropping most charges",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUxkZmhxSXRTeFZkVDhvcW5DSjJCckpLVnE3NlYxUTIySkVLZjV3aDVVZEhXLUdlaGwwUldYZGUyNnFmeUVHU2dnVE1aRGpMN19odEZmeDh4ZndYRFBRQ1ZNUDUtZjRyYWlqMnVxOWQ3Q1RURVFwdFlMSlVoZDE5c1BmSURkVl9UeFBzQUpqQUp6VFdxSlJPTGEzQTdKZW5pQlpRRGNZRFg2TktMaHhhdzlKSUhuOUE2NWhHYnVlQkw3Q25TNUdjbWI5WmFjaU1GY294VnROLVNTZw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "All Israel News"
+  },
   {
    "title": "נרקיס עדיין כאן: ניר הוד זנח את הפורטרטים אבל לא את היקסמותו מיופי, קיטש ומוות",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTc2Qk5tLTRmY1Q0WE90bFVURl9tYjNTTUhuVTA1Q1BoYUR6aGN1cmx0elE0UExpSm0wUzVZbzBuU05FWUhySWhfX1pJaU80U2gtVVZoeGs2eXV6N1ZvSmRJSW5WMGl6R09KdlYxUU9XMm81Y2NHRFNRQVZTblAxeHNXVDU0TW9fNzNPR2pFWGdMZ2lRY0J3aW9mTklackVOVFQ2b3VyTHFrRmdMbVNHaU5RYnp4Y1J5Ymc5T0pMUXlqQQ?oc=5",
