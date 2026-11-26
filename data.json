@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:40+00:00",
+ "updated": "2026-11-26T11:55+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "חדשות 04 - מזג האוויר: סוף שבוע חמים לפני מערכת גשם משמעותית | התחזית המלאה",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0ybkV4VTB6Z2tDVFZxN2VrVTNqcmQwTi1aWHBNazk5UmNndjl6dXA1QUwxZE5VdnlSNU1IZzdvVkhrMEhXU2lCbGNB?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "צעד נוסף לביטול הצעת חוק התקשורת - קרעי: \"מסע נקמה פוליטי\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CcFBMMkRDRTU5V0RWajlWQW1YOWxIMUFmZktHc0RaMndaMXlEMDVObGxkNjg2Z0xJWS1MQl8zQ0liMHk3Znc4X1ZuUVNnZlJ6VHhSVWJUNEpqSHla?oc=5",
