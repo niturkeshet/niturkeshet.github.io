@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:48+00:00",
+ "updated": "2026-11-26T01:03+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -190,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -226,7 +227,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -244,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -262,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -272,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "חיכינו 1,145 ימים לתחילת התיקון - אתמול התבצע הצעד הראשון",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XWVk4R0J2eWE0X1B5bXRVdW5YQkR1Y1k0bGFpUzZoVmNCSEo4bmxNSll2YmFETG5EbDRMZnVtSm9KMW83SzVLcXFaQ0FfLUt1UkRmZzdOd3Z1NDJKQ2JsMzhYSkdsWmZl?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "\"זו תנועה פוליטית, אבל לא מפלגה\": האישים שדוחפים לממשלת אחדות",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FNkxHUkR1aWE3LWp4N0NaRl96VHFETGJ2M2duVFZpS3VDcWpablJrVmMzN3dtc1RDMVp3ZGtlamQzNGJhNFpoTmZkSlk0a0pkdVc5aF9BemRPakxDc2dwR2pYSTZaWXoydkE?oc=5",
