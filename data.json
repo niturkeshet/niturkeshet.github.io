@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:38+00:00",
+ "updated": "2026-11-26T08:53+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,9 +170,8 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -227,7 +226,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -965,6 +964,20 @@
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
+  },
+  {
+   "title": "רייטינג: אסף רפפורט ורשת 13 בשפל עונתי, אופירה אסייג בפסגה",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UU1U4SFc3YTF0blR3UElLTUM3TXFmOE9wOXRhcnowQzBzT0VxRmM0TVFMck5ZclFzOEppUUFiV29KX1R6U3VGVTZiZ1RBb0d0VHNQZHZKcExwWjdyWUUyUDJ3?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-24",
+   "keywords": [
+    "רייטינג",
+    "רפפורט",
+    "רשת 13"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "ינון מגל צריך לחשוש? הרייטינג שהשיגה איילה חסון בהופעת הבכורה",
