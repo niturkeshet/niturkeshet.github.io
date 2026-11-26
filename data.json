@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:48+00:00",
+ "updated": "2026-11-26T00:03+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -209,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -263,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Knesset advances bill repealing Karhi’s controversial broadcasting law",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjY1UWNfMVhkeFpDeDNyMGFzRGwxanlFNjkwWlNhQTdSY2hUdksxVHlfbWozOU45WjNiMnRQUXd3cWZjM0ZCM29QbjVGSE92Q2t1SFBmekpqUXNjcS1JTWtxRk5PWUt1VEFueXBKTEFCQ3JLdzNhSEdWQ29RY19vR0twRWIySlRwMWRpS19IeDRnN2VTdy1UNXZCd3V4cm9Ba1NGX3ZMUUF6US01Mmt4bFowUHItZw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "מליאת הכנסת אישרה בקריאה ראשונה את ביטול חוק ההשתלטות על התקשורת",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkwzMEQ0SFJLelJmNlZQdXdBNkJsckNDZS1Db1EtcGl2VTNUT01ZamowMEtWYkRJamdSSWxCRTJTNTFhdkpWU1lWVE42cUlUVlFMV2dMZ1hQR3ZpeDRSMWFzYjhWRUNQWmg0X05CMXp4ZGpSR2tWbjRMWEtaOExnT0xLQnBhTzlnNXA1VHN3OTA2bmpiVHVwUVdwZjY3RGx3?oc=5",
@@ -847,252 +857,6 @@
    "publisher": "הארץ"
   },
   {
-   "title": "הארי ומייגן חזרו לבריטניה: הזעם של המלך ויורש העצר…",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84SzlETW1QbHBkaHlORU5lRjlQUGc4UlFkYmIxQTJqTkVrY0JITUJFUXpxbjR5WEhmRk5KcTA2dUFxZndRNHp3dlhkNHhTU0I1VWc?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כיכר השבת"
-  },
-  {
-   "title": "\"הלביאה שבי יצאה\": שורדת הנובה התנפלה על הפורץ שחדר לביתה |…",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HZF9wY0VlbEFCam1PeElvSzdDZ0lnT1phaWJDMDYtZ3BtU1JQSGVPLVg4T0pRTWFIdXFpcjh5R0xUTFk5TFNPcXJGVll6UGNoX0E?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כיכר השבת"
-  },
-  {
-   "title": "חוק התקשורת של קרעי אושר סופית בכנסת",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oaUlub3lWTXNLeXN5aHp2blpQNzlIV3dvSnQ4Si1VQVdleXZpVHRLS3Z0R1R4TjZFOUE3R2ZjU0ZBOF80RG5zRkdFSE1adUgxb1gwSkNMZHg2cXZIREtaV09SaUEzUWtlOEE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "חדשות 04 - קרעי נגד היועמ\"שית של הכנסת: \"מנהלת אכיפה בררנית כדי לקבור את רפורמת התקשורת\"",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BVTN6Tlk4bXRMcXppcEwxSlZXTldCRHN3cFVCVmRKMDNoRlM3bXJPSFIycFloVE9uQlNVSkFNcm1lcjhBT1ZMV3dn?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [
-    "רפורמת התקשורת"
-   ],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "Likud MK warns haredi parties against joining Gadi Eisenkot gov't, says will be used",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pTVFPZERKZVpiYUdLTThMcVc0MXZJMlhoUEljanU4a1RDcEd4RENDc2dRNU1BQkVONzluYzhmQzl3SWstZElWaFJsNHNERG1Ddk9CRmU4dnZIVnRwZU5TZ3lOel9GSVdudmVNbko0UTJneDdUcUcwcDBjUQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Jerusalem Post"
-  },
-  {
-   "title": "החוק הראשון של האופוזיציה: ביטול רפורמת השידורים יעלה להצבעה, קרעי יוצא למאבק",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPZHdEOGRpXzdCN2VMcHE1T0VYblN3bDNHZnF4NFFjbFlXVDJ5bGlOWkwwZW4tNGEyLWdyaFlGYnpGX19FX2FwZg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ערוץ 7"
-  },
-  {
-   "title": "קרעי במתקפה חזיתית נגד יועמ\"שית הכנסת: \"עמדה פוליטית\"",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBrUFNLMGZQdVpqa2lKRDJQbDlPZ3N4SUZna0xwc3VJanp0Mld1UzdyQUJhTW1DTk96bUhiSmhZeTZjM3M?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "המחדש"
-  },
-  {
-   "title": "קרעי במתקפה חריפה על יועמ\"שית הכנסת: \"הולכת בדרכה של מיארה\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZMldvUFM5SUNLLVZ2ZWdsdnpiV2p0Tkl3Mnc4SmdiVW9uSWxLRzZ5ZnFQWEM2dlBQeFdzRUlLa2xLc2IxcEE4b3BxeUlQUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "חדשות 04 - קרעי על חיסול בכיר חמאס: \"איזה חיסולים עוד יאשרו לאיזנקוט, גולן ומועצת השורא?\"",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPZEk1SFhJNkJGZVdpMGdaR21keUh4QUlER3JMOGU3TmJjTE9OUG45Qkd3Zk0zemlpSkxQQTJ2dVRZZWxsOFZsUUhB?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "קרעי על חיסול בכיר חמאס: \"איזה חיסולים עוד יאשרו לאיזנקוט?\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zUUd2YnRzc1NjTXQ3QkEzSV9pakNQaTc5UlVOYVJSckctUzF3YV8yZG9jYklOcldTMU5VUlNKdHh6SkpBU2xvVkhHTmNOQQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "דלק ישראל בדרך להנפקה בשווי עד שני מיליארד שקל",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95Vk9qakRIaWZIbnljN2pIdF9US1p6WGZGbk9JSWQzQnlyNHpNNTgxMXJ4U21pU2E4SGJXMzAwckRvYi15cG1WVjdOS3NzWHNGNkRzN3QzM1pqdThKR1dXajlR?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "News1 מחלקה ראשונה"
-  },
-  {
-   "title": "אבי לוי מכין את דלק ישראל להנפקה כבר בשבועות הקרובים",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNEVyd2QzYzg3alRnMkV6SUtfZ0VtZUZWVEVUc2ZlUW5hV2kxVG85ZkpKQlh2SDMwN05wTmEtOHllYXd6Y1g4eGJxVi1vNnZjS19yR3gtNVN1TU53UGQtVFlFbHJTWWU4UUZqUHF5TE8?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ביזפורטל"
-  },
-  {
-   "title": "לא מספיק לפתוח ערוצים: הבעיה האמיתית של התקשורת בישראל",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoZ0QwQTkyMnhEVDdZWFRPdEs1QXJiTjlFYXJPRGtsQWFYMzctdm1SeEpFQ1d6Sk5ycU9OeGNMQks2RW5UWlM1bnAxUTJFZw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "שלמה קרעי: החרדים מתנהגים כמו אישה מוכה, איזנקוט ישתמש בהם",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JOGJwOFAtRDBHQlYwa09iUF8xS1VNdDc2ZmpWNm1kclRCMVRnbkxSZUpsNTByWE9NUlhHMnoxVkhOQTJGN3BNcU1wbHRONkhYMy0zSTZiN2hwNWs?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [
-    "שלמה קרעי"
-   ],
-   "pv": true,
-   "publisher": "וואלה"
-  },
-  {
-   "title": "יום סוער בכנסת: הלומי קרב התעמתו עם ח\"כים, מילואימניקים זעקו: \"האלונקה כבר על הרצפה\"",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tR2RFSHpfN2hEbGNWd1RHVW1xd2F5ZDFRcndYeDZSM2QxOTBQb1NlNG1kUDN2RERtNXhKU1U0TDhqT085WW5uNE43aW5USXBIbXotS29LSm01NE0?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "וואלה"
-  },
-  {
-   "title": "Analysis • Netanyahu the negotiator proves he is no partner",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSmw5N1NyWTZvZXdRT1RrMExyMDNpVmMtcUpKZm0xb25SMzJZZk1IZ2JNVUtBT1dlclJ6OXhIRFlMTUM3TDR3Szl4d1haemZHNHNGMXJYdmFXVUNIZ1hzX2piX0o4c1ZlbTFPWldraGk3QmVfa1FUSi1CeWhJSWNDaVlGaTdHRFZxdDFXQVd1OUVRQlA2Yk10dnBPSGRKaEZCQWp2d2htWlpvRWYyeTlhVXhvOVBPSGl3Mll1aE0zZVJGSE0xWmlyYTBfSGItMGxfWlZEalFwVHJwLXpYVHJlTUYwR0dPVkYxNmhIa3B1eG1OTm9CMkNlRjhMTUM?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Haaretz"
-  },
-  {
-   "title": "בוסו תוקף: \"כשהחרדים ביקשו התנגדתם בתוקף\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OR0hqNGVqMFlFdzl0QzJBTUhhTHVYd1lWYnNUNXRQczFqeVZlYzRzZFdOVVR3RkNWQllhLUV4V19FTmNWYVJadGhmRFFIQQ?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "אמס"
-  },
-  {
-   "title": "Benjamin Netanyahu may yet be saved by the cowardice of his political opponents",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaDJNU09QRmdvTThWZWpTanZIaUxNRWpXdzE4SGxsS1BmVkVySjBhMHktVjl6VVBVVUV2VzhYbWV5Rll1RU5rT25pNnNNc2VvaE9xbEZFRmRpZjRUMS13NkdpUmR2RFZwZ09jSEx4Q0hSb0MtcUc1c3JWSG5MV1BIWS1xLUF0OExSQTliYnNSd3RPQnZ2MUdZWkpkUkF0MUxzdjF5LUo4d3FOTmVMb0ltb05RMNIBswFBVV95cUxOaDJNU09QRmdvTThWZWpTanZIaUxNRWpXdzE4SGxsS1BmVkVySjBhMHktVjl6VVBVVUV2VzhYbWV5Rll1RU5rT25pNnNNc2VvaE9xbEZFRmRpZjRUMS13NkdpUmR2RFZwZ09jSEx4Q0hSb0MtcUc1c3JWSG5MV1BIWS1xLUF0OExSQTliYnNSd3RPQnZ2MUdZWkpkUkF0MUxzdjF5LUo4d3FOTmVMb0ltb05RMA?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Jewish News"
-  },
-  {
-   "title": "\"הייתי נשוי למיס יוניברס\": גרושתו של אבי שושן נחשפת",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRVkhSNFFVMHpRQVZxYTZSVGw2RUhTZktjZDhyZXVUSXJMYXl5RktTZDJ3b3FkSUtiZVh6NVA2SmdCWlBzZm44RjJfOGhzQm1JTTdPTV91MTVRNi1iWjdQQThUUUloQ3R1?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "תוך כדי מו\"מ, נתניהו מראה מדוע אסור לראות בו שותף לאחדות",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM2RLZ2I5QXJYQ0gzNHFPOVlhaXZ2c0ItWmtkNGlsYVhxNWctQVpYendlM0ZFeW1abGNjMklFamRHcGRwN2p2S3RWTEg4WmpTTF9GN1RLRUJuUm0tTURNN3hudG9Wc0JoVm9MTWxCQWpINnRzRzZYTFgwX0VFY080MnhVX0pFaHNrVkVqMkM4ODFzQ29oeWs3TGhsNE0zZnlWWXFLeUlvd1NjTUgwemxJ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "נתניהו מושך זמן לסבב נוסף ובונה על בקרת נזקים מבית הנשיא",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1ZREtBcXhzS1hPU3E5V2dUQmZLQjE3N0xtOHFRYTJzRjQ3SmFtR1BoM09IRENRQ1FFZ2RiaU5Fbjl6bUg1?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "מועמד יחיד: יוסף אלרון צפוי להיבחר למבקר המדינה הבא",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QM2gxNDF6OEgzMDhrRWNGcy16TFk1NkRQdlNKbnNyTm1md09SNEZtMkpqSllaX3Y0WUgxTnZtdm1ZZDFmNWszXzVFeFVyaHdmT0N0bEs5WHRlaFpuMlFUcFExR2ZuUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "נסללה הדרך למינוי אלרון: גוש נתניהו לא יציג מועמדים נוספים למבקר המדינה",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRnRURldnTWV5N0FRSXpsM1phMnJ6d3ktQlVkNjVMdFBrWmRYUHZ1M3FSaV9CNDFzNGJSSWp5Z3k1bnVlWmt4OFA4aTBVMy01TUZ0QVVkcGRwZw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "צפו: ח\"כ איתן גינזבורג מרעננה עושה בי\"ס לשר קרעי",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPLVJFemJsckdCeTRoQS1hQllTZkJfUUlhQ2ZzNGxiSDNCQURZSlotbkhRYTlEU3VMTzEzbmZZWXY5Y0ZveFZkRVRvSVRGdDhTZ0tZVTA3RC10cEZ3ZmUwSlJKN0lSdTNIVkhlQXgyMVFGczdlUEFuSHZtb1phZjdWbTBtY2preE9Ta2wzMWdYcE9rdEJDbzNOcXRmWFF4RW9ZV1dfT2xnRUxZZUdKTWpaR0E3LTZaVEVMYUdJYzR2bWZKdmZBZXhMd2VaMmxzQzdCcFp1TVpuU2IzQ2FIN0RXUlJDRDQwdlRZb1V3VkE4eFpHWF9WYV92ekJpX0xMS1NOZHdRNjRRSWdOdG40TTJvejNQOVZIYmI1WVFEM3BGQVpCWEp3?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "שרון אונליין"
-  },
-  {
    "title": "המסכה ברחה להישרדות: 15.1% מול 9.6% - ובחדשות ערוץ 14 עקף את רשת 13",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oWDd6YjhlaUw2N1hFRHRWZm9PQlNLSEZqOUp4cnJldjlYRk8xb0JmRGJHWW94OW5DeWtTb1BZY0NmWGd3Ty1FbXBQS3dKUWZWTThOc19oQV8wbGphaU9qdnQ2cEdka3czWF9RRTIzUWY2cXRpZ2hYR0ZHRkJLTG8?oc=5",
    "source": "ביזפורטל",
@@ -1104,16 +868,6 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
-  },
-  {
-   "title": "הכנסת אישרה הקמתן של ועדות נוספות ותמשיך לדון היום בביטול חוקי ההפיכה",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHJIbE9RQTdJOUQtdlNoWkh4WGJiS2dYZUxOWWRWSkxPM2RNTU1DckNXNGlvcHdUeHplc1lTWWVfYmxEcHZqbXIxRFhWZ3A4Vmg3V3hEX3lGWGVkOUJ1T2NNcFl1NFQyQ0E4d05SRmZySXhtRFFMRjd2Y3gzdFpXZ1lJVDVsWGwwVHQyamJPRlVJWVFtcUp0cEtxVWpEdzBT?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-24",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
   },
   {
    "title": "איילה חסון בווידוי אחרי המעבר לערוץ 14: \"נפל לי הלב\"",
