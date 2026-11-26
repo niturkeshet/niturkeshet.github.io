@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:41+00:00",
+ "updated": "2026-11-26T12:56+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,9 +170,8 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -191,7 +190,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -273,6 +272,26 @@
   }
  ],
  "items": [
+  {
+   "title": "חדשות 04 - חשד לפגע וברח במעלה אדומים: נהג עוכב לחקירה בעקבות מותו של פעוט בן שנתיים",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1VlRZQ0I1RGFGMjRMWi1pTXZid1ZYWTJMN09WWjN6UDdxc09Bc01OY0dqdDFHTV8ya3ZjUlAwQ0wtSlJ1Z0ZzeDJB?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
+  {
+   "title": "חדשות 04 - ״יש לנו עניין לא גמור״: אולי בירמן נשאר בהאס",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RemVQUEZLOXUxSFpkVXR4aExPRlBRazZkWHpsdElwNjdqckFaZ0VWX1hveVhBeXhmMU10OEdyX1VHV3UtOWxzajJB?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "חדשות 04 - מזג האוויר: סוף שבוע חמים לפני מערכת גשם משמעותית | התחזית המלאה",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0ybkV4VTB6Z2tDVFZxN2VrVTNqcmQwTi1aWHBNazk5UmNndjl6dXA1QUwxZE5VdnlSNU1IZzdvVkhrMEhXU2lCbGNB?oc=5",
