@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:11+00:00",
+ "updated": "2026-11-26T13:26+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נרקיס עדיין כאן: ניר הוד זנח את הפורטרטים אבל לא את היקסמותו מיופי, קיטש ומוות",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTc2Qk5tLTRmY1Q0WE90bFVURl9tYjNTTUhuVTA1Q1BoYUR6aGN1cmx0elE0UExpSm0wUzVZbzBuU05FWUhySWhfX1pJaU80U2gtVVZoeGs2eXV6N1ZvSmRJSW5WMGl6R09KdlYxUU9XMm81Y2NHRFNRQVZTblAxeHNXVDU0TW9fNzNPR2pFWGdMZ2lRY0J3aW9mTklackVOVFQ2b3VyTHFrRmdMbVNHaU5RYnp4Y1J5Ymc5T0pMUXlqQQ?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "לא רק איילה חסון: 9 טאלנטים שעברו לערוץ המתחרה, ואיך זה נגמר",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DWF9DdGJwTUpxVTNlVUE1dzctUXc1dEU4QmFOa09JdE02M1hSODZoYmZGVEJRTF93akdDTmxJTDktcFZHY0JjZHhhVVpWdk8teHRMb19aSlFmTnhvbG1Bd3l5Qy1RTE01YnBSTWdzVnNkeFU?oc=5",
