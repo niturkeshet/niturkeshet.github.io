@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:42+00:00",
+ "updated": "2026-11-26T14:57+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -522,6 +522,16 @@
    ],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "\"להרוג את כל היהודים\": גבר בעט בנערה חרדית בלונדון ונעצר | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EZ180SVBSNlBXakZvZWdib3dpN2NtY0FKRHFfLTlvcDd2clVtbUdiSTNLQ002YW4zZDlrdXpwaWZtV0ptUUp0VEdR?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
   },
   {
    "title": "חדשות 04 - רה\"מ נתניהו יקיים הערב הצהרה לתקשורת בשעה 18:00",
