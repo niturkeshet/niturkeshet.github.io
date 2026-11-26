@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:14+00:00",
+ "updated": "2026-11-26T17:29+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "חדשות 04 - מחבל מהגליל נעצר בחשד שתכנן לרצוח איש כוחות הביטחון ולבצע פיגוע נגד חיילי צה\"ל | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE01ZGJ3dVBGS3haajZOWVNlS0tyUkFneDJZVE1YMGNIa3ZwR0trYjZWZlFQUFhqdlR3Wms5cFUzYzFYX2lQS0tVNnl3?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "בדרך הנכונה",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVkJNbm5adGJ2MW8xX213XzZySjF3NW9ETFpDVWJRQlJVZzZxeWNTVEhhbG1fLVBCTVNudjZRdTlOR0dzZGxRTVFxU295eERFZWhkc05lLWNTU0VIcDMyWkp3MEI0YlRzT29IXzY3dExveERBaWhXVXpudE1RNllsOXdoT2pVNU5GZGgwTVNZZlhIVi00bnJLQlhKYVc3V2I5SmlfV25CVThoT0N0dlM2eTRpOA?oc=5",
