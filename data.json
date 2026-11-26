@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:21+00:00",
+ "updated": "2026-11-26T05:36+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -263,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -308,6 +308,16 @@
    ],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "Opinion | Not Netanyahu's judges, Netanyahu's lackeys",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY3hibFJjdmpfejYtdmM4TTBTT3NXTFI1bmpZVlhSY1VlQVFEVk1XRVQ2aTFqQ2k0ZTFZMldSN2IyWlhadERMNHp5UWhOYWg4Ml9yWDFTcElKZWNFT0Y3YVVRRF9vUDRZd1Z4NUl0TTVSWVZ5UWtXYU1yQzdDM2JBVGlqYVNGaC04dm51b1BBUndabjBEV2t2UVpIYlh5VnhVYkg2X2RwekIzWmJ3VHFycjNtdHFxbDdQeUxaaUlnWUNnWFVHcjN3elhfX1Axbi03S0U0RFhvMHBFUlZSRUthaGt3?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Haaretz"
   },
   {
    "title": "חיכינו 1,145 ימים לתחילת התיקון",
