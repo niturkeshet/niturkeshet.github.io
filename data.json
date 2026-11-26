@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:59+00:00",
+ "updated": "2026-11-26T17:14+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -274,6 +274,26 @@
  ],
  "items": [
   {
+   "title": "בדרך הנכונה",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVkJNbm5adGJ2MW8xX213XzZySjF3NW9ETFpDVWJRQlJVZzZxeWNTVEhhbG1fLVBCTVNudjZRdTlOR0dzZGxRTVFxU295eERFZWhkc05lLWNTU0VIcDMyWkp3MEI0YlRzT29IXzY3dExveERBaWhXVXpudE1RNllsOXdoT2pVNU5GZGgwTVNZZlhIVi00bnJLQlhKYVc3V2I5SmlfV25CVThoT0N0dlM2eTRpOA?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מודיעין ניוז"
+  },
+  {
+   "title": "חדשות 04 - ראש ארגון הפשע ערן חייא הוסגר לישראל ונחת הבוקר בנתב\"ג | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DUGRyUVRGSF9pNkhDbktOY2xJTXJxVUh3Uk5lWXhGSjExYk5QbUtPVnhEVEZxUzNiSUJoWEhLalBFd3ZlX0M1VUVR?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
+  {
    "title": "קיצוצים, עצירת הפקות וחיפוש אחר משקיע: מה קורה בערוץ 16?",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRmg1aW16Z3pmNGtrWkE0Nlh1aFhZbVdwQWhYZ2JZV0liNEhhSmFpV2otV2ZEdmF4ZWc3ajdEbFEyVFl0UVdUNkphWVBYSEt6SER0U1FoRFh2WFl3Y2F6d2lrZVlmWWFPSjJHb1hLdTBVbWphRkxCYWFzVmRhTkxfdEpEYXl0YzhheVlvenFHel81bTk5RU8xbnlZXzJvUElfSTRZS2xtOTdxMG8?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -284,7 +304,7 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "המהלך של גוש איזנקוט: 4 חוקים על הכוונת - משופטים ועד מח\"ש",
+   "title": "המהלך של גוש איזנקוט: 4 חוקים על הכוונת",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xM29aZ2RkM3AwT3gwZ1NQZUt4Tjhoc2NSUFhEYUloMzBYZExXamFHd25CY3lrM3ZBdHFpRWU4MjJXY1g1c09pZXBYSnRvbHhMeHFxbzhabWNHTWROUTRyTmEyZ3g?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
