@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:32+00:00",
+ "updated": "2026-11-26T23:48+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -190,7 +190,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -208,7 +208,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -272,6 +272,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Gadi Eisenkot bloc moves to cancel Benjamin Netanyahu coalition laws before they take effect",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmeHVsWm12SnpTUlFBTVQtSGVRanRpLXRCQjk2QW43NmJ6b2Y3dUFOSXNLSjJsa0ZaVi01VVRtVnBKMnJtSGxkc3hsMmpLY1RDbE9odnVUY3RsaWtfTHpnQTJzWmVuN29tOTVxMHlCZXpSRlZUZmpTTFdZcw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
   {
    "title": "חדשות 04 - עשרות מפגינים ברחוב בר אילן בירושלים במחאה על מעצרי עריקים | צפו",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2YVJzekFWTDZtLXFqTXVoRk1DWVY1dUx6dW1tbDRKMm9XVjdMN0Z2RjdyZlhIRHJ6bE5yenBRQ3FkWFN2c01HSjV3?oc=5",
