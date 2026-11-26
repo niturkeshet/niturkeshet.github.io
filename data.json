@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:39+00:00",
+ "updated": "2026-11-26T09:54+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,9 +163,8 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -245,7 +244,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -273,6 +272,16 @@
   }
  ],
  "items": [
+  {
+   "title": "צפו: המחווה של השר קרעי לחניכות תנועת אריאל",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HNFplQWVhR3RBbXNET0w1U2ZqSDB3MmUteGJ0eVMzMUljaDR5OWhLSjFRU0h2RmpNQTNwWlNkZmJaUXVLQm82Rg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "איילה חסון עברה לערוץ 14 - ובבכורה שלה ניצחה את \"שבע עם קרן\" עם 9%",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43X1hwVVFSRlpVRzhWNWFhRGdnRmlMMnRQSUk4Zm52aHZ2R196OTlhcWZzMWRHdkY1OENQRjh3bjh3enU0ZzRTYlpRY25TcUVLN1NkTUx3S0twSl9mWC1SMUUzUUZkSGlEaGlwTGk2Ny1jRG9RRTJFbnYyZXhaR00?oc=5",
@@ -364,6 +373,26 @@
    ],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "חדשות 04 - אושר בטרומית: הצעת החוק להקמת ועדת חקירה ממלכתית לטבח שבעה באוקטובר",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15YTFGUlh6ODZnZFBrVmk1cGhiY0RHY2JGV2ZpNUg5eVNfMnJ1MlMwM280OUl3UmlwZUhPSlRvZl85SFd2VkFfYjln?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
+  {
+   "title": "חדשות 04 - אחר כשעתיים: הסתיימה פגישת צוותי המשא ומתן של הליכוד וישר",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11azZmV3Fnbkg0Ui1oTURKcDFoVEx4R3ptSml0Z2lLcm5YTm55VTlWdERVel8yRS1rNHhwbEdCblhPcUkwVGFTb1N3?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
   },
   {
    "title": "חדשות 04 - בן גביר על משפט נתניהו: ״התיקים קורסים. עכשיו גם השופטים אומרים את זה בקולם״",
