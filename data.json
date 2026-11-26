@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:21+00:00",
+ "updated": "2026-11-26T04:36+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,13 +191,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -273,6 +273,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מליאת הכנסת אישרה בקריאה ראשונה את ביטול חוק השידורים של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3NidGt4WUJlQzZNYTUxNTZ5eVFqOTNheUNqRFRCOHd0S0dfNm8ycmRCenREWjVBTEtUNnRnekN3UWhCN1JKSWFwa2RZVmhFaEZDQVR5UUR0MlE1UVpKRG9md0ZfdlVaZVU0cThieXVpSExVTEZiZF9vMzFTd3R0YWdPZkdjanlvOXZsS3VLZmFxV2JUOERFNnEwVXZNS00?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "חיכינו 1,145 ימים לתחילת התיקון",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XWVk4R0J2eWE0X1B5bXRVdW5YQkR1Y1k0bGFpUzZoVmNCSEo4bmxNSll2YmFETG5EbDRMZnVtSm9KMW83SzVLcXFaQ0FfLUt1UkRmZzdOd3Z1NDJKQ2JsMzhYSkdsWmZl?oc=5",
