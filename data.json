@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:10+00:00",
+ "updated": "2026-11-26T11:25+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,9 +163,8 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -273,6 +272,18 @@
   }
  ],
  "items": [
+  {
+   "title": "צעד נוסף לביטול הצעת חוק התקשורת - קרעי: \"מסע נקמה פוליטי\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CcFBMMkRDRTU5V0RWajlWQW1YOWxIMUFmZktHc0RaMndaMXlEMDVObGxkNjg2Z0xJWS1MQl8zQ0liMHk3Znc4X1ZuUVNnZlJ6VHhSVWJUNEpqSHla?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-26",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "הוועדה המיוחדת תחל בשבוע הבא להכין את ביטול חוק השידורים",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCSktnUHhrWTNJRGJoc05oM3ZHalVHMGZhbXBRSUREc1JQcXNhbUozdFVHdkVXV0xmWElHcDZHSWFtelBvRzY5Z2sxLXBzVGtzRGRaVXFfOXM?oc=5",
@@ -429,6 +440,16 @@
    "publisher": "TheMarker"
   },
   {
+   "title": "חדשות 04 - קושנר בביקורת על אירופה: \"הם מבקשים מאיתנו הרבה, אך בנוגע לאיראן, הם בהחלט לא הרשימו\"",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GbGplaEpMMC14UGJlYzNPQ3BpTmpwQ2RTc05QeGo5aXh2cFo2SlRNT242WDVzbURUWDlHLXJ5UDgtOG1pWjdZVmxR?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
+  {
    "title": "חדשות 04 - דיווח: הסיווג הביטחוני של מנכ\"ל אנבידיה בתוקף למרות הטענות לקשר עם מרגלת",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBBM1pmb0RoRVoyUWhfelJRTTBYQXhjTzNHbE00cExCSVFaOWY5cEpucDFmZWNTaS1SaGg4cmVpNzZvaE9yUUNvaDRR?oc=5",
    "source": "חיפוש גוגל · מירב בן ארי",
@@ -439,7 +460,7 @@
    "publisher": "חדשות 04"
   },
   {
-   "title": "חדשות 04 - כ\"ץ לאחר חיסול בכיר חמאס: \"המדיניות בעזה חדה וברורה - חיסול כל ראשי הטרור\"",
+   "title": "חדשות 04 - כ\"ץ לאחר חיסול בכיר חמאס: \"המדיניות בעזה חדה וברורה",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55YUhIbmNxLVVxd0FBSlBVaEZuLWVPd2pKRXVZVXR6ekpXbkx6VzEzeGRETGltSDhFX05WMmNWdlo1Tjd0SDNCUVlB?oc=5",
    "source": "חיפוש גוגל · מירב בן ארי",
    "type": "google",
