@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:46+00:00",
+ "updated": "2026-11-26T22:02+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -238,8 +238,9 @@
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": true,
-   "kept": 3
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · מירב בן ארי",
@@ -250,8 +251,9 @@
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "ice · תקשורת",
