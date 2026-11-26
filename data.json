@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:03+00:00",
+ "updated": "2026-11-26T00:18+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -263,7 +263,7 @@
    "source": "ביזפורטל",
    "kind": "site",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"זו תנועה פוליטית, אבל לא מפלגה\": האישים שדוחפים לממשלת אחדות",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FNkxHUkR1aWE3LWp4N0NaRl96VHFETGJ2M2duVFZpS3VDcWpablJrVmMzN3dtc1RDMVp3ZGtlamQzNGJhNFpoTmZkSlk0a0pkdVc5aF9BemRPakxDc2dwR2pYSTZaWXoydkE?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-11-25",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "Knesset advances bill repealing Karhi’s controversial broadcasting law",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjY1UWNfMVhkeFpDeDNyMGFzRGwxanlFNjkwWlNhQTdSY2hUdksxVHlfbWozOU45WjNiMnRQUXd3cWZjM0ZCM29QbjVGSE92Q2t1SFBmekpqUXNjcS1JTWtxRk5PWUt1VEFueXBKTEFCQ3JLdzNhSEdWQ29RY19vR0twRWIySlRwMWRpS19IeDRnN2VTdy1UNXZCd3V4cm9Ba1NGX3ZMUUF6US01Mmt4bFowUHItZw?oc=5",
