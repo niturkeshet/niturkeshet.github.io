@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:23+00:00",
+ "updated": "2026-11-26T08:38+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -965,6 +965,19 @@
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
+  },
+  {
+   "title": "ינון מגל צריך לחשוש? הרייטינג שהשיגה איילה חסון בהופעת הבכורה",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KUE00dkdSSUlINFRrMmtjNkltUG8wR0g5S084SGY5NDdNZGtDSzZfUzMxRUlLeGw4WHhOeGMyNkhGTmVBU0VxcXZMYUR6NElNY1NhejJfcmRFdUstTUYxMWJR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-24",
+   "keywords": [
+    "רייטינג",
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "המסכה ברחה להישרדות: 15.1% מול 9.6% - ובחדשות ערוץ 14 עקף את רשת 13",
