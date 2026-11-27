@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:09+00:00",
+ "updated": "2026-11-27T10:24+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -273,6 +273,18 @@
   }
  ],
  "items": [
+  {
+   "title": "יונית לוי נעדרה: המסיבה היוקרתית של קשת 12",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LeEJLcTRlTUhlZmNUVjdrdzNybG9uZndXUUxuUGhweDJYS05UajJ4UjRtZnZGMXVNcEthQmUycWFYa0U4SFZaeFBfeUpzQ0FXcHN2Qy1KWFdKSGlf?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-11-27",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "נותרו 9 ימים: בנט ביטל פגישה, גולן חזר למו\"מ וההכרעה מתקרבת",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlekh5VUVWeGFZWVVKTGsxTkIwZF9Ldy1ZcTBLZ2N2bmVodXUxeFVFcDNzS1J3TTVGTFNoWDJ0ZFYyNlJIZlM1WnE0NzVuZG8?oc=5",
