@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:27+00:00",
+ "updated": "2026-11-27T15:43+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -157,15 +157,15 @@
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -209,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
