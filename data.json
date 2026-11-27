@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:33+00:00",
+ "updated": "2026-11-27T00:48+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -177,8 +177,9 @@
   {
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
-   "ok": true,
-   "kept": 5
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -190,13 +191,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -208,14 +209,13 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -250,9 +250,8 @@
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
@@ -1200,6 +1199,18 @@
    "source": "ice · תקשורת",
    "type": "site",
    "date": "2026-11-19",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "אחרי מותו הפתאומי: הסוד של שי כרם נחשף בערוץ 14 והפטריוטים נדהמו",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Hc3VYQ01rVVB2Nm5HWFdNdHVReURhN3FvQWF5aGpuNGZ1b3RyeVZqZGZ1a1lUX28zNlFRbGtqelRxNUZnN2Z2S2dNNHFQZlczcklyWXhSX2R2dEVJ?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-18",
    "keywords": [
     "ערוץ 14"
    ],
