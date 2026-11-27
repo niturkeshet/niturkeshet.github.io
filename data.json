@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:51+00:00",
+ "updated": "2026-11-27T06:06+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,9 +163,8 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -191,7 +190,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -215,7 +214,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -284,6 +283,16 @@
    "publisher": "TheMarker"
   },
   {
+   "title": "אני, לדוגמה, לא ציוני | 27.11.2026",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYW9LSnNvdlB1R05vOEF3eUlGcXAyR21waHBDWTFCLXg4OU1hd2ltcS1ucEtpQllUU2RSNkYxcUdtVzV5OFdSSldCbG00ZEVNT3loVGhKZHpsclprTjQ1T1ZzTHRmbUo0S2hoS2FrNE1qd1NWLTNHcGRmYlZ0Ujhfd0VQaXBvRnNuSmpqbFhtSmhHZ1ExSDhsZkVFYVVKYUFxUG5HSll3UDhiM0xUY2FZVjBya2MtYXlsYUE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
    "title": "\"כל חיבור עם נתניהו הוא אסון. הוא לא יהיה שני ברוטציה עם איזנקוט\"",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUdoc01lb05RZ3pwN052UU9kTVgzcGZSRGktUnBtNy15a0dlYk15NG1jbkU0czVYTDlkWkZ0Umdxa2t3c3dMZ2U2RTdHZ1ZaVUEzcTJpNS05VVpITFk4WEtOSEJuX2VnenJpaXRRMkhzUkpaNGNWU3VCMEl3SHpVem5hZHlDMEtrVjJLVm94cHZOYzVJMW9FTGxYZVZqZmJfcURv?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -294,7 +303,7 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "חדשות 04 - רה\"מ נתניהו: לא היה כלום, כי אין כלום\" - צפו",
+   "title": "חדשות 04 - רה\"מ נתניהו: לא היה כלום, כי אין כלום\"",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcEs2ZW8wVDU3Tm9GRmczOVR0MUh3T3V6cnBDZmp0Mkx3YWZud3FfT3l2NF9RSkdhMC1jcThQOFZ2ZHZfc0hvN2N3?oc=5",
    "source": "חיפוש גוגל · מירב בן ארי",
    "type": "google",
