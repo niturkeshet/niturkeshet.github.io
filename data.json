@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:53+00:00",
+ "updated": "2026-11-27T09:08+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -294,7 +294,17 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "המשבר הניהולי בנגה מחריף: לממלא המקום של המנכ\"ל מונה ממלא מקום - אנרגיה ותשתיות - TheMarker",
+   "title": "חדשות 04 - הבורסה בתל אביב מזנקת: מניות השבבים מובילות את גל העליות",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoWFhDUUpyWjV3MkZMX0pUOEt2bF8yTDNwQTEwV0lpbmE4OTU0VDdhS1NRMzItUmQ1WWNwZFJwRUgxNjVqcm1obTVB?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
+  {
+   "title": "המשבר הניהולי בנגה מחריף: לממלא המקום של המנכ\"ל מונה ממלא מקום - אנרגיה ותשתיות",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUFzbmFOMGRrUzBXN1Y1b09zaF9RTlkzXzlzdlJKV2tKOFVrQ3Z3a1ZWVi00S21ONklEaFZOaExUeGRQUHRmd2xVZ0pKR0F2MDIyREw5XzdGODhtbWVJcVlxaEwyWUZ2TXB5Q3hiMENTRDgzaG95bHVvQTc1TldTUzZQU3lNMnp5S01tZFdHR2dtOFFuUnh4RXNuWUo?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
