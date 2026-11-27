@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:40+00:00",
+ "updated": "2026-11-27T11:55+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,13 +197,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -273,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "רעידת האדמה במשפט נתניהו, המהומות בכנסת והאיום האיראני: קולות השבוע",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qRHBDZ29LTzhQLXlnUGZJQ0NMQVoyelltVksyRnRETDZxUzN1YTBVSFh2WWVvNnNldVYxVzlyYTF5amRkNzJzUmdERTUtUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
   {
    "title": "איזנקוט יכול להשביע ממשלה בתוך שבוע, אבל ייתכן שלבנט יש תוכניות אחרות",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSTVCVnV0WVE2dW1vTDhxTTlVai0yLUJ6X29JQmlKTldJV2ZWR3c3N1dsTVdnb0pZQzRsZzJ2ZV9RdFRSNHZuR3FqaVREMHN1VmVyN05QZXlaUmVJd0hDOW9qbzdkdkV1NTBLLVkyTm5UN3ZlTXBlWWxrbDV0NmVuYW9sX3ZzN041TmhaWURBcEd3NGk2WjhQR0g2WTRacExSWGRMYnUwZTNrc1k?oc=5",
