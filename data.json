@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:54+00:00",
+ "updated": "2026-11-27T11:10+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -190,19 +191,19 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -267,11 +268,22 @@
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   }
  ],
  "items": [
+  {
+   "title": "איזנקוט יכול להשביע ממשלה בתוך שבוע, אבל ייתכן שלבנט יש תוכניות אחרות",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSTVCVnV0WVE2dW1vTDhxTTlVai0yLUJ6X29JQmlKTldJV2ZWR3c3N1dsTVdnb0pZQzRsZzJ2ZV9RdFRSNHZuR3FqaVREMHN1VmVyN05QZXlaUmVJd0hDOW9qbzdkdkV1NTBLLVkyTm5UN3ZlTXBlWWxrbDV0NmVuYW9sX3ZzN041TmhaWURBcEd3NGk2WjhQR0g2WTRacExSWGRMYnUwZTNrc1k?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "יונית לוי נעדרה: המסיבה היוקרתית של קשת 12",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LeEJLcTRlTUhlZmNUVjdrdzNybG9uZndXUUxuUGhweDJYS05UajJ4UjRtZnZGMXVNcEthQmUycWFYa0U4SFZaeFBfeUpzQ0FXcHN2Qy1KWFdKSGlf?oc=5",
@@ -303,6 +315,26 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "חשש בגוש השינוי: נתניהו עלול לסכל את הקמת ממשלת איזנקוט באמצעות תקיפה באיראן -",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PN1RSZmR3NVhmanNJYWFGX2hjWVloR3dkMFdfNHdUZlVxNDFmaHppLUVpckZMMjd2Mlgxb01MVEdRTnJ5TDllcVFvNGFfSUow?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "شبكة يافا الإخبارية"
+  },
+  {
+   "title": "חדשות 04 - מ-2027: רובוטים דמויי אדם על פס הייצור של וולוו",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YNm1qTWV6eWMwVlA0aUcxTU9fYjJBdnVQUk8wWF82N0lZRmlhLTBKa01ncmtsSFRqc2xMc1NpNWVtUlZhMjY5anB3?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
   },
   {
    "title": "לא רק משפט נתניהו: 18 מחברי הכנסת החדשה חשודים בפלילים, 16 מהם חברים בקואליציה היוצאת",
