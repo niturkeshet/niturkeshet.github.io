@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:52+00:00",
+ "updated": "2026-11-27T07:07+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,19 +191,19 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -274,6 +274,16 @@
  ],
  "items": [
   {
+   "title": "נותרו 9 ימים: בנט ביטל פגישה, גולן חזר למו\"מ וההכרעה מתקרבת",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlekh5VUVWeGFZWVVKTGsxTkIwZF9Ldy1ZcTBLZ2N2bmVodXUxeFVFcDNzS1J3TTVGTFNoWDJ0ZFYyNlJIZlM1WnE0NzVuZG8?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "ראשת הממשלה וממליך המלכים: מי באמת ניצחו בבחירות?",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcU5Vd0t2UGVuSFdHVjFzN1FQTDA1LVRsSTlyRGNQV2lBRmVKa1ZjNUlyVHRsQUpScGE1VzdlMGc1M2ladXZteWV3RHF0NmhiYS1URHpyUW9rRjBjTERzSmxfRVIyY3dnNVRLMUpYcmN1M055a21xcUt6Z1ZaN3pKOUZ6dDR0eEFJRlpRVHgzZGh4STN5MGJfVGpRdXZMNWNRN1VsVFp5S0lXbEZyMTh3?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -282,6 +292,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "חדשות 04 - המודל שניצח רופאים: חוזה חום אצל חולי סרטן",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SVXZLM25IUFpxbjFLRERWV0pUbEpVNC1pM0hsTWptSy1YZS1RbFFlWl9lOWNQSUlpRzhCS0lHVXV0M3R0VUNQdzBB?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
   },
   {
    "title": "ברקע המגעים: זה מה שאמר היום איזנקוט על \"אחדות\" | צפו",
