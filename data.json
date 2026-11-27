@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:48+00:00",
+ "updated": "2026-11-27T00:03+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,15 +163,15 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -190,7 +190,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -659,361 +659,6 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "\"להרוג את כל היהודים\": גבר בעט בנערה חרדית בלונדון ונעצר | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EZ180SVBSNlBXakZvZWdib3dpN2NtY0FKRHFfLTlvcDd2clVtbUdiSTNLQ002YW4zZDlrdXpwaWZtV0ptUUp0VEdR?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - רה\"מ נתניהו יקיים הערב הצהרה לתקשורת בשעה 18:00",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fcEZqNlFNcmdJZDVvQjU5dHZOUXFxWnZHSzlCNHU4WG5CR0Myd0FKWFRVY3c5ZzhMVHpUMTgtVGk0YXlwSW9jRHZ3?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - פעוט בן שנתיים נפצע קשה לאחר שככל הנראה נפל מגובה במעלה אדומים",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CNldXc1ZrMENBdWFJUURvelNab0tZWVdhNDRQbW9ydlhMQ3k0bklISU9FMkVkUVY5OHlmbGRPYm9rOFd1NXRGLW5R?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "Knesset advances bills to form Oct. 7 state commission of inquiry, establish PM term limits",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUEhHOUo0RVVySmVIUktIWVViT2pkQU9hQnNUNl9UU0ctNExUakVmMFdseEVFLXFVeVhfQll2QnBsWlloNEpOeDVvSHFBU1N5U05BeGRRcUVxVzdkZDE0V2ZiSVlJNGJPWTRkaTQxNkJSMklGRmNUd3UtSXJTVWtjR1NwcERETHZLcnFzZzVCTlpSY3FmRVQ0Z1JRemVHOHc0aXQtc29zSk5GTmVuOG9wR19odEp0eTRZajNjc9IBwgFBVV95cUxNdTZBQTVzd2EzOUM4MmpET1M3UUNiLVlxZERNVE8tMDdqUU80UzlVWXQxT183cTZuR2dnUUxXbGktSVpfZGNtWl96dzktVThfOUVEaHkzUDJPNDJ5SEJjY3VkZUVVeHVHRUdZVlk0cDgtdlpzUllSLWRqVlA0eWlLaEFlVFB1azZTR2I3MXRGdmlQamhhbnVxVmhmUUgxc0doSkNSU19vWkFOa3REUTRsakpNN1VPRlpBR2NVZ0EybHpzQQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Times of Israel"
-  },
-  {
-   "title": "חדשות 04 - 10 מיליארד אירו לאולמות: ה-NBA בדרך לאירופה",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiVUNsRG5lTEdnY3RSdjR5VC11WHBLMVJ2ZWdtRlBaQzFyNThfMnpoc0plemc2Vm5WRk9XdDBCQTFGcGtXSDVCY3V3?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - בעקבות העדויות במשפט נתניהו: בליכוד בוחנים להגיש תלונה נגד חוקרי להב 433",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GWGFqakRORk52ZGFyT3JCbXIza3loQ1VVeFNNekVOMURTRzJfSnNLZjdoaDEtVHk0ZFhtSlVValVTemw1LUctSFdR?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - קושנר בביקורת על אירופה: \"הם מבקשים מאיתנו הרבה, אך בנוגע לאיראן, הם בהחלט לא הרשימו\"",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GbGplaEpMMC14UGJlYzNPQ3BpTmpwQ2RTc05QeGo5aXh2cFo2SlRNT242WDVzbURUWDlHLXJ5UDgtOG1pWjdZVmxR?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - דיווח: הסיווג הביטחוני של מנכ\"ל אנבידיה בתוקף למרות הטענות לקשר עם מרגלת",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBBM1pmb0RoRVoyUWhfelJRTTBYQXhjTzNHbE00cExCSVFaOWY5cEpucDFmZWNTaS1SaGg4cmVpNzZvaE9yUUNvaDRR?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - כ\"ץ לאחר חיסול בכיר חמאס: \"המדיניות בעזה חדה וברורה",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55YUhIbmNxLVVxd0FBSlBVaEZuLWVPd2pKRXVZVXR6ekpXbkx6VzEzeGRETGltSDhFX05WMmNWdlo1Tjd0SDNCUVlB?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - הבחירות למבקר המדינה יתקיימו ביום רביעי הבא: יוסף אלרון צפוי להיבחר לתפקיד",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TTGYtelQ3R2RaZDhaQk5uUGJsVFNfcUtGX2lsdjkzUkcxTDRhcHgxb2c1dml2cktBTWpQa0RWNnlCbWt4TVJ3VGdR?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "הוועדה המיוחדת אישרה בקריאה ראשונה את ביטול חוק השידורים",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCRDJFSmdZTFlwOWl4a25BZXVScDBYTFgwSWxfR0VKV0dKbGtNZkgtbjdRVVpQczRZcTllWldjTUJocm1tVHpBampza0FJWkxjTmxCY0FlNTE?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "חדשות מבזק לייב"
-  },
-  {
-   "title": "חדשות 04 - מחקר: סוכר גבוה גם בלי סוכרת פוגע בזיכרון",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzQ1U5RF9SOTJXdzhMUVZKUGNzM1Y4WnlSMXdJbGpBcUEyaE5KenItOGFVU3o1ZjhScjlhZHdxaHRzX3d6STRZcWh3?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - בלינגהאם: ״כדור הזהב? לא אכפת לי, זה לעיתונאים״",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tQ3hrazJiaGpNR3p4UTAyQlZrcExDN0ZiMmlMOWxZTUd1QXJ5ZnpzVUtwaFhXalFHRS0zbHNOLU9NRndwdmFjbVFn?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - אושר בטרומית: הצעת החוק להקמת ועדת חקירה ממלכתית לטבח שבעה באוקטובר",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15YTFGUlh6ODZnZFBrVmk1cGhiY0RHY2JGV2ZpNUg5eVNfMnJ1MlMwM280OUl3UmlwZUhPSlRvZl85SFd2VkFfYjln?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - אחר כשעתיים: הסתיימה פגישת צוותי המשא ומתן של הליכוד וישר",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11azZmV3Fnbkg0Ui1oTURKcDFoVEx4R3ptSml0Z2lLcm5YTm55VTlWdERVel8yRS1rNHhwbEdCblhPcUkwVGFTb1N3?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - בן גביר על משפט נתניהו: ״התיקים קורסים. עכשיו גם השופטים אומרים את זה בקולם״",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xbC1aalBUSm05ZS1qZjFaY2tqMFVEMGREZzZGclF6dWJqZDhMUXhZMmxMRlN2ZWlYb2FMUVFxc2FFdEw2QjhoM013?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - יעקב אשר לרה״מ: נסיר את ההתנגדות למינוי סמוטריץ׳ לשר השיכון בתמורה ל״אופק חדש״",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uWkF2Q21XdVlxOWpPTTlOeC1uRW9VX0VDeHJMTEZfS3ExODVOUWliM1doRkdOWmZyVWZPdWdiaHhVbVRzUklkeXRn?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "חדשות 04 - איחוד האמירויות הצטרפה למאבק באנטישמיות באו\"ם - דנון: \"תם עידן ההצהרות, הגיעה העת לפעול\" | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TYmxvVDRXTlh3eGxnWDZTSDUxMEJBMDhMbXpoM3R5UEJLZVR6SXRBMGp6YVlfUWUzaGExeUtmTUw1b2lDZ25rZFFn?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "Opinion | Not Netanyahu's judges, Netanyahu's lackeys",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY3hibFJjdmpfejYtdmM4TTBTT3NXTFI1bmpZVlhSY1VlQVFEVk1XRVQ2aTFqQ2k0ZTFZMldSN2IyWlhadERMNHp5UWhOYWg4Ml9yWDFTcElKZWNFT0Y3YVVRRF9vUDRZd1Z4NUl0TTVSWVZ5UWtXYU1yQzdDM2JBVGlqYVNGaC04dm51b1BBUndabjBEV2t2UVpIYlh5VnhVYkg2X2RwekIzWmJ3VHFycjNtdHFxbDdQeUxaaUlnWUNnWFVHcjN3elhfX1Axbi03S0U0RFhvMHBFUlZSRUthaGt3?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Haaretz"
-  },
-  {
-   "title": "חיכינו 1,145 ימים לתחילת התיקון",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XWVk4R0J2eWE0X1B5bXRVdW5YQkR1Y1k0bGFpUzZoVmNCSEo4bmxNSll2YmFETG5EbDRMZnVtSm9KMW83SzVLcXFaQ0FfLUt1UkRmZzdOd3Z1NDJKQ2JsMzhYSkdsWmZl?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "\"זו תנועה פוליטית, אבל לא מפלגה\": האישים שדוחפים לממשלת אחדות",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FNkxHUkR1aWE3LWp4N0NaRl96VHFETGJ2M2duVFZpS3VDcWpablJrVmMzN3dtc1RDMVp3ZGtlamQzNGJhNFpoTmZkSlk0a0pkdVc5aF9BemRPakxDc2dwR2pYSTZaWXoydkE?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "Knesset advances bill repealing Karhi’s controversial broadcasting law",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjY1UWNfMVhkeFpDeDNyMGFzRGwxanlFNjkwWlNhQTdSY2hUdksxVHlfbWozOU45WjNiMnRQUXd3cWZjM0ZCM29QbjVGSE92Q2t1SFBmekpqUXNjcS1JTWtxRk5PWUt1VEFueXBKTEFCQ3JLdzNhSEdWQ29RY19vR0twRWIySlRwMWRpS19IeDRnN2VTdy1UNXZCd3V4cm9Ba1NGX3ZMUUF6US01Mmt4bFowUHItZw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Times of Israel"
-  },
-  {
-   "title": "מליאת הכנסת אישרה בקריאה ראשונה את ביטול חוק ההשתלטות על התקשורת",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkwzMEQ0SFJLelJmNlZQdXdBNkJsckNDZS1Db1EtcGl2VTNUT01ZamowMEtWYkRJamdSSWxCRTJTNTFhdkpWU1lWVE42cUlUVlFMV2dMZ1hQR3ZpeDRSMWFzYjhWRUNQWmg0X05CMXp4ZGpSR2tWbjRMWEtaOExnT0xLQnBhTzlnNXA1VHN3OTA2bmpiVHVwUVdwZjY3RGx3?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "51 vote in favor: Knesset passes bill to repeal Karhi's Broadcasting Law in first reading",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBUDVGdFJBRndzekNPMjVpQWdwWWRab2ZnWVFmZVBaWVd2Vi01R0lzcnBtQTBtZ3BzSHhIUmxzbGZkck5tdVVTZ3A0RmRsN1lXSk9McHdUQ1R4dw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Israel National News"
-  },
-  {
-   "title": "Repeal of Karhi's Broadcasting Law approved in Knesset first reading",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWGtSR201ZF9memd4d2JiMVNyYnRjYjhNN2RFS1YzZkFwSHBTQVZqMWtqc3ByYTJ4ekZjSnlkVERkNUlCdFFWSDRjTFJpVXFqT1ljUF9pdmlfSnQ2b0xBOHRodHJIbHZfRXBUQ3VRME9jTlJyWEVfbmxndw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Jerusalem Post"
-  },
-  {
-   "title": "51 בעד ו-32 נגד: מליאת הכנסת אישרה בקריאה ראשונה את ביטול חוק התקשורת של שלמה קרעי",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UeGpPSU1CQk40cnlSSGFDd0NQUjhFckNPN0pVd2xaSi1sVEdsRVY2RjBqLXNoNDVBUXE0elNVWDEtNzJKdkxsbjVDaDNGbHRHaGx2QjI2a3NzRDh1MV9MbS1UUjg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "שלמה קרעי",
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "מצעד הטרלול: אנדרו רוס סורקין, שלמה קרעי",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnA3d0RBVzJKMGpCbnY2Wkp2M1dJSTdWNE1mUlc4TklaZU5YSU5vaXJyWDFVemM4aHhwQXBTS3lTWHBobzA5TlIxYUlHUGo4MkplaHNBVDNwSGxxRHhEdXZsRUl1NVV6VEJKZFJMSnU2dlZaRG9rRkltb3hhb0dUR2FsU3piUm1LWjR5dlRzeWhHZ2FZZ2NqTThR?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "שלמה קרעי"
-   ],
-   "pv": true,
-   "publisher": "רשת 13"
-  },
-  {
-   "title": "החוק לביטול רפורמת התקשורת של קרעי עבר בקריאה ראשונה",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDV21SdzdRampZdW9DcDgySHRmRjB1WEpHX2RWczFiZFVVc0J2SnNlMDU2RDMzM3BrZW14VlNyczlucWhmZUVQRE1rSQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "רפורמת התקשורת"
-   ],
-   "pv": true,
-   "publisher": "JDN"
-  },
-  {
-   "title": "בליץ המחיקה של השמאל: אושר בקריאה ראשונה ביטול חוק התקשורת",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IdVdnRElfeTFpaVlkVUJjT1dCbkhLSmQyLWlPQW51djIwbnNwQi10WHVuOEVMNnR4TFJnX3Z0VnA1cE1nMVhFRUJTUzFXdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "ברוב של 51 תומכים: הכנסת אישרה בקריאה ראשונה את ביטול חוק התקשורת של קרעי",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oUWFubFE2SWR1UTZIU08zSGRsdDBPLWM4S0lCeG9VSUU4U2RtT0RtRkpORUtsbW56U1hnVWJiZ2JUbmhfREJiZg?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true,
-   "publisher": "ערוץ 7"
-  },
-  {
-   "title": "Eisenkot’s Road to 61 Has No Seats to Spare",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DelA0WGJnT3plOHB6Rmo2TlR3X0ptMEZTVEc2UkpjN1lVLUhhMzhiNl9lRHJGcVFucHJEVklVQ0dQWUF0UG9TS3NydkV4dkNJdXk2dGxDTnhESlBUVTJ4R284WVh0SFhOWVNKMUdITjljQTNLYWdZYWhKMA?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Algemeiner.com"
-  },
-  {
-   "title": "צל כבד על המערכת כולה",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IRHhiQU9VYW14WUxhcDdrdHI0RUdCbS05bEM4NW5jWG85RDJrQ283d1FvU1c1UElOSHczeThGOUg2UmtUdW4xY19qQWdkY09LMlFjVFdvRFRiQWNZRlE?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "לא שופטי נתניהו. שפוטי נתניהו",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEtqUEtYZ0xleUxmSHA0TW5lVmZsM3JCSnRhdElLVXR1VW5LZkFPQ3BWM3VzSE5uR0g4aDVJbHVaY2x2eE9tWDFfMGdBWWlWOUhMS19SQXdLamVyYnAxR0M0eWF5TEpVeU9QUUhJUVpRWHpaUG5PZWladF8zSXhNRjNqdHBlTEJkMnVieUY3M1JNVC1xZTBZXzdsQ0lKQ1RoYURqa1RJU0tOWC11THJldHl3?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "ההצעה לביטול חוק השידורים של קרעי אושרה לקריאה ראשונה | וואלה חדשות",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oc3JLa1RwN19STFU3UVJUUy1VT3hpdlBKYlVkN3ZnZmQ3am5hSWFRMmZHeHE1VGF3cFlHQ3NNQzhhSzc3ckMwQWU0QXB4eFpvZUlmbEVvRm8?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "וואלה"
-  },
-  {
    "title": "רשות המסים דורשת ממייסדי וויז כ-8 מיליארד שקל נוספים על האקזיט לגוגל",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zVDJGMDhWNmpJdF84a09vSG40SXVIMGtvd1NnN2kwYzQ2ZnF3S3dHeUROWjdHbWNxejhTQ09qUWJCZWZEVUxkMWRlOUh4VmJkZ0QxWllKZHNHeG9ieG14OHAzMHJ4YkE?oc=5",
    "source": "ביזפורטל",
@@ -1037,16 +682,6 @@
    "pv": true
   },
   {
-   "title": "Judges Urge Prosecutors to Drop Gravest Charge Against Netanyahu, Cast Doubt on Second Case",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOakxwT3ctLW8yMk52R1Z2RjJWamJNRTc4N2hpVmd4NzJyVjI1emRuZzJLQ0E1U2lJM3VPZHBPb185azVyNGhZT2RZV3pFMkU0WU8zYVUycFJhQkZqVDhRR2E2TjZyVmd5Rk9haXcwSExKU1dnNUlYbGl2VVc2M2xLcHl0VW5wajhrZmdhWDNIdUg3VHdNR1FPR3B0eXNzNnRxVWNjVEx3Tl9ZUnBNdi1WYTRTUFE?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Belaaz"
-  },
-  {
    "title": "איילה חסון תשדר לראשונה בערוץ 14 לאחר העזיבה: \"לא להתבלבל\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nZHlHdTc0ejUyM0ZzSlhMb3hYcTNVRVFrTjVHWnU5QWFIWmlKVF9ISEVSWUxUSU9KajdxeEhUMHM0YzQ4c25uXzcxbnlJWHhpMmk3OU11Q0FpR19K?oc=5",
    "source": "ice · תקשורת",
@@ -1057,38 +692,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "\"רעידת אדמה, לשים סוף למשפט שנולד בחטא\": שרים על הדרמה במשפט נתניהו",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZR1l3N1hkbWJyMmt3cXlyVDN0aWZkWXNXQUxaS2lYeWZBUDBOc2tiOERybm5STHZ2M3h1bGk4UFZxRnBxaUh3?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חרדים10"
-  },
-  {
-   "title": "לאחר שהוציאה את השר קרעי מהדיון: מירב בן ארי דרשה מהלומי הקרב לכבד את חברי הכנסת הערבים: ״תהיו בשקט״",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHRnNIRDQwSnNkUlZWcDc0V1RrU0t6YllKMW5qWDNSOHdTNm53Q2YycDA5Wk9KYnQ0VEl4YlNhQzNLZVhpeF8wTHNB?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "מירב בן ארי"
-   ],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "Karhi Removed as Committee Advances Media Reform Repeal",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNci1zQkVYZF9EUjMycTkwb2x0N2NLbzNtM2pEeHRTQ3luS2Y1dUhqRVk4VWIyNzRsQzZWSnptaHNxbjZoVWJsc0RHOEVEcUtvQzJFVlhuU1dFRjNFbTlYaFZuOUNrWE9SQWpqUUI1czRzWllIM2Z5LUVoTXFHeFk0Ry1LOA?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "JFeed"
   },
   {
    "title": "אסף רפפורט ורשת 13 מתכוננים: זו הכוכבת שעשויה להיכנס לאח הגדול",
@@ -1104,26 +707,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "Knesset panel advances bill to repeal Karhi’s controversial media law",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkp4QXRMTFdrbWUyaWRwc2tWNVdMU2dVdFBLZVNsZXdyS0xmTndPd1BzMllsdkNxWlh1ZDAtS0xsQ1M3d3c1TV9NSm05LW9JNzdCdlNiZWxkblBSS1BndEhJdm9qZ1dxdkp5ZnFUbWUwVVRIUlhieVhoeE1KVU5HbDRLbzNjOUgyRjI5dnJTWTFZV0JSd0hpVEJZbEY3X1gwdS0yVjkzZmI3eGdJNFVpQVdxb2k?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Times of Israel"
-  },
-  {
-   "title": "Ministers React as Judges Urge Rethink of Netanyahu Charges",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3JZZnFubkdLa0FwTEJ5UHhBdDR5MGxYY284bGJyVHpfR3VLSF9STUlCU1lFR1dCRWlfVHRVTjl1UENzVnFRT2w3SE1OQk05TnY2b1Y2cURERHJNT2djVFgxYmxvSGFVaUFSWFVobDI3ektDUTFYRGo4TnFyUENHQTFwWE02VmM?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "JFeed"
-  },
-  {
    "title": "כל חוקר פרטי ישלם 15 אלף שקל על GPS שהוטמן ברכב עורך דין",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wUzdpSFJVeEI0QTJJMUpVczk5djI5ODRGM0VFWWZVODhvaVIxLWJfUE9pVXlicHkwYXRMNkFkcUlsc0U0S2JJUVhSbnpNWmp3ZkJhR1NxTmxCRjJZYy1DTVRmX1hJN0U?oc=5",
    "source": "ביזפורטל",
@@ -1134,118 +717,6 @@
    ],
    "pv": true,
    "publisher": "ביזפורטל"
-  },
-  {
-   "title": "Eisenkot bloc scores Knesset wins as three key bills clear first hurdle",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQXzlKT0hoSll1RFEyQ2ZBdHZETFM5bkwwSFprSWx6N1NsSmItcmtZY0t6aGdNNG5WY3lDU0F6NG5wNTdlT0RJX1plTC1xV1huaE1QZGctbTk5S1l5ZjQ5OElCVlBjUC1wa3NCa21TMGZ2RmJBd2pkcDd6UmJYaHhRWW9JdGRYc1BLOFJQM1YzcmJ4aXAxX0lBM3BmdjJrWjFUeDV6NGVVOXpkVHlQbnA4ejZEM2dYREMyTm94eXpLZmhDUXI1WUQzbk4zdWlLaEJxdTlVV3BKZ0padjI1cXItbUtRWEhMVy1OdTIxQ2puREx1VUw3U1NvOGVCM3ZZWjFXNGtxcDFNVTN4bGFfN3ZMVXhCRHN5dXVvSmUtVmkwazRQRW1J?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Haaretz"
-  },
-  {
-   "title": "Right-wing politicians applaud Case 4000, 2000 Benjamin Netanyahu trial developments",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TVGMyWjFkUnc0ZnlEUU0teGpKcXFpMUhSTnNWQThsenVacnZlUjhSYzlkQVZWQTNOWEV4N0ZFYks5ZEw4WHJwYmF1bEVuZVhWNUc5UFl2M213ZFp4?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Jerusalem Post"
-  },
-  {
-   "title": "מסע לילי עם ארז קו־אל בין המסעדות, השפים והסכסוכים שמאחורי \"הטבח\"",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3NraXphOWZNSmswVVJxTHFaQUkxXzNGTE1qT0tSaDAzR1VpMW5WY3Y3aGdLRC1ycmllTlFPcEVBYzU1Y3R2N3oyOHhGc0RxXzBXUHVMamlmWmJZNUNUenhLbkJSc1BhSnZkZmthSm52MXhzNmZpd3BaSUNRZFFCUFRwZHFESG82MFJnNmlNSDl3X1UzNkNSZlAtaU1TNUtlN2RtZk55dk9ZODFKQ3E5TFhxZHF2WjJ3d1E4eGpxZ3Q3cUJC?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "בצעד חריג: מירב בן ארי סילקה את קרעי מהדיון על חוק השידורים",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKdGhNVWtRdVV6NVBpUUtfa3A4bFNtMURTbkNLd08zWENBTUVUQXA1VGRLT2dIQjNQYW9XQXk1VllvQzQtQnRGUUNlZFpNZw?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "חוק השידורים",
-    "מירב בן ארי"
-   ],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "קרעי בעקבות הדרמה במשפט: \"שימו סוף למשפט הזה\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wRG1LbUlJcjljbTZyMU5MZUdZWjhkYXhKalR2bXFsM1drRzVCUzJfcXRxRHRTVy1oeFh5Nkx4cDhIaUhMYXBobmNmdmNFUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "אמס"
-  },
-  {
-   "title": "\"תמשיכו לדרוס\" > מירב בן ארי זרקה את השר קרעי מהדיון בוועדת התקשורת • צפו",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UVDJKeGd4S3I2MjBESmhGcjZjZ18zb1ZfY2JaRm1xeVdzTEQ4eDNzcmFIbUxybnh5MFlnWE53bXhlZmliTG1HTm9Qbw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "מירב בן ארי"
-   ],
-   "pv": true,
-   "publisher": "חרדים10"
-  },
-  {
-   "title": "גורל ענף הקנאביס על הכף: איזו ממשלה עדיפה למטופלים ולעוסקים",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnQ4X00wOElEdE5tSTZVUXpLMDNJUy1YSWZURU1MN3BrMkpUVXdKd0VaNEdLcUJyamlzbTZrU2lXQ2VNZkhDUHBDWjFTR3ZpWjZHZjJ2cjFNWVp1U3kyN1NNY0U2b3V6YWljZmZrVDFmS0RFQ3luYzZnVnVYRWtJU2xGYw?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מגזין קנאביס"
-  },
-  {
-   "title": "חדשות 04 - ״מכרתם אותנו לחמאס״: אלמוג כהן התעמת עם מירב בן ארי לאחר שמנעה כניסתו לוועדה | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QQUlIRm1KNHctaFQ0RERVMEFVdTBkT0NJOFdVc2tVdk0wSk9xMTY0bGpJcHVmeHhQSVFFLWNHaFIyMFQtVU1wTC1R?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "מירב בן ארי"
-   ],
-   "pv": true,
-   "publisher": "חדשות 04"
-  },
-  {
-   "title": "שלמה קרעי במוקד: מרוץ האופוזיציה נמשך",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94dlpDRWFOWGJ4aHBha3NFeUJEaTMzcXEtd1h2V3A0X3pfSlFtckZwYmNrbDdXNDVjRVhEZFZtMHYtZXBCb0RRZjVGelVQanVJbzQ2NXlneU9ZNUpZaWRSemc2VzM?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "שלמה קרעי"
-   ],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "מירב בן ארי מאיימת לחשוף מידע מביך על ינון מגל",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaW9xWTU4NW9LQV9nSy1oQlhwdWlZWVZ1dDEyN1lkWm1MWjlyNDR5WkdLYjgtb3Rxby14VE1DX3c5T0NMbmdYNXMzdDVNLXBGYy1IcGZKU00yNXdvdVgtaHl4cEVwTWstNHJCMlREQUhKNHV3QnpneFRuejlCVnludng4WS1pYXlMdXl5czRGanpZcVctTFBYYVAybkRFWjZibndj0gGrAUFVX3lxTFA2SEpUamVUNktlQjgxNXk2MWY5VnhBcTM3UTNZaDVoQ1lXMDloSGhqQXhqeV9OdE5OekZIZ3NBcEdTbFU3SnZWUkFGenVSNnJWa0dyS3h0ZzcxaVlaZkFnNWJIMUtuenpkdXJWZjVYX0VOS2tUdGNjTnRzRXRwRDhlLUtNYnhGY09NUVFoQ3RadFRiOWJuR3VlVUlYNUNuUUx2S0NEVTRIRm9PTQ?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "ינון מגל",
-    "מירב בן ארי"
-   ],
-   "pv": true,
-   "publisher": "כיפה"
   },
   {
    "title": "מכה לאסף רפפורט ושותפיו: רשות המסים דורשת עוד 8 מיליארד שקל",
@@ -1260,52 +731,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "צעקות, הרחקות והצבעה צמודה: הרפורמה של קרעי עומדת להימחק",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85SktCbTdxUDVoLW82b1JxTE5RYThHT283LXE1M0s3UzNUU2N6X1pmQ2JMd3RtZXRUNm9PNVBMcXU4OExTLXJucVVuMW4zR3dEdFZTaGloRi1aQkVUYW8tRVU2LUlMQTJ0M1E?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "בתום דיון סוער: ההצעה לביטול חוק השידורים של קרעי אושרה בוועדה",
-   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNeU1Dak9iajg1cHQxcEFudmdfdzZxTXRjSlN0bDhqS3BhWVhNa09xMW5KeFBkRkR0QU82bHp2QXFMdWk1S1ItOHFjREJLcGVzbDRTMnpYRkFTVnpSTmw5VTJ2S1FKalZCSWdJajRtXzI5R1A3OURXY3JzZmx2cnFhbVVsWWh6a1Q5U3Jnb05ZYzhpM3FCa196d3R1UjJveVFFSk5vREl2cXVUNnkxc18zRDI5XzR1VHVva3FBZUhJY2ROc2tUVzV3a3NRYkhFTnBZbHVMblB5NURWZlJsS1BrbGg5aU1yblJiYms1M21xUTBSaWVKa0VTakh0WjM2ZHByMkt2ZXNlUDZKOF9HZFNVd2FNSXhWZDVxRWwwVFcwbWdCNjJrOWR2a1I1bS10OW4yb1JTUFlVN05WMlpiQ01NVjJlVG5HRlQ3TkFuc2FGQUo5Yi03VGZXUk5WSm0yT3BMVUhsbFk3b3dyZnF4?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "סרוגים"
-  },
-  {
-   "title": "על חודו של קול: ההצעה לביטול חוק השידורים אושרה בוועדה",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mTmVEakVQbW4xdFN3aVE5NFdSYlBmMGYwNWczWmpPdkRDUGVsOW9sSV9rczZ3b3BQODh1QVVyODJ5UTNNUGhydDZrVVhvUQ?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "עימות בוועדת התקשורת: מירב בן ארי זרקה את השר קרעי מהדיון • צפו",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kNXN4MjgxaHlnZTBiTy1jNmxkYVI4WmxVNEV0Wm5uSzBiM1ZNenhTa0dXdUZzYk5UZVFZWmw0eGhsaVpJQ280?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "מירב בן ארי"
-   ],
-   "pv": true,
-   "publisher": "חרדים10"
-  },
-  {
    "title": "\"תהיו בשקט\": מירב בן ארי הוציאה את קרעי מהדיון - והשתיקה הלומי קרב",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoV3A0enlIOU5rWlRuNV9qdkdjSXFlRzBUQzJLSjY5TnZ6ME14clg5Z2tNc1g0VVhtVWpxWXBBUHhqZ0NxLWxYVGlSQl94LW9QUFh5LW5oWWQtc3YwNlpiT3pCNmgwWTY2QkV3Uw?oc=5",
    "source": "ישראל היום · אילי זילברברג",
@@ -1318,18 +743,6 @@
    "publisher": "היום"
   },
   {
-   "title": "סערה בוועדה לביטול רפורמת התקשורת: השר קרעי ואופיר כץ הוצאו, אלמוג כהן צעק בחוץ",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3BjcFF5bFVucHJOdUlCakdHbEVVNWdRbURobUdMeVJObFFfNU5rVkpuYkRsX3AzVFNiNi1JN1V0XzdpaDBCcHlKWTRHNVU3Sk5WTTBLSUpnV3RCcGE3RlQ4eEk1TnpWZWItYmotWFZRQjdXTldiaXlVWTdSdWxPd2ZMLVlYaTRiRWgzVw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "רפורמת התקשורת"
-   ],
-   "pv": true,
-   "publisher": "כיכר השבת"
-  },
-  {
    "title": "קרעי הוצא מהדיון: ההצעה לביטול חוק השידורים אושרה לקריאה ראשונה",
    "url": "https://www.themarker.com/news/themedia/2026-11-25/ty-article/.premium/000001a2-1172-d7ab-afb2-bdfbd7330000",
    "source": "דה-מרקר · יסמין גואטה",
@@ -1339,119 +752,6 @@
     "חוק השידורים"
    ],
    "pv": true
-  },
-  {
-   "title": "בתום דיון סוער: הצעת החוק לביטול חוק השידורים אושרה לקריאה ראשונה",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80WFd1RmhacDh1bkY2ZjBCZjhtNDVEN1YtM0s3NVhsazBUb3B4cnZDSFU1aXdrNkRBekdqZXJXTnhjSlV3ZjJfTUp0ZGhtVmJQVE1uRHM0TFhxNjJjV1VOUlB6YXluazdm?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "כלכליסט"
-  },
-  {
-   "title": "בתום דיון סוער: אושרה לקריאה ראשונה ההצעה לביטול חוק השידורים, קרעי הורחק",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12Q2QzY1FfcEZfdVdHeFFOOGtKU2pOdGRDTWF2SW9oMHlvWW9oeU15ZzBJNGoycjZkaGlrSkRQVTU2S2VPcml2bzFnQUdxSWZZcVZQVVVtbnV3QQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "YNET"
-  },
-  {
-   "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NUkVFTmlha3Fob1Y2R2NlcTduXzZYbkJzdmFQV1dpVWhKeC10NDBLSXJfRjBMd1paaGJma0hTZk1IR1FSRGJwLWEzNXloVmZjM0tLd3pOb09kUTdlbDliMlRVelIzdHJGZFltMVE2bkFVMEdOano5NWVZRmlVQQ?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "The Jerusalem Post"
-  },
-  {
-   "title": "קרעי סולק מהוועדה לביטול החוקים שלו: \"המסיבה שלך נגמרה\"",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmN3OVN3QmhwcUdmVHYwXzBJSW9VUzJPOFJHVFAwQVBlMjJjS1I0Zk5FV014eUVSN2xlM2JQb1IyZVlid0FlRWZsT2dTZzZic1lJQkpvZUlGZ19tc0c3dG1QY1N4Y29Yb3NScVU2UEItMWNyX3Vhc1c3ZG80NGVzbGxTUzhuVjd3ZU1BTWJkN1NDOXdZU2pBbVFRMHpmT0E5YlFj0gGrAUFVX3lxTE1XTkhZSWh1X3lHOTdpZ1FpTng2cWg3LTRpWVNLMGQ3WUdjYS1ONnRXSWE2dG9UTnZETXhvdmxIc1RMekU5N25nbjIxYXBEWmNrYVpkR2pNNWF4QlNzV2ltbkF3YWRqVm9yRWlLdzJuWnFvbW9JYjUyYTdvSDRjWFlmWVdYcG54THVQTjJub2t5ajlGeXJTTFRGaVFHQnNmTWdVMTN0Sk1qcFkyWQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "כיפה"
-  },
-  {
-   "title": "ביטול חוק השידורים מתקדם: ההצעה אושרה בקריאה ראשונה בוועדה וצפוי לעלות למליאה",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40QzFTYU1wajNCbUdOX2J2RlNqbkdaT1dld0dISkJtRXljdlRTb3FpeUl6S1ZRVGp6WWVDOHpCQVJxakJnQjM2NnhIQWM1RzFKaXZUX3JPMDFQckZQWmdhdEFuMDY?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "לאחר שקרעי הוצא מהדיון: ההצעה לביטול חוק השידורים אושרה לקריאה ראשונה",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSU5ZaUNxT3IwaFJWYzlnUGl2eHpXdFdlcmp1ZWcwQlJfdUVVNUJsUmh0c05CMUxzcF9LWVFLWVJpVnU1OGpadkRVVVpYbEJSUGNMYkh5cXRXUWcxY040SHBIMy1idlZIMDQyZzhLcm5pWWYtbGxJaDZzVXA5SFg1dDZTUkF2bW8wdnFpOTlEQ28xRGs5Vmk4QTlXeUhvR3lmNEtWalZDOHRZdlE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "עימות חריף בוועדת התקשורת: מירב בן ארי הוציאה את השר קרעי מהדיון",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tZGlQTEdaaUp5NXlhaExNZTNCTkpZVnpyZXYydlN6OWczRDh1MXFvc2ZidEUtd0VnMlhmazVESHc0cXJDTGpCbw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "מירב בן ארי"
-   ],
-   "pv": true,
-   "publisher": "ערוץ 7"
-  },
-  {
-   "title": "רייטינג: אסי עזר ורותם סלע מעל כולם, ינון מגל נכנע ל-\"ווארט\"",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Sc3JWeXBvVWZXeW5URzFmM1g4bTkyanV5SUFRTFRQMzBvZjQxWjZwX09XUVNoVjFEUFI2dy12ZFpRT2NfWW85enJGLUlPT1lpb3BOanB1RjN3b3RwMU9qT3BB?oc=5",
-   "source": "חיפוש גוגל · מירב בן ארי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [
-    "רייטינג",
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "Opposition's first bill: Broadcasting reform repeal heads to vote, Karhi vows to fight",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15bUtzQ21neERmWEV3Q0E5S2c0eERtdjIxSjNuRDFmLVQtUVF6TnhUM0RmUC1MQVFxeW5UdklPb0FUNGtJWVVvYzZBWFRBb1Zwd3pKWU1RQ2FTZw?oc=5",
-   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Israel National News"
-  },
-  {
-   "title": "ועדת חקירה ממלכתית וחוק הנאשם: גוש איזנקוט ימשיך היום בחקיקה",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzRUU1dxVEtDRl9fdmk4di1HN09fODJtMW9wbzhSUU5XaG9yb3lidHJBY25KNTQ4aVNxa3lLX0xCSllhQWFqdlIzYXZPUEhVU1FvSjAxS0VWMkcxbVFoUVNRNUJYNTBGRWhDTl82b09BTUNFT0lGdWtPakpqWTVOUnpPenN3dmczZGxyLW1fN0pVUVZpVFFhX1o2dnQzU1VMczUtRDJvUjE?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-11-25",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
   },
   {
    "title": "רייטינג: אסף רפפורט ורשת 13 בשפל עונתי, אופירה אסייג בפסגה",
@@ -3910,54 +3210,6 @@
    "date": "2026-09-28",
    "keywords": [
     "חדשות 12"
-   ],
-   "pv": true,
-   "publisher": "ביזפורטל"
-  },
-  {
-   "title": "\"כשאפשר לקבל על אג\"ח של גוגל 7% — אולי אין סיבה לקנות את S&P 500\"",
-   "url": "https://www.themarker.com/markets/2026-09-27/ty-article/.highlight/000001a0-d357-d18d-afbf-f3d717d80000",
-   "source": "דה-מרקר · יסמין גואטה",
-   "type": "site",
-   "date": "2026-09-27",
-   "keywords": [
-    "גוגל"
-   ],
-   "pv": true
-  },
-  {
-   "title": "שלא תגידו שלא היתה התרעה: ערוץ 14 מזהיר מפני אסון אפוקליפטי",
-   "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-09-27/ty-article/.highlight/000001a0-dee6-d259-a3b4-defe54280000",
-   "source": "הארץ · עידו דוד כהן",
-   "type": "site",
-   "date": "2026-09-27",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true
-  },
-  {
-   "title": "אדווה דדון ואילה חסון תפסו את ערוץ 14 לא מוכנים | רייטינג",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mb1lkTzNTazEyR3RLdThoLWpFQ2VWRnJCcGxhUUY3VDBEa3o2bWF3ME1oTFFza19WaEZTXzF3RGhaOHdTTHExWGt2RUtFSzlnSWZ6WE9QbkJ5c1FIWm5rdTNR?oc=5",
-   "source": "ice · תקשורת",
-   "type": "site",
-   "date": "2026-09-27",
-   "keywords": [
-    "רייטינג",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "אסף רפפורט: \"מי מסרב ל-23 מיליארד דולר?\" - הלילה שבו וויז אמרה לא לגוגל, והמעטפה עם ה-30 מיליארד",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJRENrMHJTRkhYYVc2RHozeE81eGRxSWUwblJZZlQ5dzhpRWRLOGlDNDZ4QmF3Q2tRemtJS3BzbFpicEktVGlKSWhJM1BzamVpdG52WFhkWTZ2WkNZVktOVko1UWZMVU94?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-09-27",
-   "keywords": [
-    "גוגל",
-    "רפפורט"
    ],
    "pv": true,
    "publisher": "ביזפורטל"
