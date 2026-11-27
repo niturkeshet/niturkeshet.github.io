@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:45+00:00",
+ "updated": "2026-11-27T19:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -171,8 +171,9 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -910,6 +911,19 @@
    ],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "רייטינג: אסי עזר ורותם סלע מעל כולם, ינון מגל נכנע ל-\"ווארט\"",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Sc3JWeXBvVWZXeW5URzFmM1g4bTkyanV5SUFRTFRQMzBvZjQxWjZwX09XUVNoVjFEUFI2dy12ZFpRT2NfWW85enJGLUlPT1lpb3BOanB1RjN3b3RwMU9qT3BB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-11-25",
+   "keywords": [
+    "רייטינג",
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "רשות המסים דורשת ממייסדי וויז כ-8 מיליארד שקל נוספים על האקזיט לגוגל",
