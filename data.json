@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:36+00:00",
+ "updated": "2026-11-27T05:51+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -196,27 +196,26 @@
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -274,6 +273,36 @@
   }
  ],
  "items": [
+  {
+   "title": "ראשת הממשלה וממליך המלכים: מי באמת ניצחו בבחירות?",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcU5Vd0t2UGVuSFdHVjFzN1FQTDA1LVRsSTlyRGNQV2lBRmVKa1ZjNUlyVHRsQUpScGE1VzdlMGc1M2ladXZteWV3RHF0NmhiYS1URHpyUW9rRjBjTERzSmxfRVIyY3dnNVRLMUpYcmN1M055a21xcUt6Z1ZaN3pKOUZ6dDR0eEFJRlpRVHgzZGh4STN5MGJfVGpRdXZMNWNRN1VsVFp5S0lXbEZyMTh3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "\"כל חיבור עם נתניהו הוא אסון. הוא לא יהיה שני ברוטציה עם איזנקוט\"",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUdoc01lb05RZ3pwN052UU9kTVgzcGZSRGktUnBtNy15a0dlYk15NG1jbkU0czVYTDlkWkZ0Umdxa2t3c3dMZ2U2RTdHZ1ZaVUEzcTJpNS05VVpITFk4WEtOSEJuX2VnenJpaXRRMkhzUkpaNGNWU3VCMEl3SHpVem5hZHlDMEtrVjJLVm94cHZOYzVJMW9FTGxYZVZqZmJfcURv?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "חדשות 04 - רה\"מ נתניהו: לא היה כלום, כי אין כלום\" - צפו",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcEs2ZW8wVDU3Tm9GRmczOVR0MUh3T3V6cnBDZmp0Mkx3YWZud3FfT3l2NF9RSkdhMC1jcThQOFZ2ZHZfc0hvN2N3?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "טירוף: קפץ והתרסק | חוק גיוס מוסכם מתקרב בצעדי ענק • צפו",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6OVhuZUNrNURTZjhvWUpqZWhKMDhBY2NWUWsySVpnWFlQd1lTcHJ6QWdQdnJUMm5lREhyUEdoTThqTjVic3pqUnNNcVltdF9ENUlUTjR2UGc2S09iVHJqSlJsZHZRRXJ5QnBNdi1ydVhZaDZWWFNNYg?oc=5",
