@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:54+00:00",
+ "updated": "2026-11-27T10:09+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,8 +170,9 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -190,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -214,7 +215,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -238,7 +239,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · מירב בן ארי",
@@ -303,7 +304,7 @@
    "publisher": "שומרים"
   },
   {
-   "title": "פליי דובאי תחדש פעילות בישראל מ-3 בדצמבר; \"זינוק בחיפושים ליעד\" - תיירות",
+   "title": "פליי דובאי תחדש פעילות בישראל מ-3 בדצמבר; \"זינוק בחיפושים ליעד\"",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVVjVkExZmJwWEhUc3RwXzlfclJSbHhRUkhqa3B2TDZNTi1fWF90SHNnMHZhd2hJOUtHRzFhb1BNRlFINnBqdzNEQ2VfU2lPYlpJX0Q4eGxoby1HT2VMN1RIenJUa2Q0WEsyeFF2Vlg5ekNldFNoMm1ZZXJ6aVZmWDZjUFNkUWg2dTQtN1hqSHcwNzhCYktVcTVkelVRTjhGU0Ew?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
