@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:39+00:00",
+ "updated": "2026-11-27T09:54+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,9 +170,8 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -191,13 +190,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -294,7 +293,17 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "פליי דובאי תחדש פעילות בישראל מ-3 בדצמבר; \"זינוק בחיפושים ליעד\" - תיירות - TheMarker",
+   "title": "לא רק משפט נתניהו: 18 מחברי הכנסת החדשה חשודים בפלילים, 16 מהם חברים בקואליציה היוצאת",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4ZndnekpZVDlHTGZrLVNEVUNiV2lGS2dtYkRwN043c3FOLUpVSG1xZ1JEQnlXaDh3OEJLQWlWTE1EeFZuUnREeG93R29QZDFacHprRUVyYl85ZUIxdmtJZm15OA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "שומרים"
+  },
+  {
+   "title": "פליי דובאי תחדש פעילות בישראל מ-3 בדצמבר; \"זינוק בחיפושים ליעד\" - תיירות",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVVjVkExZmJwWEhUc3RwXzlfclJSbHhRUkhqa3B2TDZNTi1fWF90SHNnMHZhd2hJOUtHRzFhb1BNRlFINnBqdzNEQ2VfU2lPYlpJX0Q4eGxoby1HT2VMN1RIenJUa2Q0WEsyeFF2Vlg5ekNldFNoMm1ZZXJ6aVZmWDZjUFNkUWg2dTQtN1hqSHcwNzhCYktVcTVkelVRTjhGU0Ew?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
