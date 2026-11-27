@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:06+00:00",
+ "updated": "2026-11-27T06:22+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -169,9 +169,8 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -202,7 +201,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -283,6 +282,26 @@
    "publisher": "TheMarker"
   },
   {
+   "title": "ברקע המגעים: זה מה שאמר היום איזנקוט על \"אחדות\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFlCUDlCYzNhdHJkTS1qbVR6QlN3bXdmbHNwYVlDSDNwQkhTMmVjbHNLMEVvbFlHVWxnREQ2aExxVDJSUmk1Q0tVM3JTeWNtUWFETHpVdGVhRkF6ckU1TTdTcDQ5ai1FdGNGVW5oS0l3RlVKSG5RQjF5bnBNVDZRMl9jaFB6X3BubHNR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
+  {
+   "title": "חדשות 04 - יוסי דגן בתגובה לאיומים על חייו: \"על כל ניסיון להפחיד אותנו נשיב בעוד בנייה ובעוד יישובים\"",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Xa1JBWkZ2cWtTai0yRHNEcV84ZmhUdkhvclBpOFJFcEUtekI3SmRsUEI3VDhSRmtJZk01T2xkQjIwSXBtSGdIT0JB?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
+  {
    "title": "אני, לדוגמה, לא ציוני | 27.11.2026",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYW9LSnNvdlB1R05vOEF3eUlGcXAyR21waHBDWTFCLXg4OU1hd2ltcS1ucEtpQllUU2RSNkYxcUdtVzV5OFdSSldCbG00ZEVNT3loVGhKZHpsclprTjQ1T1ZzTHRmbUo0S2hoS2FrNE1qd1NWLTNHcGRmYlZ0Ujhfd0VQaXBvRnNuSmpqbFhtSmhHZ1ExSDhsZkVFYVVKYUFxUG5HSll3UDhiM0xUY2FZVjBya2MtYXlsYUE?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -303,7 +322,7 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "חדשות 04 - רה\"מ נתניהו: לא היה כלום, כי אין כלום\"",
+   "title": "חדשות 04",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcEs2ZW8wVDU3Tm9GRmczOVR0MUh3T3V6cnBDZmp0Mkx3YWZud3FfT3l2NF9RSkdhMC1jcThQOFZ2ZHZfc0hvN2N3?oc=5",
    "source": "חיפוש גוגל · מירב בן ארי",
    "type": "google",
