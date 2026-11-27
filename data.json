@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:23+00:00",
+ "updated": "2026-11-27T09:39+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,13 +197,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -289,6 +289,16 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
    "date": "2026-11-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "פליי דובאי תחדש פעילות בישראל מ-3 בדצמבר; \"זינוק בחיפושים ליעד\" - תיירות - TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVVjVkExZmJwWEhUc3RwXzlfclJSbHhRUkhqa3B2TDZNTi1fWF90SHNnMHZhd2hJOUtHRzFhb1BNRlFINnBqdzNEQ2VfU2lPYlpJX0Q4eGxoby1HT2VMN1RIenJUa2Q0WEsyeFF2Vlg5ekNldFNoMm1ZZXJ6aVZmWDZjUFNkUWg2dTQtN1hqSHcwNzhCYktVcTVkelVRTjhGU0Ew?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
