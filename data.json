@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:52+00:00",
+ "updated": "2026-11-27T08:08+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -232,8 +232,9 @@
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -292,6 +293,26 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "חדשות 04 - לראשונה בישראל: ניסוי משותף נערך עם ארה\"ב לבחינת כ-20 מערכות ליירוט רחפנים | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13bXROdzVtbTBIekxJZ3RTQW1jdkEyWkJ3RjUzRU9SSUZxMU5xdllKQ3VhQWUzdkRES0xZb1lsd19PR2NlRFQ5SFF3?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
+  {
+   "title": "חדשות 04 - מלזיה, סינגפור, תאילנד ואינדונזיה: אנבידיה סוגרת את הברז",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fNHBQUHhFTlNHV2tsMTgtTGFtXzY4WWhoRlpQRDNGR2pSOUwxV3Z5OWhGZUprRzEzRHJwNWJhMUVzVGUtR2JsX0dn?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
   },
   {
    "title": "חדשות 04 - טראמפ מכה ב־14 כלכלות במכסים, וול סטריט צוללת",
