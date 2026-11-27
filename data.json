@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:06+00:00",
+ "updated": "2026-11-27T05:21+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,8 +163,9 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -195,14 +196,15 @@
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -214,7 +216,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -244,7 +246,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -272,6 +274,16 @@
   }
  ],
  "items": [
+  {
+   "title": "טירוף: קפץ והתרסק | חוק גיוס מוסכם מתקרב בצעדי ענק • צפו",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6OVhuZUNrNURTZjhvWUpqZWhKMDhBY2NWUWsySVpnWFlQd1lTcHJ6QWdQdnJUMm5lREhyUEdoTThqTjVic3pqUnNNcVltdF9ENUlUTjR2UGc2S09iVHJqSlJsZHZRRXJ5QnBNdi1ydVhZaDZWWFNNYg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
   {
    "title": "Knesset advances repeal of Communications Minister Karhi's Broadcasting Law in 51-32 vote",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWGtSR201ZF9memd4d2JiMVNyYnRjYjhNN2RFS1YzZkFwSHBTQVZqMWtqc3ByYTJ4ekZjSnlkVERkNUlCdFFWSDRjTFJpVXFqT1ljUF9pdmlfSnQ2b0xBOHRodHJIbHZfRXBUQ3VRME9jTlJyWEVfbmxndw?oc=5",
