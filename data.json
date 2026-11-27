@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:08+00:00",
+ "updated": "2026-11-27T09:23+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,13 +191,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -304,7 +304,7 @@
    "publisher": "חדשות 04"
   },
   {
-   "title": "המשבר הניהולי בנגה מחריף: לממלא המקום של המנכ\"ל מונה ממלא מקום - אנרגיה ותשתיות",
+   "title": "המשבר הניהולי בנגה מחריף: לממלא המקום של המנכ\"ל מונה ממלא מקום",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUFzbmFOMGRrUzBXN1Y1b09zaF9RTlkzXzlzdlJKV2tKOFVrQ3Z3a1ZWVi00S21ONklEaFZOaExUeGRQUHRmd2xVZ0pKR0F2MDIyREw5XzdGODhtbWVJcVlxaEwyWUZ2TXB5Q3hiMENTRDgzaG95bHVvQTc1TldTUzZQU3lNMnp5S01tZFdHR2dtOFFuUnh4RXNuWUo?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
