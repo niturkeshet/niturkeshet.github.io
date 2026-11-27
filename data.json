@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:38+00:00",
+ "updated": "2026-11-27T08:53+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -170,8 +170,9 @@
   {
    "source": "דה-מרקר · נתי טוקר",
    "kind": "site",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "הארץ · עידו דוד כהן",
@@ -190,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -202,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -288,6 +289,16 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
    "date": "2026-11-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "המשבר הניהולי בנגה מחריף: לממלא המקום של המנכ\"ל מונה ממלא מקום - אנרגיה ותשתיות - TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUFzbmFOMGRrUzBXN1Y1b09zaF9RTlkzXzlzdlJKV2tKOFVrQ3Z3a1ZWVi00S21ONklEaFZOaExUeGRQUHRmd2xVZ0pKR0F2MDIyREw5XzdGODhtbWVJcVlxaEwyWUZ2TXB5Q3hiMENTRDgzaG95bHVvQTc1TldTUzZQU3lNMnp5S01tZFdHR2dtOFFuUnh4RXNuWUo?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-26",
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
