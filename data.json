@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:36+00:00",
+ "updated": "2026-11-28T05:51+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -157,8 +157,9 @@
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -209,7 +210,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -245,7 +246,7 @@
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -282,6 +283,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "מעריב"
+  },
+  {
+   "title": "חדשות 04 - לראשונה בצה\"ל: חיילים חרדים הוכשרו כמאבחני בריאות הנפש",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SUFoxQ29tcklOUGJ5SW5Bak5yak9GS25vYlotWUlSNHlxZTdXNE1qTUJUdmZWRlJlSnFBU2Z3MkxTVDVNRTZyYlZ3?oc=5",
+   "source": "חיפוש גוגל · מירב בן ארי",
+   "type": "google",
+   "date": "2026-11-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
   },
   {
    "title": "Gadi Eisenkot bloc moves to cancel Benjamin Netanyahu coalition laws before they take effect",
