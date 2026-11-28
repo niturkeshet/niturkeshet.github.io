@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:20+00:00",
+ "updated": "2026-11-28T05:36+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -177,8 +177,9 @@
   {
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
-   "ok": true,
-   "kept": 5
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -202,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -272,6 +273,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מדינה בפוסט טראומה: השבוע הבנו אף יותר עד כמה חמור המצב כאן | לילך סיגן",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54bmN5WVZXeVdPUFY5ajhUU25ISi1UUFNHbm0wRGNiaWJSN1Z2RUdMSWk0Y2xpRl9ac2JvakZqUzh2eWZfdnh4QTBKbDYwbkZ3MXVZdnBUOFhvYWg5UGZveU5aeTM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-11-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "Gadi Eisenkot bloc moves to cancel Benjamin Netanyahu coalition laws before they take effect",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmeHVsWm12SnpTUlFBTVQtSGVRanRpLXRCQjk2QW43NmJ6b2Y3dUFOSXNLSjJsa0ZaVi01VVRtVnBKMnJtSGxkc3hsMmpLY1RDbE9odnVUY3RsaWtfTHpnQTJzWmVuN29tOTVxMHlCZXpSRlZUZmpTTFdZcw?oc=5",
