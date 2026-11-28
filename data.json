@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T09:23+00:00",
+ "updated": "2026-11-28T09:38+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -163,9 +163,8 @@
   {
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
+   "ok": true,
+   "kept": 8
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -191,7 +190,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -209,7 +208,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -273,6 +272,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Major Changes Expected in Eisenkot’s Government: Lieberman, Lapid and Golan Among Key Replacements",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RcnNQX25HOU5MdHlDTUE0clo3d3M5Q1VRUEtFV2FRU2ZsbFRja2NjeG9MLTdCbUlJRHpaY212c2NLMGNpLW5uaEFvTG0xbnFl?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-11-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "شبكة يافا الإخبارية"
+  },
   {
    "title": "מדינה בפוסט טראומה: השבוע הבנו אף יותר עד כמה חמור המצב כאן | לילך סיגן",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54bmN5WVZXeVdPUFY5ajhUU25ISi1UUFNHbm0wRGNiaWJSN1Z2RUdMSWk0Y2xpRl9ac2JvakZqUzh2eWZfdnh4QTBKbDYwbkZ3MXVZdnBUOFhvYWg5UGZveU5aeTM?oc=5",
