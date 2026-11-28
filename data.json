@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T09:08+00:00",
+ "updated": "2026-11-28T09:23+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -202,9 +202,8 @@
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
