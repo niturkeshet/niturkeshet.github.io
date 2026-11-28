@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:11+00:00",
+ "updated": "2026-11-28T13:26+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,8 +227,9 @@
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -245,9 +246,8 @@
   {
    "source": "חיפוש גוגל · מירב בן ארי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -270,9 +270,8 @@
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 429"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
